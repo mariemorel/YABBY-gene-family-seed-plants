@@ -1,0 +1,45 @@
+-----------------------------------------------------------
+'statreport' 'pbil_seedplants_domain_nt-1/C1.log' 'pbil_seedplants_domain_nt-2/C1.log' 'pbil_seedplants_domain_nt-3/C1.log' 'pbil_seedplants_domain_nt-4/C1.log' '--skip=5301' > 'Results/Report'
+'trees-consensus' '--map-tree=Results/MAP.PP.tree' '--greedy-consensus=Results/greedy.PP.tree' '--report=Results/consensus' 'pbil_seedplants_domain_nt-1/C1.trees' 'pbil_seedplants_domain_nt-2/C1.trees' 'pbil_seedplants_domain_nt-3/C1.trees' 'pbil_seedplants_domain_nt-4/C1.trees' '--support-levels=Results/c-levels.plot' '--skip=5301' '--consensus=0.5:Results/c50.PP.tree,0.66:Results/c66.PP.tree,0.8:Results/c80.PP.tree,0.9:Results/c90.PP.tree,0.95:Results/c95.PP.tree,0.99:Results/c99.PP.tree,1.0:Results/c100.PP.tree'
+'tree-tool' 'Results/greedy.PP.tree' '--strip-internal-names' '--name-all-nodes' > 'Results/greedy.tree'
+'tree-tool' 'Results/MAP.PP.tree' '--strip-internal-names' '--name-all-nodes' > 'Results/MAP.tree'
+'tree-tool' 'Results/c50.PP.tree' '--strip-internal-names' '--name-all-nodes' > 'Results/c50.tree'
+'tree-tool' 'Results/c66.PP.tree' '--strip-internal-names' '--name-all-nodes' > 'Results/c66.tree'
+'tree-tool' 'Results/c80.PP.tree' '--strip-internal-names' '--name-all-nodes' > 'Results/c80.tree'
+'tree-tool' 'Results/c90.PP.tree' '--strip-internal-names' '--name-all-nodes' > 'Results/c90.tree'
+'tree-tool' 'Results/c95.PP.tree' '--strip-internal-names' '--name-all-nodes' > 'Results/c95.tree'
+'tree-tool' 'Results/c99.PP.tree' '--strip-internal-names' '--name-all-nodes' > 'Results/c99.tree'
+'tree-tool' 'Results/c100.PP.tree' '--strip-internal-names' '--name-all-nodes' > 'Results/c100.tree'
+'draw-tree' 'c50.tree' '--layout=equal-daylight'
+'draw-tree' 'c50.tree' '--layout=equal-daylight' '--output=svg'
+'draw-tree' 'c66.tree' '--layout=equal-daylight'
+'draw-tree' 'c66.tree' '--layout=equal-daylight' '--output=svg'
+'draw-tree' 'c80.tree' '--layout=equal-daylight'
+'draw-tree' 'c80.tree' '--layout=equal-daylight' '--output=svg'
+'draw-tree' 'c90.tree' '--layout=equal-daylight'
+'draw-tree' 'c90.tree' '--layout=equal-daylight' '--output=svg'
+'draw-tree' 'c95.tree' '--layout=equal-daylight'
+'draw-tree' 'c95.tree' '--layout=equal-daylight' '--output=svg'
+'draw-tree' 'c99.tree' '--layout=equal-daylight'
+'draw-tree' 'c99.tree' '--layout=equal-daylight' '--output=svg'
+'draw-tree' 'c100.tree' '--layout=equal-daylight'
+'draw-tree' 'c100.tree' '--layout=equal-daylight' '--output=svg'
+'draw-tree' 'greedy.tree' '--layout=equal-daylight'
+'draw-tree' 'greedy.tree' '--layout=equal-daylight' '--output=svg'
+'draw-tree' 'MAP.tree' '--layout=equal-daylight'
+'draw-tree' 'MAP.tree' '--layout=equal-daylight' '--output=svg'
+'pickout' '--no-header' '--large' 'pi' < 'Results/consensus' > 'Results/partitions'
+'trees-bootstrap' '--pred=Results/partitions.pred' '--LOD-table=Results/LOD-table' '--pseudocount=1' 'pbil_seedplants_domain_nt-1/C1.trees' 'pbil_seedplants_domain_nt-2/C1.trees' 'pbil_seedplants_domain_nt-3/C1.trees' 'pbil_seedplants_domain_nt-4/C1.trees' '--skip=5301' > 'Results/partitions.bs'
+'/beegfs/data/mmorel/miniconda3/envs/baliphy/bin/R' '--slave' '--vanilla' '--args' 'Results/LOD-table' 'Results/convergence-PP.pdf' < '/beegfs/data/mmorel/miniconda3/envs/baliphy/lib/bali-phy/libexec/compare-runs.R'
+'/beegfs/data/mmorel/miniconda3/envs/baliphy/bin/R' '--slave' '--vanilla' '--args' 'Results/LOD-table' 'Results/convergence1-PP.svg' 'Results/convergence2-PP.svg' < '/beegfs/data/mmorel/miniconda3/envs/baliphy/lib/bali-phy/libexec/compare-runs2.R'
+  err: Erreur dans xtfrm.data.frame(x) : 
+  impossible d’utiliser xtfrm sur un tableau de données (data frame)
+Appels : sort ... lapply -> FUN -> as.vector -> xtfrm -> xtfrm.data.frame
+Exécution arrêtée
+
+ exit: 1
+  err: Erreur dans xtfrm.data.frame(x) : 
+  impossible d’utiliser xtfrm sur un tableau de données (data frame)
+Appels : sort ... lapply -> FUN -> as.vector -> xtfrm -> xtfrm.data.frame
+Exécution arrêtée
+

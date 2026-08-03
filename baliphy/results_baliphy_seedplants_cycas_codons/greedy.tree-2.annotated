@@ -1,0 +1,173 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=71;
+	taxlabels
+	AQFM_2079843_Pseudolarix_amabilis_YABA[&!color=#ffc300]
+	AT1G08465_Arabidopsis_thaliana_YAB2[&!color=#2ba001]
+	AT2G45190_Arabidopsis_thaliana_FIL[&!color=#9f00ff]
+	ATR0827G016_Amborella_trichopoda_CRC[&!color=#ff8600]
+	ATR1091G097_Amborella_trichopoda_INO[&!color=#ff00c8]
+	Af01G026600_Aristolochia_fimbriata_YAB5[&!color=#ff0016]
+	Af05G185300_Aristolochia_fimbriata_YAB2[&!color=#2ba001]
+	Af07G024800_Aristolochia_fimbriata_CRC[&!color=#ff8600]
+	Anthoceros_agrestis_YABBY
+	Aqoxy1G00610_Aquilegia_oxysepala_YAB2[&!color=#2ba001]
+	Aqoxy3G02889_Aquilegia_oxysepala_INO[&!color=#ff00c8]
+	Aqoxy7G00718_Aquilegia_oxysepala_FIL[&!color=#9f00ff]
+	Aqoxy7G03677_Aquilegia_oxysepala_YAB5[&!color=#ff0016]
+	BUWV_2009738_Platycladus_orientalis_YABB[&!color=#00b9ff]
+	CDFR_2060093_Manoao_colensoi_YABC[&!color=#5bff00]
+	CYCAS_007102_YABA[&!color=#ffc300]
+	Cc00_g13830_Coffea_canephora_FIL[&!color=#9f00ff]
+	Cc06_g08310_Coffea_canephora_YAB5[&!color=#ff0016]
+	Cc11_g11750_Coffea_canephora_CRC[&!color=#ff8600]
+	DSXO_2008516_Cryptomeria_japonica_YABC[&!color=#5bff00]
+	DZQM_2011000_Pinus_radiata_YABB[&!color=#00b9ff]
+	ECA234G3391_Erigeron_canadensis_YAB5[&!color=#ff0016]
+	ECA246G4000_Erigeron_canadensis_INO[&!color=#ff00c8]
+	EFMS_2014223_Torreya_taxifolia_YABB[&!color=#00b9ff]
+	EFMS_2079989_Torreya_taxifolia_YABC[&!color=#5bff00]
+	EL10Ac6g13704_Beta_vulgaris_INO[&!color=#ff00c8]
+	EL10Ac6g15025_Beta_vulgaris_CRC[&!color=#ff8600]
+	ETCJ_2053114_Pilgerodendron_uviferum_YABB[&!color=#00b9ff]
+	GGEA_2065499_Cedrus_libani_YABA[&!color=#ffc300]
+	GSVIVG01015567001_Vitis_vinifera_YAB5[&!color=#ff0016]
+	GSVIVG01037533001_Vitis_vinifera_YAB2[&!color=#2ba001]
+	GTHK_2009293_Gnetum_montanum_YABC[&!color=#5bff00]
+	Gnetum_gnemon_YABD[&!color=#2300ff]
+	HOUF_2104850_Cryptomeria_japonica_YABD[&!color=#2300ff]
+	Huperzia_selago_YABBY
+	IOVS_2054392_Pseudotsuga_menziesii_YABA[&!color=#ffc300]
+	Illicium_floridanum_YAB2[&!color=#2ba001]
+	LN871570_Cycas_rumphii_YABD[&!color=#2300ff]
+	LN871571_Ephedra_distachya_YABB[&!color=#00b9ff]
+	LN871572_Ephedra_distachya_YABD[&!color=#2300ff]
+	LN871573_Ginkgo_biloba_YABD[&!color=#2300ff]
+	LN871574_Ginkgo_biloba_YABD[&!color=#2300ff]
+	LN871575_Ginkgo_biloba_YABC[&!color=#5bff00]
+	LN871579_Podocarpus_reichei_YABD[&!color=#2300ff]
+	LN871580_Taxus_globosa_YABA[&!color=#ffc300]
+	LN871582_Zamia_vazquezii_YABD[&!color=#2300ff]
+	MIXZ_2003483_Agathis_robusta_YABD[&!color=#2300ff]
+	MN709147_Aristolochia_manshuriensis_CRC[&!color=#ff8600]
+	MT557798_Picea_abies_YABB[&!color=#00b9ff]
+	NC_045141_Nymphea_thermarum_FIL[&!color=#9f00ff]
+	NPRL_2118154_Cathaya_agryrophylla_YABC[&!color=#5bff00]
+	Nyth24944_Nymphaea_thermarum_INO[&!color=#ff00c8]
+	PGSC0003DMG400002988_Solanum_tuberosum_YAB2[&!color=#2ba001]
+	PGSC0003DMG400025969_Solanum_tuberosum_FIL[&!color=#9f00ff]
+	PGSC0003DMG400030904_Solanum_tuberosum_YAB5[&!color=#ff0016]
+	'Phvul.010G079200_Phaseolus_vulgaris_FIL'[&!color=#9f00ff]
+	Phylloglossum_drummondii_YABBY
+	SEGI_22233_Sequoiadendron_giganteum_YABA[&!color=#ffc300]
+	SGTW_2038222_Ginkgo_biloba_YABA[&!color=#ffc300]
+	SRX7580805_Ephedra_sinica_YABB[&!color=#00b9ff]
+	Sphagnum_magellanicum_YABBY
+	TOXE_2059736_Welwitschia_mirabilis_YABC[&!color=#5bff00]
+	Thupl29377238s0018_Thuja_plicata_YABB[&!color=#00b9ff]
+	VDAO_2030261_Ephedra_sinica_YABD[&!color=#2300ff]
+	WLIC_2118877_Dioon_edule_YABC[&!color=#5bff00]
+	WLIC_2119747_Dioon_edule_YABA[&!color=#ffc300]
+	Welwitschia_mirabilis_YABD[&!color=#2300ff]
+	XLGK_2057439_Podocarpus_rubens_YABC[&!color=#5bff00]
+	XZUY_2001014_Cycas_micholitzii_YABC[&!color=#5bff00]
+	nymphaea_thermarum_CRC_corrected[&!color=#ff8600]
+	'ptg002967l.1_augustus_arabido_INO_g2t2'[&!color=#ff00c8]
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] (AQFM_2079843_Pseudolarix_amabilis_YABA:0.002366,((LN871580_Taxus_globosa_YABA:0.005616,SEGI_22233_Sequoiadendron_giganteum_YABA:0.00649)[&label=1.0]:0.007482,(SGTW_2038222_Ginkgo_biloba_YABA:0.005793,((CYCAS_007102_YABA:0.002058,WLIC_2119747_Dioon_edule_YABA:0.007969)[&label=1.0]:0.005205,(((LN871570_Cycas_rumphii_YABD:0.003358,LN871582_Zamia_vazquezii_YABD:0.006788)[&label=0.999989864899105]:0.004946,((LN871573_Ginkgo_biloba_YABD:0.009574,LN871574_Ginkgo_biloba_YABD:0.01127)[&label=0.999037165414982]:0.003165,(((HOUF_2104850_Cryptomeria_japonica_YABD:0.017774,(LN871579_Podocarpus_reichei_YABD:0.009006,MIXZ_2003483_Agathis_robusta_YABD:0.0083)[&label=0.688457133590765]:0.00203)[&label=0.999706082074047]:0.007523,(Welwitschia_mirabilis_YABD:0.006755,(Gnetum_gnemon_YABD:0.005933,(LN871572_Ephedra_distachya_YABD:6.44E-4,VDAO_2030261_Ephedra_sinica_YABD:0.001263)[&label=0.999361488643619]:0.016018)[&label=0.935915757041361]:0.00392)[&label=0.998692571984554]:0.015944)[&label=0.997983114921909]:0.010402,(((LN871571_Ephedra_distachya_YABB:2.32E-4,SRX7580805_Ephedra_sinica_YABB:1.71E-4)[&label=0.999118246222141]:0.024786,((EFMS_2014223_Torreya_taxifolia_YABB:0.005196,(BUWV_2009738_Platycladus_orientalis_YABB:0.002254,(ETCJ_2053114_Pilgerodendron_uviferum_YABB:0.005019,Thupl29377238s0018_Thuja_plicata_YABB:0.002008)[&label=0.651575501434117]:4.05E-4)[&label=1.0]:0.006009)[&label=0.999989864899105]:0.012493,(DZQM_2011000_Pinus_radiata_YABB:0.00468,MT557798_Picea_abies_YABB:0.002487)[&label=0.999989864899105]:0.009012)[&label=0.523934040763376]:0.003148)[&label=0.755774473734886]:0.002875,((Huperzia_selago_YABBY:0.001784,Phylloglossum_drummondii_YABBY:0.006243)[&label=1.0]:0.037328,(Anthoceros_agrestis_YABBY:0.028185,Sphagnum_magellanicum_YABBY:0.033297)[&label=0.637376225080321]:0.01116)[&label=0.754325154306911]:0.018588)[&label=0.636687038219465]:0.007536)[&label=0.519950946111669]:0.001358)[&label=0.532042121479319]:0.002036)[&label=0.639393110158412]:0.004041,(((WLIC_2118877_Dioon_edule_YABC:0.007952,XZUY_2001014_Cycas_micholitzii_YABC:0.008212)[&label=1.0]:0.00722,(LN871575_Ginkgo_biloba_YABC:0.00939,(NPRL_2118154_Cathaya_agryrophylla_YABC:0.00829,((GTHK_2009293_Gnetum_montanum_YABC:0.011361,TOXE_2059736_Welwitschia_mirabilis_YABC:0.009563)[&label=1.0]:0.022501,((DSXO_2008516_Cryptomeria_japonica_YABC:0.005808,EFMS_2079989_Torreya_taxifolia_YABC:0.003298)[&label=0.999888513890156]:0.004008,(CDFR_2060093_Manoao_colensoi_YABC:0.002722,XLGK_2057439_Podocarpus_rubens_YABC:0.00373)[&label=0.999726352275837]:0.006658)[&label=0.998003385123699]:0.005039)[&label=0.653997790548005]:0.002863)[&label=0.992540565741332]:0.00477)[&label=0.992358133925223]:0.003212)[&label=0.992520295539542]:0.004596,(((Af01G026600_Aristolochia_fimbriata_YAB5:0.012259,(Aqoxy7G03677_Aquilegia_oxysepala_YAB5:0.010515,(GSVIVG01015567001_Vitis_vinifera_YAB5:0.003522,(ECA234G3391_Erigeron_canadensis_YAB5:0.015114,(Cc06_g08310_Coffea_canephora_YAB5:0.007942,PGSC0003DMG400030904_Solanum_tuberosum_YAB5:0.009534)[&label=0.522180668308553]:0.001667)[&label=0.905520589457468]:0.002099)[&label=0.999148651524826]:0.003995)[&label=0.564332552930564]:0.002795)[&label=0.999736487376732]:0.011946,(Illicium_floridanum_YAB2:0.010602,(Af05G185300_Aristolochia_fimbriata_YAB2:0.016836,(PGSC0003DMG400002988_Solanum_tuberosum_YAB2:0.016876,(GSVIVG01037533001_Vitis_vinifera_YAB2:0.007997,(AT1G08465_Arabidopsis_thaliana_YAB2:0.014584,Aqoxy1G00610_Aquilegia_oxysepala_YAB2:0.012753)[&label=0.690200370944693]:0.003199)[&label=0.567950783950054]:0.002608)[&label=0.998388518957706]:0.003811)[&label=0.993047320786078]:0.003864)[&label=0.99934121844183]:0.008428)[&label=0.972614957381901]:0.005459,((ATR1091G097_Amborella_trichopoda_INO:0.015191,((Aqoxy3G02889_Aquilegia_oxysepala_INO:0.014087,(ECA246G4000_Erigeron_canadensis_INO:0.019363,EL10Ac6g13704_Beta_vulgaris_INO:0.017635)[&label=0.999158786625721]:0.007449)[&label=0.985233157996088]:0.005499,(Nyth24944_Nymphaea_thermarum_INO:0.015081,'ptg002967l.1_augustus_arabido_INO_g2t2':0.008486)[&label=0.8362978503451]:0.002998)[&label=0.439924189445306]:0.003096)[&label=0.978168992672322]:0.013154,(((Cc11_g11750_Coffea_canephora_CRC:0.009633,EL10Ac6g15025_Beta_vulgaris_CRC:0.013552)[&label=0.999989864899105]:0.009354,((Af07G024800_Aristolochia_fimbriata_CRC:0.006048,MN709147_Aristolochia_manshuriensis_CRC:0.00232)[&label=1.0]:0.019569,(ATR0827G016_Amborella_trichopoda_CRC:0.013448,nymphaea_thermarum_CRC_corrected:0.016341)[&label=0.765027820851957]:0.003898)[&label=0.35890419289124]:0.002055)[&label=0.999655406569572]:0.021784,(NC_045141_Nymphea_thermarum_FIL:0.013111,(Aqoxy7G00718_Aquilegia_oxysepala_FIL:0.005936,((Cc00_g13830_Coffea_canephora_FIL:0.006142,PGSC0003DMG400025969_Solanum_tuberosum_FIL:0.007563)[&label=0.99995945959642]:0.003753,(AT2G45190_Arabidopsis_thaliana_FIL:0.016811,'Phvul.010G079200_Phaseolus_vulgaris_FIL':0.007409)[&label=0.97059807230381]:0.001725)[&label=0.99358448113351]:0.004544)[&label=0.999787162881207]:0.010635)[&label=0.999412164148094]:0.010075)[&label=0.582099384799376]:0.002741)[&label=0.657514670558545]:0.005347)[&label=0.64539308988821]:0.00562)[&label=0.614329005645251]:0.002175)[&label=0.997587845987007]:0.003847)[&label=0.742568437268793]:0.001681)[&label=0.997760142702221]:0.005822)[&label=0.999422299248989]:0.007248,(GGEA_2065499_Cedrus_libani_YABA:0.001654,IOVS_2054392_Pseudotsuga_menziesii_YABA:0.004336)[&label=0.974307519231354]:0.001519);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="label";
+	set branchLabels.fontName="aakar";
+	set branchLabels.fontSize=12;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=true;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute="label";
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName="DejaVu Sans";
+	set nodeLabels.fontSize=12;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set nodeShapeExternal.colourAttribute="User selection";
+	set nodeShapeExternal.isShown=false;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=4.0;
+	set nodeShapeExternal.sizeAttribute="Fixed";
+	set nodeShapeInternal.colourAttribute="User selection";
+	set nodeShapeInternal.isShown=false;
+	set nodeShapeInternal.minSize=10.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Circle;
+	set nodeShapeInternal.size=4.0;
+	set nodeShapeInternal.sizeAttribute="Fixed";
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.minorTicks=0.5;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="DejaVu Sans";
+	set tipLabels.fontSize=12;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=false;
+	set trees.orderType="increasing";
+	set trees.rooting=true;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+

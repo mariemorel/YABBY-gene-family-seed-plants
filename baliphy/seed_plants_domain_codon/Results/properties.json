@@ -1,0 +1,23 @@
+{
+  "burnin": 5301,
+  "subsample": 1,
+  "until": null,
+  "prune": null,
+  "input_files": [
+    "seed_plants_cycas_domains_nt.fa"
+  ],
+  "alignment_file_names": [
+    [
+      "pbil_seedplants_domain_nt-1/C1.P1.fastas"
+    ],
+    [
+      "pbil_seedplants_domain_nt-2/C1.P1.fastas"
+    ],
+    [
+      "pbil_seedplants_domain_nt-3/C1.P1.fastas"
+    ],
+    [
+      "pbil_seedplants_domain_nt-4/C1.P1.fastas"
+    ]
+  ]
+}

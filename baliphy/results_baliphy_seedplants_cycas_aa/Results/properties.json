@@ -1,0 +1,23 @@
+{
+  "burnin": 21142,
+  "subsample": 1,
+  "until": null,
+  "prune": null,
+  "input_files": [
+    "subset_seed_plants.aa.fa"
+  ],
+  "alignment_file_names": [
+    [
+      "pbil_subset_seed_plants.aa-1/C1.P1.fastas"
+    ],
+    [
+      "pbil_subset_seed_plants.aa-2/C1.P1.fastas"
+    ],
+    [
+      "pbil_subset_seed_plants.aa-3/C1.P1.fastas"
+    ],
+    [
+      "pbil_subset_seed_plants.aa-4/C1.P1.fastas"
+    ]
+  ]
+}

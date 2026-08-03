@@ -1,0 +1,12 @@
+Renaming 'Results/' to 'Results.1'
+
+Creating new directory Results/ for summary files.
+Summarizing distribution of numerical parameters: done.
+Analyzing scalar variables: done.
+
+Summarizing topology distribution:  done.
+Drawing trees: c50 c66 c80 c90 c95 c99 c100 command: '/beegfs/data/mmorel/miniconda3/envs/baliphy/bin/R' '--slave' '--vanilla' '--args' 'Results/LOD-table' 'Results/convergence1-PP.svg' 'Results/convergence2-PP.svg' < '/beegfs/data/mmorel/miniconda3/envs/baliphy/lib/bali-phy/libexec/compare-runs2.R'
+ exit: 1
+greedy MAP . done.
+
+Generate mixing diagnostics for topologies ...

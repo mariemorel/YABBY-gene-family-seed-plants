@@ -1,0 +1,4216 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="364.60663mm"
+   height="266.28879mm"
+   viewBox="0 0 364.60663 266.28879"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.1 (9b9bdc1480, 2023-11-25, custom)"
+   sodipodi:docname="consensus-reconciled.trees.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.87392677"
+     inkscape:cx="758.6448"
+     inkscape:cy="469.71899"
+     inkscape:window-width="1920"
+     inkscape:window-height="1163"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="98.468994"
+       y="1267.8274"
+       width="142.0537"
+       height="66.675529"
+       id="rect4" />
+    <rect
+       x="62.835999"
+       y="1234.4517"
+       width="59.854664"
+       height="71.127419"
+       id="rect3" />
+    <rect
+       x="77.161606"
+       y="938.66022"
+       width="415.64487"
+       height="31.339434"
+       id="rect2" />
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(66.99439,-14.838881)">
+    <g
+       id="g1"
+       transform="matrix(0.96636096,0,0,0.9602429,17.956664,-0.66093913)">
+      <g
+         id="g2"
+         transform="matrix(0.85086215,0,0,0.93833005,216.96819,8.7325898)">
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-121.33924,13.577369)"
+           style="font-style:normal;font-weight:normal;font-size:10px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g140">
+          <line
+             y2="989"
+             style="fill:none"
+             x1="154.3978"
+             x2="190.62"
+             y1="989"
+             id="line1" />
+          <text
+             x="161.2296"
+             xml:space="preserve"
+             y="1002"
+             style="stroke:none"
+             id="text1">0.008</text>
+          <path
+             style="fill:none"
+             d="m 228.3025,299.4857 h -8.3798 v -16.7143"
+             id="path1" />
+          <path
+             style="fill:none"
+             d="M 240.6926,145.7143 H 204.7141 V 152.4"
+             id="path2" />
+          <path
+             style="fill:none"
+             d="m 197.2356,72.1714 h -7.1201 V 62.1429"
+             id="path3" />
+          <path
+             style="fill:none"
+             d="M 247.6265,159.0857 H 204.7141 V 152.4"
+             id="path4" />
+          <path
+             style="fill:none"
+             d="m 274.8408,252.6857 h -60.6354 v 15.0429"
+             id="path5" />
+          <path
+             style="fill:none"
+             d="m 279.9556,787.5428 h -0.9881 v 6.6858"
+             id="path6" />
+          <path
+             style="fill:none"
+             d="m 126.9784,482.0893 h -21.0547 v 92.6075"
+             id="path7" />
+          <path
+             style="fill:none"
+             d="m 212.8548,92.2286 h -55.372 v 12.9535"
+             id="path8" />
+          <path
+             style="fill:none"
+             d="m 238.79,707.3143 h -23.1734 v 11.7"
+             id="path9" />
+          <path
+             style="fill:none"
+             d="M 233.3922,78.8571 H 197.2356 V 72.1714"
+             id="path10" />
+          <path
+             style="fill:none"
+             d="M 157.4828,105.1821 H 104.2657 V 65.0679"
+             id="path11" />
+          <path
+             style="fill:none"
+             d="m 222.5005,546.8572 h -29.403 v 6.6856"
+             id="path12" />
+          <path
+             style="fill:none"
+             d="m 207.5591,767.4857 h -40.8446 v 13.3715"
+             id="path13" />
+          <path
+             style="fill:none"
+             d="m 273.345,820.9714 h -14.033 v 13.3715"
+             id="path14" />
+          <path
+             style="fill:none"
+             d="m 203.9408,118.9714 h -15.963 v 11.7"
+             id="path15" />
+          <path
+             style="fill:none"
+             d="M 0.991,618.389 H 4.3874"
+             id="path16" />
+          <path
+             style="fill:none"
+             d="m 133.097,596.1642 h -17.323 v 71.1403"
+             id="path17" />
+          <path
+             style="fill:none"
+             d="M 260.5887,907.8857 H 131.1605 v 6.6858"
+             id="path18" />
+          <path
+             style="fill:none"
+             d="m 336.7679,854.4 h -5.759 v -6.6857"
+             id="path19" />
+          <path
+             style="fill:none"
+             d="M 316.6693,312.8571 H 228.3025 V 299.4857"
+             id="path20" />
+          <path
+             style="fill:none"
+             d="m 232.2231,332.9143 h -68.0348 v 12.9536"
+             id="path21" />
+          <path
+             style="fill:none"
+             d="m 193.0975,553.5428 h -33.8337 v 15.043"
+             id="path22" />
+          <path
+             style="fill:none"
+             d="M 235.2488,25.3714 H 159.9093 V 37.9071"
+             id="path23" />
+          <path
+             style="fill:none"
+             d="m 344.0268,306.1714 h -27.3575 v 6.6857"
+             id="path24" />
+          <path
+             style="fill:none"
+             d="m 270.2085,286.1143 h -41.906 v 13.3714"
+             id="path25" />
+          <path
+             style="fill:none"
+             d="M 244.9879,941.3143 H 79.3596 v -13.3714"
+             id="path26" />
+          <path
+             style="fill:none"
+             d="M 229.0833,219.2571 H 208.6718 V 202.5428"
+             id="path27" />
+          <path
+             style="fill:none"
+             d="M 221.2553,877.8 H 187.5309 V 856.0715"
+             id="path28" />
+          <path
+             style="fill:none"
+             d="m 333.8216,841.0286 h -2.8127 v 6.6857"
+             id="path29" />
+          <path
+             style="fill:none"
+             d="M 104.0125,286.7411 H 79.3596 v 22.0942"
+             id="path30" />
+          <path
+             style="fill:none"
+             d="M 104.2657,65.0679 H 79.3596 v 243.7674"
+             id="path31" />
+          <path
+             style="fill:none"
+             d="m 190.1155,62.1429 h -12.8609 v -11.7"
+             id="path32" />
+          <path
+             style="fill:none"
+             d="m 313.9767,292.8 h -43.7682 v -6.6857"
+             id="path33" />
+          <path
+             style="fill:none"
+             d="m 140.4747,803.0035 h -6.0884 v -64.5589"
+             id="path34" />
+          <path
+             style="fill:none"
+             d="m 232.6945,506.7429 h -16.7486 v -6.6857"
+             id="path35" />
+          <path
+             style="fill:none"
+             d="m 116.7147,227.6143 h -12.7022 v 59.1268"
+             id="path36" />
+          <path
+             style="fill:none"
+             d="m 234.2275,38.7429 h -56.9729 v 11.7"
+             id="path37" />
+          <path
+             style="fill:none"
+             d="m 235.4391,185.8286 h -26.7673 v 16.7142"
+             id="path38" />
+          <path
+             style="fill:none"
+             d="m 271.0061,894.5143 h -40.6524 v -6.6857"
+             id="path39" />
+          <path
+             style="fill:none"
+             d="m 159.4812,749.9357 h -19.0065 v 53.0678"
+             id="path40" />
+          <path
+             style="fill:none"
+             d="m 270.3856,239.3143 h -33.5875 v -6.6857"
+             id="path41" />
+          <path
+             style="fill:none"
+             d="m 140.3868,673.8857 h -6.0005 v 64.5589"
+             id="path42" />
+          <path
+             style="fill:none"
+             d="M 159.9181,613.7143 H 133.878 v 10.0286"
+             id="path43" />
+          <path
+             style="fill:none"
+             d="m 162.5246,660.5143 h -22.1378 v 13.3714"
+             id="path44" />
+          <path
+             style="fill:none"
+             d="m 133.878,623.7429 h -0.781 v -27.5787"
+             id="path45" />
+          <path
+             style="fill:none"
+             d="M 278.9675,794.2286 H 166.7145 V 780.8572"
+             id="path46" />
+          <path
+             style="fill:none"
+             d="m 166.806,627.0858 h -9.4746 v 6.6856"
+             id="path47" />
+          <path
+             style="fill:none"
+             d="M 190.7464,12 H 142.5872 V 24.9536"
+             id="path48" />
+          <path
+             style="fill:none"
+             d="m 326.7443,319.5429 h -10.075 v -6.6858"
+             id="path49" />
+          <path
+             style="fill:none"
+             d="m 253.3392,747.4285 h -9.0875 v -6.6856"
+             id="path50" />
+          <path
+             style="fill:none"
+             d="m 316.2467,453.2571 h -42.8654 v -6.6857"
+             id="path51" />
+          <path
+             style="fill:none"
+             d="M 265.5958,720.6857 H 242.814 v 10.0286"
+             id="path52" />
+          <path
+             style="fill:none"
+             d="M 320.1407,386.4 H 241.132 v 6.6857"
+             id="path53" />
+          <path
+             style="fill:none"
+             d="M 154.4863,687.2571 H 140.3868 V 673.8857"
+             id="path54" />
+          <path
+             style="fill:none"
+             d="m 228.6583,774.1714 h -21.0992 v -6.6857"
+             id="path55" />
+          <path
+             style="fill:none"
+             d="M 191.5426,583.6285 H 159.2638 V 568.5858"
+             id="path56" />
+          <path
+             style="fill:none"
+             d="m 187.5309,856.0715 h -47.0562 v -53.068"
+             id="path57" />
+          <path
+             style="fill:none"
+             d="m 324.3957,439.8857 h -51.0144 v 6.6857"
+             id="path58" />
+          <path
+             style="fill:none"
+             d="m 205.1657,600.3429 h -10.7482 v -6.6858"
+             id="path59" />
+          <path
+             style="fill:none"
+             d="m 267.7685,881.1428 h -37.4148 v 6.6858"
+             id="path60" />
+          <path
+             style="fill:none"
+             d="M 331.0089,847.7143 H 259.312 v -13.3714"
+             id="path61" />
+          <path
+             style="fill:none"
+             d="m 204.7141,152.4 h -7.5625 v -10.0286"
+             id="path62" />
+          <path
+             style="fill:none"
+             d="m 220.4282,359.6571 h -38.2204 v 11.7"
+             id="path63" />
+          <path
+             style="fill:none"
+             d="M 196.5452,520.1143 H 159.6237 V 526.8"
+             id="path64" />
+          <path
+             style="fill:none"
+             d="m 246.1989,205.8857 h -17.1156 v 13.3714"
+             id="path65" />
+          <path
+             style="fill:none"
+             d="M 301.4979,867.7714 H 221.2553 V 877.8"
+             id="path66" />
+          <path
+             style="fill:none"
+             d="m 203.7082,473.3143 h -17.9815 v 13.3714"
+             id="path67" />
+          <path
+             style="fill:none"
+             d="M 300.2714,814.2857 H 273.345 v 6.6857"
+             id="path68" />
+          <path
+             style="fill:none"
+             d="m 259.312,834.3429 h -71.7811 v 21.7286"
+             id="path69" />
+          <path
+             style="fill:none"
+             d="m 197.5471,680.5715 h -43.0608 v 6.6856"
+             id="path70" />
+          <path
+             style="fill:none"
+             d="M 171.2134,436.5429 H 162.6 v 25.0714"
+             id="path71" />
+          <path
+             style="fill:none"
+             d="M 164.1883,345.8679 H 104.0125 V 286.7411"
+             id="path72" />
+          <path
+             style="fill:none"
+             d="M 303.5398,827.6571 H 273.345 v -6.6857"
+             id="path73" />
+          <path
+             style="fill:none"
+             d="M 157.3314,633.7714 H 133.878 v -10.0285"
+             id="path74" />
+          <path
+             style="fill:none"
+             d="m 263.0993,65.4857 h -65.8637 v 6.6857"
+             id="path75" />
+          <path
+             style="fill:none"
+             d="m 219.9227,282.7714 h -5.7173 v -15.0428"
+             id="path76" />
+          <path
+             style="fill:none"
+             d="m 246.6566,346.2857 h -67.9243 v 12.5357"
+             id="path77" />
+          <path
+             style="fill:none"
+             d="M 162.6,461.6143 H 141.3992 V 437.3786"
+             id="path78" />
+          <path
+             style="fill:none"
+             d="M 177.2546,50.4429 H 159.9093 V 37.9071"
+             id="path79" />
+          <path
+             style="fill:none"
+             d="M 159.2638,568.5858 H 133.097 v 27.5784"
+             id="path80" />
+          <path
+             style="fill:none"
+             d="m 161.649,187.5 h -44.9343 v 40.1143"
+             id="path81" />
+          <path
+             style="fill:none"
+             d="m 205.2377,693.9429 h -50.7514 v -6.6858"
+             id="path82" />
+          <path
+             style="fill:none"
+             d="m 274.0107,199.2 h -27.8118 v 6.6857"
+             id="path83" />
+          <path
+             style="fill:none"
+             d="M 208.6718,202.5428 H 161.649 V 187.5"
+             id="path84" />
+          <path
+             style="fill:none"
+             d="M 241.132,393.0857 H 207.5143 V 383.0572"
+             id="path85" />
+          <path
+             style="fill:none"
+             d="m 230.3537,887.8286 h -9.0984 V 877.8"
+             id="path86" />
+          <path
+             style="fill:none"
+             d="M 105.9237,574.6968 H 79.3596 V 308.8353"
+             id="path87" />
+          <path
+             style="fill:none"
+             d="m 242.814,730.7143 h -27.1974 v -11.7"
+             id="path88" />
+          <path
+             style="fill:none"
+             d="m 270.8497,373.0286 h -63.3354 v 10.0286"
+             id="path89" />
+          <path
+             style="fill:none"
+             d="M 266.3759,52.1143 H 190.1155 V 62.1429"
+             id="path90" />
+          <path
+             style="fill:none"
+             d="m 210.9952,573.6 h -19.4526 v 10.0285"
+             id="path91" />
+          <path
+             style="fill:none"
+             d="m 330.6524,279.4286 h -60.4439 v 6.6857"
+             id="path92" />
+          <path
+             style="fill:none"
+             d="M 214.2054,267.7286 H 116.7147 V 227.6143"
+             id="path93" />
+          <path
+             style="fill:none"
+             d="m 182.2078,371.3571 h -3.4755 v -12.5357"
+             id="path94" />
+          <path
+             style="fill:none"
+             d="M 185.7267,486.6857 H 162.6 v -25.0714"
+             id="path95" />
+          <path
+             style="fill:none"
+             d="m 279.7815,800.9142 h -0.814 v -6.6856"
+             id="path96" />
+          <path
+             style="fill:none"
+             d="m 197.1516,142.3714 h -9.1738 v -11.7"
+             id="path97" />
+          <path
+             style="fill:none"
+             d="m 293.6778,266.0572 h -73.7551 v 16.7142"
+             id="path98" />
+          <path
+             style="fill:none"
+             d="m 215.6166,719.0143 h -56.1354 v 30.9214"
+             id="path99" />
+          <path
+             style="fill:none"
+             d="m 236.7981,232.6286 h -7.7148 v -13.3715"
+             id="path100" />
+          <path
+             style="fill:none"
+             d="m 328.418,399.7714 h -87.286 v -6.6857"
+             id="path101" />
+          <path
+             style="fill:none"
+             d="m 183.2551,413.1429 h -41.8559 v 24.2357"
+             id="path102" />
+          <path
+             style="fill:none"
+             d="M 195.5222,533.4857 H 159.6237 V 526.8"
+             id="path103" />
+          <path
+             style="fill:none"
+             d="m 141.3992,437.3786 h -14.4208 v 44.7107"
+             id="path104" />
+          <path
+             style="fill:none"
+             d="M 142.5872,24.9536 H 104.2657 V 65.0679"
+             id="path105" />
+          <path
+             style="fill:none"
+             d="m 272.976,948 h -27.9881 v -6.6857"
+             id="path106" />
+          <path
+             style="fill:none"
+             d="m 194.4175,593.6571 h -2.8749 v -10.0286"
+             id="path107" />
+          <path
+             style="fill:none"
+             d="M 244.2517,740.7429 H 242.814 V 730.7143"
+             id="path108" />
+          <path
+             style="fill:none"
+             d="m 265.0229,132.3429 h -67.8713 v 10.0285"
+             id="path109" />
+          <path
+             style="fill:none"
+             d="m 254.4014,734.0571 h -10.1497 v 6.6858"
+             id="path110" />
+          <path
+             style="fill:none"
+             d="m 312.6496,225.9429 h -75.8515 v 6.6857"
+             id="path111" />
+          <path
+             style="fill:none"
+             d="M 134.3863,738.4446 H 115.774 v -71.1401"
+             id="path112" />
+          <path
+             style="fill:none"
+             d="M 281.7737,921.2571 H 131.1605 v -6.6856"
+             id="path113" />
+          <path
+             style="fill:none"
+             d="m 228.1749,493.3715 h -12.229 v 6.6857"
+             id="path114" />
+          <path
+             style="fill:none"
+             d="m 217.7457,105.6 h -47.505 v 12.5357"
+             id="path115" />
+          <path
+             style="fill:none"
+             d="M 131.1605,914.5715 H 79.3596 v 13.3714"
+             id="path116" />
+          <path
+             style="fill:none"
+             d="M 159.6237,526.8 H 126.9784 V 482.0893"
+             id="path117" />
+          <path
+             style="fill:none"
+             d="m 115.774,667.3045 h -9.8503 v -92.6077"
+             id="path118" />
+          <path
+             style="fill:none"
+             d="m 192.9732,667.2 h -30.4486 v -6.6857"
+             id="path119" />
+          <path
+             style="fill:none"
+             d="M 273.3813,446.5714 H 171.2134 v -10.0285"
+             id="path120" />
+          <path
+             style="fill:none"
+             d="M 79.3596,308.8353 H 4.3874 v 309.5538"
+             id="path121" />
+          <path
+             style="fill:none"
+             d="m 201.8863,586.9714 h -7.4688 v 6.6857"
+             id="path122" />
+          <path
+             style="fill:none"
+             d="m 229.9322,466.6286 h -26.224 v 6.6857"
+             id="path123" />
+          <path
+             style="fill:none"
+             d="M 187.9778,130.6714 H 170.2407 V 118.1357"
+             id="path124" />
+          <path
+             style="fill:none"
+             d="M 215.9459,500.0572 H 185.7267 V 486.6857"
+             id="path125" />
+          <path
+             style="fill:none"
+             d="m 218.3785,480 h -14.6703 v -6.6857"
+             id="path126" />
+          <path
+             style="fill:none"
+             d="m 177.7676,653.8286 h -15.243 v 6.6857"
+             id="path127" />
+          <path
+             style="fill:none"
+             d="m 218.8561,760.8 h -11.297 v 6.6857"
+             id="path128" />
+          <path
+             style="fill:none"
+             d="M 221.2074,172.4572 H 161.649 V 187.5"
+             id="path129" />
+          <path
+             style="fill:none"
+             d="m 178.7323,358.8214 h -14.544 v -12.9535"
+             id="path130" />
+          <path
+             style="fill:none"
+             d="M 79.3596,927.9429 H 4.3874 V 618.3891"
+             id="path131" />
+          <path
+             style="fill:none"
+             d="M 170.2407,118.1357 H 157.4828 V 105.1821"
+             id="path132" />
+          <path
+             style="fill:none"
+             d="m 192.9443,640.4572 h -35.6129 v -6.6858"
+             id="path133" />
+          <path
+             style="fill:none"
+             d="m 280.335,212.5714 h -34.1361 v -6.6857"
+             id="path134" />
+          <path
+             style="fill:none"
+             d="m 166.7145,780.8572 h -7.2333 v -30.9215"
+             id="path135" />
+          <path
+             style="fill:none"
+             d="m 253.1186,934.6285 h -8.1307 v 6.6858"
+             id="path136" />
+          <path
+             style="fill:none"
+             d="m 208.5419,426.5143 h -37.3285 v 10.0286"
+             id="path137" />
+          <path
+             style="fill:none"
+             d="M 207.5143,383.0572 H 182.2078 V 371.3571"
+             id="path138" />
+          <path
+             style="fill:none"
+             d="M 159.9093,37.9071 H 142.5872 V 24.9536"
+             id="path139" />
+          <path
+             style="fill:none"
+             d="m 218.3279,560.2286 h -25.2304 v -6.6858"
+             id="path140" />
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-55.010157,50.146569)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#ff2a00;fill-opacity:1;stroke:#ff2a00;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g141">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text140">Coffea canephora-Cc06 g08310 Coffea canephora YAB5</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-64.390932,195.19872)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#00bfff;fill-opacity:1;stroke:#00bfff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g142">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text141">Ginkgo biloba-LN871574 Ginkgo biloba YABD</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-53.175562,53.684418)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#ff2a00;fill-opacity:1;stroke:#ff2a00;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g143">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text142">Solanum tuberosum-PGSC0003DMG400030904 Solanum tuberosum YAB5</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-46.194743,64.297993)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#9c3afe;fill-opacity:1;stroke:#9c3afe;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g144">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text143">Coffea canephora-Cc00 g13830 Coffea canephora FIL</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-45.975112,78.449418)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#ff7900;fill-opacity:1;stroke:#ff7900;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g145">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text144">Amborella-ATR0827G016 Amborella trichopoda CRC</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-44.621822,219.96372)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#00bfff;fill-opacity:1;stroke:#00bfff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g146">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text145">Ephedra distachya-LN871571 Ephedra distachya YABB</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-47.031091,110.29015)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#ff00bd;fill-opacity:1;stroke:#ff00bd;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g147">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text146">Aquilegia oxysepala-Aqoxy3G02889 Aquilegia oxysepala INO</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-62.375575,35.995144)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#ff2a00;fill-opacity:1;stroke:#ff2a00;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g148">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text147">Aristolochia fimbriata-Af01G026600 Aristolochia fimbriata YAB5</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-55.513527,198.73657)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#00bfff;fill-opacity:1;stroke:#00bfff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g149">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text148">Torreya taxifolia-EFMS 2014223 Torreya taxifolia YABB</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-48.214784,25.381569)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#017f1d;fill-opacity:1;stroke:#017f1d;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g150">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text149">Solanum tuberosum-PGSC0003DMG400002988 Solanum tuberosum YAB2</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-62.867594,163.358)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#ffc400;fill-opacity:1;stroke:#ffc400;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g151">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text150">Pseudotsuga menziesii-IOVS 2054392 Pseudotsuga menziesii YABA</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-56.941721,32.457268)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#017f1d;fill-opacity:1;stroke:#017f1d;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g152">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text151">Vitis vinifera-GSVIVG01037533001 Vitis vinifera YAB2</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-59.823483,156.28227)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#ffc400;fill-opacity:1;stroke:#ffc400;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g153">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text152">Sequoiadendron giganteum-SEGI 22233 Sequoiadendron giganteum YABA</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-64.73407,43.070843)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#ff2a00;fill-opacity:1;stroke:#ff2a00;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g154">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text153">Vitis vinifera-GSVIVG01015567001 Vitis vinifera YAB5</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-31.208293,85.525143)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#ff7900;fill-opacity:1;stroke:#ff7900;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g155">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text154">Beta vulgaris-EL10Ac6g15025 Beta vulgaris CRC</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-49.74598,251.80442)"
+           id="g156">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text155">Anthoceros agrestis-Anthoceros agrestis YABBY</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-29.590234,237.653)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g157">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text156">Ephedra sinica-VDAO 2030261 Ephedra sinica YABD</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-57.251045,99.676565)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#ff00bd;fill-opacity:1;stroke:#ff00bd;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g158">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text157">Amborella-ATR1091G097 Amborella trichopoda INO</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-56.450496,18.305844)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#017f1d;fill-opacity:1;stroke:#017f1d;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g159">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text158">Aristolochia fimbriata-Af05G185300 Aristolochia fimbriata YAB2</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-27.669624,92.600843)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#ff7900;fill-opacity:1;stroke:#ff7900;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g160">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text159">Aristolochia fimbriata-Af07G024800 Aristolochia fimbriata CRC</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-44.667885,223.50157)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#00bfff;fill-opacity:1;stroke:#00bfff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g161">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text160">Ephedra sinica-SRX7580805 Ephedra sinica YABB</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-40.991156,81.987267)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#ff7900;fill-opacity:1;stroke:#ff7900;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g162">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text161">Nymphaea thermarum-nymphaea thermarum CRC corrected</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-30.369776,234.11515)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g163">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text162">Ephedra distachya-LN871572 Ephedra distachya YABD</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-35.620406,89.062993)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#ff7900;fill-opacity:1;stroke:#ff7900;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g164">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text163">Coffea canephora-Cc11 g11750 Coffea canephora CRC</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-31.799478,117.36585)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#ff00bd;fill-opacity:1;stroke:#ff00bd;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g165">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text164">Erigeron canadensis-ECA246G4000 Erigeron canadensis INO</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-70.207162,120.90372)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#01dd16;fill-opacity:1;stroke:#01dd16;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g166">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text165">Ginkgo biloba-LN871575 Ginkgo biloba YABC</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-57.126321,145.66872)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#01dd16;fill-opacity:1;stroke:#01dd16;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g167">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text166">Podocarpus rubens-XLGK 2057439 Podocarpus rubens YABC</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-66.961492,152.74442)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#01dd16;fill-opacity:1;stroke:#01dd16;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g168">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text167">Dioon edule-WLIC 2118877 Dioon edule YABC</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-56.720714,21.84372)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#017f1d;fill-opacity:1;stroke:#017f1d;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g169">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text168">Aquilegia oxysepala-Aqoxy1G00610 Aquilegia oxysepala YAB2</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-56.400145,60.760144)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#9c3afe;fill-opacity:1;stroke:#9c3afe;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g170">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text169">Aquilegia oxysepala-Aqoxy7G00718 Aquilegia oxysepala FIL</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-46.98971,248.26657)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g171">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text170">Podocarpus reichei-LN871579 Podocarpus reichei YABD</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-47.153884,74.911568)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#9c3afe;fill-opacity:1;stroke:#9c3afe;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g172">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text171">Phaseolus vulgaris-Phvul</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-46.468481,262.418)"
+           id="g173">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text172">Phylloglossum drummondii-Phylloglossum drummondii YABBY</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-76.381743,173.97157)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#ffc400;fill-opacity:1;stroke:#ffc400;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g174">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text173">Ginkgo biloba-SGTW 2038222 Ginkgo biloba YABA</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-48.572765,46.608719)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#ff2a00;fill-opacity:1;stroke:#ff2a00;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g175">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text174">Erigeron canadensis-ECA234G3391 Erigeron canadensis YAB5</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-51.383037,205.81227)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#00bfff;fill-opacity:1;stroke:#00bfff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g176">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text175">Platycladus orientalis-BUWV 2009738 Platycladus orientalis YABB</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-35.971534,71.373719)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#9c3afe;fill-opacity:1;stroke:#9c3afe;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g177">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text176">Arabidopsis thaliana-AT2G45190 Arabidopsis thaliana FIL</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-44.140783,255.34227)"
+           id="g178">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text177">Sphagnum magellanicum-Sphagnum magellanicum YABBY</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-74.559319,177.50942)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#ffc400;fill-opacity:1;stroke:#ffc400;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g179">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text178">Cycas micholitzii-CYCAS 007102 YABA</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-68.225089,14.767994)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#017f1d;fill-opacity:1;stroke:#017f1d;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g180">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text179">Illicium floridanum-Illicium floridanum YAB2</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-58.322132,142.13085)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#01dd16;fill-opacity:1;stroke:#01dd16;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g181">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text180">Manoao colensoi-CDFR 2060093 Manoao colensoi YABC</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-61.081524,39.532994)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#ff2a00;fill-opacity:1;stroke:#ff2a00;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g182">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text181">Aquilegia oxysepala-Aqoxy7G03677 Aquilegia oxysepala YAB5</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-32.242311,96.138719)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#ff7900;fill-opacity:1;stroke:#ff7900;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g183">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text182">Aristolochia manshuriensis-MN709147 Aristolochia manshuriensis CRC</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-51.664077,209.35015)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#00bfff;fill-opacity:1;stroke:#00bfff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g184">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text183">Thuja plicata-Thupl29377238s0018 Thuja plicata YABB</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-35.019801,131.51727)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#01dd16;fill-opacity:1;stroke:#01dd16;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g185">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text184">Welwitschia mirabilis-TOXE 2059736 Welwitschia mirabilis YABC</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-48.421185,202.27442)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#00bfff;fill-opacity:1;stroke:#00bfff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g186">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text185">Pilgerodendron uviferum-ETCJ 2053114 Pilgerodendron uviferum YABB</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-33.989514,113.828)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#ff00bd;fill-opacity:1;stroke:#ff00bd;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g187">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text186">Beta vulgaris-EL10Ac6g13704 Beta vulgaris INO</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-58.194232,216.42585)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#00bfff;fill-opacity:1;stroke:#00bfff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g188">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text187">Pinus radiata-DZQM 2011000 Pinus radiata YABB</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-67.635915,188.123)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#00bfff;fill-opacity:1;stroke:#00bfff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g189">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text188">Zamia vazquezii-LN871582 Zamia vazquezii YABD</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-65.277657,166.89585)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#ffc400;fill-opacity:1;stroke:#ffc400;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g190">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text189">Cedrus libani-GGEA 2065499 Cedrus libani YABA</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-32.863712,127.97942)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#01dd16;fill-opacity:1;stroke:#01dd16;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g191">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text190">Gnetum montanum-GTHK 2009293 Gnetum montanum YABC</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-57.857179,135.05515)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#01dd16;fill-opacity:1;stroke:#01dd16;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g192">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text191">Cryptomeria japonica-DSXO 2008516 Cryptomeria japonica YABC</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-64.409982,170.43372)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#ffc400;fill-opacity:1;stroke:#ffc400;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g193">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text192">Pseudolarix amabilis-AQFM 2079843 Pseudolarix amabilis YABA</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-47.846325,244.72872)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g194">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text193">Agathis robusta-MIXZ 2003483 Agathis robusta YABD</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-60.914096,138.593)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#01dd16;fill-opacity:1;stroke:#01dd16;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g195">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text194">Torreya taxifolia-EFMS 2079989 Torreya taxifolia YABC</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-60.371779,106.75227)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#ff00bd;fill-opacity:1;stroke:#ff00bd;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g196">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text195">Arabidopsis thaliana-ptg002967l</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-66.690823,149.20657)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#01dd16;fill-opacity:1;stroke:#01dd16;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g197">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text196">Cycas micholitzii-XZUY 2001014 Cycas micholitzii YABC</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-38.922088,241.19085)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g198">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text197">Cryptomeria japonica-HOUF 2104850 Cryptomeria japonica YABD</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-71.659063,184.58515)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#00bfff;fill-opacity:1;stroke:#00bfff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g199">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text198">Cycas rumphii-LN871570 Cycas rumphii YABD</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-60.787731,212.888)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#00bfff;fill-opacity:1;stroke:#00bfff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g200">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text199">Picea abies-MT557798 Picea abies YABB</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-60.165616,57.222268)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#9c3afe;fill-opacity:1;stroke:#9c3afe;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g201">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text200">Nymphaea thermarum-NC 045141 Nymphea thermarum FIL</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-39.2466,227.03942)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g202">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text201">Gnetum gnemon-Gnetum gnemon YABD</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-66.425737,191.66085)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#00bfff;fill-opacity:1;stroke:#00bfff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g203">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text202">Ginkgo biloba-LN871573 Ginkgo biloba YABD</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-67.643561,181.04727)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#ffc400;fill-opacity:1;stroke:#ffc400;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g204">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text203">Dioon edule-WLIC 2119747 Dioon edule YABA</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-44.521439,67.835843)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#9c3afe;fill-opacity:1;stroke:#9c3afe;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g205">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text204">Solanum tuberosum-PGSC0003DMG400025969 Solanum tuberosum FIL</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-38.381835,230.57727)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g206">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text205">Welwitschia mirabilis-Welwitschia mirabilis YABD</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-51.722444,258.88015)"
+           id="g207">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text206">Huperzia selago-Huperzia selago YABBY</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-63.516696,124.44157)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#01dd16;fill-opacity:1;stroke:#01dd16;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g208">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text207">Cathaya agryrophylla-NPRL 2118154 Cathaya agryrophylla YABC</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-49.081718,28.919419)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#017f1d;fill-opacity:1;stroke:#017f1d;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g209">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text208">Arabidopsis thaliana-AT1G08465 Arabidopsis thaliana YAB2</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-60.927484,159.82015)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#ffc400;fill-opacity:1;stroke:#ffc400;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g210">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text209">Taxus globosa-LN871580 Taxus globosa YABA</text>
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-53.432182,103.21442)"
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'DejaVu Sans';color-interpolation:auto;fill:#ff00bd;fill-opacity:1;stroke:#ff00bd;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           id="g211">
+          <text
+             x="0"
+             xml:space="preserve"
+             y="12"
+             style="stroke:none"
+             id="text210">Nymphaea thermarum-Nyth24944 Nymphaea thermarum INO</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-62.042782,90.831918)"
+           id="g212">
+          <text
+             x="-2.9296999"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text211">1</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-70.095931,30.688343)"
+           id="g213">
+          <text
+             x="-2.9296999"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text212">1</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-90.52822,139.14579)"
+           id="g214">
+          <text
+             x="-2.9296999"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text213">1</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-86.712082,39.422424)"
+           id="g215">
+          <text
+             x="-2.9296999"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text214">1</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-71.825962,214.65692)"
+           id="g216">
+          <text
+             x="-2.9296999"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text215">1</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-50.873158,228.80835)"
+           id="g217">
+          <text
+             x="-2.9296999"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text216">1</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-88.415681,169.32813)"
+           id="g218">
+          <text
+             x="-2.9296999"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text217">1</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-49.244013,94.369767)"
+           id="g219">
+          <text
+             x="-2.9296999"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text218">1</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-74.724763,158.05122)"
+           id="g220">
+          <text
+             x="-2.9296999"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text219">1</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-55.39039,87.294068)"
+           id="g221">
+          <text
+             x="-2.9296999"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text220">1</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-78.430782,260.64907)"
+           id="g222">
+          <text
+             x="-2.9296999"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text221">1</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-63.427875,69.604768)"
+           id="g223">
+          <text
+             x="-2.9296999"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text222">1</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-67.260233,243.84425)"
+           id="g224">
+          <text
+             x="-2.9296999"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text223">1</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-97.080626,87.459909)"
+           id="g225">
+          <text
+             x="-7.5117002"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text224">0,7</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-97.047156,28.808876)"
+           id="g226">
+          <text
+             x="-2.9296999"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text225">1</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-72.739251,28.034969)"
+           id="g227">
+          <text
+             x="-2.9296999"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text226">1</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-84.97742,224.05434)"
+           id="g228">
+          <text
+             x="-10.4414"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text227">0,82</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-92.138871,71.815943)"
+           id="g229">
+          <text
+             x="-10.4414"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text228">0,61</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-81.657561,210.01348)"
+           id="g230">
+          <text
+             x="-2.9296999"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text229">1</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-84.989036,189.89192)"
+           id="g231">
+          <text
+             x="-10.4414"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text230">0,97</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-81.266586,186.35407)"
+           id="g232">
+          <text
+             x="-2.9296999"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text231">1</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-86.020672,176.62497)"
+           id="g233">
+          <text
+             x="-10.4414"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text232">0,86</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-62.379226,221.73265)"
+           id="g234">
+          <text
+             x="-2.9296999"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text233">1</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-82.329973,193.42977)"
+           id="g235">
+          <text
+             x="-2.9296999"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text234">1</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-74.930477,166.01137)"
+           id="g236">
+          <text
+             x="-2.9296999"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text235">1</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-77.946833,238.09522)"
+           id="g237">
+          <text
+             x="-2.9296999"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text236">1</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-43.244718,235.88407)"
+           id="g238">
+          <text
+             x="-2.9296999"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text237">1</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-68.17577,51.915493)"
+           id="g239">
+          <text
+             x="-2.9296999"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text238">1</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-58.463366,66.066918)"
+           id="g240">
+          <text
+             x="-2.9296999"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text239">1</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-69.820235,136.82407)"
+           id="g241">
+          <text
+             x="-2.9296999"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text240">1</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-62.225635,232.34622)"
+           id="g242">
+          <text
+             x="-2.9296999"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text241">1</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-77.178509,127.09497)"
+           id="g243">
+          <text
+             x="-2.9296999"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text242">1</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-85.858509,103.10388)"
+           id="g244">
+          <text
+             x="-2.9296999"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text243">1</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-82.814663,179.27835)"
+           id="g245">
+          <text
+             x="-2.9296999"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text244">1</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-63.907724,86.409593)"
+           id="g246">
+          <text
+             x="-10.4414"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text245">0,99</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-81.122679,133.72845)"
+           id="g247">
+          <text
+             x="-2.9296999"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text246">1</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-76.735279,24.939344)"
+           id="g248">
+          <text
+             x="-2.9296999"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text247">1</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-82.662343,162.0313)"
+           id="g249">
+          <text
+             x="-2.9296999"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text248">1</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-84.514029,61.202368)"
+           id="g250">
+          <text
+             x="-2.9296999"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text249">1</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-72.348885,65.182469)"
+           id="g251">
+          <text
+             x="-2.9296999"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text250">1</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-61.98706,115.59692)"
+           id="g252">
+          <text
+             x="-2.9296999"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text251">1</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-61.595133,246.49765)"
+           id="g253">
+          <text
+             x="-2.9296999"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text252">1</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-96.82779,163.64822)"
+           id="g254">
+          <text
+             x="-10.4414"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text253">0,99</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-60.692692,204.92782)"
+           id="g255">
+          <text
+             x="-2.9296999"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text254">1</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-77.561282,82.429519)"
+           id="g256">
+          <text
+             x="-2.9296999"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text255">1</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-73.589886,109.8479)"
+           id="g257">
+          <text
+             x="-10.4414"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text256">0,79</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-75.258507,140.36192)"
+           id="g258">
+          <text
+             x="-2.9296999"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text257">1</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-70.38983,49.262093)"
+           id="g259">
+          <text
+             x="-2.9296999"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text258">1</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-71.716927,201.8322)"
+           id="g260">
+          <text
+             x="-2.9296999"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text259">1</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-59.707014,73.142644)"
+           id="g261">
+          <text
+             x="-2.9296999"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text260">1</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-85.83512,127.31609)"
+           id="g262">
+          <text
+             x="-2.9296999"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text261">1</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-88.682672,18.195301)"
+           id="g263">
+          <text
+             x="-2.9296999"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text262">1</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-70.279922,168.66477)"
+           id="g264">
+          <text
+             x="-10.4414"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text263">0,99</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-56.904521,207.58122)"
+           id="g265">
+          <text
+             x="-2.9296999"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text264">1</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-88.24513,206.97313)"
+           id="g266">
+          <text
+             x="-10.4414"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text265">0,99</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-93.489172,253.57335)"
+           id="g267">
+          <text
+             x="-2.9296999"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text266">1</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-83.424157,150.9755)"
+           id="g268">
+          <text
+             x="-2.9296999"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text267">1</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-92.010495,188.15065)"
+           id="g269">
+          <text
+             x="-10.4414"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text268">0,96</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-62.523053,129.74835)"
+           id="g270">
+          <text
+             x="-2.9296999"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text269">1</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-110.26021,93.305666)"
+           id="g271">
+          <text
+             x="-2.9296999"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text270">1</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-73.949905,46.166468)"
+           id="g272">
+          <text
+             x="-2.9296999"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text271">1</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-68.201303,143.8998)"
+           id="g273">
+          <text
+             x="-2.9296999"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text272">1</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-75.973703,106.53116)"
+           id="g274">
+          <text
+             x="-10.4414"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text273">0,99</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-110.26021,257.1112)"
+           id="g275">
+          <text
+             x="-2.9296999"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text274">1</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-77.984139,42.849731)"
+           id="g276">
+          <text
+             x="-2.9296999"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text275">1</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-78.186254,218.1948)"
+           id="g277">
+          <text
+             x="-2.9296999"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text276">1</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-69.782267,112.94355)"
+           id="g278">
+          <text
+             x="-2.9296999"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text277">1</text>
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:12px;font-family:aakar;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:optimizeLegibility"
+           transform="matrix(0.26458333,0,0,0.26458333,-81.321487,21.622581)"
+           id="g279">
+          <text
+             x="-2.9296999"
+             xml:space="preserve"
+             y="0.2344"
+             style="stroke:none"
+             id="text278">1</text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g264-9"
+       style="font-style:normal;font-weight:normal;font-size:12px;font-family:Dialog;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
+       transform="matrix(0.23314195,0,0,0.23679598,-60.267143,19.116664)">
+      <g
+         transform="translate(6,6)"
+         style="font-size:10px;font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g132">
+        <line
+           y2="989"
+           style="fill:none"
+           x1="188.00771"
+           x2="233.0038"
+           y1="989"
+           id="line1-0" />
+        <text
+           x="199.22639"
+           xml:space="preserve"
+           y="1002"
+           style="stroke:none"
+           id="text1-3">0.007</text>
+        <path
+           style="fill:none"
+           d="m 246.4155,506.7429 h -32.2557 v 6.6856"
+           id="path1-3" />
+        <path
+           style="fill:none"
+           d="M 65.2742,541.7209 H 5.1434 v 193.111"
+           id="path2-3" />
+        <path
+           style="fill:none"
+           d="M 354.7789,921.2571 H 139.4084 v -6.6856"
+           id="path3-7" />
+        <path
+           style="fill:none"
+           d="M 307.2823,52.1143 H 216.821 v 10.0286"
+           id="path4-3" />
+        <path
+           style="fill:none"
+           d="m 350.7614,239.3143 h -48.5379 v -6.6857"
+           id="path5-2" />
+        <path
+           style="fill:none"
+           d="m 222.3491,667.2 h -68.0405 v 12.9536"
+           id="path6-6" />
+        <path
+           style="fill:none"
+           d="m 138.0007,827.6571 h -37.2246 v 17.5501"
+           id="path7-5" />
+        <path
+           style="fill:none"
+           d="M 181.5055,35.4 H 99.4584 v 60.5893"
+           id="path8-2" />
+        <path
+           style="fill:none"
+           d="m 227.0672,520.1143 h -12.9074 v -6.6858"
+           id="path9-6" />
+        <path
+           style="fill:none"
+           d="M 315.6773,152.4 H 255.3826 V 125.6571"
+           id="path10-5" />
+        <path
+           style="fill:none"
+           d="M 260.3578,332.9143 H 223.0561 V 339.6"
+           id="path11-8" />
+        <path
+           style="fill:none"
+           d="M 100.1719,640.0392 H 65.2742 v -98.3183"
+           id="path12-7" />
+        <path
+           style="fill:none"
+           d="M 192.9216,459.9428 H 179.5835 V 449.9143"
+           id="path13-9" />
+        <path
+           style="fill:none"
+           d="M 141.2726,259.3714 H 94.8431 v 20.0572"
+           id="path14-6" />
+        <path
+           style="fill:none"
+           d="m 312.1997,693.9429 h -108.479 v 11.6999"
+           id="path15-0" />
+        <path
+           style="fill:none"
+           d="M 264.4975,72.1714 H 216.821 V 62.1429"
+           id="path16-4" />
+        <path
+           style="fill:none"
+           d="m 214.1598,513.4285 h -2.5905 V 503.4"
+           id="path17-1" />
+        <path
+           style="fill:none"
+           d="m 334.8713,720.6857 h -93.8425 v 6.6858"
+           id="path18-0" />
+        <path
+           style="fill:none"
+           d="M 194.7858,612.8785 H 176.4724 V 599.925"
+           id="path19-4" />
+        <path
+           style="fill:none"
+           d="M 297.4346,399.7714 H 259.2844 V 409.8"
+           id="path20-8" />
+        <path
+           style="fill:none"
+           d="M 174.4604,814.2857 H 123.3256 V 807.6"
+           id="path21-7" />
+        <path
+           style="fill:none"
+           d="M 92.709,532.9286 H 65.2742 v 8.7923"
+           id="path22-0" />
+        <path
+           style="fill:none"
+           d="m 241.0288,727.3715 h -20.621 v -10.0286"
+           id="path23-8" />
+        <path
+           style="fill:none"
+           d="M 0.9947,734.8319 H 5.1434"
+           id="path24-6" />
+        <path
+           style="fill:none"
+           d="M 302.2235,232.6286 H 278.1442 V 219.2571"
+           id="path25-2" />
+        <path
+           style="fill:none"
+           d="m 366.1693,413.1429 h -4.1396 v 6.6857"
+           id="path26-4" />
+        <path
+           style="fill:none"
+           d="M 203.7207,705.6428 H 179.0564 V 693.1072"
+           id="path27-7" />
+        <path
+           style="fill:none"
+           d="M 385.3312,105.6 H 280.1626 v -6.6857"
+           id="path28-9" />
+        <path
+           style="fill:none"
+           d="m 246.3127,466.6286 h -53.3911 v -6.6858"
+           id="path29-3" />
+        <path
+           style="fill:none"
+           d="M 65.2742,927.9429 H 5.1434 v -193.111"
+           id="path30-9" />
+        <path
+           style="fill:none"
+           d="m 366.4714,92.2286 h -86.3088 v 6.6857"
+           id="path31-2" />
+        <path
+           style="fill:none"
+           d="m 271.7483,707.3143 h -51.3405 v 10.0286"
+           id="path32-8" />
+        <path
+           style="fill:none"
+           d="M 388.9887,65.4857 H 264.4975 v 6.6857"
+           id="path33-3" />
+        <path
+           style="fill:none"
+           d="M 99.4584,95.9893 H 65.2742 v 445.7316"
+           id="path34-0" />
+        <path
+           style="fill:none"
+           d="M 223.0561,339.6 H 197.3248 V 326.2286"
+           id="path35-1" />
+        <path
+           style="fill:none"
+           d="M 255.4983,38.7429 H 201.2266 V 32.0571"
+           id="path36-7" />
+        <path
+           style="fill:none"
+           d="m 280.1626,98.9143 h -24.78 v 26.7428"
+           id="path37-8" />
+        <path
+           style="fill:none"
+           d="M 199.8896,867.7714 H 184.6681 V 877.8"
+           id="path38-9" />
+        <path
+           style="fill:none"
+           d="M 97.0736,754.1143 H 65.2742 V 541.7209"
+           id="path39-1" />
+        <path
+           style="fill:none"
+           d="m 240.1418,312.8571 h -42.817 v 13.3715"
+           id="path40-5" />
+        <path
+           style="fill:none"
+           d="m 298.1674,25.3714 h -96.9408 v 6.6857"
+           id="path41-4" />
+        <path
+           style="fill:none"
+           d="M 254.9712,586.9714 H 176.4724 V 599.925"
+           id="path42-9" />
+        <path
+           style="fill:none"
+           d="m 175.7974,279.4286 h -60.3397 v 20.0571"
+           id="path43-2" />
+        <path
+           style="fill:none"
+           d="M 396.1367,132.3429 H 381.198 v -6.6858"
+           id="path44-5" />
+        <path
+           style="fill:none"
+           d="M 362.0297,419.8286 H 259.2844 V 409.8"
+           id="path45-7" />
+        <path
+           style="fill:none"
+           d="M 140.6491,760.8 H 97.0736 v -6.6857"
+           id="path46-4" />
+        <path
+           style="fill:none"
+           d="M 118.7038,747.4285 H 97.0736 v 6.6858"
+           id="path47-9" />
+        <path
+           style="fill:none"
+           d="M 420.0168,118.9714 H 381.198 v 6.6857"
+           id="path48-9" />
+        <path
+           style="fill:none"
+           d="M 381.2944,359.6571 H 308.208 v 6.6858"
+           id="path49-4" />
+        <path
+           style="fill:none"
+           d="m 194.0015,266.0572 h -52.7289 v -6.6858"
+           id="path50-5" />
+        <path
+           style="fill:none"
+           d="M 115.4577,299.4857 H 94.8431 v -20.0571"
+           id="path51-9" />
+        <path
+           style="fill:none"
+           d="M 377.804,78.8571 H 264.4975 v -6.6857"
+           id="path52-3" />
+        <path
+           style="fill:none"
+           d="M 146.7942,774.1714 H 85.3425 v 6.6858"
+           id="path53-5" />
+        <path
+           style="fill:none"
+           d="m 262.2284,600.3429 h -67.4426 v 12.5356"
+           id="path54-7" />
+        <path
+           style="fill:none"
+           d="M 181.5633,187.5 H 116.8461 V 156.5786"
+           id="path55-0" />
+        <path
+           style="fill:none"
+           d="M 287.1819,680.5715 H 179.0564 v 12.5357"
+           id="path56-8" />
+        <path
+           style="fill:none"
+           d="M 131.5084,424.0071 H 65.2742 v 117.7138"
+           id="path57-1" />
+        <path
+           style="fill:none"
+           d="m 257.6131,306.1714 h -17.4713 v 6.6857"
+           id="path58-9" />
+        <path
+           style="fill:none"
+           d="M 123.3256,807.6 H 89.9899 v 18.8036"
+           id="path59-9" />
+        <path
+           style="fill:none"
+           d="M 179.0564,693.1072 H 154.3086 V 680.1536"
+           id="path60-7" />
+        <path
+           style="fill:none"
+           d="m 138.1421,862.7571 h -37.366 v -17.5499"
+           id="path61-8" />
+        <path
+           style="fill:none"
+           d="m 370.1354,426.5143 h -8.1057 v -6.6857"
+           id="path62-2" />
+        <path
+           style="fill:none"
+           d="m 227.9993,854.4 h -41.7371 v -6.6857"
+           id="path63-5" />
+        <path
+           style="fill:none"
+           d="M 244.2364,346.2857 H 223.0561 V 339.6"
+           id="path64-3" />
+        <path
+           style="fill:none"
+           d="M 150.5996,566.9142 H 92.709 v -33.9856"
+           id="path65-4" />
+        <path
+           style="fill:none"
+           d="M 234.1252,398.1 H 131.5084 v 25.9071"
+           id="path66-9" />
+        <path
+           style="fill:none"
+           d="M 233.9902,637.1143 H 220.4785 V 625.4142"
+           id="path67-0" />
+        <path
+           style="fill:none"
+           d="m 199.4589,292.8 h -53.3653 v 26.7429"
+           id="path68-2" />
+        <path
+           style="fill:none"
+           d="m 341.7365,225.9429 h -39.513 v 6.6857"
+           id="path69-0" />
+        <path
+           style="fill:none"
+           d="m 222.3105,841.0286 h -36.0483 v 6.6857"
+           id="path70-1" />
+        <path
+           style="fill:none"
+           d="m 186.2622,847.7143 h -48.1201 v 15.0428"
+           id="path71-9" />
+        <path
+           style="fill:none"
+           d="M 369.4798,373.0286 H 308.208 v -6.6857"
+           id="path72-6" />
+        <path
+           style="fill:none"
+           d="m 180.5863,560.2286 h -29.9867 v 6.6856"
+           id="path73-2" />
+        <path
+           style="fill:none"
+           d="M 136.6058,800.9142 H 123.3256 V 807.6"
+           id="path74-1" />
+        <path
+           style="fill:none"
+           d="M 402.7318,159.0857 H 315.6773 V 152.4"
+           id="path75-2" />
+        <path
+           style="fill:none"
+           d="m 377.5983,145.7143 h -61.921 V 152.4"
+           id="path76-0" />
+        <path
+           style="fill:none"
+           d="m 222.2912,894.5143 h -27.8526 v -6.6857"
+           id="path77-7" />
+        <path
+           style="fill:none"
+           d="M 324.8629,907.8857 H 139.4084 v 6.6858"
+           id="path78-3" />
+        <path
+           style="fill:none"
+           d="M 220.4078,717.3429 H 203.7207 V 705.6428"
+           id="path79-1" />
+        <path
+           style="fill:none"
+           d="m 306.0032,653.8286 h -61.3297 v -6.6858"
+           id="path80-1" />
+        <path
+           style="fill:none"
+           d="M 157.6833,787.5428 H 85.3425 v -6.6856"
+           id="path81-9" />
+        <path
+           style="fill:none"
+           d="m 254.9583,533.4857 h -1.4398 v 6.6857"
+           id="path82-0" />
+        <path
+           style="fill:none"
+           d="m 264.1183,319.5429 h -23.9765 v -6.6858"
+           id="path83-5" />
+        <path
+           style="fill:none"
+           d="M 301.015,941.3143 H 65.2742 v -13.3714"
+           id="path84-6" />
+        <path
+           style="fill:none"
+           d="m 336.9155,212.5714 h -47.6702 v -6.6857"
+           id="path85-7" />
+        <path
+           style="fill:none"
+           d="m 277.6235,386.4 h -43.4983 v 11.7"
+           id="path86-7" />
+        <path
+           style="fill:none"
+           d="m 250.8766,453.2571 h -57.955 v 6.6857"
+           id="path87-4" />
+        <path
+           style="fill:none"
+           d="m 340.708,948 h -39.693 v -6.6857"
+           id="path88-0" />
+        <path
+           style="fill:none"
+           d="M 381.198,125.6571 H 255.3826 v 0"
+           id="path89-6" />
+        <path
+           style="fill:none"
+           d="m 206.3562,480 h -33.3164 v 11.7"
+           id="path90-4" />
+        <path
+           style="fill:none"
+           d="M 253.5185,540.1714 H 92.709 v -7.2428"
+           id="path91-7" />
+        <path
+           style="fill:none"
+           d="M 179.5835,449.9143 H 131.5084 V 424.0071"
+           id="path92-4" />
+        <path
+           style="fill:none"
+           d="M 146.0936,319.5429 H 115.4577 V 299.4857"
+           id="path93-8" />
+        <path
+           style="fill:none"
+           d="M 397.3387,199.2 H 289.2453 v 6.6857"
+           id="path94-5" />
+        <path
+           style="fill:none"
+           d="m 289.2453,205.8857 h -11.1011 v 13.3714"
+           id="path95-8" />
+        <path
+           style="fill:none"
+           d="M 278.1442,219.2571 H 248.916 v -16.7143"
+           id="path96-2" />
+        <path
+           style="fill:none"
+           d="M 173.0398,491.7 H 92.709 v 41.2286"
+           id="path97-6" />
+        <path
+           style="fill:none"
+           d="M 244.6735,647.1428 H 233.9902 V 637.1143"
+           id="path98-0" />
+        <path
+           style="fill:none"
+           d="M 164.5227,346.2857 H 146.0936 V 319.5429"
+           id="path99-6" />
+        <path
+           style="fill:none"
+           d="M 308.208,366.3429 H 164.5227 v -20.0572"
+           id="path100-6" />
+        <path
+           style="fill:none"
+           d="M 139.4084,914.5715 H 65.2742 v 13.3714"
+           id="path101-4" />
+        <path
+           style="fill:none"
+           d="m 322.9731,734.0571 h -81.9443 v -6.6856"
+           id="path102-6" />
+        <path
+           style="fill:none"
+           d="m 194.4386,887.8286 h -9.7705 V 877.8"
+           id="path103-2" />
+        <path
+           style="fill:none"
+           d="M 293.475,439.8857 H 179.5835 v 10.0286"
+           id="path104-8" />
+        <path
+           style="fill:none"
+           d="m 254.6691,546.8572 h -1.1506 v -6.6858"
+           id="path105-9" />
+        <path
+           style="fill:none"
+           d="M 277.8678,12 H 181.5055 V 35.4"
+           id="path106-6" />
+        <path
+           style="fill:none"
+           d="M 85.3425,780.8572 H 65.2742 V 541.7209"
+           id="path107-0" />
+        <path
+           style="fill:none"
+           d="M 89.9899,826.4036 H 65.2742 V 541.7209"
+           id="path108-7" />
+        <path
+           style="fill:none"
+           d="M 94.8431,279.4286 H 65.2742 v 262.2923"
+           id="path109-0" />
+        <path
+           style="fill:none"
+           d="M 226.0644,493.3715 H 211.5693 V 503.4"
+           id="path110-1" />
+        <path
+           style="fill:none"
+           d="m 192.4267,252.6857 h -51.1541 v 6.6857"
+           id="path111-0" />
+        <path
+           style="fill:none"
+           d="M 259.2844,409.8 H 234.1252 V 398.1"
+           id="path112-1" />
+        <path
+           style="fill:none"
+           d="M 266.6702,172.4572 H 181.5633 V 187.5"
+           id="path113-3" />
+        <path
+           style="fill:none"
+           d="M 220.4785,625.4142 H 194.7858 V 612.8785"
+           id="path114-7" />
+        <path
+           style="fill:none"
+           d="m 295.6669,640.4572 h -50.9934 v 6.6856"
+           id="path115-7" />
+        <path
+           style="fill:none"
+           d="m 166.7018,573.6 h -16.1022 v -6.6858"
+           id="path116-2" />
+        <path
+           style="fill:none"
+           d="M 312.8618,934.6285 H 301.015 v 6.6858"
+           id="path117-6" />
+        <path
+           style="fill:none"
+           d="M 116.8461,156.5786 H 99.4584 V 95.9893"
+           id="path118-4" />
+        <path
+           style="fill:none"
+           d="M 211.5693,503.4 H 173.0398 V 491.7"
+           id="path119-5" />
+        <path
+           style="fill:none"
+           d="M 100.7761,845.2072 H 89.9899 v -18.8036"
+           id="path120-2" />
+        <path
+           style="fill:none"
+           d="M 216.821,62.1429 H 181.5055 V 35.4"
+           id="path121-0" />
+        <path
+           style="fill:none"
+           d="M 154.3086,680.1536 H 100.1719 V 640.0392"
+           id="path122-2" />
+        <path
+           style="fill:none"
+           d="m 243.0858,613.7143 h -22.6073 v 11.6999"
+           id="path123-9" />
+        <path
+           style="fill:none"
+           d="m 331.0467,627.0858 h -97.0565 v 10.0285"
+           id="path124-0" />
+        <path
+           style="fill:none"
+           d="M 201.2266,32.0571 H 181.5055 V 35.4"
+           id="path125-9" />
+        <path
+           style="fill:none"
+           d="m 184.6681,877.8 h -46.526 v -15.0429"
+           id="path126-9" />
+        <path
+           style="fill:none"
+           d="M 286.9891,185.8286 H 248.916 v 16.7142"
+           id="path127-4" />
+        <path
+           style="fill:none"
+           d="M 248.916,202.5428 H 181.5633 V 187.5"
+           id="path128-5" />
+        <path
+           style="fill:none"
+           d="m 176.4724,599.925 h -76.3005 v 40.1142"
+           id="path129-1" />
+        <path
+           style="fill:none"
+           d="m 205.0706,881.1428 h -10.632 v 6.6858"
+           id="path130-0" />
+        <path
+           style="fill:none"
+           d="M 255.3826,125.6571 H 116.8461 v 30.9215"
+           id="path131-3" />
+        <path
+           style="fill:none"
+           d="m 197.3248,326.2286 h -32.8021 v 20.0571"
+           id="path132-7" />
+      </g>
+      <g
+         transform="translate(262.4155,505.2429)"
+         style="font-family:'DejaVu Sans';fill:#009eff;stroke:#009eff;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g133">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text132">ETCJ_2053114_Pilgerodendron_uviferum_YABB</text>
+      </g>
+      <g
+         style="font-family:'DejaVu Sans';stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(370.7789,919.7571)"
+         id="g134">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text133">Sphagnum_magellanicum_YABBY</text>
+      </g>
+      <g
+         transform="translate(323.2823,50.6143)"
+         style="font-family:'DejaVu Sans';fill:#ff00a5;stroke:#ff00a5;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g135">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text134">Aqoxy3G02889_Aquilegia_oxysepala_INO</text>
+      </g>
+      <g
+         transform="translate(366.7614,237.8143)"
+         style="font-family:'DejaVu Sans';fill:#8c00ff;stroke:#8c00ff;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g136">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text135">PGSC0003DMG400025969_Solanum_tuberosum_FIL</text>
+      </g>
+      <g
+         transform="translate(215.4589,291.3)"
+         style="font-family:'DejaVu Sans';fill:#01e205;stroke:#01e205;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g137">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text136">NPRL_2118154_Cathaya_agryrophylla_YABC</text>
+      </g>
+      <g
+         transform="translate(357.7365,224.4429)"
+         style="font-family:'DejaVu Sans';fill:#8c00ff;stroke:#8c00ff;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g138">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text137">Cc00_g13830_Coffea_canephora_FIL</text>
+      </g>
+      <g
+         transform="translate(238.349,665.7)"
+         style="font-family:'DejaVu Sans';fill:#ff0600;stroke:#ff0600;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g139">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text138">Illicium_floridanum_YAB2</text>
+      </g>
+      <g
+         transform="translate(238.3105,839.5286)"
+         style="font-family:'DejaVu Sans';fill:#027212;stroke:#027212;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g140-8">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text139">LN871580_Taxus_globosa_YABA</text>
+      </g>
+      <g
+         transform="translate(385.4797,371.5286)"
+         style="font-family:'DejaVu Sans';fill:#01e205;stroke:#01e205;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g141-8">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text140-6">TOXE_2059736_Welwitschia_mirabilis_YABC</text>
+      </g>
+      <g
+         transform="translate(196.5863,558.7286)"
+         style="font-family:'DejaVu Sans';fill:#009eff;stroke:#009eff;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g142-0">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text141-4">DZQM_2011000_Pinus_radiata_YABB</text>
+      </g>
+      <g
+         transform="translate(154.0007,826.1571)"
+         style="font-family:'DejaVu Sans';fill:#027212;stroke:#027212;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g143-6">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text142-7">SGTW_2038222_Ginkgo_biloba_YABA</text>
+      </g>
+      <g
+         transform="translate(152.6058,799.4143)"
+         style="font-family:'DejaVu Sans';fill:#027212;stroke:#027212;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g144-6">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text143-0">CYCAS_007102_YABA</text>
+      </g>
+      <g
+         transform="translate(418.7318,157.5857)"
+         style="font-family:'DejaVu Sans';fill:#873e01;stroke:#873e01;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g145-9">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text144-7">EL10Ac6g15025_Beta_vulgaris_CRC</text>
+      </g>
+      <g
+         transform="translate(243.0672,518.6143)"
+         style="font-family:'DejaVu Sans';fill:#009eff;stroke:#009eff;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g146-5">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text145-9">Thupl29377238s0018_Thuja_plicata_YABB</text>
+      </g>
+      <g
+         transform="translate(276.3579,331.4143)"
+         style="font-family:'DejaVu Sans';fill:#01e205;stroke:#01e205;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g147-7">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text146-8">DSXO_2008516_Cryptomeria_japonica_YABC</text>
+      </g>
+      <g
+         transform="translate(393.5983,144.2143)"
+         style="font-family:'DejaVu Sans';fill:#873e01;stroke:#873e01;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g148-5">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text147-3">Cc11_g11750_Coffea_canephora_CRC</text>
+      </g>
+      <g
+         transform="translate(238.2912,893.0143)"
+         style="font-family:'DejaVu Sans';fill:#027212;stroke:#027212;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g149-3">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text148-8">IOVS_2054392_Pseudotsuga_menziesii_YABA</text>
+      </g>
+      <g
+         style="font-family:'DejaVu Sans';stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(340.8629,906.3857)"
+         id="g150-3">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text149-7">Anthoceros_agrestis_YABBY</text>
+      </g>
+      <g
+         transform="translate(322.0032,652.3286)"
+         style="font-family:'DejaVu Sans';fill:#ffb600;stroke:#ffb600;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g151-9">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text150-3">PGSC0003DMG400030904_Solanum_tuberosum_YAB5</text>
+      </g>
+      <g
+         transform="translate(173.6833,786.0429)"
+         style="font-family:'DejaVu Sans';fill:#009eff;stroke:#009eff;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g152-7">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text151-8">LN871574_Ginkgo_biloba_YABD</text>
+      </g>
+      <g
+         transform="translate(270.9583,531.9857)"
+         style="font-family:'DejaVu Sans';fill:#009eff;stroke:#009eff;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g153-7">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text152-4">LN871571_Ephedra_distachya_YABB</text>
+      </g>
+      <g
+         transform="translate(280.1183,318.0429)"
+         style="font-family:'DejaVu Sans';fill:#01e205;stroke:#01e205;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g154-1">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text153-9">XLGK_2057439_Podocarpus_rubens_YABC</text>
+      </g>
+      <g
+         transform="translate(328.1998,692.4429)"
+         style="font-family:'DejaVu Sans';fill:#ff0600;stroke:#ff0600;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g155-0">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text154-9">PGSC0003DMG400002988_Solanum_tuberosum_YAB2</text>
+      </g>
+      <g
+         transform="translate(352.9155,211.0714)"
+         style="font-family:'DejaVu Sans';fill:#8c00ff;stroke:#8c00ff;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g156-8">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text155-8">Phvul.010G079200_Phaseolus_vulgaris_FIL</text>
+      </g>
+      <g
+         transform="translate(293.6235,384.9)"
+         style="font-family:'DejaVu Sans';fill:#0016ff;stroke:#0016ff;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g157-5">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text156-8">Welwitschia_mirabilis_YABD</text>
+      </g>
+      <g
+         transform="translate(266.8766,451.7571)"
+         style="font-family:'DejaVu Sans';fill:#0016ff;stroke:#0016ff;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g158-4">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text157-3">LN871579_Podocarpus_reichei_YABD</text>
+      </g>
+      <g
+         style="font-family:'DejaVu Sans';stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(356.708,946.5)"
+         id="g159-7">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text158-1">Phylloglossum_drummondii_YABBY</text>
+      </g>
+      <g
+         transform="translate(350.8713,719.1857)"
+         style="font-family:'DejaVu Sans';fill:#ff0600;stroke:#ff0600;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g160-3">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text159-8">AT1G08465_Arabidopsis_thaliana_YAB2</text>
+      </g>
+      <g
+         transform="translate(222.3562,478.5)"
+         style="font-family:'DejaVu Sans';fill:#009eff;stroke:#009eff;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g161-0">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text160-9">EFMS_2014223_Torreya_taxifolia_YABB</text>
+      </g>
+      <g
+         transform="translate(313.4346,398.2714)"
+         style="font-family:'DejaVu Sans';fill:#0016ff;stroke:#0016ff;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g162-7">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text161-9">Gnetum_gnemon_YABD</text>
+      </g>
+      <g
+         transform="translate(413.3387,197.7)"
+         style="font-family:'DejaVu Sans';fill:#8c00ff;stroke:#8c00ff;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g163-9">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text162-3">AT2G45190_Arabidopsis_thaliana_FIL</text>
+      </g>
+      <g
+         transform="translate(190.4604,812.7857)"
+         style="font-family:'DejaVu Sans';fill:#027212;stroke:#027212;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g164-2">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text163-4">WLIC_2119747_Dioon_edule_YABA</text>
+      </g>
+      <g
+         transform="translate(382.1693,411.6429)"
+         style="font-family:'DejaVu Sans';fill:#0016ff;stroke:#0016ff;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g165-3">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text164-7">LN871572_Ephedra_distachya_YABD</text>
+      </g>
+      <g
+         transform="translate(401.3312,104.1)"
+         style="font-family:'DejaVu Sans';fill:#873e01;stroke:#873e01;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g166-1">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text165-2">nymphaea_thermarum_CRC_corrected</text>
+      </g>
+      <g
+         transform="translate(338.9731,732.5571)"
+         style="font-family:'DejaVu Sans';fill:#ff0600;stroke:#ff0600;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g167-2">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text166-0">Aqoxy1G00610_Aquilegia_oxysepala_YAB2</text>
+      </g>
+      <g
+         transform="translate(262.3127,465.1286)"
+         style="font-family:'DejaVu Sans';fill:#0016ff;stroke:#0016ff;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g168-2">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text167-1">MIXZ_2003483_Agathis_robusta_YABD</text>
+      </g>
+      <g
+         transform="translate(382.4714,90.7286)"
+         style="font-family:'DejaVu Sans';fill:#873e01;stroke:#873e01;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g169-7">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text168-5">ATR0827G016_Amborella_trichopoda_CRC</text>
+      </g>
+      <g
+         transform="translate(287.7483,705.8143)"
+         style="font-family:'DejaVu Sans';fill:#ff0600;stroke:#ff0600;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g170-1">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text169-7">GSVIVG01037533001_Vitis_vinifera_YAB2</text>
+      </g>
+      <g
+         transform="translate(404.9888,63.9857)"
+         style="font-family:'DejaVu Sans';fill:#ff00a5;stroke:#ff00a5;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g171-4">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text170-1">ECA246G4000_Erigeron_canadensis_INO</text>
+      </g>
+      <g
+         transform="translate(271.4983,37.2429)"
+         style="font-family:'DejaVu Sans';fill:#ff00a5;stroke:#ff00a5;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g172-7">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text171-1">ptg002967l.1_augustus_arabido_INO_g2t2</text>
+      </g>
+      <g
+         transform="translate(309.475,438.3857)"
+         style="font-family:'DejaVu Sans';fill:#0016ff;stroke:#0016ff;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g173-1">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text172-1">HOUF_2104850_Cryptomeria_japonica_YABD</text>
+      </g>
+      <g
+         transform="translate(270.6691,545.3571)"
+         style="font-family:'DejaVu Sans';fill:#009eff;stroke:#009eff;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g174-7">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text173-0">SRX7580805_Ephedra_sinica_YABB</text>
+      </g>
+      <g
+         transform="translate(293.8678,10.5)"
+         style="font-family:'DejaVu Sans';fill:#ff00a5;stroke:#ff00a5;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g175-4">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text174-0">ATR1091G097_Amborella_trichopoda_INO</text>
+      </g>
+      <g
+         transform="translate(215.8896,866.2714)"
+         style="font-family:'DejaVu Sans';fill:#027212;stroke:#027212;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g176-8">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text175-5">AQFM_2079843_Pseudolarix_amabilis_YABA</text>
+      </g>
+      <g
+         transform="translate(314.1674,23.8714)"
+         style="font-family:'DejaVu Sans';fill:#ff00a5;stroke:#ff00a5;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g177-1">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text176-6">Nyth24944_Nymphaea_thermarum_INO</text>
+      </g>
+      <g
+         transform="translate(242.0644,491.8714)"
+         style="font-family:'DejaVu Sans';fill:#009eff;stroke:#009eff;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g178-6">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text177-2">BUWV_2009738_Platycladus_orientalis_YABB</text>
+      </g>
+      <g
+         transform="translate(208.4267,251.1857)"
+         style="font-family:'DejaVu Sans';fill:#01e205;stroke:#01e205;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g179-1">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text178-9">WLIC_2118877_Dioon_edule_YABC</text>
+      </g>
+      <g
+         transform="translate(270.9712,585.4714)"
+         style="font-family:'DejaVu Sans';fill:#ffb600;stroke:#ffb600;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g180-6">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text179-4">Af01G026600_Aristolochia_fimbriata_YAB5</text>
+      </g>
+      <g
+         transform="translate(191.7974,277.9286)"
+         style="font-family:'DejaVu Sans';fill:#01e205;stroke:#01e205;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g181-8">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text180-0">LN871575_Ginkgo_biloba_YABC</text>
+      </g>
+      <g
+         transform="translate(282.6702,170.9571)"
+         style="font-family:'DejaVu Sans';fill:#8c00ff;stroke:#8c00ff;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g182-8">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text181-1">NC_045141_Nymphea_thermarum_FIL</text>
+      </g>
+      <g
+         transform="translate(412.1367,130.8429)"
+         style="font-family:'DejaVu Sans';fill:#873e01;stroke:#873e01;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g183-0">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text182-2">MN709147_Aristolochia_manshuriensis_CRC</text>
+      </g>
+      <g
+         transform="translate(311.6669,638.9571)"
+         style="font-family:'DejaVu Sans';fill:#ffb600;stroke:#ffb600;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g184-2">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text183-9">Cc06_g08310_Coffea_canephora_YAB5</text>
+      </g>
+      <g
+         transform="translate(182.7018,572.1)"
+         style="font-family:'DejaVu Sans';fill:#009eff;stroke:#009eff;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g185-7">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text184-5">MT557798_Picea_abies_YABB</text>
+      </g>
+      <g
+         transform="translate(156.6491,759.3)"
+         style="font-family:'DejaVu Sans';fill:#009eff;stroke:#009eff;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g186-6">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text185-4">LN871582_Zamia_vazquezii_YABD</text>
+      </g>
+      <g
+         transform="translate(134.7038,745.9286)"
+         style="font-family:'DejaVu Sans';fill:#009eff;stroke:#009eff;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g187-6">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text186-3">LN871570_Cycas_rumphii_YABD</text>
+      </g>
+      <g
+         transform="translate(436.0168,117.4714)"
+         style="font-family:'DejaVu Sans';fill:#873e01;stroke:#873e01;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g188-7">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text187-9">Af07G024800_Aristolochia_fimbriata_CRC</text>
+      </g>
+      <g
+         style="font-family:'DejaVu Sans';stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(328.8618,933.1286)"
+         id="g189-7">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text188-4">Huperzia_selago_YABBY</text>
+      </g>
+      <g
+         transform="translate(397.2944,358.1571)"
+         style="font-family:'DejaVu Sans';fill:#01e205;stroke:#01e205;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g190-9">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text189-1">GTHK_2009293_Gnetum_montanum_YABC</text>
+      </g>
+      <g
+         transform="translate(210.0015,264.5571)"
+         style="font-family:'DejaVu Sans';fill:#01e205;stroke:#01e205;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g191-7">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text190-0">XZUY_2001014_Cycas_micholitzii_YABC</text>
+      </g>
+      <g
+         transform="translate(393.804,77.3571)"
+         style="font-family:'DejaVu Sans';fill:#ff00a5;stroke:#ff00a5;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g192-6">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text191-0">EL10Ac6g13704_Beta_vulgaris_INO</text>
+      </g>
+      <g
+         transform="translate(162.7942,772.6714)"
+         style="font-family:'DejaVu Sans';fill:#009eff;stroke:#009eff;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g193-8">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text192-5">LN871573_Ginkgo_biloba_YABD</text>
+      </g>
+      <g
+         transform="translate(278.2284,598.8429)"
+         style="font-family:'DejaVu Sans';fill:#ffb600;stroke:#ffb600;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g194-3">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text193-9">Aqoxy7G03677_Aquilegia_oxysepala_YAB5</text>
+      </g>
+      <g
+         transform="translate(303.1819,679.0714)"
+         style="font-family:'DejaVu Sans';fill:#ff0600;stroke:#ff0600;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g195-4">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text194-1">Af05G185300_Aristolochia_fimbriata_YAB2</text>
+      </g>
+      <g
+         transform="translate(273.6131,304.6714)"
+         style="font-family:'DejaVu Sans';fill:#01e205;stroke:#01e205;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g196-5">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text195-4">CDFR_2060093_Manoao_colensoi_YABC</text>
+      </g>
+      <g
+         transform="translate(259.0858,612.2143)"
+         style="font-family:'DejaVu Sans';fill:#ffb600;stroke:#ffb600;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g197-1">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text196-5">GSVIVG01015567001_Vitis_vinifera_YAB5</text>
+      </g>
+      <g
+         transform="translate(347.0467,625.5857)"
+         style="font-family:'DejaVu Sans';fill:#ffb600;stroke:#ffb600;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g198-5">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text197-4">ECA234G3391_Erigeron_canadensis_YAB5</text>
+      </g>
+      <g
+         transform="translate(302.9891,184.3286)"
+         style="font-family:'DejaVu Sans';fill:#8c00ff;stroke:#8c00ff;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g199-9">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text198-8">Aqoxy7G00718_Aquilegia_oxysepala_FIL</text>
+      </g>
+      <g
+         transform="translate(386.1354,425.0143)"
+         style="font-family:'DejaVu Sans';fill:#0016ff;stroke:#0016ff;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g200-3">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text199-8">VDAO_2030261_Ephedra_sinica_YABD</text>
+      </g>
+      <g
+         transform="translate(243.9993,852.9)"
+         style="font-family:'DejaVu Sans';fill:#027212;stroke:#027212;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g201-5">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text200-2">SEGI_22233_Sequoiadendron_giganteum_YABA</text>
+      </g>
+      <g
+         transform="translate(260.2364,344.7857)"
+         style="font-family:'DejaVu Sans';fill:#01e205;stroke:#01e205;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g202-2">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text201-2">EFMS_2079989_Torreya_taxifolia_YABC</text>
+      </g>
+      <g
+         transform="translate(221.0706,879.6429)"
+         style="font-family:'DejaVu Sans';fill:#027212;stroke:#027212;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         id="g203-7">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="12"
+           style="stroke:none"
+           id="text202-0">GGEA_2065499_Cedrus_libani_YABA</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(41.2088,540.221)"
+         id="g204-3">
+        <text
+           x="-7.5117002"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text203-4">0,7</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(146.4819,33.9)"
+         id="g205-6">
+        <text
+           x="-10.4414"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text204-3">0,96</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(291.53,150.9)"
+         id="g206-6">
+        <text
+           x="-2.9296999"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text205-3">1</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(88.7231,638.5393)"
+         id="g207-3">
+        <text
+           x="-10.4414"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text206-4">0,91</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(192.2526,458.4428)"
+         id="g208-4">
+        <text
+           x="-7.5117002"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text207-3">0,7</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(124.0578,257.8714)"
+         id="g209-9">
+        <text
+           x="-2.9296999"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text208-7">1</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(246.6592,70.6714)"
+         id="g210-2">
+        <text
+           x="-2.9296999"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text209-5">1</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(218.8645,511.9286)"
+         id="g211-8">
+        <text
+           x="-10.4414"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text210-9">0,64</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(191.629,611.3785)"
+         id="g212-0">
+        <text
+           x="-10.4414"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text211-2">0,57</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(84.9916,531.4286)"
+         id="g213-4">
+        <text
+           x="-10.4414"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text212-7">0,82</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(236.7183,725.8715)"
+         id="g214-6">
+        <text
+           x="-7.5117002"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text213-5">0,7</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(296.1838,231.1286)"
+         id="g215-7">
+        <text
+           x="-2.9296999"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text214-1">1</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(197.3885,704.1428)"
+         id="g216-3">
+        <text
+           x="-2.9296999"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text215-3">1</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(41.2088,926.4428)"
+         id="g217-3">
+        <text
+           x="-7.5117002"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text216-8">0,7</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(88.3663,94.4893)"
+         id="g218-5">
+        <text
+           x="-10.4414"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text217-1">0,51</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(216.1905,338.1)"
+         id="g219-0">
+        <text
+           x="-2.9296999"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text218-8">1</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(273.7726,97.4143)"
+         id="g220-7">
+        <text
+           x="-10.4414"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text219-6">0,76</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(87.1739,752.6143)"
+         id="g221-3">
+        <text
+           x="-2.9296999"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text220-5">1</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(224.7333,311.3571)"
+         id="g222-0">
+        <text
+           x="-2.9296999"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text221-8">1</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(316.657,418.3286)"
+         id="g223-0">
+        <text
+           x="-2.9296999"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text222-4">1</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(111.1504,297.9857)"
+         id="g224-1">
+        <text
+           x="-10.4414"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text223-1">0,94</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(155.2047,186)"
+         id="g225-3">
+        <text
+           x="-2.9296999"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text224-5">1</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(104.3913,422.5071)"
+         id="g226-9">
+        <text
+           x="-2.9296999"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text225-3">1</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(112.6577,806.1)"
+         id="g227-4">
+        <text
+           x="-2.9296999"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text226-1">1</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(172.6825,691.6072)"
+         id="g228-5">
+        <text
+           x="-10.4414"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text227-0">0,99</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(125.4591,861.2571)"
+         id="g229-8">
+        <text
+           x="-2.9296999"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text228-3">1</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(127.6543,565.4143)"
+         id="g230-5">
+        <text
+           x="-2.9296999"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text229-6">1</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(188.8168,396.6)"
+         id="g231-5">
+        <text
+           x="-2.9296999"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text230-9">1</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(233.2343,635.6143)"
+         id="g232-9">
+        <text
+           x="-10.4414"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text231-0">0,91</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(168.2022,846.2143)"
+         id="g233-7">
+        <text
+           x="-2.9296999"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text232-6">1</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(218.0642,715.8429)"
+         id="g234-3">
+        <text
+           x="-10.4414"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text233-7">0,57</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(189.1446,939.8143)"
+         id="g235-6">
+        <text
+           x="-2.9296999"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text234-1">1</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(324.2903,124.1571)"
+         id="g236-5">
+        <text
+           x="-2.9296999"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text235-0">1</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(179.1137,538.6714)"
+         id="g237-6">
+        <text
+           x="-2.9296999"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text236-5">1</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(161.546,448.4143)"
+         id="g238-0">
+        <text
+           x="-2.9296999"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text237-8">1</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(136.7756,318.0429)"
+         id="g239-1">
+        <text
+           x="-10.4414"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text238-2">0,94</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(289.6948,204.3857)"
+         id="g240-2">
+        <text
+           x="-10.4414"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text239-6">0,97</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(269.5301,217.7571)"
+         id="g241-9">
+        <text
+           x="-2.9296999"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text240-1">1</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(138.8744,490.2)"
+         id="g242-0">
+        <text
+           x="-2.9296999"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text241-4">1</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(245.3318,645.6428)"
+         id="g243-2">
+        <text
+           x="-10.4414"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text242-7">0,52</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(161.3081,344.7857)"
+         id="g244-4">
+        <text
+           x="-10.4414"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text243-0">0,63</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(242.3653,364.8428)"
+         id="g245-3">
+        <text
+           x="-2.9296999"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text244-2">1</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(108.3413,913.0714)"
+         id="g246-8">
+        <text
+           x="-10.4414"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text245-0">0,63</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(195.5533,886.3286)"
+         id="g247-3">
+        <text
+           x="-10.4414"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text246-7">0,97</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(81.3083,779.3572)"
+         id="g248-0">
+        <text
+           x="-2.9296999"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text247-0">1</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(83.6321,824.9036)"
+         id="g249-3">
+        <text
+           x="-2.9296999"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text248-4">1</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(86.0586,277.9286)"
+         id="g250-9">
+        <text
+           x="-10.4414"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text249-2">0,94</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(252.7048,408.3)"
+         id="g251-7">
+        <text
+           x="-10.4414"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text250-4">0,93</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(213.6321,623.9143)"
+         id="g252-2">
+        <text
+           x="-2.9296999"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text251-5">1</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(114.1523,155.0786)"
+         id="g253-2">
+        <text
+           x="-7.5117002"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text252-4">0,5</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(198.3045,501.9)"
+         id="g254-4">
+        <text
+           x="-2.9296999"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text253-3">1</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(101.383,843.7071)"
+         id="g255-8">
+        <text
+           x="-10.4414"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text254-6">0,74</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(205.1632,60.6429)"
+         id="g256-0">
+        <text
+           x="-10.4414"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text255-8">0,97</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(133.2402,678.6536)"
+         id="g257-9">
+        <text
+           x="-2.9296999"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text256-2">1</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(197.366,30.5571)"
+         id="g258-2">
+        <text
+           x="-10.4414"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text257-3">0,85</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(167.4051,876.3)"
+         id="g259-1">
+        <text
+           x="-2.9296999"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text258-8">1</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(221.2397,201.0429)"
+         id="g260-3">
+        <text
+           x="-2.9296999"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text259-4">1</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(144.3221,598.425)"
+         id="g261-2">
+        <text
+           x="-2.9296999"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text260-2">1</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(192.1144,124.1571)"
+         id="g262-4">
+        <text
+           x="-2.9296999"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text261-5">1</text>
+      </g>
+      <g
+         style="font-family:aakar;stroke-linecap:round;stroke-linejoin:round;text-rendering:optimizeLegibility"
+         transform="translate(186.9237,324.7286)"
+         id="g263-1">
+        <text
+           x="-2.9296999"
+           xml:space="preserve"
+           y="0.2344"
+           style="stroke:none"
+           id="text262-7">1</text>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-83.372964,13.383066)"
+       id="text3"
+       style="font-size:18.6667px;line-height:0;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';white-space:pre;shape-inside:url(#rect3);fill:#000000;stroke-width:0.559" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-83.372964,13.383066)"
+       id="text4"
+       style="font-size:18.6667px;line-height:0;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';white-space:pre;shape-inside:url(#rect4);fill:#000000;stroke-width:0.559" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;line-height:1.2;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';white-space:pre;inline-size:153.431;fill:#000000;stroke-width:0.147902"
+       x="-65.36512"
+       y="265.81934"
+       id="text78"
+       transform="matrix(0.96636096,0,0,0.9602429,3.8461808,3.6580162)"><tspan
+         x="-65.36512"
+         y="265.81934"
+         id="tspan3">
+</tspan><tspan
+         x="-65.36512"
+         y="271.74599"
+         id="tspan4">a) Majority consensus inferred from BAli-Phy reconstructions </tspan><tspan
+         x="-65.36512"
+         y="277.67266"
+         id="tspan5">on complete sequences with codon encoding</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;line-height:1.2;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';white-space:pre;inline-size:169.957;display:inline;fill:#000000;stroke-width:0.147902"
+       x="-65.36512"
+       y="265.81934"
+       id="text78-9"
+       transform="matrix(0.96636096,0,0,0.9602429,190.30634,4.1092504)"><tspan
+         x="-65.36512"
+         y="265.81934"
+         id="tspan6">
+</tspan><tspan
+         x="-65.36512"
+         y="271.74599"
+         id="tspan7">b) Majority consensus inferred from 100 reconciled scenarios  based </tspan><tspan
+         x="-65.36512"
+         y="277.67266"
+         id="tspan8">on BAli-Phy reconstructions on complete sequences with codon </tspan><tspan
+         x="-65.36512"
+         y="283.59932"
+         id="tspan9">encoding</tspan></text>
+  </g>
+</svg>
