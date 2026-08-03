@@ -1,0 +1,160 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=58;
+	taxlabels
+	'Abies_lasiocarpa|34340'[&!color=#03d6ea]
+	'Agathis_robusta|60854'[&!color=#ea030e]
+	'Amborella|13332'[&!color=#010101]
+	'Aquilegia_oxysepala|432649'
+	'Arabidopsis_thaliana|3702'
+	'Aristolochia_fimbriata|158543'
+	'Aristolochia_manshuriensis|158555'
+	'Austrocedrus_chilensis|103964'[&!color=#ea030e]
+	'Beta_vulgaris|161934'
+	'Callitris_macleayana|214231'[&!color=#ea030e]
+	'Calocedrus_decurrens|13387'[&!color=#ea030e]
+	'Cathaya_argyrophylla|64686'[&!color=#03d6ea]
+	'Cedrus_libani|93692'[&!color=#03d6ea]
+	'Coffea_arabica|13443'
+	'Coffea_canephora|49390'
+	'Cryptomeria_japonica|3369'[&!color=#ea030e]
+	'Cycas_micholitzii|182486'[&!color=#03ea28]
+	'Cycas_rumphii|58031'[&!color=#03ea28]
+	'Dioon_edule|58033'[&!color=#03ea28]
+	'Encephalartos_barteri|133428'[&!color=#03ea28]
+	'Ephedra_distachya|3389'[&!color=#ea9603]
+	'Ephedra_sinica|33152'[&!color=#ea9603]
+	'Erigeron_canadensis|72917'
+	'Ginkgo_biloba|3311'[&!color=#03ea28]
+	'Gnetum_gnemon|3382'[&!color=#ea9603]
+	'Gnetum_montanum|3381'[&!color=#ea9603]
+	'Helianthus_annuus_subsp._annuus|1313103'
+	'Illicium_floridanum|13098'[&!color=#010101]
+	'Illicium_verum|124778'[&!color=#010101]
+	'Lagarostrobos_franklinii|56892'[&!color=#ea030e]
+	'Manoao_colensoi|120598'[&!color=#ea030e]
+	'Metasequoia_glyptostroboides|3371'[&!color=#ea030e]
+	'Nymphaea_colorata|210225'[&!color=#010101]
+	'Nymphaea_thermarum|419125'[&!color=#010101]
+	'Phaseolus_vulgaris|3885'
+	'Picea_abies|3329'[&!color=#03d6ea]
+	'Pilgerodendron_uviferum|103979'[&!color=#ea030e]
+	'Pinus_jeffreyi|55061'[&!color=#03d6ea]
+	'Pinus_parviflora|71644'[&!color=#03d6ea]
+	'Pinus_radiata|3347'[&!color=#03d6ea]
+	'Pinus_taeda|3352'[&!color=#03d6ea]
+	'Platycladus_orientalis|58046'[&!color=#ea030e]
+	'Podocarpus_matudae_var._reichei|197626'[&!color=#ea030e]
+	'Podocarpus_rubens|1030203'[&!color=#ea030e]
+	'Pseudolarix_amabilis|3355'[&!color=#03d6ea]
+	'Pseudotsuga_menziesii|3357'[&!color=#03d6ea]
+	'Sequoiadendron_giganteum|99814'[&!color=#ea030e]
+	'Solanum_tuberosum|4113'
+	'Stangeria_eriopus|34343'[&!color=#03ea28]
+	'Taxus_globosa|156271'[&!color=#ea030e]
+	'Thuja_plicata|3316'[&!color=#ea030e]
+	'Thujopsis_dolabrata|13727'[&!color=#ea030e]
+	'Torreya_taxifolia|156149'[&!color=#ea030e]
+	'Tsuga_heterophylla|3359'[&!color=#03d6ea]
+	'Vitis_vinifera|29760'
+	'Welwitschia_mirabilis|3377'[&!color=#ea9603]
+	'Widdringtonia_cedarbergensis|13760'[&!color=#ea030e]
+	'Zamia_vazquezii|501451'[&!color=#03ea28]
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] ((((((((((('Coffea_arabica|13443':1.0,'Coffea_canephora|49390':1.0):1.0,'Solanum_tuberosum|4113':1.0):1.0,('Erigeron_canadensis|72917':1.0,'Helianthus_annuus_subsp._annuus|1313103':1.0):1.0):1.0,'Beta_vulgaris|161934':1.0):1.0,(('Arabidopsis_thaliana|3702':1.0,'Phaseolus_vulgaris|3885':1.0):1.0,'Vitis_vinifera|29760':1.0):1.0):1.0,'Aquilegia_oxysepala|432649':1.0):1.0,('Aristolochia_fimbriata|158543':1.0,'Aristolochia_manshuriensis|158555':1.0):1.0):1.0,('Illicium_floridanum|13098':1.0,'Illicium_verum|124778':1.0):1.0):1.0,('Nymphaea_colorata|210225':1.0,'Nymphaea_thermarum|419125':1.0):1.0):1.0,'Amborella|13332':1.0):1.0,(((((('Podocarpus_rubens|1030203':1.0,'Podocarpus_matudae_var._reichei|197626':1.0):1.0,('Manoao_colensoi|120598':1.0,'Lagarostrobos_franklinii|56892':1.0):1.0):1.0,'Agathis_robusta|60854':1.0):1.0,((('Metasequoia_glyptostroboides|3371':1.0,'Sequoiadendron_giganteum|99814':1.0):1.0,('Cryptomeria_japonica|3369':1.0,((('Thujopsis_dolabrata|13727':1.0,'Thuja_plicata|3316':1.0):1.0,('Callitris_macleayana|214231':1.0,('Platycladus_orientalis|58046':1.0,'Calocedrus_decurrens|13387':1.0):1.0):1.0):1.0,('Widdringtonia_cedarbergensis|13760':1.0,('Austrocedrus_chilensis|103964':1.0,'Pilgerodendron_uviferum|103979':1.0):1.0):1.0):1.0):1.0):1.0,('Taxus_globosa|156271':1.0,'Torreya_taxifolia|156149':1.0):1.0):1.0):1.0,((('Welwitschia_mirabilis|3377':1.0,('Gnetum_montanum|3381':1.0,'Gnetum_gnemon|3382':1.0):1.0):1.0,('Ephedra_distachya|3389':1.0,'Ephedra_sinica|33152':1.0):1.0):1.0,(('Cedrus_libani|93692':1.0,(('Tsuga_heterophylla|3359':1.0,'Pseudolarix_amabilis|3355':1.0):1.0,'Abies_lasiocarpa|34340':1.0):1.0):1.0,('Pseudotsuga_menziesii|3357':1.0,(((('Pinus_radiata|3347':1.0,'Pinus_taeda|3352':1.0,'Pinus_jeffreyi|55061':1.0):1.0,'Pinus_parviflora|71644':1.0):1.0,'Cathaya_argyrophylla|64686':1.0):1.0,'Picea_abies|3329':1.0):1.0):1.0):1.0):1.0):1.0,((('Cycas_rumphii|58031':1.0,'Cycas_micholitzii|182486':1.0):1.0,(('Encephalartos_barteri|133428':1.0,('Zamia_vazquezii|501451':1.0,'Stangeria_eriopus|34343':1.0):1.0):1.0,'Dioon_edule|58033':1.0):1.0):1.0,'Ginkgo_biloba|3311':1.0):1.0):1.0);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="aakar";
+	set branchLabels.fontSize=12;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute=null;
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName="DejaVu Sans";
+	set nodeLabels.fontSize=12;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set nodeShapeExternal.colourAttribute="User selection";
+	set nodeShapeExternal.isShown=false;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=4.0;
+	set nodeShapeExternal.sizeAttribute="Fixed";
+	set nodeShapeInternal.colourAttribute="User selection";
+	set nodeShapeInternal.isShown=false;
+	set nodeShapeInternal.minSize=10.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Circle;
+	set nodeShapeInternal.size=4.0;
+	set nodeShapeInternal.sizeAttribute="Fixed";
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.minorTicks=0.5;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="DejaVu Sans";
+	set tipLabels.fontSize=12;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=false;
+	set trees.orderType="increasing";
+	set trees.rooting=false;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+

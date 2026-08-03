@@ -1,0 +1,134 @@
+
+code	|	name	|	preferred name	|	taxid
+1	|	ginkgo biloba	|	Ginkgo biloba	|	3311
+1	|	picea abies	|	Picea abies	|	3329
+1	|	pinus taeda	|	Pinus taeda	|	3352
+1	|	tsuga heterophylla	|	Tsuga heterophylla	|	3359
+1	|	abies lasiocarpa	|	Abies lasiocarpa	|	34340
+1	|	pseudolarix amabilis	|	Pseudolarix amabilis	|	3355
+1	|	cedrus libani	|	Cedrus libani	|	93692
+1	|	pseudotsuga menziesii	|	Pseudotsuga menziesii	|	3357
+1	|	taxus globosa	|	Taxus globosa	|	156271
+1	|	torreya taxifolia	|	Torreya taxifolia	|	156149
+3	|	sequoiadendron gigantum	|	 	|	 
+1	|	cryptomeria japonica	|	Cryptomeria japonica	|	3369
+1	|	cycas	|	Cycas	|	3395
+1	|	cycas	|	Cycas	|	3395
+1	|	stangeria eriopus	|	Stangeria eriopus	|	34343
+1	|	dioon edule	|	Dioon edule	|	58033
+1	|	encephalartos barteri	|	Encephalartos barteri	|	133428
+1	|	ephedra distachya	|	Ephedra distachya	|	3389
+1	|	ephedra sinica	|	Ephedra sinica	|	33152
+1	|	pinus jeffreyi	|	Pinus jeffreyi	|	55061
+1	|	pinus radiata	|	Pinus radiata	|	3347
+1	|	picea abies	|	Picea abies	|	3329
+1	|	pseudolarix amabilis	|	Pseudolarix amabilis	|	3355
+1	|	tsuga heterophylla	|	Tsuga heterophylla	|	3359
+1	|	cathaya argyrophylla	|	Cathaya argyrophylla	|	64686
+1	|	pseudotsuga menziesii	|	Pseudotsuga menziesii	|	3357
+1	|	thujopsis dolabrata	|	Thujopsis dolabrata	|	13727
+1	|	thuja plicata	|	Thuja plicata	|	3316
+3	|	sequoiadendron gigantum	|	 	|	 
+1	|	cryptomeria japonica	|	Cryptomeria japonica	|	3369
+3	|	platycladus orientalus	|	 	|	 
+1	|	callitris macleayana	|	Callitris macleayana	|	214231
+1	|	torreya taxifolia	|	Torreya taxifolia	|	156149
+1	|	widdringtonia cedarbergensis	|	Widdringtonia cedarbergensis	|	13760
+1	|	austrocedrus chilensis	|	Austrocedrus chilensis	|	103964
+1	|	pilgerodendron uviferum	|	Pilgerodendron uviferum	|	103979
+1	|	calocedrus decurrens	|	Calocedrus decurrens	|	13387
+1	|	cryptomeria japonica	|	Cryptomeria japonica	|	3369
+1	|	gnetum gnemon	|	Gnetum gnemon	|	3382
+1	|	welwitschia mirabilis	|	Welwitschia mirabilis	|	3377
+1	|	welwitschia mirabilis	|	Welwitschia mirabilis	|	3377
+1	|	podocarpus reichei	|	Podocarpus matudae var. reichei	|	197626
+1	|	metasequoia glyptostroboides	|	Metasequoia glyptostroboides	|	3371
+1	|	agathis robusta	|	Agathis robusta	|	60854
+1	|	encephalartos barteri	|	Encephalartos barteri	|	133428
+1	|	stangeria eriopus	|	Stangeria eriopus	|	34343
+1	|	cycas rumphii	|	Cycas rumphii	|	58031
+1	|	zamia vazquezii	|	Zamia vazquezii	|	501451
+1	|	ginkgo biloba	|	Ginkgo biloba	|	3311
+1	|	ginkgo biloba	|	Ginkgo biloba	|	3311
+1	|	ephedra sinica	|	Ephedra sinica	|	33152
+1	|	ephedra distachya	|	Ephedra distachya	|	3389
+1	|	cycas	|	Cycas	|	3395
+1	|	dioon edule	|	Dioon edule	|	58033
+1	|	cycas micholitzii	|	Cycas micholitzii	|	182486
+1	|	encephalartos barteri	|	Encephalartos barteri	|	133428
+1	|	ginkgo biloba	|	Ginkgo biloba	|	3311
+1	|	podocarpus rubens	|	Podocarpus rubens	|	1030203
+1	|	cryptomeria japonica	|	Cryptomeria japonica	|	3369
+1	|	torreya taxifolia	|	Torreya taxifolia	|	156149
+1	|	cathaya argyrophylla	|	Cathaya argyrophylla	|	64686
+1	|	picea abies	|	Picea abies	|	3329
+1	|	lagarostrobos franklinii	|	Lagarostrobos franklinii	|	56892
+1	|	manoao colensoi	|	Manoao colensoi	|	120598
+1	|	pseudotsuga menziesii	|	Pseudotsuga menziesii	|	3357
+3	|	picea parviflora	|	 	|	 
+1	|	pinus parviflora	|	Pinus parviflora	|	71644
+1	|	gnetum montanum	|	Gnetum montanum	|	3381
+1	|	welwitschia mirabilis	|	Welwitschia mirabilis	|	3377
+1	|	aristolochia fimbriata	|	Aristolochia fimbriata	|	158543
+1	|	aquilegia oxysepala	|	Aquilegia oxysepala	|	432649
+1	|	amborella	|	Amborella	|	13332
+1	|	arabidopsis thaliana	|	Arabidopsis thaliana	|	3702
+1	|	beta vulgaris	|	Beta vulgaris	|	161934
+1	|	erigeron canadensis	|	Erigeron canadensis	|	72917
+1	|	arabidopsis thaliana	|	Arabidopsis thaliana	|	3702
+1	|	coffea arabica	|	Coffea arabica	|	13443
+1	|	phaseolus vulgaris	|	Phaseolus vulgaris	|	3885
+1	|	vitis vinifera	|	Vitis vinifera	|	29760
+1	|	nymphaea thermarum	|	Nymphaea thermarum	|	419125
+1	|	nymphaea colorata	|	Nymphaea colorata	|	210225
+1	|	aristolochia fimbriata	|	Aristolochia fimbriata	|	158543
+1	|	aquilegia oxysepala	|	Aquilegia oxysepala	|	432649
+1	|	nymphaea thermarum	|	Nymphaea thermarum	|	419125
+1	|	amborella	|	Amborella	|	13332
+1	|	arabidopsis thaliana	|	Arabidopsis thaliana	|	3702
+1	|	beta vulgaris	|	Beta vulgaris	|	161934
+1	|	erigeron canadensis	|	Erigeron canadensis	|	72917
+1	|	coffea canephora	|	Coffea canephora	|	49390
+1	|	phaseolus vulgaris	|	Phaseolus vulgaris	|	3885
+1	|	vitis vinifera	|	Vitis vinifera	|	29760
+1	|	solanum tuberosum	|	Solanum tuberosum	|	4113
+1	|	illicium verum	|	Illicium verum	|	124778
+1	|	aristolochia fimbriata	|	Aristolochia fimbriata	|	158543
+1	|	aquilegia oxysepala	|	Aquilegia oxysepala	|	432649
+1	|	amborella	|	Amborella	|	13332
+1	|	arabidopsis thaliana	|	Arabidopsis thaliana	|	3702
+1	|	erigeron canadensis	|	Erigeron canadensis	|	72917
+1	|	coffea canephora	|	Coffea canephora	|	49390
+1	|	vitis vinifera	|	Vitis vinifera	|	29760
+1	|	phaseolus vulgaris	|	Phaseolus vulgaris	|	3885
+1	|	solanum tuberosum	|	Solanum tuberosum	|	4113
+1	|	illicium verum	|	Illicium verum	|	124778
+1	|	nymphaea colorata	|	Nymphaea colorata	|	210225
+1	|	nymphaea thermarum	|	Nymphaea thermarum	|	419125
+1	|	aristolochia fimbriata	|	Aristolochia fimbriata	|	158543
+1	|	aquilegia oxysepala	|	Aquilegia oxysepala	|	432649
+1	|	nymphaea colorata	|	Nymphaea colorata	|	210225
+1	|	nymphaea thermarum	|	Nymphaea thermarum	|	419125
+1	|	amborella	|	Amborella	|	13332
+1	|	beta vulgaris	|	Beta vulgaris	|	161934
+1	|	arabidopsis thaliana	|	Arabidopsis thaliana	|	3702
+1	|	erigeron canadensis	|	Erigeron canadensis	|	72917
+1	|	coffea canephora	|	Coffea canephora	|	49390
+1	|	phaseolus vulgaris	|	Phaseolus vulgaris	|	3885
+1	|	solanum tuberosum	|	Solanum tuberosum	|	4113
+1	|	vitis vinifera	|	Vitis vinifera	|	29760
+1	|	illicium verum	|	Illicium verum	|	124778
+3	|	heliantus	|	 	|	 
+1	|	Aristolochia manshuriensis	|	 	|	158555
+1	|	aristolochia fimbriata	|	Aristolochia fimbriata	|	158543
+1	|	aquilegia oxysepala	|	Aquilegia oxysepala	|	432649
+1	|	nymphaea colorata	|	Nymphaea colorata	|	210225
+1	|	nymphaea thermarum	|	Nymphaea thermarum	|	419125
+1	|	illicium floridanum	|	Illicium floridanum	|	13098
+1	|	arabidopsis thaliana	|	Arabidopsis thaliana	|	3702
+1	|	beta vulgaris	|	Beta vulgaris	|	161934
+1	|	coffea canephora	|	Coffea canephora	|	49390
+1	|	vitis vinifera	|	Vitis vinifera	|	29760
+1	|	phaseolus vulgaris	|	Phaseolus vulgaris	|	3885
+1	|	solanum tuberosum	|	Solanum tuberosum	|	4113
+1	|	amborella	|	Amborella	|	13332

@@ -1,0 +1,80 @@
+#NEXUS
+
+[!This data set was downloaded from TreeBASE, a relational database of phylogenetic knowledge. TreeBASE has been supported by the NSF, Harvard University, Yale University, SDSC and UC Davis. Please do not remove this acknowledgment from the Nexus file.
+
+
+Generated on February 02, 2023; 14:10 GMT
+
+TreeBASE (cc) 1994-2008
+
+Study reference:
+Gernandt D., Magallón S., Lopez G., Flores O., Willyard A., & Liston A. 2008. Use
+of simultaneous analyses to guide fossil-based calibrations of Pinaceae phylogeny.
+International Journal of Plant Sciences, null.
+
+TreeBASE Study URI:  http://purl.org/phylo/treebase/phylows/study/TB2:S1988]
+
+BEGIN TAXA;
+        TITLE  rbcL_and_matK;
+        DIMENSIONS NTAX=49;
+        TAXLABELS
+            Abies_hidalgensis
+            Amentotaxus_argotaenia
+            Araucaria_araucana
+            Cathaya_argyrophylla
+            Cedrus_deodara
+            Cryptomeria_japonica
+            Ginkgo_biloba
+            Keteleeria_davidiana
+            Larix_gmelinii
+            Nothotsuga_longibracteata
+            Picea_chihuahuana
+            Pinus_aristata
+            Pinus_balfouriana
+            Pinus_banksiana
+            Pinus_bungeana
+            Pinus_cembra
+            Pinus_cembroides
+            Pinus_contorta
+            Pinus_gerardiana
+            Pinus_halepensis
+            Pinus_heldreichii
+            Pinus_johannis
+            Pinus_krempfii
+            Pinus_leiophylla
+            Pinus_longaeva
+            Pinus_monophylla
+            Pinus_montezumae
+            Pinus_monticola
+            Pinus_nelsonii
+            Pinus_nigra
+            Pinus_palustris
+            Pinus_peuce
+            Pinus_pinceana
+            Pinus_pinea
+            Pinus_ponderosa
+            Pinus_pungens
+            Pinus_radiata
+            Pinus_resinosa
+            Pinus_roxburghii
+            Pinus_rzedowski
+            Pinus_squamata
+            Pinus_strobus
+            Pinus_sylvestris
+            Pinus_thunbergii
+            Podocarpus_elatus
+            Pseudolarix_amabilis
+            Pseudotsuga_menziesii
+            Sciadopitys_verticillata
+            Tsuga_canadensis
+            ;
+END;
+
+BEGIN TREES;
+      TITLE Tb8882;
+      LINK TAXA = rbcL_and_matK;
+      TREE 'Supp. Fig. Bayesian Majority-rule' = [&R] ((((((Abies_hidalgensis,Keteleeria_davidiana),(Pseudolarix_amabilis,(Nothotsuga_longibracteata,Tsuga_canadensis))),Cedrus_deodara)Abietoideae,((Larix_gmelinii,Pseudotsuga_menziesii),((Cathaya_argyrophylla,Picea_chihuahuana),((((Pinus_cembroides,(Pinus_johannis,Pinus_pinceana,Pinus_rzedowski),Pinus_monophylla),(Pinus_nelsonii,((Pinus_aristata,Pinus_longaeva),Pinus_balfouriana))),(((Pinus_bungeana,Pinus_gerardiana),Pinus_squamata),Pinus_krempfii,(Pinus_peuce,((Pinus_monticola,Pinus_cembra),Pinus_strobus)))),((((Pinus_ponderosa,Pinus_montezumae),(Pinus_pungens,(Pinus_leiophylla,Pinus_radiata),Pinus_palustris)),(Pinus_contorta,Pinus_banksiana)),((Pinus_heldreichii,(Pinus_roxburghii,Pinus_pinea,Pinus_halepensis)),(Pinus_resinosa,((Pinus_nigra,Pinus_sylvestris),Pinus_thunbergii)))))))Pinoideae)Pinaceae,((Araucaria_araucana,Podocarpus_elatus),((Amentotaxus_argotaenia,Cryptomeria_japonica),Sciadopitys_verticillata)))Conifers,Ginkgo_biloba);
+[!  TreeBASE tree URI: http://purl.org/phylo/treebase/phylows/tree/TB2:Tr2959]
+
+
+END;
