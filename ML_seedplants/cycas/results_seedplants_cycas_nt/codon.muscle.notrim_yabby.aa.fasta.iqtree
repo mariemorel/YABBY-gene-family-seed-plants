@@ -1,0 +1,652 @@
+IQ-TREE 2.0.3 built Dec 20 2020
+
+Partition file name: partitions.nx
+Input file name: codon.muscle.notrim_yabby.aa.fasta
+Type of analysis: tree reconstruction + ultrafast bootstrap (1000 replicates)
+Random seed number: 173267
+
+REFERENCES
+----------
+
+To cite IQ-TREE please use:
+
+Bui Quang Minh, Heiko A. Schmidt, Olga Chernomor, Dominik Schrempf,
+Michael D. Woodhams, Arndt von Haeseler, and Robert Lanfear (2020)
+IQ-TREE 2: New models and efficient methods for phylogenetic inference
+in the genomic era. Mol. Biol. Evol., in press.
+https://doi.org/10.1093/molbev/msaa015
+
+Since you used ultrafast bootstrap (UFBoot) please also cite: 
+
+Diep Thi Hoang, Olga Chernomor, Arndt von Haeseler, Bui Quang Minh,
+and Le Sy Vinh (2018) UFBoot2: Improving the ultrafast bootstrap
+approximation. Mol. Biol. Evol., 35:518–522.
+https://doi.org/10.1093/molbev/msx281
+
+Since you used partition models please also cite:
+
+Olga Chernomor, Arndt von Haeseler, and Bui Quang Minh (2016)
+Terrace aware data structure for phylogenomic inference from
+supermatrices. Syst. Biol., 65:997-1008.
+https://doi.org/10.1093/sysbio/syw037
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 138 taxa with 1 partitions and 1314 total sites (0% missing data)
+
+  ID  Name                                Type	Seq	Site	Unique	Infor	Invar	Const
+   1  codon.muscle.notrim_yabby.aa.fasta  DNA	138	1314	845	451	665	665
+
+Column meanings:
+  Unique: Number of unique site patterns
+  Infor:  Number of parsimony-informative sites
+  Invar:  Number of invariant sites
+  Const:  Number of constant sites (can be subset of invariant sites)
+
+SUBSTITUTION PROCESS
+--------------------
+
+Edge-linked-proportional partition model with separate substitution models and separate rates across sites
+
+  ID  Model           Speed  Parameters
+   1  GTR+F+I+R4     1.0000  GTR{1.46667,2.40275,1.05826,1.61407,2.27335}+F{0.312272,0.240204,0.225848,0.221677}+I{0.0810159}+R4{0.124614,0.0838131,0.171272,0.369439,0.296267,0.958145,0.326831,1.96559}
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -24710.6578 (s.e. 1149.5413)
+Unconstrained log-likelihood (without tree): -8390.7420
+Number of free parameters (#branches + #model parameters): 288
+Akaike information criterion (AIC) score: 49997.3156
+Corrected Akaike information criterion (AICc) score: 50159.7195
+Bayesian information criterion (BIC) score: 51489.3950
+
+Total tree length (sum of branch lengths): 29.1702
+Sum of internal branch lengths: 13.5908 (46.5915% of tree length)
+
+WARNING: 5 near-zero internal branches (<0.0008) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+NOTE: Tree is UNROOTED although outgroup taxon 'Gnetum_gnemon_YABD' is drawn at root
+Numbers in parentheses are  ultrafast bootstrap support (%)
+
++--Gnetum_gnemon_YABD
+|
+|                                    +-----ATR1091G097_Amborella_trichopoda_INO
+|                                 +--| (53)
+|                                 |  +--ptg002967l.1_augustus_arabido_INO_g2t2
+|                              +--| (48)
+|                              |  |           +--------ECA246G4000_Erigeron_canadensis_INO
+|                              |  |        +--| (52)
+|                              |  |        |  +-----EL10Ac6g13704_Beta_vulgaris_INO
+|                              |  |     +--| (56)
+|                              |  |     |  |     +---Phaseolus_vulgaris_INO
+|                              |  |     |  |  +--| (68)
+|                              |  |     |  |  |  +------arabido_INO
+|                              |  |     |  +--| (83)
+|                              |  |     |     +--GSVIVG01013778001_Vitis_vinifera_INO
+|                              |  |  +--| (97)
+|                              |  |  |  +----coffea_arabica_INO_g1.t1_g1.t2
+|                              |  +--| (92)
+|                              |     +--Aqoxy3G02889_Aquilegia_oxysepala_INO
+|                           +--| (36)
+|                           |  |     +**Nyth24944_Nymphaea_thermarum_INO
+|                           |  +-----| (100)
+|                           |        +--Nymphaea_colorata_INO
+|                   +-------| (100)
+|                   |       +---Af03G134500_Aristolochia_fimbriata_INO
+|                +--| (40)
+|                |  |        +--ptg000063l.71_Illicium_verum_FIL
+|                |  |     +--| (84)
+|                |  |     |  |                 +--AT2G45190_Arabidopsis_thaliana_FIL
+|                |  |     |  |              +--| (98)
+|                |  |     |  |              |  +--Phvul.010G079200_Phaseolus_vulgaris_FIL
+|                |  |     |  |           +--| (89)
+|                |  |     |  |           |  |  +--ECA236G3845_Erigeron_canadensis_FIL
+|                |  |     |  |           |  +--| (87)
+|                |  |     |  |           |     |  +--Cc00_g13830_Coffea_canephora_FIL
+|                |  |     |  |           |     +--| (94)
+|                |  |     |  |           |        +--PGSC0003DMG400025969_Solanum_tuberosum_FIL
+|                |  |     |  |        +--| (55)
+|                |  |     |  |        |  +--Aqoxy7G00718_Aquilegia_oxysepala_FIL
+|                |  |     |  |     +--| (82)
+|                |  |     |  |     |  +--GSVIVG01001269001_Vitis_vinifera_FIL
+|                |  |     |  |  +--| (99)
+|                |  |     |  |  |  +--Af02G072800_Aristolochia_fimbriata_FIL
+|                |  |     |  +--| (62)
+|                |  |     |     +--ATR1152G046_Amborella_trichopoda_FIL
+|                |  |  +--| (74)
+|                |  |  |  |  +**NC_045141_Nymphea_thermarum_FIL
+|                |  |  |  +--| (100)
+|                |  |  |     +**nymphaea_colorata_FIL
+|                |  +--| (64)
+|                |     |                                  +--Af07G024800_Aristolochia_fimbriata_CRC
+|                |     |                              +---| (100)
+|                |     |                              |   +--MN709147_Aristolochia_manshuriensis_CRC
+|                |     |                           +--| (72)
+|                |     |                           |  |  +--ECA246G3759_Erigeron_canadensis_CRC
+|                |     |                           |  +--| (100)
+|                |     |                           |     +--XM_023875587_heliantus_CRC
+|                |     |                        +--| (77)
+|                |     |                        |  +----AT1G69180_Arabidopsis_thaliana_CRC
+|                |     |                     +**| (45)
+|                |     |                     |  |  +--Cc11_g11750_Coffea_canephora_CRC
+|                |     |                     |  +--| (78)
+|                |     |                     |     +--PGSC0003DMG400028360_Solanum_tuberosum_CRC
+|                |     |                  +--| (45)
+|                |     |                  |  |  +---Aqoxy3G00537_Aquilegia_oxysepala_CRC
+|                |     |                  |  +--| (53)
+|                |     |                  |     +--GSVIVG01012246001_Vitis_vinifera_CRC
+|                |     |               +--| (75)
+|                |     |               |  +--Phvul.003G039800_Phaseolus_vulgaris_CRC
+|                |     |            +--| (95)
+|                |     |            |  +--EL10Ac6g15025_Beta_vulgaris_CRC
+|                |     |  +---------| (100)
+|                |     |  |         |         +--Nymphaea_colorata_CRC
+|                |     |  |         |  +------| (100)
+|                |     |  |         |  |      +--nymphaea_thermarum_CRC_corrected
+|                |     |  |         +--| (58)
+|                |     |  |            |  +--ptg000706l.62_Illicium_verum_CRC
+|                |     |  |            +--| (88)
+|                |     |  |               +--ATR0827G016_Amborella_trichopoda_CRC
+|                |     +**| (23)
+|                |        |             +--LN871571_Ephedra_distachya_YABB
+|                |        +-------------| (100)
+|                |                      +**SRX7580805_Ephedra_sinica_YABB
+|             +--| (43)
+|             |  |                 +--Af01G026600_Aristolochia_fimbriata_YAB5
+|             |  |              +--| (74)
+|             |  |              |  |  +--Aqoxy7G03677_Aquilegia_oxysepala_YAB5
+|             |  |              |  +--| (94)
+|             |  |              |     |     +---ECA234G3391_Erigeron_canadensis_YAB5
+|             |  |              |     |  +--| (42)
+|             |  |              |     |  |  +--Cc06_g08310_Coffea_canephora_YAB5
+|             |  |              |     +--| (95)
+|             |  |              |        |  +--GSVIVG01015567001_Vitis_vinifera_YAB5
+|             |  |              |        +--| (38)
+|             |  |              |           |  +--Phvul.003G166100_Phaseolus_vulgaris_YAB5
+|             |  |              |           +--| (73)
+|             |  |              |              |     +--PGSC0003DMG400030904_Solanum_tuberosum_YAB5
+|             |  |              |              |  +--| (58)
+|             |  |              |              |  |  +--AT2G26580_Arabidopsis_thaliana_YAB5
+|             |  |              |              +--| (52)
+|             |  |              |                 +--EL10Ac8g18683_Beta_vulgaris_YAB5
+|             |  |           +--| (96)
+|             |  |           |  +--ptg001084l.4_Illicium_verum_YAB5
+|             |  |        +--| (54)
+|             |  |        |  |                    +------------------------Leiosporoceros_dussii_YABBY
+|             |  |        |  |           +--------| (96)
+|             |  |        |  |           |        +-----Anthoceros_agrestis_YABBY
+|             |  |        |  +-----------| (99)
+|             |  |        |              |                         +**Huperzia_selago_YABBY
+|             |  |        |              |                      +--| (41)
+|             |  |        |              |                      |  +--Diphasiastrum_complanatum_YABBY
+|             |  |        |              |   +------------------| (100)
+|             |  |        |              |   |                  +--Phylloglossum_drummondii_YABBY
+|             |  |        |              +---| (68)
+|             |  |        |                  +--------------Sphagnum_magellanicum_YABBY
+|             |  |     +--| (65)
+|             |  |     |  |  +--ATR1120G104_Amborella_trichopoda_YAB5
+|             |  |     |  +--| (84)
+|             |  |     |     +--Nyth34502_Nymphaea_thermarum_YAB5
+|             |  |  +--| (58)
+|             |  |  |  |      +**Nyth27709_Nymphaea_thermarum_YAB2
+|             |  |  |  |  +---| (100)
+|             |  |  |  |  |   +--Nymphaea_colorata_YAB2
+|             |  |  |  +--| (96)
+|             |  |  |     |        +--Af05G185300_Aristolochia_fimbriata_YAB2
+|             |  |  |     |     +--| (96)
+|             |  |  |     |     |  |        +--Phvul.011G100300_Phaseolus_vulgaris_YAB2
+|             |  |  |     |     |  |     +--| (59)
+|             |  |  |     |     |  |     |  |     +---PGSC0003DMG400002988_Solanum_tuberosum_YAB2
+|             |  |  |     |     |  |     |  |  +--| (48)
+|             |  |  |     |     |  |     |  |  |  +--Cc01_g07860_Coffea_canephora_YAB2
+|             |  |  |     |     |  |     |  +--| (54)
+|             |  |  |     |     |  |     |     +---EL10Ac7g16274_Beta_vulgaris_YAB2
+|             |  |  |     |     |  |  +--| (44)
+|             |  |  |     |     |  |  |  +--GSVIVG01037533001_Vitis_vinifera_YAB2
+|             |  |  |     |     |  +--| (92)
+|             |  |  |     |     |     |  +---AT1G08465_Arabidopsis_thaliana_YAB2
+|             |  |  |     |     |     +--| (69)
+|             |  |  |     |     |        +---Aqoxy1G00610_Aquilegia_oxysepala_YAB2
+|             |  |  |     |  +--| (97)
+|             |  |  |     |  |  +--Illicium_floridanum_YAB2
+|             |  |  |     +--| (95)
+|             |  |  |        +--ATR0697G223_Amborella_trichopoda_YAB2
+|             |  +--| (55)
+|             |     |                 +--EFMS_2011421_Torreya_taxifolia_YABA
+|             |     |              +--| (46)
+|             |     |              |  +--LN871580_Taxus_globosa_YABA
+|             |     |           +--| (100)
+|             |     |           |  |  +--SEGI_22233_Sequoiadendron_giganteum_YABA
+|             |     |           |  +--| (100)
+|             |     |           |     +--HOUF_2008173_Cryptomeria_japonica_YABA
+|             |     |        +--| (96)
+|             |     |        |  |              +--MT557796_Picea_abies_YABA
+|             |     |        |  |           +--| (92)
+|             |     |        |  |           |  +--MT557794_Pinus_taeda_YABA
+|             |     |        |  |        +--| (61)
+|             |     |        |  |        |  +--IOVS_2054392_Pseudotsuga_menziesii_YABA
+|             |     |        |  |     +--| (87)
+|             |     |        |  |     |  +--GGEA_2065499_Cedrus_libani_YABA
+|             |     |        |  |  +--| (45)
+|             |     |        |  |  |  +--AQFM_2079843_Pseudolarix_amabilis_YABA
+|             |     |        |  +--| (100)
+|             |     |        |     |  +**GAMH_2053024_Tsuga_heterophylla_YABA
+|             |     |        |     +**| (49)
+|             |     |        |        +--VSRH_2054068_Abies_lasiocarpa_YABA
+|             |     |     +--| (88)
+|             |     |     |  +--SGTW_2038222_Ginkgo_biloba_YABA
+|             |     |  +--| (83)
+|             |     |  |  |     +--CYCAS_007102_YABA
+|             |     |  |  |  +--| (94)
+|             |     |  |  |  |  +--CYCAS_008411_YABA
+|             |     |  |  +--| (100)
+|             |     |  |     |  +--WLIC_2119747_Dioon_edule_YABA
+|             |     |  |     +--| (100)
+|             |     |  |        |  +--KAWQ_2053975_Stangeria_eriopus_YABA
+|             |     |  |        +--| (67)
+|             |     |  |           +--GNQG_2084875_Encephalartos_barteri_YABA
+|             |     +--| (35)
+|             |        |                      +--TOXE_2059736_Welwitschia_mirabilis_YABC
+|             |        |           +----------| (100)
+|             |        |           |          +--GTHK_2009293_Gnetum_montanum_YABC
+|             |        |        +--| (80)
+|             |        |        |  |        +--NPRL_2118154_Cathaya_agryrophylla_YABC
+|             |        |        |  |     +--| (66)
+|             |        |        |  |     |  |  +**MT557813_Picea_smithiana_YABC
+|             |        |        |  |     |  +--| (65)
+|             |        |        |  |     |     +--MT557797_Picea_abies_YABC
+|             |        |        |  |  +--| (65)
+|             |        |        |  |  |  +--LN871577_Pseudotsuga_menziesii_YABC
+|             |        |        |  +--| (86)
+|             |        |        |     +--IIOL_2013281_Pinus_parviflora_YABC
+|             |        |     +--| (84)
+|             |        |     |  |     +--DSXO_2008516_Cryptomeria_japonica_YABC
+|             |        |     |  |  +--| (99)
+|             |        |     |  |  |  +--EFMS_2079989_Torreya_taxifolia_YABC
+|             |        |     |  +--| (94)
+|             |        |     |     |     +--CDFR_2060093_Manoao_colensoi_YABC
+|             |        |     |     |  +--| (96)
+|             |        |     |     |  |  +--ZQWM_2088623_Lagarostrobos_franklinii_YABC
+|             |        |     |     +--| (97)
+|             |        |     |        +--XLGK_2057439_Podocarpus_rubens_YABC
+|             |        |  +--| (85)
+|             |        |  |  +--LN871575_Ginkgo_biloba_YABC
+|             |        +--| (67)
+|             |           |      +--GNQG_2006728_Encephalartos_barteri_YABC
+|             |           |   +--| (67)
+|             |           |   |  +--WLIC_2118877_Dioon_edule_YABC
+|             |           +---| (99)
+|             |               |  +--CYCAS_022386_YABC
+|             |               +--| (92)
+|             |                  +--XZUY_2001014_Cycas_micholitzii_YABC
+|          +--| (93)
+|          |  |                 +--MT557798_Picea_abies_YABB
+|          |  |              +--| (44)
+|          |  |              |  |     +--DZQM_2011000_Pinus_radiata_YABB
+|          |  |              |  |  +--| (100)
+|          |  |              |  |  |  +--MFTM_2008724_Pinus_jeffreyi_YABB
+|          |  |              |  +**| (32)
+|          |  |              |     +--MT557804_Cathaya_argyrophylla_YABB
+|          |  |           +--| (65)
+|          |  |           |  +--MT557805_Pseudotsuga_menziesii_YABB
+|          |  |        +--| (100)
+|          |  |        |  |  +--GAMH_2004073_Tsuga_heterophylla_YABB
+|          |  |        |  +--| (38)
+|          |  |        |     +--AQFM_2078156_Pseudolarix_amabilis_YABB
+|          |  |     +--| (94)
+|          |  |     |  |                     +--RMMV_2005731_Callitris_macleayana_YABB
+|          |  |     |  |                  +--| (99)
+|          |  |     |  |                  |  +--AUDE_2052541_Widdringtonia_cedarbergensis_YABB
+|          |  |     |  |               +--| (98)
+|          |  |     |  |               |  |  +--YYPE_2009774_Austrocedrus_chilensis_YABB
+|          |  |     |  |               |  +--| (60)
+|          |  |     |  |               |     +--ETCJ_2053114_Pilgerodendron_uviferum_YABB
+|          |  |     |  |            +--| (64)
+|          |  |     |  |            |  +--BUWV_2009738_Platycladus_orientalis_YABB
+|          |  |     |  |         +--| (86)
+|          |  |     |  |         |  |  +--NKIN_2045985_Thujopsis_dolabrata_YABB
+|          |  |     |  |         |  +--| (91)
+|          |  |     |  |         |     +--Thupl29377238s0018_Thuja_plicata_YABB
+|          |  |     |  |      +--| (88)
+|          |  |     |  |      |  +--XM_057992526_Cryptomeria_japonica_YABB
+|          |  |     |  |   +--| (99)
+|          |  |     |  |   |  +--SEGI_14550_Sequoiadendron_giganteum_YABB
+|          |  |     |  +---| (100)
+|          |  |     |      +--EFMS_2014223_Torreya_taxifolia_YABB
+|          |  |  +--| (36)
+|          |  |  |  |        +--LN871582_Zamia_vazquezii_YABD
+|          |  |  |  |     +**| (66)
+|          |  |  |  |     |  +--GNQG_2084490_Encephalartos_barteri_YABD
+|          |  |  |  |  +--| (81)
+|          |  |  |  |  |  +--KAWQ_2011477_Stangeria_eriopus_YABD
+|          |  |  |  +--| (99)
+|          |  |  |     +--LN871570_Cycas_rumphii_YABD
+|          |  +--| (52)
+|          |     |  +--LN871573_Ginkgo_biloba_YABD
+|          |     +--| (84)
+|          |        +--LN871574_Ginkgo_biloba_YABD
+|     +----| (100)
+|     |    |        +--MIXZ_2003483_Agathis_robusta_YABD
+|     |    |     +--| (99)
+|     |    |     |  +--XTZO_2061022_Metasequoia_glyptostroboides_YABD
+|     |    |  +--| (98)
+|     |    |  |  +--LN871579_Podocarpus_reichei_YABD
+|     |    +--| (94)
+|     |       |      +--HOUF_2104850_Cryptomeria_japonica_YABD
+|     |       +------| (100)
+|     |              +--FRPM_2056760_Calocedrus_decurrens_YABD
+|  +--| (61)
+|  |  |  +--VDAO_2030261_Ephedra_sinica_YABD
+|  |  +--| (100)
+|  |     +--LN871572_Ephedra_distachya_YABD
++--| (45)
+|  +--Wm7004.a02.313.g00180_Welwitschia_mirabilis_YABD
+|
++--TOXE_2011456_Welwitschia_mirabilis_YABD
+
+Tree in newick format:
+
+(Gnetum_gnemon_YABD:0.0315511967,((((((((((ATR1091G097_Amborella_trichopoda_INO:0.3463158647,ptg002967l.1_augustus_arabido_INO_g2t2:0.1893138827)53:0.0256147718,((((ECA246G4000_Erigeron_canadensis_INO:0.5177826433,EL10Ac6g13704_Beta_vulgaris_INO:0.3583998843)52:0.0435354191,((Phaseolus_vulgaris_INO:0.2472789336,arabido_INO:0.4246772956)68:0.0270554767,GSVIVG01013778001_Vitis_vinifera_INO:0.0395382472)83:0.0498605835)56:0.0312057569,coffea_arabica_INO_g1.t1_g1.t2:0.3252537611)97:0.0934725043,Aqoxy3G02889_Aquilegia_oxysepala_INO:0.2086128886)92:0.0957928266)48:0.0465888945,(Nyth24944_Nymphaea_thermarum_INO:0.0000021000,Nymphaea_colorata_INO:0.0448837021)100:0.3694144246)36:0.0371817638,Af03G134500_Aristolochia_fimbriata_INO:0.2555217101)100:0.4724609270,(((ptg000063l.71_Illicium_verum_FIL:0.1369012128,((((((AT2G45190_Arabidopsis_thaliana_FIL:0.1969268028,Phvul.010G079200_Phaseolus_vulgaris_FIL:0.0511183128)98:0.0452930423,(ECA236G3845_Erigeron_canadensis_FIL:0.1658508106,(Cc00_g13830_Coffea_canephora_FIL:0.0351221801,PGSC0003DMG400025969_Solanum_tuberosum_FIL:0.0702800777)94:0.0188067900)87:0.0169129948)89:0.0388569154,Aqoxy7G00718_Aquilegia_oxysepala_FIL:0.0919796315)55:0.0136780616,GSVIVG01001269001_Vitis_vinifera_FIL:0.0538470823)82:0.0246913708,Af02G072800_Aristolochia_fimbriata_FIL:0.0443241255)99:0.0818008572,ATR1152G046_Amborella_trichopoda_FIL:0.1220584148)62:0.0321135081)84:0.0731705062,(NC_045141_Nymphea_thermarum_FIL:0.0000027581,nymphaea_colorata_FIL:0.0000010017)100:0.1518294393)74:0.1221536647,(((((((((Af07G024800_Aristolochia_fimbriata_CRC:0.0713729305,MN709147_Aristolochia_manshuriensis_CRC:0.1404733147)100:0.2603242982,(ECA246G3759_Erigeron_canadensis_CRC:0.1047537225,XM_023875587_heliantus_CRC:0.0525424323)100:0.2076155623)72:0.0816521419,AT1G69180_Arabidopsis_thaliana_CRC:0.3280185735)77:0.0930975981,(Cc11_g11750_Coffea_canephora_CRC:0.0991939054,PGSC0003DMG400028360_Solanum_tuberosum_CRC:0.1036484504)78:0.0318834561)45:0.0000027732,(Aqoxy3G00537_Aquilegia_oxysepala_CRC:0.2493547712,GSVIVG01012246001_Vitis_vinifera_CRC:0.0112897677)53:0.0216751784)45:0.0082177604,Phvul.003G039800_Phaseolus_vulgaris_CRC:0.1273478325)75:0.0362554907,EL10Ac6g15025_Beta_vulgaris_CRC:0.1515823703)95:0.0768235692,((Nymphaea_colorata_CRC:0.0244386459,nymphaea_thermarum_CRC_corrected:0.0007703563)100:0.4296708341,(ptg000706l.62_Illicium_verum_CRC:0.1763824862,ATR0827G016_Amborella_trichopoda_CRC:0.2065690935)88:0.0951970159)58:0.0470123307)100:0.5963876043,(LN871571_Ephedra_distachya_YABB:0.0133092935,SRX7580805_Ephedra_sinica_YABB:0.0000022844)100:0.8171622401)23:0.0000027583)64:0.1011010703)40:0.0822051021,((((((Af01G026600_Aristolochia_fimbriata_YAB5:0.0644525214,(Aqoxy7G03677_Aquilegia_oxysepala_YAB5:0.0991575691,((ECA234G3391_Erigeron_canadensis_YAB5:0.2421822949,Cc06_g08310_Coffea_canephora_YAB5:0.1171025103)42:0.0033568265,(GSVIVG01015567001_Vitis_vinifera_YAB5:0.0157703956,(Phvul.003G166100_Phaseolus_vulgaris_YAB5:0.0799521311,((PGSC0003DMG400030904_Solanum_tuberosum_YAB5:0.0974139603,AT2G26580_Arabidopsis_thaliana_YAB5:0.1651348982)58:0.0280772006,EL10Ac8g18683_Beta_vulgaris_YAB5:0.1745248004)52:0.0242172349)73:0.0280940918)38:0.0129243220)95:0.0422452964)94:0.0445613610)74:0.0297163824,ptg001084l.4_Illicium_verum_YAB5:0.1392184082)96:0.0663951087,((Leiosporoceros_dussii_YABBY:1.4216136039,Anthoceros_agrestis_YABBY:0.3735306480)96:0.5443990690,(((Huperzia_selago_YABBY:0.0000028665,Diphasiastrum_complanatum_YABBY:0.1950002079)41:0.0302197444,Phylloglossum_drummondii_YABBY:0.0518551703)100:1.0853875540,Sphagnum_magellanicum_YABBY:0.8662496700)68:0.2508384895)99:0.6805139978)54:0.0308539760,(ATR1120G104_Amborella_trichopoda_YAB5:0.2160930749,Nyth34502_Nymphaea_thermarum_YAB5:0.1314135643)84:0.0520958208)65:0.0589662532,((Nyth27709_Nymphaea_thermarum_YAB2:0.0000027044,Nymphaea_colorata_YAB2:0.0517896482)100:0.2685884835,(((Af05G185300_Aristolochia_fimbriata_YAB2:0.1872451292,(((Phvul.011G100300_Phaseolus_vulgaris_YAB2:0.1085289958,((PGSC0003DMG400002988_Solanum_tuberosum_YAB2:0.2731189460,Cc01_g07860_Coffea_canephora_YAB2:0.0546181607)48:0.0123619790,EL10Ac7g16274_Beta_vulgaris_YAB2:0.2664863777)54:0.0245816534)59:0.0174580008,GSVIVG01037533001_Vitis_vinifera_YAB2:0.0529696457)44:0.0140990819,(AT1G08465_Arabidopsis_thaliana_YAB2:0.2418548727,Aqoxy1G00610_Aquilegia_oxysepala_YAB2:0.2280748303)69:0.0311308178)92:0.0512951406)96:0.0507416060,Illicium_floridanum_YAB2:0.1039842313)97:0.0632731933,ATR0697G223_Amborella_trichopoda_YAB2:0.1855240159)95:0.0392687065)96:0.1005819153)58:0.0709837290,((((((EFMS_2011421_Torreya_taxifolia_YABA:0.0599654855,LN871580_Taxus_globosa_YABA:0.0436200747)46:0.0124203684,(SEGI_22233_Sequoiadendron_giganteum_YABA:0.0454002397,HOUF_2008173_Cryptomeria_japonica_YABA:0.0180650821)100:0.0521131986)100:0.0732809634,(((((MT557796_Picea_abies_YABA:0.0331727113,MT557794_Pinus_taeda_YABA:0.0608384426)92:0.0232586009,IOVS_2054392_Pseudotsuga_menziesii_YABA:0.0476765299)61:0.0184548652,GGEA_2065499_Cedrus_libani_YABA:0.0300976806)87:0.0187078123,AQFM_2079843_Pseudolarix_amabilis_YABA:0.0272355131)45:0.0065194330,(GAMH_2053024_Tsuga_heterophylla_YABA:0.0000023669,VSRH_2054068_Abies_lasiocarpa_YABA:0.0646249672)49:0.0000023507)100:0.1094159632)96:0.0563391301,SGTW_2038222_Ginkgo_biloba_YABA:0.0875160313)88:0.0163353143,((CYCAS_007102_YABA:0.0124866335,CYCAS_008411_YABA:0.1183359000)94:0.0151332870,(WLIC_2119747_Dioon_edule_YABA:0.0285607822,(KAWQ_2053975_Stangeria_eriopus_YABA:0.0607370698,GNQG_2084875_Encephalartos_barteri_YABA:0.0260675196)67:0.0051152466)100:0.0582791788)100:0.0907453047)83:0.0338618874,(((((TOXE_2059736_Welwitschia_mirabilis_YABC:0.0421636896,GTHK_2009293_Gnetum_montanum_YABC:0.2000781852)100:0.6142175760,(((NPRL_2118154_Cathaya_agryrophylla_YABC:0.0248996442,(MT557813_Picea_smithiana_YABC:0.0000024873,MT557797_Picea_abies_YABC:0.0075020974)65:0.0067062650)66:0.0031934708,LN871577_Pseudotsuga_menziesii_YABC:0.0067262070)65:0.0070196341,IIOL_2013281_Pinus_parviflora_YABC:0.0031533692)86:0.0611930445)80:0.0760977174,((DSXO_2008516_Cryptomeria_japonica_YABC:0.0508782552,EFMS_2079989_Torreya_taxifolia_YABC:0.0492528235)99:0.0633283096,((CDFR_2060093_Manoao_colensoi_YABC:0.0207807077,ZQWM_2088623_Lagarostrobos_franklinii_YABC:0.0267284085)96:0.0447043957,XLGK_2057439_Podocarpus_rubens_YABC:0.0473758198)97:0.0705902643)94:0.0721263183)84:0.0805898294,LN871575_Ginkgo_biloba_YABC:0.1596564819)85:0.1235960997,((GNQG_2006728_Encephalartos_barteri_YABC:0.0765225617,WLIC_2118877_Dioon_edule_YABC:0.0501506542)67:0.0324334993,(CYCAS_022386_YABC:0.0117300533,XZUY_2001014_Cycas_micholitzii_YABC:0.0535743965)92:0.1449636172)99:0.2567023856)67:0.0551637073)35:0.0155331553)55:0.0430938303)43:0.0153381231,((((((MT557798_Picea_abies_YABB:0.0425630378,((DZQM_2011000_Pinus_radiata_YABB:0.0104117344,MFTM_2008724_Pinus_jeffreyi_YABB:0.0143583784)100:0.0652624938,MT557804_Cathaya_argyrophylla_YABB:0.0593486686)32:0.0000021150)44:0.0038660493,MT557805_Pseudotsuga_menziesii_YABB:0.0398328090)65:0.0083004251,(GAMH_2004073_Tsuga_heterophylla_YABB:0.0379727621,AQFM_2078156_Pseudolarix_amabilis_YABB:0.0498201290)38:0.0069049361)100:0.1975295583,(((((((RMMV_2005731_Callitris_macleayana_YABB:0.0652969428,AUDE_2052541_Widdringtonia_cedarbergensis_YABB:0.0221047185)99:0.0314918468,(YYPE_2009774_Austrocedrus_chilensis_YABB:0.0208424944,ETCJ_2053114_Pilgerodendron_uviferum_YABB:0.0553371257)60:0.0086559611)98:0.0316324950,BUWV_2009738_Platycladus_orientalis_YABB:0.0507720869)64:0.0233995968,(NKIN_2045985_Thujopsis_dolabrata_YABB:0.0095032161,Thupl29377238s0018_Thuja_plicata_YABB:0.0155251105)91:0.0152998345)86:0.0147781654,XM_057992526_Cryptomeria_japonica_YABB:0.0466325467)88:0.0126423222,SEGI_14550_Sequoiadendron_giganteum_YABB:0.0372753797)99:0.0847723857,EFMS_2014223_Torreya_taxifolia_YABB:0.1173279359)100:0.2732920582)94:0.2134406486,(((LN871582_Zamia_vazquezii_YABD:0.0860383999,GNQG_2084490_Encephalartos_barteri_YABD:0.0086912096)66:0.0000029099,KAWQ_2011477_Stangeria_eriopus_YABD:0.0236367481)81:0.0231964957,LN871570_Cycas_rumphii_YABD:0.0290630994)99:0.1052331472)36:0.0189840613,(LN871573_Ginkgo_biloba_YABD:0.1880486455,LN871574_Ginkgo_biloba_YABD:0.1792488992)84:0.0673096985)52:0.0501837475)93:0.1459752599,(((MIXZ_2003483_Agathis_robusta_YABD:0.0452803851,XTZO_2061022_Metasequoia_glyptostroboides_YABD:0.0536756145)99:0.0684805582,LN871579_Podocarpus_reichei_YABD:0.0919868455)98:0.1677597928,(HOUF_2104850_Cryptomeria_japonica_YABD:0.0524984031,FRPM_2056760_Calocedrus_decurrens_YABD:0.0826034055)100:0.4077697785)94:0.1337605837)100:0.2800853750,(VDAO_2030261_Ephedra_sinica_YABD:0.0264840929,LN871572_Ephedra_distachya_YABD:0.0014054495)100:0.1931721858)61:0.0418086868,Wm7004.a02.313.g00180_Welwitschia_mirabilis_YABD:0.0734008753)45:0.0160920608,TOXE_2011456_Welwitschia_mirabilis_YABD:0.1715187756);
+
+CONSENSUS TREE
+--------------
+
+Consensus tree is constructed from 1000 bootstrap trees
+Log-likelihood of consensus tree: -24711.473210
+Robinson-Foulds distance between ML tree and consensus tree: 10
+
+Branches with support >0.000000% are kept (extended consensus)
+Branch lengths are optimized by maximum likelihood on original alignment
+Numbers in parentheses are bootstrap supports (%)
+
++--Gnetum_gnemon_YABD
+|
+|                                    +-----ATR1091G097_Amborella_trichopoda_INO
+|                                 +--| (53)
+|                                 |  +--ptg002967l.1_augustus_arabido_INO_g2t2
+|                              +--| (48)
+|                              |  |           +--------ECA246G4000_Erigeron_canadensis_INO
+|                              |  |        +--| (52)
+|                              |  |        |  +-----EL10Ac6g13704_Beta_vulgaris_INO
+|                              |  |     +--| (56)
+|                              |  |     |  |     +---Phaseolus_vulgaris_INO
+|                              |  |     |  |  +--| (68)
+|                              |  |     |  |  |  +------arabido_INO
+|                              |  |     |  +--| (83)
+|                              |  |     |     +--GSVIVG01013778001_Vitis_vinifera_INO
+|                              |  |  +--| (97)
+|                              |  |  |  +----coffea_arabica_INO_g1.t1_g1.t2
+|                              |  +--| (92)
+|                              |     +--Aqoxy3G02889_Aquilegia_oxysepala_INO
+|                           +--| (45)
+|                           |  +----Af03G134500_Aristolochia_fimbriata_INO
+|                   +-------| (100)
+|                   |       |     +--Nyth24944_Nymphaea_thermarum_INO
+|                   |       +-----| (100)
+|                   |             +--Nymphaea_colorata_INO
+|                +--| (40)
+|                |  |           +--ptg000063l.71_Illicium_verum_FIL
+|                |  |        +--| (84)
+|                |  |        |  |                 +--AT2G45190_Arabidopsis_thaliana_FIL
+|                |  |        |  |              +--| (98)
+|                |  |        |  |              |  +--Phvul.010G079200_Phaseolus_vulgaris_FIL
+|                |  |        |  |           +--| (89)
+|                |  |        |  |           |  |  +--ECA236G3845_Erigeron_canadensis_FIL
+|                |  |        |  |           |  +--| (87)
+|                |  |        |  |           |     |  +--Cc00_g13830_Coffea_canephora_FIL
+|                |  |        |  |           |     +--| (94)
+|                |  |        |  |           |        +--PGSC0003DMG400025969_Solanum_tuberosum_FIL
+|                |  |        |  |        +--| (55)
+|                |  |        |  |        |  +--Aqoxy7G00718_Aquilegia_oxysepala_FIL
+|                |  |        |  |     +--| (82)
+|                |  |        |  |     |  +--GSVIVG01001269001_Vitis_vinifera_FIL
+|                |  |        |  |  +--| (99)
+|                |  |        |  |  |  +--Af02G072800_Aristolochia_fimbriata_FIL
+|                |  |        |  +--| (62)
+|                |  |        |     +--ATR1152G046_Amborella_trichopoda_FIL
+|                |  |     +--| (74)
+|                |  |     |  |  +--NC_045141_Nymphea_thermarum_FIL
+|                |  |     |  +--| (100)
+|                |  |     |     +--nymphaea_colorata_FIL
+|                |  |  +--| (35)
+|                |  |  |  |             +--LN871571_Ephedra_distachya_YABB
+|                |  |  |  +-------------| (100)
+|                |  |  |                +--SRX7580805_Ephedra_sinica_YABB
+|                |  +--| (64)
+|                |     |                               +--Af07G024800_Aristolochia_fimbriata_CRC
+|                |     |                           +---| (100)
+|                |     |                           |   +--MN709147_Aristolochia_manshuriensis_CRC
+|                |     |                        +--| (72)
+|                |     |                        |  |  +--ECA246G3759_Erigeron_canadensis_CRC
+|                |     |                        |  +--| (100)
+|                |     |                        |     +--XM_023875587_heliantus_CRC
+|                |     |                     +--| (77)
+|                |     |                     |  +----AT1G69180_Arabidopsis_thaliana_CRC
+|                |     |                  +--| (45)
+|                |     |                  |  |  +--Cc11_g11750_Coffea_canephora_CRC
+|                |     |                  |  +--| (78)
+|                |     |                  |     +--PGSC0003DMG400028360_Solanum_tuberosum_CRC
+|                |     |               +--| (45)
+|                |     |               |  |  +---Aqoxy3G00537_Aquilegia_oxysepala_CRC
+|                |     |               |  +--| (53)
+|                |     |               |     +--GSVIVG01012246001_Vitis_vinifera_CRC
+|                |     |            +--| (75)
+|                |     |            |  +--Phvul.003G039800_Phaseolus_vulgaris_CRC
+|                |     |         +--| (95)
+|                |     |         |  +--EL10Ac6g15025_Beta_vulgaris_CRC
+|                |     +---------| (100)
+|                |               |         +--Nymphaea_colorata_CRC
+|                |               |  +------| (100)
+|                |               |  |      +--nymphaea_thermarum_CRC_corrected
+|                |               +--| (58)
+|                |                  |  +--ptg000706l.62_Illicium_verum_CRC
+|                |                  +--| (88)
+|                |                     +--ATR0827G016_Amborella_trichopoda_CRC
+|             +--| (43)
+|             |  |                 +--Af01G026600_Aristolochia_fimbriata_YAB5
+|             |  |              +--| (74)
+|             |  |              |  |  +--Aqoxy7G03677_Aquilegia_oxysepala_YAB5
+|             |  |              |  +--| (94)
+|             |  |              |     |     +---ECA234G3391_Erigeron_canadensis_YAB5
+|             |  |              |     |  +--| (42)
+|             |  |              |     |  |  +--Cc06_g08310_Coffea_canephora_YAB5
+|             |  |              |     +--| (95)
+|             |  |              |        |  +--GSVIVG01015567001_Vitis_vinifera_YAB5
+|             |  |              |        +--| (38)
+|             |  |              |           |  +--Phvul.003G166100_Phaseolus_vulgaris_YAB5
+|             |  |              |           +--| (73)
+|             |  |              |              |     +--PGSC0003DMG400030904_Solanum_tuberosum_YAB5
+|             |  |              |              |  +--| (58)
+|             |  |              |              |  |  +--AT2G26580_Arabidopsis_thaliana_YAB5
+|             |  |              |              +--| (52)
+|             |  |              |                 +--EL10Ac8g18683_Beta_vulgaris_YAB5
+|             |  |           +--| (96)
+|             |  |           |  +--ptg001084l.4_Illicium_verum_YAB5
+|             |  |        +--| (54)
+|             |  |        |  |                    +------------------------Leiosporoceros_dussii_YABBY
+|             |  |        |  |           +--------| (96)
+|             |  |        |  |           |        +-----Anthoceros_agrestis_YABBY
+|             |  |        |  +-----------| (99)
+|             |  |        |              |                         +--Huperzia_selago_YABBY
+|             |  |        |              |                      +--| (57)
+|             |  |        |              |                      |  +--Phylloglossum_drummondii_YABBY
+|             |  |        |              |   +------------------| (100)
+|             |  |        |              |   |                  +--Diphasiastrum_complanatum_YABBY
+|             |  |        |              +---| (68)
+|             |  |        |                  +--------------Sphagnum_magellanicum_YABBY
+|             |  |     +--| (65)
+|             |  |     |  |  +--ATR1120G104_Amborella_trichopoda_YAB5
+|             |  |     |  +--| (84)
+|             |  |     |     +--Nyth34502_Nymphaea_thermarum_YAB5
+|             |  |  +--| (58)
+|             |  |  |  |      +--Nyth27709_Nymphaea_thermarum_YAB2
+|             |  |  |  |  +---| (100)
+|             |  |  |  |  |   +--Nymphaea_colorata_YAB2
+|             |  |  |  +--| (96)
+|             |  |  |     |        +--Af05G185300_Aristolochia_fimbriata_YAB2
+|             |  |  |     |     +--| (96)
+|             |  |  |     |     |  |        +--Phvul.011G100300_Phaseolus_vulgaris_YAB2
+|             |  |  |     |     |  |     +--| (59)
+|             |  |  |     |     |  |     |  |     +---PGSC0003DMG400002988_Solanum_tuberosum_YAB2
+|             |  |  |     |     |  |     |  |  +--| (48)
+|             |  |  |     |     |  |     |  |  |  +--Cc01_g07860_Coffea_canephora_YAB2
+|             |  |  |     |     |  |     |  +--| (54)
+|             |  |  |     |     |  |     |     +---EL10Ac7g16274_Beta_vulgaris_YAB2
+|             |  |  |     |     |  |  +--| (44)
+|             |  |  |     |     |  |  |  +--GSVIVG01037533001_Vitis_vinifera_YAB2
+|             |  |  |     |     |  +--| (92)
+|             |  |  |     |     |     |  +---AT1G08465_Arabidopsis_thaliana_YAB2
+|             |  |  |     |     |     +--| (69)
+|             |  |  |     |     |        +---Aqoxy1G00610_Aquilegia_oxysepala_YAB2
+|             |  |  |     |  +--| (97)
+|             |  |  |     |  |  +--Illicium_floridanum_YAB2
+|             |  |  |     +--| (95)
+|             |  |  |        +--ATR0697G223_Amborella_trichopoda_YAB2
+|             |  +--| (55)
+|             |     |                 +--EFMS_2011421_Torreya_taxifolia_YABA
+|             |     |              +--| (46)
+|             |     |              |  +--LN871580_Taxus_globosa_YABA
+|             |     |           +--| (100)
+|             |     |           |  |  +--SEGI_22233_Sequoiadendron_giganteum_YABA
+|             |     |           |  +--| (100)
+|             |     |           |     +--HOUF_2008173_Cryptomeria_japonica_YABA
+|             |     |        +--| (96)
+|             |     |        |  |              +--MT557796_Picea_abies_YABA
+|             |     |        |  |           +--| (92)
+|             |     |        |  |           |  +--MT557794_Pinus_taeda_YABA
+|             |     |        |  |        +--| (61)
+|             |     |        |  |        |  +--IOVS_2054392_Pseudotsuga_menziesii_YABA
+|             |     |        |  |     +--| (87)
+|             |     |        |  |     |  +--GGEA_2065499_Cedrus_libani_YABA
+|             |     |        |  |  +--| (45)
+|             |     |        |  |  |  +--AQFM_2079843_Pseudolarix_amabilis_YABA
+|             |     |        |  +--| (100)
+|             |     |        |     |  +--GAMH_2053024_Tsuga_heterophylla_YABA
+|             |     |        |     +--| (49)
+|             |     |        |        +--VSRH_2054068_Abies_lasiocarpa_YABA
+|             |     |     +--| (88)
+|             |     |     |  +--SGTW_2038222_Ginkgo_biloba_YABA
+|             |     |  +--| (83)
+|             |     |  |  |     +--CYCAS_007102_YABA
+|             |     |  |  |  +--| (94)
+|             |     |  |  |  |  +--CYCAS_008411_YABA
+|             |     |  |  +--| (100)
+|             |     |  |     |  +--WLIC_2119747_Dioon_edule_YABA
+|             |     |  |     +--| (100)
+|             |     |  |        |  +--KAWQ_2053975_Stangeria_eriopus_YABA
+|             |     |  |        +--| (67)
+|             |     |  |           +--GNQG_2084875_Encephalartos_barteri_YABA
+|             |     +--| (35)
+|             |        |                      +--TOXE_2059736_Welwitschia_mirabilis_YABC
+|             |        |           +----------| (100)
+|             |        |           |          +--GTHK_2009293_Gnetum_montanum_YABC
+|             |        |        +--| (80)
+|             |        |        |  |        +--NPRL_2118154_Cathaya_agryrophylla_YABC
+|             |        |        |  |     +--| (66)
+|             |        |        |  |     |  |  +--MT557813_Picea_smithiana_YABC
+|             |        |        |  |     |  +--| (65)
+|             |        |        |  |     |     +--MT557797_Picea_abies_YABC
+|             |        |        |  |  +--| (65)
+|             |        |        |  |  |  +--LN871577_Pseudotsuga_menziesii_YABC
+|             |        |        |  +--| (86)
+|             |        |        |     +--IIOL_2013281_Pinus_parviflora_YABC
+|             |        |     +--| (84)
+|             |        |     |  |     +--DSXO_2008516_Cryptomeria_japonica_YABC
+|             |        |     |  |  +--| (99)
+|             |        |     |  |  |  +--EFMS_2079989_Torreya_taxifolia_YABC
+|             |        |     |  +--| (94)
+|             |        |     |     |     +--CDFR_2060093_Manoao_colensoi_YABC
+|             |        |     |     |  +--| (96)
+|             |        |     |     |  |  +--ZQWM_2088623_Lagarostrobos_franklinii_YABC
+|             |        |     |     +--| (97)
+|             |        |     |        +--XLGK_2057439_Podocarpus_rubens_YABC
+|             |        |  +--| (85)
+|             |        |  |  +--LN871575_Ginkgo_biloba_YABC
+|             |        +--| (67)
+|             |           |      +--GNQG_2006728_Encephalartos_barteri_YABC
+|             |           |   +--| (67)
+|             |           |   |  +--WLIC_2118877_Dioon_edule_YABC
+|             |           +---| (99)
+|             |               |  +--CYCAS_022386_YABC
+|             |               +--| (92)
+|             |                  +--XZUY_2001014_Cycas_micholitzii_YABC
+|          +--| (93)
+|          |  |                       +--MT557798_Picea_abies_YABB
+|          |  |                    +--| (42)
+|          |  |                    |  |  +--DZQM_2011000_Pinus_radiata_YABB
+|          |  |                    |  +--| (100)
+|          |  |                    |     +--MFTM_2008724_Pinus_jeffreyi_YABB
+|          |  |                 +--| (44)
+|          |  |                 |  +--MT557804_Cathaya_argyrophylla_YABB
+|          |  |              +--| (65)
+|          |  |              |  +--MT557805_Pseudotsuga_menziesii_YABB
+|          |  |           +--| (43)
+|          |  |           |  +--GAMH_2004073_Tsuga_heterophylla_YABB
+|          |  |        +--| (100)
+|          |  |        |  +--AQFM_2078156_Pseudolarix_amabilis_YABB
+|          |  |     +--| (94)
+|          |  |     |  |                     +--RMMV_2005731_Callitris_macleayana_YABB
+|          |  |     |  |                  +--| (99)
+|          |  |     |  |                  |  +--AUDE_2052541_Widdringtonia_cedarbergensis_YABB
+|          |  |     |  |               +--| (98)
+|          |  |     |  |               |  |  +--YYPE_2009774_Austrocedrus_chilensis_YABB
+|          |  |     |  |               |  +--| (60)
+|          |  |     |  |               |     +--ETCJ_2053114_Pilgerodendron_uviferum_YABB
+|          |  |     |  |            +--| (64)
+|          |  |     |  |            |  +--BUWV_2009738_Platycladus_orientalis_YABB
+|          |  |     |  |         +--| (86)
+|          |  |     |  |         |  |  +--NKIN_2045985_Thujopsis_dolabrata_YABB
+|          |  |     |  |         |  +--| (91)
+|          |  |     |  |         |     +--Thupl29377238s0018_Thuja_plicata_YABB
+|          |  |     |  |      +--| (88)
+|          |  |     |  |      |  +--XM_057992526_Cryptomeria_japonica_YABB
+|          |  |     |  |   +--| (99)
+|          |  |     |  |   |  +--SEGI_14550_Sequoiadendron_giganteum_YABB
+|          |  |     |  +---| (100)
+|          |  |     |      +--EFMS_2014223_Torreya_taxifolia_YABB
+|          |  |  +--| (36)
+|          |  |  |  |        +--LN871582_Zamia_vazquezii_YABD
+|          |  |  |  |     +--| (66)
+|          |  |  |  |     |  +--GNQG_2084490_Encephalartos_barteri_YABD
+|          |  |  |  |  +--| (81)
+|          |  |  |  |  |  +--KAWQ_2011477_Stangeria_eriopus_YABD
+|          |  |  |  +--| (99)
+|          |  |  |     +--LN871570_Cycas_rumphii_YABD
+|          |  +--| (52)
+|          |     |  +--LN871573_Ginkgo_biloba_YABD
+|          |     +--| (84)
+|          |        +--LN871574_Ginkgo_biloba_YABD
+|     +----| (100)
+|     |    |        +--MIXZ_2003483_Agathis_robusta_YABD
+|     |    |     +--| (99)
+|     |    |     |  +--XTZO_2061022_Metasequoia_glyptostroboides_YABD
+|     |    |  +--| (98)
+|     |    |  |  +--LN871579_Podocarpus_reichei_YABD
+|     |    +--| (94)
+|     |       |      +--HOUF_2104850_Cryptomeria_japonica_YABD
+|     |       +------| (100)
+|     |              +--FRPM_2056760_Calocedrus_decurrens_YABD
+|  +--| (61)
+|  |  |  +--VDAO_2030261_Ephedra_sinica_YABD
+|  |  +--| (100)
+|  |     +--LN871572_Ephedra_distachya_YABD
++--| (45)
+|  +--Wm7004.a02.313.g00180_Welwitschia_mirabilis_YABD
+|
++--TOXE_2011456_Welwitschia_mirabilis_YABD
+
+
+Consensus tree in newick format: 
+
+(Gnetum_gnemon_YABD:0.0315154004,((((((((((ATR1091G097_Amborella_trichopoda_INO:0.3435440890,ptg002967l.1_augustus_arabido_INO_g2t2:0.1892507437)53:0.0259039833,((((ECA246G4000_Erigeron_canadensis_INO:0.5145557242,EL10Ac6g13704_Beta_vulgaris_INO:0.3548141575)52:0.0477578821,((Phaseolus_vulgaris_INO:0.2463435325,arabido_INO:0.4235116339)68:0.0270358351,GSVIVG01013778001_Vitis_vinifera_INO:0.0398285021)83:0.0474498089)56:0.0312087269,coffea_arabica_INO_g1.t1_g1.t2:0.3249401905)97:0.0929411370,Aqoxy3G02889_Aquilegia_oxysepala_INO:0.2083511243)92:0.0946222944)48:0.0491443703,Af03G134500_Aristolochia_fimbriata_INO:0.2803885044)45:0.0491640560,(Nyth24944_Nymphaea_thermarum_INO:0.0000021735,Nymphaea_colorata_INO:0.0448436457)100:0.3330153698)100:0.4690278896,((((ptg000063l.71_Illicium_verum_FIL:0.1366627793,((((((AT2G45190_Arabidopsis_thaliana_FIL:0.1963659649,Phvul.010G079200_Phaseolus_vulgaris_FIL:0.0510027577)98:0.0451756248,(ECA236G3845_Erigeron_canadensis_FIL:0.1654574651,(Cc00_g13830_Coffea_canephora_FIL:0.0350389095,PGSC0003DMG400025969_Solanum_tuberosum_FIL:0.0701052553)94:0.0187713167)87:0.0168569529)89:0.0387796772,Aqoxy7G00718_Aquilegia_oxysepala_FIL:0.0918006950)55:0.0136207309,GSVIVG01001269001_Vitis_vinifera_FIL:0.0537434383)82:0.0246534687,Af02G072800_Aristolochia_fimbriata_FIL:0.0442213167)99:0.0815555302,ATR1152G046_Amborella_trichopoda_FIL:0.1218077067)62:0.0318962481)84:0.0737855738,(NC_045141_Nymphea_thermarum_FIL:0.0000024860,nymphaea_colorata_FIL:0.0000024860)100:0.1507224490)74:0.1213730152,(LN871571_Ephedra_distachya_YABB:0.0132715261,SRX7580805_Ephedra_sinica_YABB:0.0000022439)100:0.8131569198)35:0.0000024770,((((((((Af07G024800_Aristolochia_fimbriata_CRC:0.0711334443,MN709147_Aristolochia_manshuriensis_CRC:0.1400934831)100:0.2594313295,(ECA246G3759_Erigeron_canadensis_CRC:0.1046125613,XM_023875587_heliantus_CRC:0.0523011078)100:0.2067957967)72:0.0813990457,AT1G69180_Arabidopsis_thaliana_CRC:0.3268000844)77:0.0929719256,(Cc11_g11750_Coffea_canephora_CRC:0.0988792839,PGSC0003DMG400028360_Solanum_tuberosum_CRC:0.1033593203)78:0.0317700844)45:0.0000027584,(Aqoxy3G00537_Aquilegia_oxysepala_CRC:0.2486112062,GSVIVG01012246001_Vitis_vinifera_CRC:0.0112615024)53:0.0216103698)45:0.0082633027,Phvul.003G039800_Phaseolus_vulgaris_CRC:0.1268954783)75:0.0360936679,EL10Ac6g15025_Beta_vulgaris_CRC:0.1511125655)95:0.0767545736,((Nymphaea_colorata_CRC:0.0215642272,nymphaea_thermarum_CRC_corrected:0.0032828904)100:0.4281689741,(ptg000706l.62_Illicium_verum_CRC:0.1760757569,ATR0827G016_Amborella_trichopoda_CRC:0.2057551750)88:0.0960990173)58:0.0457148707)100:0.5929419091)64:0.1105503210)40:0.0722772673,((((((Af01G026600_Aristolochia_fimbriata_YAB5:0.0643421361,(Aqoxy7G03677_Aquilegia_oxysepala_YAB5:0.0988907009,((ECA234G3391_Erigeron_canadensis_YAB5:0.2416072603,Cc06_g08310_Coffea_canephora_YAB5:0.1168542970)42:0.0032368867,(GSVIVG01015567001_Vitis_vinifera_YAB5:0.0157437239,(Phvul.003G166100_Phaseolus_vulgaris_YAB5:0.0797439100,((PGSC0003DMG400030904_Solanum_tuberosum_YAB5:0.0971115986,AT2G26580_Arabidopsis_thaliana_YAB5:0.1645031160)58:0.0280486315,EL10Ac8g18683_Beta_vulgaris_YAB5:0.1740103395)52:0.0241916931)73:0.0279960999)38:0.0129151748)95:0.0421521019)94:0.0444477240)74:0.0299444282,ptg001084l.4_Illicium_verum_YAB5:0.1384766072)96:0.0659995000,((Leiosporoceros_dussii_YABBY:1.4017814830,Anthoceros_agrestis_YABBY:0.3795478820)96:0.5426083612,(((Huperzia_selago_YABBY:0.0000023208,Phylloglossum_drummondii_YABBY:0.0813648286)57:0.0405871937,Diphasiastrum_complanatum_YABBY:0.1540144987)100:1.0807073658,Sphagnum_magellanicum_YABBY:0.8687841773)68:0.2503259055)99:0.6687919209)54:0.0309934092,(ATR1120G104_Amborella_trichopoda_YAB5:0.2157541642,Nyth34502_Nymphaea_thermarum_YAB5:0.1306684776)84:0.0518404823)65:0.0588292966,((Nyth27709_Nymphaea_thermarum_YAB2:0.0000024735,Nymphaea_colorata_YAB2:0.0516586670)100:0.2677456175,(((Af05G185300_Aristolochia_fimbriata_YAB2:0.1866370084,(((Phvul.011G100300_Phaseolus_vulgaris_YAB2:0.1082851046,((PGSC0003DMG400002988_Solanum_tuberosum_YAB2:0.2721765408,Cc01_g07860_Coffea_canephora_YAB2:0.0545106856)48:0.0123676338,EL10Ac7g16274_Beta_vulgaris_YAB2:0.2658082347)54:0.0244494635)59:0.0174236080,GSVIVG01037533001_Vitis_vinifera_YAB2:0.0528265370)44:0.0140821510,(AT1G08465_Arabidopsis_thaliana_YAB2:0.2410191265,Aqoxy1G00610_Aquilegia_oxysepala_YAB2:0.2273140424)69:0.0311990731)92:0.0512368243)96:0.0505509617,Illicium_floridanum_YAB2:0.1037527679)97:0.0630852901,ATR0697G223_Amborella_trichopoda_YAB2:0.1850016617)95:0.0391265490)96:0.1003143974)58:0.0704681617,((((((EFMS_2011421_Torreya_taxifolia_YABA:0.0598158381,LN871580_Taxus_globosa_YABA:0.0435113400)46:0.0124135819,(SEGI_22233_Sequoiadendron_giganteum_YABA:0.0452788798,HOUF_2008173_Cryptomeria_japonica_YABA:0.0180220245)100:0.0519545017)100:0.0731257985,(((((MT557796_Picea_abies_YABA:0.0330785010,MT557794_Pinus_taeda_YABA:0.0606737554)92:0.0232055060,IOVS_2054392_Pseudotsuga_menziesii_YABA:0.0475540802)61:0.0184078190,GGEA_2065499_Cedrus_libani_YABA:0.0300100222)87:0.0186674813,AQFM_2079843_Pseudolarix_amabilis_YABA:0.0271711268)45:0.0065031020,(GAMH_2053024_Tsuga_heterophylla_YABA:0.0000025653,VSRH_2054068_Abies_lasiocarpa_YABA:0.0644540574)49:0.0000022930)100:0.1091123286)96:0.0561996129,SGTW_2038222_Ginkgo_biloba_YABA:0.0873793841)88:0.0160757174,((CYCAS_007102_YABA:0.0124678380,CYCAS_008411_YABA:0.1180409444)94:0.0151026554,(WLIC_2119747_Dioon_edule_YABA:0.0284793494,(KAWQ_2053975_Stangeria_eriopus_YABA:0.0605852540,GNQG_2084875_Encephalartos_barteri_YABA:0.0260003734)67:0.0051251888)100:0.0581049320)100:0.0907913126)83:0.0336934113,(((((TOXE_2059736_Welwitschia_mirabilis_YABC:0.0429756651,GTHK_2009293_Gnetum_montanum_YABC:0.1986857892)100:0.6112850134,(((NPRL_2118154_Cathaya_agryrophylla_YABC:0.0248350995,(MT557813_Picea_smithiana_YABC:0.0000024860,MT557797_Picea_abies_YABC:0.0074826256)65:0.0066888434)66:0.0031862761,LN871577_Pseudotsuga_menziesii_YABC:0.0067092750)65:0.0069957391,IIOL_2013281_Pinus_parviflora_YABC:0.0031534791)86:0.0613143399)80:0.0754025171,((DSXO_2008516_Cryptomeria_japonica_YABC:0.0507762341,EFMS_2079989_Torreya_taxifolia_YABC:0.0490840684)99:0.0631793009,((CDFR_2060093_Manoao_colensoi_YABC:0.0207307928,ZQWM_2088623_Lagarostrobos_franklinii_YABC:0.0266675661)96:0.0446546747,XLGK_2057439_Podocarpus_rubens_YABC:0.0472049396)97:0.0704459191)94:0.0718551121)84:0.0807068824,LN871575_Ginkgo_biloba_YABC:0.1591062100)85:0.1234039068,((GNQG_2006728_Encephalartos_barteri_YABC:0.0763606668,WLIC_2118877_Dioon_edule_YABC:0.0499993651)67:0.0323447427,(CYCAS_022386_YABC:0.0117008662,XZUY_2001014_Cycas_micholitzii_YABC:0.0534570451)92:0.1446157632)99:0.2551290032)67:0.0551491140)35:0.0157518434)55:0.0428676309)43:0.0162759635,((((((((MT557798_Picea_abies_YABB:0.0425529684,(DZQM_2011000_Pinus_radiata_YABB:0.0103869363,MFTM_2008724_Pinus_jeffreyi_YABB:0.0143257389)100:0.0651923825)42:0.0000021214,MT557804_Cathaya_argyrophylla_YABB:0.0591365106)44:0.0037807809,MT557805_Pseudotsuga_menziesii_YABB:0.0398881103)65:0.0143692098,GAMH_2004073_Tsuga_heterophylla_YABB:0.0385723783)43:0.0070075524,AQFM_2078156_Pseudolarix_amabilis_YABB:0.0435195653)100:0.1956648496,(((((((RMMV_2005731_Callitris_macleayana_YABB:0.0651524771,AUDE_2052541_Widdringtonia_cedarbergensis_YABB:0.0220823001)99:0.0313984735,(YYPE_2009774_Austrocedrus_chilensis_YABB:0.0207987373,ETCJ_2053114_Pilgerodendron_uviferum_YABB:0.0552005485)60:0.0086445593)98:0.0315615527,BUWV_2009738_Platycladus_orientalis_YABB:0.0506594125)64:0.0233777645,(NKIN_2045985_Thujopsis_dolabrata_YABB:0.0094838537,Thupl29377238s0018_Thuja_plicata_YABB:0.0154843129)91:0.0152577963)86:0.0147412825,XM_057992526_Cryptomeria_japonica_YABB:0.0465261222)88:0.0126335576,SEGI_14550_Sequoiadendron_giganteum_YABB:0.0371980449)99:0.0882480646,EFMS_2014223_Torreya_taxifolia_YABB:0.1134807178)100:0.2721404686)94:0.2108728976,(((LN871582_Zamia_vazquezii_YABD:0.0858403954,GNQG_2084490_Encephalartos_barteri_YABD:0.0087082271)66:0.0000020376,KAWQ_2011477_Stangeria_eriopus_YABD:0.0235449778)81:0.0232162728,LN871570_Cycas_rumphii_YABD:0.0288780991)99:0.1036848652)36:0.0199785231,(LN871573_Ginkgo_biloba_YABD:0.1874619181,LN871574_Ginkgo_biloba_YABD:0.1789654745)84:0.0674862570)52:0.0491504923)93:0.1461930531,(((MIXZ_2003483_Agathis_robusta_YABD:0.0451696682,XTZO_2061022_Metasequoia_glyptostroboides_YABD:0.0535324573)99:0.0682446647,LN871579_Podocarpus_reichei_YABD:0.0917909161)98:0.1669654886,(HOUF_2104850_Cryptomeria_japonica_YABD:0.0524664782,FRPM_2056760_Calocedrus_decurrens_YABD:0.0822925546)100:0.4064114328)94:0.1329512344)100:0.2788786111,(VDAO_2030261_Ephedra_sinica_YABD:0.0264647041,LN871572_Ephedra_distachya_YABD:0.0013616531)100:0.1922318202)61:0.0421896303,Wm7004.a02.313.g00180_Welwitschia_mirabilis_YABD:0.0731883519)45:0.0160308406,TOXE_2011456_Welwitschia_mirabilis_YABD:0.1709618165);
+
+TIME STAMP
+----------
+
+Date and time: Fri Mar 15 17:43:43 2024
+Total CPU time used: 1771.116616 seconds (0h:29m:31s)
+Total wall-clock time used: 918.5497739 seconds (0h:15m:18s)
+
