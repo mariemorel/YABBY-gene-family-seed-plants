@@ -1,0 +1,3070 @@
+############### Parameters ###############
+# MATCH_SCORE: 50
+# GAP_PENALTY: -1
+# MATCH_SIZE: 3
+# OVERLAP_WINDOW: 5
+# E_VALUE: 0.001
+# MAX GAPS: 55
+############### Statistics ###############
+# Number of collinear genes: 4894, Percentage: 7.13
+# Number of all genes: 68621
+##########################################
+## Alignment 0: score=319.0 e_value=5.2e-22 N=10 seq_HRSCAF_1&wel_Chr01 plus
+  0-  0:	SEGI_14671	W_mirabilis_12614	  1e-69
+  0-  1:	SEGI_36659	W_mirabilis_22908	  6e-60
+  0-  2:	SEGI_04352	W_mirabilis_09063	  3e-92
+  0-  3:	SEGI_41315	W_mirabilis_05800	 8e-162
+  0-  4:	SEGI_04860	W_mirabilis_23374	  1e-22
+  0-  5:	SEGI_24999	W_mirabilis_23371	  4e-82
+  0-  6:	SEGI_10436	W_mirabilis_23368	 6e-221
+  0-  7:	SEGI_08835	W_mirabilis_23362	  8e-94
+  0-  8:	SEGI_36842	W_mirabilis_23361	  8e-63
+  0-  9:	SEGI_28877	W_mirabilis_23355	  2e-40
+## Alignment 1: score=266.0 e_value=4e-12 N=7 seq_HRSCAF_1&wel_Chr01 plus
+  1-  0:	SEGI_32652	W_mirabilis_21715	 1e-146
+  1-  1:	SEGI_21818	W_mirabilis_12611	 8e-247
+  1-  2:	SEGI_23580	W_mirabilis_22903	  4e-08
+  1-  3:	SEGI_18751	W_mirabilis_07381	  4e-08
+  1-  4:	SEGI_27164	W_mirabilis_21906	  3e-36
+  1-  5:	SEGI_25125	W_mirabilis_21901	 7e-198
+  1-  6:	SEGI_16643	W_mirabilis_17244	  3e-36
+## Alignment 2: score=259.0 e_value=4.2e-18 N=7 seq_HRSCAF_1&wel_Chr01 plus
+  2-  0:	SEGI_41362	W_mirabilis_23348	 2e-189
+  2-  1:	SEGI_00104	W_mirabilis_23341	 4e-223
+  2-  2:	SEGI_01544	W_mirabilis_23333	 9e-101
+  2-  3:	SEGI_03407	W_mirabilis_23332	  7e-97
+  2-  4:	SEGI_17933	W_mirabilis_21186	  8e-34
+  2-  5:	SEGI_06843	W_mirabilis_16504	  1e-18
+  2-  6:	SEGI_26312	W_mirabilis_16503	  3e-23
+## Alignment 3: score=197.0 e_value=0 N=5 seq_HRSCAF_1&wel_Chr01 plus
+  3-  0:	SEGI_03803	W_mirabilis_02218	 5e-205
+  3-  1:	SEGI_17732	W_mirabilis_24412	  8e-11
+  3-  2:	SEGI_37381	W_mirabilis_24411	 1e-188
+  3-  3:	SEGI_29742	W_mirabilis_21718	  9e-17
+  3-  4:	SEGI_32722	W_mirabilis_21714	 2e-176
+## Alignment 4: score=353.0 e_value=2.7e-24 N=10 seq_HRSCAF_1&wel_Chr01 minus
+  4-  0:	SEGI_08543	W_mirabilis_23181	  2e-93
+  4-  1:	SEGI_39313	W_mirabilis_11352	 3e-123
+  4-  2:	SEGI_30939	W_mirabilis_14562	  3e-68
+  4-  3:	SEGI_28828	W_mirabilis_09761	 3e-312
+  4-  4:	SEGI_34170	W_mirabilis_21186	  4e-30
+  4-  5:	SEGI_33113	W_mirabilis_16025	  1e-69
+  4-  6:	SEGI_21223	W_mirabilis_06246	  7e-68
+  4-  7:	SEGI_17897	W_mirabilis_06243	 7e-223
+  4-  8:	SEGI_15476	W_mirabilis_06242	  2e-25
+  4-  9:	SEGI_26325	W_mirabilis_06241	 1e-260
+## Alignment 5: score=180.0 e_value=1.1e-11 N=6 seq_HRSCAF_1&wel_Chr01 minus
+  5-  0:	SEGI_11641	W_mirabilis_11500	  3e-69
+  5-  1:	SEGI_21396	W_mirabilis_11499	 1e-160
+  5-  2:	SEGI_03058	W_mirabilis_11498	  4e-86
+  5-  3:	SEGI_30059	W_mirabilis_11497	  2e-38
+  5-  4:	SEGI_04783	W_mirabilis_11492	 2e-103
+  5-  5:	SEGI_15970	W_mirabilis_22911	 7e-127
+## Alignment 6: score=151.0 e_value=0.00063 N=4 seq_HRSCAF_1&wel_Chr02 plus
+  6-  0:	SEGI_09901	W_mirabilis_15564	 6e-118
+  6-  1:	SEGI_00907	W_mirabilis_18081	  2e-53
+  6-  2:	SEGI_12204	W_mirabilis_08768	 1e-123
+  6-  3:	SEGI_25060	W_mirabilis_26920	  5e-31
+## Alignment 7: score=358.0 e_value=7.1e-22 N=10 seq_HRSCAF_1&wel_Chr03 plus
+  7-  0:	SEGI_39803	W_mirabilis_00509	 1e-166
+  7-  1:	SEGI_36435	W_mirabilis_00508	  8e-96
+  7-  2:	SEGI_33738	W_mirabilis_11420	  8e-63
+  7-  3:	SEGI_04352	W_mirabilis_06095	  2e-60
+  7-  4:	SEGI_23205	W_mirabilis_05641	 4e-103
+  7-  5:	SEGI_34188	W_mirabilis_05639	  3e-62
+  7-  6:	SEGI_01463	W_mirabilis_05638	  1e-25
+  7-  7:	SEGI_03866	W_mirabilis_00596	  5e-22
+  7-  8:	SEGI_37177	W_mirabilis_20161	  1e-37
+  7-  9:	SEGI_15361	W_mirabilis_20493	 4e-141
+## Alignment 8: score=212.0 e_value=1e-12 N=6 seq_HRSCAF_1&wel_Chr03 plus
+  8-  0:	SEGI_35702	W_mirabilis_20832	 2e-222
+  8-  1:	SEGI_17647	W_mirabilis_11699	  4e-13
+  8-  2:	SEGI_11626	W_mirabilis_11389	  1e-39
+  8-  3:	SEGI_20970	W_mirabilis_11385	  9e-98
+  8-  4:	SEGI_32042	W_mirabilis_11384	 6e-309
+  8-  5:	SEGI_30284	W_mirabilis_11383	 2e-217
+## Alignment 9: score=180.0 e_value=1.3e-06 N=5 seq_HRSCAF_1&wel_Chr03 plus
+  9-  0:	SEGI_18807	W_mirabilis_16281	 1e-119
+  9-  1:	SEGI_17571	W_mirabilis_16279	  4e-09
+  9-  2:	SEGI_06701	W_mirabilis_22083	 2e-274
+  9-  3:	SEGI_27539	W_mirabilis_06075	  2e-18
+  9-  4:	SEGI_26312	W_mirabilis_21703	  9e-24
+## Alignment 10: score=381.0 e_value=1.5e-26 N=11 seq_HRSCAF_1&wel_Chr03 minus
+ 10-  0:	SEGI_08543	W_mirabilis_16964	 7e-130
+ 10-  1:	SEGI_07291	W_mirabilis_14731	 3e-100
+ 10-  2:	SEGI_09952	W_mirabilis_03157	  1e-17
+ 10-  3:	SEGI_19064	W_mirabilis_03166	 1e-142
+ 10-  4:	SEGI_29357	W_mirabilis_03167	  1e-31
+ 10-  5:	SEGI_21190	W_mirabilis_03169	  5e-37
+ 10-  6:	SEGI_25768	W_mirabilis_10943	 7e-198
+ 10-  7:	SEGI_21223	W_mirabilis_10945	  1e-63
+ 10-  8:	SEGI_25132	W_mirabilis_22431	  1e-53
+ 10-  9:	SEGI_17897	W_mirabilis_22436	 1e-186
+ 10- 10:	SEGI_23245	W_mirabilis_00595	  9e-16
+## Alignment 11: score=175.0 e_value=6.8e-09 N=6 seq_HRSCAF_1&wel_Chr03 minus
+ 11-  0:	SEGI_00052	W_mirabilis_25354	  2e-37
+ 11-  1:	SEGI_21396	W_mirabilis_05640	 7e-100
+ 11-  2:	SEGI_03058	W_mirabilis_14160	  1e-86
+ 11-  3:	SEGI_35303	W_mirabilis_03820	 1e-136
+ 11-  4:	SEGI_18959	W_mirabilis_00507	  4e-17
+ 11-  5:	SEGI_28244	W_mirabilis_00510	  6e-24
+## Alignment 12: score=175.0 e_value=5.1e-06 N=5 seq_HRSCAF_1&wel_Chr03 minus
+ 12-  0:	SEGI_29442	W_mirabilis_03118	 9e-304
+ 12-  1:	SEGI_07022	W_mirabilis_09388	  3e-26
+ 12-  2:	SEGI_09605	W_mirabilis_09389	 5e-246
+ 12-  3:	SEGI_17386	W_mirabilis_17265	  3e-47
+ 12-  4:	SEGI_30363	W_mirabilis_12290	  3e-47
+## Alignment 13: score=155.0 e_value=8.9e-07 N=5 seq_HRSCAF_1&wel_Chr03 minus
+ 13-  0:	SEGI_37967	W_mirabilis_19028	 3e-173
+ 13-  1:	SEGI_01466	W_mirabilis_22164	 5e-147
+ 13-  2:	SEGI_39017	W_mirabilis_22163	  7e-43
+ 13-  3:	SEGI_01330	W_mirabilis_22162	 1e-128
+ 13-  4:	SEGI_00688	W_mirabilis_22161	  1e-39
+## Alignment 14: score=181.0 e_value=2e-08 N=6 seq_chr1&wel_Chr01 plus
+ 14-  0:	SEGI_14657	W_mirabilis_02754	  4e-73
+ 14-  1:	SEGI_24157	W_mirabilis_01195	 2e-128
+ 14-  2:	SEGI_03663	W_mirabilis_14905	 1e-139
+ 14-  3:	SEGI_24355	W_mirabilis_15795	  4e-14
+ 14-  4:	SEGI_36393	W_mirabilis_25068	 1e-139
+ 14-  5:	SEGI_31388	W_mirabilis_20631	  2e-19
+## Alignment 15: score=172.0 e_value=5e-05 N=4 seq_chr1&wel_Chr01 plus
+ 15-  0:	SEGI_24005	W_mirabilis_01199	  5e-56
+ 15-  1:	SEGI_08066	W_mirabilis_01198	  2e-72
+ 15-  2:	SEGI_36657	W_mirabilis_01197	 7e-144
+ 15-  3:	SEGI_05575	W_mirabilis_15797	      0
+## Alignment 16: score=163.0 e_value=2.5e-09 N=6 seq_chr1&wel_Chr01 plus
+ 16-  0:	SEGI_32962	W_mirabilis_20554	      0
+ 16-  1:	SEGI_18926	W_mirabilis_02757	 1e-131
+ 16-  2:	SEGI_15601	W_mirabilis_15859	  6e-86
+ 16-  3:	SEGI_25415	W_mirabilis_01513	  1e-15
+ 16-  4:	SEGI_09766	W_mirabilis_03806	 1e-251
+ 16-  5:	SEGI_41080	W_mirabilis_25072	  2e-27
+## Alignment 17: score=151.0 e_value=7.2e-08 N=5 seq_chr1&wel_Chr01 plus
+ 17-  0:	SEGI_38348	W_mirabilis_08597	 4e-249
+ 17-  1:	SEGI_36503	W_mirabilis_15800	  1e-34
+ 17-  2:	SEGI_17780	W_mirabilis_03800	 5e-194
+ 17-  3:	SEGI_27901	W_mirabilis_03802	  1e-58
+ 17-  4:	SEGI_07860	W_mirabilis_19452	  1e-13
+## Alignment 18: score=194.0 e_value=6.5e-10 N=5 seq_chr1&wel_Chr01 minus
+ 18-  0:	SEGI_27901	W_mirabilis_03802	  1e-58
+ 18-  1:	SEGI_13173	W_mirabilis_03801	  2e-49
+ 18-  2:	SEGI_07860	W_mirabilis_15790	  2e-61
+ 18-  3:	SEGI_36657	W_mirabilis_01197	 7e-144
+ 18-  4:	SEGI_19043	W_mirabilis_02743	  1e-16
+## Alignment 19: score=168.0 e_value=5.7e-05 N=4 seq_chr1&wel_Chr02 plus
+ 19-  0:	SEGI_07741	W_mirabilis_05918	  9e-80
+ 19-  1:	SEGI_11661	W_mirabilis_14595	  3e-63
+ 19-  2:	SEGI_31872	W_mirabilis_14596	  4e-65
+ 19-  3:	SEGI_04310	W_mirabilis_25865	  8e-67
+## Alignment 20: score=160.0 e_value=2.6e-08 N=4 seq_chr1&wel_Chr02 plus
+ 20-  0:	SEGI_38325	W_mirabilis_02173	  4e-77
+ 20-  1:	SEGI_32005	W_mirabilis_06885	  4e-17
+ 20-  2:	SEGI_20638	W_mirabilis_06887	  6e-73
+ 20-  3:	SEGI_37439	W_mirabilis_06893	  3e-71
+## Alignment 21: score=198.0 e_value=8.1e-08 N=5 seq_chr1&wel_Chr02 minus
+ 21-  0:	SEGI_10641	W_mirabilis_21136	 1e-263
+ 21-  1:	SEGI_16455	W_mirabilis_21143	  2e-38
+ 21-  2:	SEGI_15108	W_mirabilis_25160	 5e-109
+ 21-  3:	SEGI_10795	W_mirabilis_25162	  1e-75
+ 21-  4:	SEGI_34157	W_mirabilis_23743	  4e-47
+## Alignment 22: score=175.0 e_value=6.9e-09 N=4 seq_chr1&wel_Chr02 minus
+ 22-  0:	SEGI_12337	W_mirabilis_06900	 3e-208
+ 22-  1:	SEGI_20638	W_mirabilis_06887	  6e-73
+ 22-  2:	SEGI_20179	W_mirabilis_06886	  2e-20
+ 22-  3:	SEGI_28680	W_mirabilis_06885	  1e-24
+## Alignment 23: score=164.0 e_value=1.6e-07 N=4 seq_chr1&wel_Chr02 minus
+ 23-  0:	SEGI_12006	W_mirabilis_06894	  6e-48
+ 23-  1:	SEGI_15144	W_mirabilis_06893	  7e-82
+ 23-  2:	SEGI_11849	W_mirabilis_06891	  3e-22
+ 23-  3:	SEGI_26284	W_mirabilis_06885	 8e-128
+## Alignment 24: score=177.0 e_value=6.1e-07 N=5 seq_chr1&wel_Chr03 plus
+ 24-  0:	SEGI_27197	W_mirabilis_23799	  2e-92
+ 24-  1:	SEGI_31002	W_mirabilis_15779	 2e-166
+ 24-  2:	SEGI_20192	W_mirabilis_15776	  1e-70
+ 24-  3:	SEGI_16602	W_mirabilis_15773	  2e-90
+ 24-  4:	SEGI_35186	W_mirabilis_00550	  1e-14
+## Alignment 25: score=275.0 e_value=1.7e-13 N=7 seq_chr1&wel_Chr04 plus
+ 25-  0:	SEGI_26006	W_mirabilis_00105	 7e-301
+ 25-  1:	SEGI_17731	W_mirabilis_00094	  3e-56
+ 25-  2:	SEGI_00366	W_mirabilis_00088	 2e-202
+ 25-  3:	SEGI_32529	W_mirabilis_00086	  4e-72
+ 25-  4:	SEGI_16938	W_mirabilis_00084	  1e-66
+ 25-  5:	SEGI_14803	W_mirabilis_00071	 8e-106
+ 25-  6:	SEGI_29628	W_mirabilis_00067	  4e-32
+## Alignment 26: score=182.0 e_value=1.8e-13 N=6 seq_chr1&wel_Chr04 minus
+ 26-  0:	SEGI_17931	W_mirabilis_09354	  4e-20
+ 26-  1:	SEGI_03244	W_mirabilis_09351	  2e-29
+ 26-  2:	SEGI_40729	W_mirabilis_15905	  1e-08
+ 26-  3:	SEGI_08456	W_mirabilis_00068	  5e-36
+ 26-  4:	SEGI_22934	W_mirabilis_00101	 2e-184
+ 26-  5:	SEGI_05074	W_mirabilis_00102	  2e-54
+## Alignment 27: score=154.0 e_value=8.5e-08 N=5 seq_chr1&wel_Chr06 minus
+ 27-  0:	SEGI_17372	W_mirabilis_23280	  3e-23
+ 27-  1:	SEGI_32571	W_mirabilis_00577	 3e-198
+ 27-  2:	SEGI_27962	W_mirabilis_13286	  7e-22
+ 27-  3:	SEGI_25674	W_mirabilis_08016	  5e-12
+ 27-  4:	SEGI_27812	W_mirabilis_08014	 2e-264
+## Alignment 28: score=167.0 e_value=1.1e-06 N=5 seq_chr1&wel_Chr07 plus
+ 28-  0:	SEGI_00650	W_mirabilis_13084	  2e-93
+ 28-  1:	SEGI_05468	W_mirabilis_13231	  3e-51
+ 28-  2:	SEGI_20735	W_mirabilis_13217	  5e-19
+ 28-  3:	SEGI_39159	W_mirabilis_13215	  9e-53
+ 28-  4:	SEGI_00235	W_mirabilis_10215	 4e-105
+## Alignment 29: score=197.0 e_value=2.3e-06 N=5 seq_chr1&wel_Chr07 minus
+ 29-  0:	SEGI_41195	W_mirabilis_22731	 4e-275
+ 29-  1:	SEGI_36543	W_mirabilis_22730	  7e-57
+ 29-  2:	SEGI_05144	W_mirabilis_08665	 9e-158
+ 29-  3:	SEGI_12793	W_mirabilis_02145	  8e-08
+ 29-  4:	SEGI_19897	W_mirabilis_02139	  1e-32
+## Alignment 30: score=173.0 e_value=3.7e-09 N=4 seq_chr1&wel_Chr08 plus
+ 30-  0:	SEGI_28147	W_mirabilis_06698	  1e-17
+ 30-  1:	SEGI_11999	W_mirabilis_05176	  5e-24
+ 30-  2:	SEGI_01408	W_mirabilis_05185	  6e-11
+ 30-  3:	SEGI_06463	W_mirabilis_05186	  2e-42
+## Alignment 31: score=222.0 e_value=2e-11 N=6 seq_chr1&wel_Chr08 minus
+ 31-  0:	SEGI_20994	W_mirabilis_21266	 1e-103
+ 31-  1:	SEGI_29868	W_mirabilis_21264	 0.0003
+ 31-  2:	SEGI_38455	W_mirabilis_21258	  2e-60
+ 31-  3:	SEGI_28659	W_mirabilis_07503	  2e-28
+ 31-  4:	SEGI_37396	W_mirabilis_07502	  4e-42
+ 31-  5:	SEGI_22132	W_mirabilis_07488	 2e-156
+## Alignment 32: score=150.0 e_value=1.4e-07 N=5 seq_chr1&wel_Chr09 plus
+ 32-  0:	SEGI_39159	W_mirabilis_15277	  4e-82
+ 32-  1:	SEGI_27812	W_mirabilis_21305	 6e-264
+ 32-  2:	SEGI_25098	W_mirabilis_12253	 2e-112
+ 32-  3:	SEGI_07181	W_mirabilis_09683	 5e-121
+ 32-  4:	SEGI_21131	W_mirabilis_21712	  7e-07
+## Alignment 33: score=241.0 e_value=4e-08 N=5 seq_chr1&wel_Chr09 minus
+ 33-  0:	SEGI_35671	W_mirabilis_13398	 2e-102
+ 33-  1:	SEGI_35130	W_mirabilis_13396	  6e-97
+ 33-  2:	SEGI_24181	W_mirabilis_05407	 1e-101
+ 33-  3:	SEGI_28540	W_mirabilis_05406	 3e-101
+ 33-  4:	SEGI_19156	W_mirabilis_18425	  3e-85
+## Alignment 34: score=165.0 e_value=3.1e-06 N=4 seq_chr1&wel_Chr13 plus
+ 34-  0:	SEGI_16351	W_mirabilis_19565	  3e-09
+ 34-  1:	SEGI_35535	W_mirabilis_19566	  8e-08
+ 34-  2:	SEGI_34547	W_mirabilis_01940	  1e-23
+ 34-  3:	SEGI_28263	W_mirabilis_09204	  7e-24
+## Alignment 35: score=214.0 e_value=8.3e-13 N=7 seq_chr1&wel_Chr13 minus
+ 35-  0:	SEGI_08173	W_mirabilis_06312	  1e-88
+ 35-  1:	SEGI_39154	W_mirabilis_22453	 1e-203
+ 35-  2:	SEGI_24701	W_mirabilis_22239	      0
+ 35-  3:	SEGI_25679	W_mirabilis_02818	 2e-238
+ 35-  4:	SEGI_19269	W_mirabilis_02823	  2e-46
+ 35-  5:	SEGI_10901	W_mirabilis_02827	  2e-08
+ 35-  6:	SEGI_10005	W_mirabilis_08690	  4e-13
+## Alignment 36: score=181.0 e_value=6.3e-06 N=4 seq_chr1&wel_Chr14 plus
+ 36-  0:	SEGI_12589	W_mirabilis_17867	  3e-42
+ 36-  1:	SEGI_00143	W_mirabilis_17868	 1e-103
+ 36-  2:	SEGI_28660	W_mirabilis_17869	  3e-29
+ 36-  3:	SEGI_24586	W_mirabilis_17870	  3e-18
+## Alignment 37: score=207.0 e_value=3.1e-18 N=7 seq_chr1&wel_Chr15 plus
+ 37-  0:	SEGI_21423	W_mirabilis_06588	  3e-18
+ 37-  1:	SEGI_23440	W_mirabilis_06589	  2e-10
+ 37-  2:	SEGI_36578	W_mirabilis_15061	  1e-77
+ 37-  3:	SEGI_36503	W_mirabilis_15065	  2e-51
+ 37-  4:	SEGI_23822	W_mirabilis_17973	  1e-75
+ 37-  5:	SEGI_20140	W_mirabilis_26139	 1e-234
+ 37-  6:	SEGI_14684	W_mirabilis_00190	  7e-14
+## Alignment 38: score=204.0 e_value=5.9e-13 N=7 seq_chr1&wel_Chr15 plus
+ 38-  0:	SEGI_06953	W_mirabilis_05701	  4e-10
+ 38-  1:	SEGI_21591	W_mirabilis_10845	  4e-56
+ 38-  2:	SEGI_40758	W_mirabilis_10846	  9e-76
+ 38-  3:	SEGI_28237	W_mirabilis_10855	  2e-32
+ 38-  4:	SEGI_01500	W_mirabilis_14280	  2e-05
+ 38-  5:	SEGI_13076	W_mirabilis_15066	  9e-18
+ 38-  6:	SEGI_08527	W_mirabilis_17959	 4e-139
+## Alignment 39: score=171.0 e_value=1.7e-12 N=5 seq_chr1&wel_Chr15 plus
+ 39-  0:	SEGI_11006	W_mirabilis_05745	  1e-58
+ 39-  1:	SEGI_17936	W_mirabilis_05746	  2e-60
+ 39-  2:	SEGI_25111	W_mirabilis_05751	  4e-97
+ 39-  3:	SEGI_11411	W_mirabilis_07640	  3e-16
+ 39-  4:	SEGI_16808	W_mirabilis_07641	  1e-66
+## Alignment 40: score=162.0 e_value=1.7e-05 N=4 seq_chr1&wel_Chr15 plus
+ 40-  0:	SEGI_30628	W_mirabilis_16703	 5e-143
+ 40-  1:	SEGI_03036	W_mirabilis_16704	  1e-33
+ 40-  2:	SEGI_26946	W_mirabilis_24705	  1e-57
+ 40-  3:	SEGI_09538	W_mirabilis_24704	  2e-16
+## Alignment 41: score=159.0 e_value=8.7e-12 N=6 seq_chr1&wel_Chr15 plus
+ 41-  0:	SEGI_30505	W_mirabilis_10375	  3e-15
+ 41-  1:	SEGI_29018	W_mirabilis_18535	  2e-45
+ 41-  2:	SEGI_10625	W_mirabilis_17602	  2e-66
+ 41-  3:	SEGI_38925	W_mirabilis_17601	  9e-67
+ 41-  4:	SEGI_14251	W_mirabilis_13181	  3e-20
+ 41-  5:	SEGI_14963	W_mirabilis_10369	  2e-22
+## Alignment 42: score=240.0 e_value=2.8e-06 N=5 seq_chr1&wel_Chr15 minus
+ 42-  0:	SEGI_21621	W_mirabilis_10737	  2e-60
+ 42-  1:	SEGI_05095	W_mirabilis_10739	 2e-135
+ 42-  2:	SEGI_25548	W_mirabilis_10741	  3e-16
+ 42-  3:	SEGI_23122	W_mirabilis_10748	 1e-133
+ 42-  4:	SEGI_22971	W_mirabilis_10749	  9e-76
+## Alignment 43: score=183.0 e_value=7.4e-14 N=7 seq_chr1&wel_Chr15 minus
+ 43-  0:	SEGI_29132	W_mirabilis_12875	  4e-12
+ 43-  1:	SEGI_02388	W_mirabilis_11512	  1e-40
+ 43-  2:	SEGI_25912	W_mirabilis_11368	  3e-54
+ 43-  3:	SEGI_41248	W_mirabilis_08580	  9e-59
+ 43-  4:	SEGI_08282	W_mirabilis_05872	 3e-167
+ 43-  5:	SEGI_12461	W_mirabilis_01389	  1e-82
+ 43-  6:	SEGI_35640	W_mirabilis_01388	 3e-201
+## Alignment 44: score=160.0 e_value=5.6e-07 N=5 seq_chr1&wel_Chr15 minus
+ 44-  0:	SEGI_26604	W_mirabilis_26958	 2e-185
+ 44-  1:	SEGI_01962	W_mirabilis_24345	 2e-126
+ 44-  2:	SEGI_03846	W_mirabilis_24342	  2e-66
+ 44-  3:	SEGI_20758	W_mirabilis_19386	 0.0008
+ 44-  4:	SEGI_02388	W_mirabilis_17959	  5e-77
+## Alignment 45: score=150.0 e_value=1.7e-05 N=4 seq_chr1&wel_Chr15 minus
+ 45-  0:	SEGI_37024	W_mirabilis_17960	  6e-20
+ 45-  1:	SEGI_21791	W_mirabilis_17959	  1e-51
+ 45-  2:	SEGI_23068	W_mirabilis_10858	  2e-75
+ 45-  3:	SEGI_04857	W_mirabilis_10843	  1e-10
+## Alignment 46: score=164.0 e_value=7.6e-11 N=6 seq_chr1&wel_Chr16 minus
+ 46-  0:	SEGI_40502	W_mirabilis_00654	  2e-24
+ 46-  1:	SEGI_25679	W_mirabilis_26426	 7e-244
+ 46-  2:	SEGI_30460	W_mirabilis_26428	 1e-167
+ 46-  3:	SEGI_20464	W_mirabilis_26432	  1e-27
+ 46-  4:	SEGI_15068	W_mirabilis_11235	 8e-136
+ 46-  5:	SEGI_09358	W_mirabilis_08589	  1e-05
+## Alignment 47: score=171.0 e_value=0.00018 N=4 seq_chr1&wel_Chr18 plus
+ 47-  0:	SEGI_10796	W_mirabilis_07915	 9e-190
+ 47-  1:	SEGI_30481	W_mirabilis_13747	  9e-26
+ 47-  2:	SEGI_22333	W_mirabilis_13746	  3e-94
+ 47-  3:	SEGI_10988	W_mirabilis_26106	  2e-42
+## Alignment 48: score=202.0 e_value=1.9e-15 N=8 seq_chr1&wel_Chr18 minus
+ 48-  0:	SEGI_39353	W_mirabilis_20766	  3e-43
+ 48-  1:	SEGI_25996	W_mirabilis_21568	  2e-62
+ 48-  2:	SEGI_18680	W_mirabilis_21574	 9e-168
+ 48-  3:	SEGI_01742	W_mirabilis_13744	  2e-36
+ 48-  4:	SEGI_20914	W_mirabilis_13748	 6e-121
+ 48-  5:	SEGI_17678	W_mirabilis_16522	 7e-134
+ 48-  6:	SEGI_35745	W_mirabilis_07917	 1e-111
+ 48-  7:	SEGI_37165	W_mirabilis_23652	 5e-311
+## Alignment 49: score=192.0 e_value=6.5e-06 N=5 seq_chr1&wel_Chr19 plus
+ 49-  0:	SEGI_37702	W_mirabilis_14226	  1e-36
+ 49-  1:	SEGI_37744	W_mirabilis_05282	  1e-62
+ 49-  2:	SEGI_13709	W_mirabilis_16446	 4e-224
+ 49-  3:	SEGI_37244	W_mirabilis_13877	 7e-231
+ 49-  4:	SEGI_17472	W_mirabilis_13893	      0
+## Alignment 50: score=153.0 e_value=1.2e-05 N=5 seq_chr1&wel_Chr19 minus
+ 50-  0:	SEGI_14140	W_mirabilis_13888	  3e-31
+ 50-  1:	SEGI_25083	W_mirabilis_13873	  2e-60
+ 50-  2:	SEGI_28327	W_mirabilis_13867	  3e-24
+ 50-  3:	SEGI_01526	W_mirabilis_18961	      0
+ 50-  4:	SEGI_37702	W_mirabilis_14226	  1e-36
+## Alignment 51: score=166.0 e_value=0.00015 N=4 seq_chr1&wel_ContigUN plus
+ 51-  0:	SEGI_10905	W_mirabilis_24782	 1e-172
+ 51-  1:	SEGI_21435	W_mirabilis_25097	  9e-51
+ 51-  2:	SEGI_37524	W_mirabilis_25127	  5e-41
+ 51-  3:	SEGI_25134	W_mirabilis_25178	  8e-30
+## Alignment 52: score=220.0 e_value=2.8e-10 N=6 seq_chr10&wel_Chr01 minus
+ 52-  0:	SEGI_18660	W_mirabilis_24549	 1e-107
+ 52-  1:	SEGI_24199	W_mirabilis_24544	  1e-33
+ 52-  2:	SEGI_36765	W_mirabilis_24543	 9e-102
+ 52-  3:	SEGI_31422	W_mirabilis_20615	  7e-84
+ 52-  4:	SEGI_03923	W_mirabilis_16993	  1e-13
+ 52-  5:	SEGI_18042	W_mirabilis_08218	  5e-52
+## Alignment 53: score=162.0 e_value=0.00034 N=4 seq_chr10&wel_Chr01 minus
+ 53-  0:	SEGI_07501	W_mirabilis_13101	  4e-14
+ 53-  1:	SEGI_25106	W_mirabilis_12772	  3e-40
+ 53-  2:	SEGI_07096	W_mirabilis_10880	 2e-130
+ 53-  3:	SEGI_11415	W_mirabilis_07984	 3e-135
+## Alignment 54: score=154.0 e_value=3.6e-08 N=4 seq_chr10&wel_Chr01 minus
+ 54-  0:	SEGI_01201	W_mirabilis_00985	  6e-54
+ 54-  1:	SEGI_15895	W_mirabilis_00566	  4e-66
+ 54-  2:	SEGI_16076	W_mirabilis_00565	  1e-25
+ 54-  3:	SEGI_29821	W_mirabilis_20376	 3e-230
+## Alignment 55: score=427.0 e_value=7.2e-36 N=14 seq_chr10&wel_Chr02 plus
+ 55-  0:	SEGI_26049	W_mirabilis_02154	 2e-264
+ 55-  1:	SEGI_34671	W_mirabilis_24429	  6e-17
+ 55-  2:	SEGI_13742	W_mirabilis_16319	  2e-81
+ 55-  3:	SEGI_24636	W_mirabilis_20074	  8e-71
+ 55-  4:	SEGI_37557	W_mirabilis_20075	  4e-95
+ 55-  5:	SEGI_29049	W_mirabilis_07562	  1e-13
+ 55-  6:	SEGI_19678	W_mirabilis_07565	  4e-40
+ 55-  7:	SEGI_07407	W_mirabilis_07570	  3e-06
+ 55-  8:	SEGI_16380	W_mirabilis_01570	      0
+ 55-  9:	SEGI_00750	W_mirabilis_09114	  5e-19
+ 55- 10:	SEGI_40616	W_mirabilis_09122	  2e-39
+ 55- 11:	SEGI_12552	W_mirabilis_08540	  3e-84
+ 55- 12:	SEGI_09367	W_mirabilis_26768	  2e-60
+ 55- 13:	SEGI_23406	W_mirabilis_23170	  3e-16
+## Alignment 56: score=379.0 e_value=1.2e-29 N=11 seq_chr10&wel_Chr02 plus
+ 56-  0:	SEGI_41546	W_mirabilis_07564	      0
+ 56-  1:	SEGI_32575	W_mirabilis_07565	 1e-153
+ 56-  2:	SEGI_00583	W_mirabilis_07567	      0
+ 56-  3:	SEGI_18662	W_mirabilis_07569	 3e-168
+ 56-  4:	SEGI_40701	W_mirabilis_17857	  6e-27
+ 56-  5:	SEGI_20612	W_mirabilis_01567	  1e-20
+ 56-  6:	SEGI_11261	W_mirabilis_21520	  1e-11
+ 56-  7:	SEGI_23308	W_mirabilis_21519	  1e-17
+ 56-  8:	SEGI_38096	W_mirabilis_18921	  2e-41
+ 56-  9:	SEGI_40938	W_mirabilis_23170	  2e-28
+ 56- 10:	SEGI_15541	W_mirabilis_05118	  3e-06
+## Alignment 57: score=282.0 e_value=7.8e-21 N=9 seq_chr10&wel_Chr02 plus
+ 57-  0:	SEGI_00526	W_mirabilis_05473	      0
+ 57-  1:	SEGI_14199	W_mirabilis_18734	 4e-145
+ 57-  2:	SEGI_13635	W_mirabilis_18732	  2e-31
+ 57-  3:	SEGI_27119	W_mirabilis_04333	  2e-15
+ 57-  4:	SEGI_18718	W_mirabilis_04335	 1e-160
+ 57-  5:	SEGI_20331	W_mirabilis_21732	 4e-112
+ 57-  6:	SEGI_25189	W_mirabilis_19045	  1e-21
+ 57-  7:	SEGI_06263	W_mirabilis_21948	 1e-119
+ 57-  8:	SEGI_18887	W_mirabilis_08899	 2e-124
+## Alignment 58: score=270.0 e_value=4.4e-20 N=10 seq_chr10&wel_Chr02 plus
+ 58-  0:	SEGI_35600	W_mirabilis_07563	 3e-159
+ 58-  1:	SEGI_09304	W_mirabilis_07566	  3e-42
+ 58-  2:	SEGI_39767	W_mirabilis_07573	  2e-69
+ 58-  3:	SEGI_28699	W_mirabilis_11988	  2e-30
+ 58-  4:	SEGI_31638	W_mirabilis_11984	  1e-23
+ 58-  5:	SEGI_05355	W_mirabilis_03893	 6e-164
+ 58-  6:	SEGI_06169	W_mirabilis_03889	  1e-45
+ 58-  7:	SEGI_10037	W_mirabilis_24442	 4e-144
+ 58-  8:	SEGI_38252	W_mirabilis_17861	  3e-82
+ 58-  9:	SEGI_01979	W_mirabilis_09114	 0.0002
+## Alignment 59: score=254.0 e_value=1.6e-08 N=6 seq_chr10&wel_Chr02 plus
+ 59-  0:	SEGI_20945	W_mirabilis_01266	  4e-45
+ 59-  1:	SEGI_23309	W_mirabilis_12254	  1e-31
+ 59-  2:	SEGI_19545	W_mirabilis_00815	  6e-26
+ 59-  3:	SEGI_39163	W_mirabilis_20760	  2e-87
+ 59-  4:	SEGI_03423	W_mirabilis_13510	 2e-109
+ 59-  5:	SEGI_32957	W_mirabilis_13508	 2e-146
+## Alignment 60: score=441.0 e_value=1.5e-26 N=12 seq_chr10&wel_Chr02 minus
+ 60-  0:	SEGI_09508	W_mirabilis_21732	  5e-90
+ 60-  1:	SEGI_36257	W_mirabilis_21734	  7e-44
+ 60-  2:	SEGI_35279	W_mirabilis_05540	 2e-118
+ 60-  3:	SEGI_26347	W_mirabilis_18814	  4e-43
+ 60-  4:	SEGI_21256	W_mirabilis_18812	  1e-15
+ 60-  5:	SEGI_17149	W_mirabilis_05497	  1e-32
+ 60-  6:	SEGI_38144	W_mirabilis_03855	  2e-29
+ 60-  7:	SEGI_40797	W_mirabilis_18531	 3e-118
+ 60-  8:	SEGI_17218	W_mirabilis_13834	 5e-166
+ 60-  9:	SEGI_08437	W_mirabilis_23488	 3e-168
+ 60- 10:	SEGI_05833	W_mirabilis_22563	  2e-30
+ 60- 11:	SEGI_20328	W_mirabilis_05471	  4e-34
+## Alignment 61: score=335.0 e_value=7.1e-20 N=9 seq_chr10&wel_Chr02 minus
+ 61-  0:	SEGI_30733	W_mirabilis_19319	  8e-51
+ 61-  1:	SEGI_31067	W_mirabilis_19320	  4e-77
+ 61-  2:	SEGI_01807	W_mirabilis_07562	  2e-07
+ 61-  3:	SEGI_15174	W_mirabilis_16932	  2e-60
+ 61-  4:	SEGI_34409	W_mirabilis_00817	  2e-56
+ 61-  5:	SEGI_37831	W_mirabilis_00819	  8e-57
+ 61-  6:	SEGI_05554	W_mirabilis_00820	 1e-123
+ 61-  7:	SEGI_22238	W_mirabilis_20077	  2e-90
+ 61-  8:	SEGI_03547	W_mirabilis_24425	 1e-133
+## Alignment 62: score=275.0 e_value=5.6e-23 N=9 seq_chr10&wel_Chr02 minus
+ 62-  0:	SEGI_16240	W_mirabilis_01836	 1e-185
+ 62-  1:	SEGI_27716	W_mirabilis_01835	  2e-91
+ 62-  2:	SEGI_07089	W_mirabilis_18816	  4e-88
+ 62-  3:	SEGI_04098	W_mirabilis_03861	  2e-15
+ 62-  4:	SEGI_04044	W_mirabilis_18534	  4e-28
+ 62-  5:	SEGI_31887	W_mirabilis_04328	  4e-42
+ 62-  6:	SEGI_40033	W_mirabilis_18728	  1e-36
+ 62-  7:	SEGI_39894	W_mirabilis_18731	  5e-57
+ 62-  8:	SEGI_35164	W_mirabilis_05472	  1e-13
+## Alignment 63: score=205.0 e_value=1.2e-09 N=6 seq_chr10&wel_Chr02 minus
+ 63-  0:	SEGI_40491	W_mirabilis_26766	  5e-36
+ 63-  1:	SEGI_17838	W_mirabilis_08542	  1e-80
+ 63-  2:	SEGI_40432	W_mirabilis_08544	 2e-132
+ 63-  3:	SEGI_19678	W_mirabilis_09121	 5e-202
+ 63-  4:	SEGI_20236	W_mirabilis_09265	 6e-103
+ 63-  5:	SEGI_01232	W_mirabilis_01569	 3e-175
+## Alignment 64: score=183.0 e_value=0.00018 N=4 seq_chr10&wel_Chr02 minus
+ 64-  0:	SEGI_09539	W_mirabilis_17137	 4e-120
+ 64-  1:	SEGI_09930	W_mirabilis_23162	 9e-171
+ 64-  2:	SEGI_09114	W_mirabilis_23164	  6e-18
+ 64-  3:	SEGI_18955	W_mirabilis_23168	  2e-55
+## Alignment 65: score=195.0 e_value=8.4e-08 N=5 seq_chr10&wel_Chr04 plus
+ 65-  0:	SEGI_24799	W_mirabilis_15311	  1e-32
+ 65-  1:	SEGI_13294	W_mirabilis_17401	      0
+ 65-  2:	SEGI_20225	W_mirabilis_17402	  3e-52
+ 65-  3:	SEGI_21456	W_mirabilis_16011	      0
+ 65-  4:	SEGI_09373	W_mirabilis_18076	 4e-107
+## Alignment 66: score=226.0 e_value=2.8e-07 N=5 seq_chr10&wel_Chr04 minus
+ 66-  0:	SEGI_33088	W_mirabilis_03312	 6e-188
+ 66-  1:	SEGI_13627	W_mirabilis_03311	  5e-88
+ 66-  2:	SEGI_12691	W_mirabilis_03310	  9e-12
+ 66-  3:	SEGI_18163	W_mirabilis_03307	  3e-76
+ 66-  4:	SEGI_27309	W_mirabilis_03306	 2e-226
+## Alignment 67: score=166.0 e_value=1.6e-07 N=5 seq_chr10&wel_Chr05 plus
+ 67-  0:	SEGI_22459	W_mirabilis_01711	  4e-62
+ 67-  1:	SEGI_03865	W_mirabilis_26378	  7e-99
+ 67-  2:	SEGI_07936	W_mirabilis_26380	 2e-261
+ 67-  3:	SEGI_24995	W_mirabilis_03523	  1e-84
+ 67-  4:	SEGI_36646	W_mirabilis_03526	  3e-90
+## Alignment 68: score=193.0 e_value=7.4e-09 N=5 seq_chr10&wel_Chr05 minus
+ 68-  0:	SEGI_34538	W_mirabilis_09526	  1e-23
+ 68-  1:	SEGI_36612	W_mirabilis_26379	  1e-25
+ 68-  2:	SEGI_03865	W_mirabilis_26378	  7e-99
+ 68-  3:	SEGI_22476	W_mirabilis_04865	  1e-45
+ 68-  4:	SEGI_10361	W_mirabilis_04864	  2e-55
+## Alignment 69: score=183.0 e_value=9.7e-10 N=5 seq_chr10&wel_Chr05 minus
+ 69-  0:	SEGI_21437	W_mirabilis_03521	  8e-37
+ 69-  1:	SEGI_28584	W_mirabilis_12219	  5e-97
+ 69-  2:	SEGI_21320	W_mirabilis_12218	  2e-94
+ 69-  3:	SEGI_31990	W_mirabilis_26376	  5e-84
+ 69-  4:	SEGI_09541	W_mirabilis_01710	  6e-63
+## Alignment 70: score=225.0 e_value=1.6e-16 N=6 seq_chr10&wel_Chr06 minus
+ 70-  0:	SEGI_09672	W_mirabilis_16086	  9e-42
+ 70-  1:	SEGI_02564	W_mirabilis_16085	  2e-56
+ 70-  2:	SEGI_14503	W_mirabilis_09556	 1e-229
+ 70-  3:	SEGI_17010	W_mirabilis_22191	  5e-60
+ 70-  4:	SEGI_26195	W_mirabilis_22192	  4e-14
+ 70-  5:	SEGI_38352	W_mirabilis_22649	  1e-89
+## Alignment 71: score=337.0 e_value=9.7e-17 N=9 seq_chr10&wel_Chr09 minus
+ 71-  0:	SEGI_14799	W_mirabilis_15264	 3e-121
+ 71-  1:	SEGI_35191	W_mirabilis_15267	  2e-24
+ 71-  2:	SEGI_23629	W_mirabilis_08759	  3e-79
+ 71-  3:	SEGI_18887	W_mirabilis_03884	 8e-135
+ 71-  4:	SEGI_24730	W_mirabilis_23479	  2e-42
+ 71-  5:	SEGI_39964	W_mirabilis_05999	 1e-129
+ 71-  6:	SEGI_40505	W_mirabilis_20016	 3e-203
+ 71-  7:	SEGI_20979	W_mirabilis_26647	  6e-47
+ 71-  8:	SEGI_29048	W_mirabilis_21600	 9e-163
+## Alignment 72: score=241.0 e_value=3e-15 N=8 seq_chr10&wel_Chr09 minus
+ 72-  0:	SEGI_23071	W_mirabilis_05831	 2e-112
+ 72-  1:	SEGI_14443	W_mirabilis_15259	  1e-69
+ 72-  2:	SEGI_37945	W_mirabilis_15263	 2e-101
+ 72-  3:	SEGI_12762	W_mirabilis_03884	 7e-171
+ 72-  4:	SEGI_00610	W_mirabilis_03886	  7e-89
+ 72-  5:	SEGI_08480	W_mirabilis_04556	  2e-47
+ 72-  6:	SEGI_36220	W_mirabilis_01658	  1e-10
+ 72-  7:	SEGI_27281	W_mirabilis_11227	  2e-69
+## Alignment 73: score=207.0 e_value=1.7e-08 N=6 seq_chr10&wel_Chr10 plus
+ 73-  0:	SEGI_00526	W_mirabilis_13452	 5e-225
+ 73-  1:	SEGI_00490	W_mirabilis_05861	  1e-20
+ 73-  2:	SEGI_15234	W_mirabilis_26697	 8e-109
+ 73-  3:	SEGI_35925	W_mirabilis_02991	 2e-231
+ 73-  4:	SEGI_01218	W_mirabilis_02990	  3e-35
+ 73-  5:	SEGI_04603	W_mirabilis_23834	  5e-08
+## Alignment 74: score=152.0 e_value=0.00081 N=4 seq_chr10&wel_Chr11 plus
+ 74-  0:	SEGI_31449	W_mirabilis_25578	  4e-16
+ 74-  1:	SEGI_30214	W_mirabilis_25581	 6e-192
+ 74-  2:	SEGI_37550	W_mirabilis_25584	  1e-44
+ 74-  3:	SEGI_31478	W_mirabilis_01219	  7e-95
+## Alignment 75: score=248.0 e_value=3.4e-10 N=6 seq_chr10&wel_Chr11 minus
+ 75-  0:	SEGI_05747	W_mirabilis_10468	 1e-150
+ 75-  1:	SEGI_28729	W_mirabilis_16497	 8e-178
+ 75-  2:	SEGI_28357	W_mirabilis_04067	 1e-140
+ 75-  3:	SEGI_04071	W_mirabilis_04068	  7e-42
+ 75-  4:	SEGI_24549	W_mirabilis_01219	  5e-87
+ 75-  5:	SEGI_37550	W_mirabilis_25584	  1e-44
+## Alignment 76: score=303.0 e_value=6.8e-16 N=8 seq_chr10&wel_Chr13 plus
+ 76-  0:	SEGI_22030	W_mirabilis_04135	  1e-80
+ 76-  1:	SEGI_07926	W_mirabilis_04133	 2e-164
+ 76-  2:	SEGI_34139	W_mirabilis_04129	  1e-18
+ 76-  3:	SEGI_23498	W_mirabilis_04128	  1e-22
+ 76-  4:	SEGI_23260	W_mirabilis_04124	  4e-16
+ 76-  5:	SEGI_34230	W_mirabilis_05937	  8e-71
+ 76-  6:	SEGI_09430	W_mirabilis_04494	  4e-20
+ 76-  7:	SEGI_24415	W_mirabilis_17651	 4e-115
+## Alignment 77: score=226.0 e_value=1e-11 N=7 seq_chr10&wel_Chr13 plus
+ 77-  0:	SEGI_31000	W_mirabilis_20746	  7e-10
+ 77-  1:	SEGI_00960	W_mirabilis_20747	  1e-45
+ 77-  2:	SEGI_02559	W_mirabilis_20748	  3e-57
+ 77-  3:	SEGI_00501	W_mirabilis_02829	  3e-20
+ 77-  4:	SEGI_41481	W_mirabilis_26707	 2e-296
+ 77-  5:	SEGI_17853	W_mirabilis_26715	  4e-76
+ 77-  6:	SEGI_04348	W_mirabilis_18726	  1e-14
+## Alignment 78: score=185.0 e_value=3.7e-06 N=5 seq_chr10&wel_Chr13 plus
+ 78-  0:	SEGI_30627	W_mirabilis_11574	  2e-25
+ 78-  1:	SEGI_28195	W_mirabilis_11575	  5e-37
+ 78-  2:	SEGI_18559	W_mirabilis_05436	 1e-103
+ 78-  3:	SEGI_11676	W_mirabilis_05435	 2e-143
+ 78-  4:	SEGI_19662	W_mirabilis_08853	  4e-51
+## Alignment 79: score=160.0 e_value=3.5e-06 N=5 seq_chr10&wel_Chr13 plus
+ 79-  0:	SEGI_28581	W_mirabilis_03692	  3e-37
+ 79-  1:	SEGI_36127	W_mirabilis_20746	 4e-100
+ 79-  2:	SEGI_07735	W_mirabilis_20748	  1e-08
+ 79-  3:	SEGI_33629	W_mirabilis_26101	  4e-43
+ 79-  4:	SEGI_06694	W_mirabilis_26887	 5e-189
+## Alignment 80: score=186.0 e_value=1.7e-11 N=7 seq_chr10&wel_Chr13 minus
+ 80-  0:	SEGI_37399	W_mirabilis_03693	  8e-51
+ 80-  1:	SEGI_29420	W_mirabilis_17655	  2e-19
+ 80-  2:	SEGI_36647	W_mirabilis_04126	  3e-24
+ 80-  3:	SEGI_00257	W_mirabilis_01280	 1e-268
+ 80-  4:	SEGI_19315	W_mirabilis_08854	  6e-15
+ 80-  5:	SEGI_26276	W_mirabilis_06031	 4e-120
+ 80-  6:	SEGI_04899	W_mirabilis_06140	  4e-45
+## Alignment 81: score=167.0 e_value=0.00011 N=4 seq_chr10&wel_Chr13 minus
+ 81-  0:	SEGI_38487	W_mirabilis_11457	  2e-28
+ 81-  1:	SEGI_14449	W_mirabilis_11458	      0
+ 81-  2:	SEGI_01894	W_mirabilis_05940	  7e-25
+ 81-  3:	SEGI_07527	W_mirabilis_24493	 6e-171
+## Alignment 82: score=151.0 e_value=1.1e-11 N=7 seq_chr10&wel_Chr13 minus
+ 82-  0:	SEGI_19971	W_mirabilis_26884	 4e-191
+ 82-  1:	SEGI_31117	W_mirabilis_18726	  2e-28
+ 82-  2:	SEGI_33200	W_mirabilis_26713	  2e-31
+ 82-  3:	SEGI_12373	W_mirabilis_26100	  5e-16
+ 82-  4:	SEGI_39124	W_mirabilis_26102	  6e-69
+ 82-  5:	SEGI_04766	W_mirabilis_09720	  6e-45
+ 82-  6:	SEGI_27649	W_mirabilis_03695	  5e-72
+## Alignment 83: score=205.0 e_value=1.1e-09 N=6 seq_chr10&wel_Chr14 plus
+ 83-  0:	SEGI_15655	W_mirabilis_15027	 3e-139
+ 83-  1:	SEGI_04624	W_mirabilis_15029	 1e-191
+ 83-  2:	SEGI_26139	W_mirabilis_15033	 4e-128
+ 83-  3:	SEGI_39839	W_mirabilis_24197	 5e-111
+ 83-  4:	SEGI_05685	W_mirabilis_24479	  2e-26
+ 83-  5:	SEGI_01041	W_mirabilis_24482	 8e-131
+## Alignment 84: score=167.0 e_value=0.00078 N=4 seq_chr10&wel_Chr14 minus
+ 84-  0:	SEGI_03601	W_mirabilis_20147	  2e-11
+ 84-  1:	SEGI_32561	W_mirabilis_18770	  1e-15
+ 84-  2:	SEGI_12715	W_mirabilis_15033	 2e-136
+ 84-  3:	SEGI_34501	W_mirabilis_15032	 4e-205
+## Alignment 85: score=183.0 e_value=0.00043 N=4 seq_chr10&wel_Chr18 minus
+ 85-  0:	SEGI_38995	W_mirabilis_24864	  1e-29
+ 85-  1:	SEGI_30355	W_mirabilis_00880	 1e-167
+ 85-  2:	SEGI_31773	W_mirabilis_10392	 5e-162
+ 85-  3:	SEGI_21676	W_mirabilis_00648	 4e-160
+## Alignment 86: score=186.0 e_value=1.2e-06 N=5 seq_chr10&wel_Chr19 minus
+ 86-  0:	SEGI_23845	W_mirabilis_08630	 3e-178
+ 86-  1:	SEGI_35796	W_mirabilis_25431	  2e-10
+ 86-  2:	SEGI_34370	W_mirabilis_25443	 0.0002
+ 86-  3:	SEGI_31869	W_mirabilis_25446	 3e-135
+ 86-  4:	SEGI_03612	W_mirabilis_25449	 8e-162
+## Alignment 87: score=183.0 e_value=0.00049 N=4 seq_chr10&wel_Chr20 plus
+ 87-  0:	SEGI_22789	W_mirabilis_05716	  1e-06
+ 87-  1:	SEGI_09004	W_mirabilis_18883	  2e-06
+ 87-  2:	SEGI_00470	W_mirabilis_18882	  9e-08
+ 87-  3:	SEGI_21966	W_mirabilis_21489	  2e-09
+## Alignment 88: score=192.0 e_value=1.2e-09 N=6 seq_chr10&wel_Chr20 minus
+ 88-  0:	SEGI_00329	W_mirabilis_03105	  4e-54
+ 88-  1:	SEGI_36546	W_mirabilis_26609	  3e-57
+ 88-  2:	SEGI_37413	W_mirabilis_03182	  5e-41
+ 88-  3:	SEGI_25267	W_mirabilis_14408	  2e-58
+ 88-  4:	SEGI_38352	W_mirabilis_07995	 6e-110
+ 88-  5:	SEGI_04577	W_mirabilis_20977	  2e-14
+## Alignment 89: score=190.0 e_value=3.7e-14 N=7 seq_chr11&wel_Chr01 minus
+ 89-  0:	SEGI_13648	W_mirabilis_19222	  3e-13
+ 89-  1:	SEGI_27465	W_mirabilis_23493	  1e-72
+ 89-  2:	SEGI_23062	W_mirabilis_14818	  4e-53
+ 89-  3:	SEGI_08574	W_mirabilis_11407	  4e-08
+ 89-  4:	SEGI_34767	W_mirabilis_17586	  3e-09
+ 89-  5:	SEGI_10644	W_mirabilis_17571	  6e-68
+ 89-  6:	SEGI_25742	W_mirabilis_19006	  4e-68
+## Alignment 90: score=234.0 e_value=1.3e-12 N=6 seq_chr11&wel_Chr02 plus
+ 90-  0:	SEGI_12319	W_mirabilis_11289	  5e-87
+ 90-  1:	SEGI_15594	W_mirabilis_17330	 1e-207
+ 90-  2:	SEGI_33169	W_mirabilis_17329	  1e-36
+ 90-  3:	SEGI_33830	W_mirabilis_17328	  3e-32
+ 90-  4:	SEGI_35928	W_mirabilis_24681	  5e-55
+ 90-  5:	SEGI_27614	W_mirabilis_24685	  2e-33
+## Alignment 91: score=224.0 e_value=9.1e-15 N=7 seq_chr11&wel_Chr02 plus
+ 91-  0:	SEGI_36608	W_mirabilis_10071	 9e-279
+ 91-  1:	SEGI_29882	W_mirabilis_10062	 4e-132
+ 91-  2:	SEGI_37761	W_mirabilis_10058	  3e-31
+ 91-  3:	SEGI_23233	W_mirabilis_10041	      0
+ 91-  4:	SEGI_06007	W_mirabilis_10040	 1e-145
+ 91-  5:	SEGI_40806	W_mirabilis_08768	  2e-10
+ 91-  6:	SEGI_16773	W_mirabilis_26920	  4e-76
+## Alignment 92: score=188.0 e_value=2.4e-11 N=6 seq_chr11&wel_Chr02 plus
+ 92-  0:	SEGI_38351	W_mirabilis_04813	  4e-26
+ 92-  1:	SEGI_20870	W_mirabilis_10070	 1e-247
+ 92-  2:	SEGI_27102	W_mirabilis_10066	      0
+ 92-  3:	SEGI_07498	W_mirabilis_18081	  9e-07
+ 92-  4:	SEGI_26497	W_mirabilis_18082	  4e-21
+ 92-  5:	SEGI_12760	W_mirabilis_00407	  1e-20
+## Alignment 93: score=184.0 e_value=2e-12 N=6 seq_chr11&wel_Chr02 plus
+ 93-  0:	SEGI_03443	W_mirabilis_26156	 7e-151
+ 93-  1:	SEGI_00498	W_mirabilis_26158	 6e-302
+ 93-  2:	SEGI_11462	W_mirabilis_16843	 2e-146
+ 93-  3:	SEGI_10284	W_mirabilis_11106	  1e-50
+ 93-  4:	SEGI_19750	W_mirabilis_11107	  2e-63
+ 93-  5:	SEGI_38885	W_mirabilis_00763	  1e-21
+## Alignment 94: score=180.0 e_value=0.00057 N=4 seq_chr11&wel_Chr02 plus
+ 94-  0:	SEGI_08732	W_mirabilis_06108	  8e-50
+ 94-  1:	SEGI_19729	W_mirabilis_06104	  2e-22
+ 94-  2:	SEGI_37830	W_mirabilis_01370	  2e-24
+ 94-  3:	SEGI_19528	W_mirabilis_01368	  1e-29
+## Alignment 95: score=176.0 e_value=2.2e-08 N=5 seq_chr11&wel_Chr02 plus
+ 95-  0:	SEGI_30595	W_mirabilis_04285	  2e-78
+ 95-  1:	SEGI_19155	W_mirabilis_18322	  9e-65
+ 95-  2:	SEGI_38119	W_mirabilis_07530	  2e-22
+ 95-  3:	SEGI_04445	W_mirabilis_09995	  2e-64
+ 95-  4:	SEGI_38773	W_mirabilis_10071	  4e-20
+## Alignment 96: score=173.0 e_value=6.1e-09 N=5 seq_chr11&wel_Chr02 plus
+ 96-  0:	SEGI_12758	W_mirabilis_06101	  4e-57
+ 96-  1:	SEGI_16157	W_mirabilis_01371	  2e-22
+ 96-  2:	SEGI_14274	W_mirabilis_13172	  4e-85
+ 96-  3:	SEGI_26629	W_mirabilis_02101	  4e-51
+ 96-  4:	SEGI_14204	W_mirabilis_08558	  4e-46
+## Alignment 97: score=169.0 e_value=8.7e-06 N=5 seq_chr11&wel_Chr02 plus
+ 97-  0:	SEGI_19334	W_mirabilis_18838	  5e-33
+ 97-  1:	SEGI_35890	W_mirabilis_15017	 5e-131
+ 97-  2:	SEGI_28222	W_mirabilis_04251	  6e-51
+ 97-  3:	SEGI_33381	W_mirabilis_09405	  2e-78
+ 97-  4:	SEGI_26966	W_mirabilis_15999	  2e-35
+## Alignment 98: score=165.0 e_value=0.00044 N=4 seq_chr11&wel_Chr02 plus
+ 98-  0:	SEGI_32156	W_mirabilis_25884	 6e-247
+ 98-  1:	SEGI_18911	W_mirabilis_22943	  2e-43
+ 98-  2:	SEGI_19955	W_mirabilis_19442	  1e-45
+ 98-  3:	SEGI_33990	W_mirabilis_25688	      0
+## Alignment 99: score=152.0 e_value=4.7e-08 N=5 seq_chr11&wel_Chr02 plus
+ 99-  0:	SEGI_19930	W_mirabilis_21890	 4e-104
+ 99-  1:	SEGI_07673	W_mirabilis_08244	 9e-256
+ 99-  2:	SEGI_19954	W_mirabilis_02298	  8e-07
+ 99-  3:	SEGI_20967	W_mirabilis_02301	  2e-17
+ 99-  4:	SEGI_17013	W_mirabilis_14174	 1e-123
+## Alignment 100: score=151.0 e_value=3.9e-05 N=4 seq_chr11&wel_Chr02 plus
+100-  0:	SEGI_33190	W_mirabilis_24787	 6e-136
+100-  1:	SEGI_15207	W_mirabilis_24786	  2e-30
+100-  2:	SEGI_16264	W_mirabilis_04996	  1e-30
+100-  3:	SEGI_11542	W_mirabilis_22069	  2e-20
+## Alignment 101: score=249.0 e_value=1.9e-08 N=6 seq_chr11&wel_Chr02 minus
+101-  0:	SEGI_14560	W_mirabilis_15434	  1e-39
+101-  1:	SEGI_22171	W_mirabilis_15438	  8e-25
+101-  2:	SEGI_19910	W_mirabilis_02302	 4e-112
+101-  3:	SEGI_02196	W_mirabilis_02297	  2e-48
+101-  4:	SEGI_18414	W_mirabilis_08243	 1e-109
+101-  5:	SEGI_14348	W_mirabilis_11591	 9e-313
+## Alignment 102: score=199.0 e_value=8.9e-10 N=5 seq_chr11&wel_Chr02 minus
+102-  0:	SEGI_37553	W_mirabilis_15996	 9e-129
+102-  1:	SEGI_00632	W_mirabilis_04246	 4e-125
+102-  2:	SEGI_15441	W_mirabilis_13531	 1e-195
+102-  3:	SEGI_37082	W_mirabilis_13532	  2e-17
+102-  4:	SEGI_16295	W_mirabilis_19147	  6e-71
+## Alignment 103: score=183.0 e_value=0.0002 N=4 seq_chr11&wel_Chr02 minus
+103-  0:	SEGI_12399	W_mirabilis_19964	  4e-40
+103-  1:	SEGI_32375	W_mirabilis_19959	  3e-66
+103-  2:	SEGI_11811	W_mirabilis_19958	  5e-83
+103-  3:	SEGI_29706	W_mirabilis_19957	  6e-44
+## Alignment 104: score=161.0 e_value=0.00012 N=4 seq_chr11&wel_Chr02 minus
+104-  0:	SEGI_41095	W_mirabilis_02109	 2e-150
+104-  1:	SEGI_10212	W_mirabilis_02111	  2e-13
+104-  2:	SEGI_38459	W_mirabilis_02112	 6e-128
+104-  3:	SEGI_37617	W_mirabilis_13368	  3e-57
+## Alignment 105: score=152.0 e_value=0.0005 N=4 seq_chr11&wel_Chr02 minus
+105-  0:	SEGI_37675	W_mirabilis_16249	  2e-29
+105-  1:	SEGI_10019	W_mirabilis_26866	  2e-11
+105-  2:	SEGI_36203	W_mirabilis_25745	  1e-30
+105-  3:	SEGI_36114	W_mirabilis_06765	  3e-99
+## Alignment 106: score=202.0 e_value=2.2e-19 N=7 seq_chr11&wel_Chr04 plus
+106-  0:	SEGI_13603	W_mirabilis_26571	 0.0002
+106-  1:	SEGI_12639	W_mirabilis_26572	 0.0007
+106-  2:	SEGI_02174	W_mirabilis_26573	  1e-05
+106-  3:	SEGI_33810	W_mirabilis_26574	  1e-32
+106-  4:	SEGI_12570	W_mirabilis_03455	  2e-49
+106-  5:	SEGI_09059	W_mirabilis_04345	 7e-135
+106-  6:	SEGI_32952	W_mirabilis_07821	  6e-39
+## Alignment 107: score=221.0 e_value=9.2e-14 N=6 seq_chr11&wel_Chr06 plus
+107-  0:	SEGI_18697	W_mirabilis_00173	 2e-124
+107-  1:	SEGI_06295	W_mirabilis_00174	 2e-135
+107-  2:	SEGI_18216	W_mirabilis_00177	 2e-129
+107-  3:	SEGI_38492	W_mirabilis_01803	  4e-07
+107-  4:	SEGI_03245	W_mirabilis_01805	  1e-08
+107-  5:	SEGI_08130	W_mirabilis_01806	  1e-05
+## Alignment 108: score=193.0 e_value=1.7e-08 N=5 seq_chr11&wel_Chr06 plus
+108-  0:	SEGI_26966	W_mirabilis_10091	  4e-89
+108-  1:	SEGI_05982	W_mirabilis_02331	  1e-18
+108-  2:	SEGI_26104	W_mirabilis_02131	  3e-58
+108-  3:	SEGI_00464	W_mirabilis_02133	  4e-35
+108-  4:	SEGI_02693	W_mirabilis_22971	  5e-13
+## Alignment 109: score=161.0 e_value=6.2e-08 N=5 seq_chr11&wel_Chr06 minus
+109-  0:	SEGI_19193	W_mirabilis_03936	  4e-07
+109-  1:	SEGI_03871	W_mirabilis_01808	  2e-64
+109-  2:	SEGI_25033	W_mirabilis_00177	 4e-147
+109-  3:	SEGI_28488	W_mirabilis_00175	 6e-102
+109-  4:	SEGI_18697	W_mirabilis_00173	 2e-124
+## Alignment 110: score=338.0 e_value=4.7e-15 N=8 seq_chr11&wel_Chr08 minus
+110-  0:	SEGI_19816	W_mirabilis_14863	  5e-15
+110-  1:	SEGI_27344	W_mirabilis_25249	  3e-19
+110-  2:	SEGI_27367	W_mirabilis_16441	 3e-110
+110-  3:	SEGI_29983	W_mirabilis_12053	  4e-91
+110-  4:	SEGI_37166	W_mirabilis_08136	  4e-14
+110-  5:	SEGI_36343	W_mirabilis_09711	  8e-47
+110-  6:	SEGI_34770	W_mirabilis_09710	 5e-291
+110-  7:	SEGI_00126	W_mirabilis_10310	  1e-48
+## Alignment 111: score=171.0 e_value=0.00053 N=4 seq_chr11&wel_Chr09 minus
+111-  0:	SEGI_41464	W_mirabilis_20855	 1e-277
+111-  1:	SEGI_07807	W_mirabilis_20858	  1e-17
+111-  2:	SEGI_28149	W_mirabilis_20861	  1e-82
+111-  3:	SEGI_38266	W_mirabilis_20862	 1e-133
+## Alignment 112: score=261.0 e_value=3.8e-10 N=6 seq_chr11&wel_Chr10 plus
+112-  0:	SEGI_05256	W_mirabilis_15639	  1e-18
+112-  1:	SEGI_07756	W_mirabilis_16033	  8e-34
+112-  2:	SEGI_23287	W_mirabilis_17052	  3e-90
+112-  3:	SEGI_23986	W_mirabilis_15856	  2e-15
+112-  4:	SEGI_12186	W_mirabilis_15855	  2e-96
+112-  5:	SEGI_19221	W_mirabilis_21023	      0
+## Alignment 113: score=155.0 e_value=8.3e-10 N=6 seq_chr11&wel_Chr10 plus
+113-  0:	SEGI_22631	W_mirabilis_01026	 6e-117
+113-  1:	SEGI_34770	W_mirabilis_24432	 4e-305
+113-  2:	SEGI_39293	W_mirabilis_05168	  2e-34
+113-  3:	SEGI_10124	W_mirabilis_05167	  2e-49
+113-  4:	SEGI_00634	W_mirabilis_21020	  7e-23
+113-  5:	SEGI_22492	W_mirabilis_03558	  5e-14
+## Alignment 114: score=189.0 e_value=5.7e-08 N=5 seq_chr11&wel_Chr10 minus
+114-  0:	SEGI_09895	W_mirabilis_21846	  9e-32
+114-  1:	SEGI_00197	W_mirabilis_21845	 7e-295
+114-  2:	SEGI_16835	W_mirabilis_21844	  2e-69
+114-  3:	SEGI_20553	W_mirabilis_05474	  1e-23
+114-  4:	SEGI_04850	W_mirabilis_01440	 3e-191
+## Alignment 115: score=183.0 e_value=5.9e-11 N=6 seq_chr11&wel_Chr11 plus
+115-  0:	SEGI_30012	W_mirabilis_12679	 6e-262
+115-  1:	SEGI_25066	W_mirabilis_07960	 3e-108
+115-  2:	SEGI_23147	W_mirabilis_06165	 3e-104
+115-  3:	SEGI_17202	W_mirabilis_20284	      0
+115-  4:	SEGI_12482	W_mirabilis_01224	  2e-79
+115-  5:	SEGI_37397	W_mirabilis_20048	  3e-22
+## Alignment 116: score=200.0 e_value=2.5e-09 N=6 seq_chr11&wel_Chr15 minus
+116-  0:	SEGI_10618	W_mirabilis_07184	  8e-95
+116-  1:	SEGI_02343	W_mirabilis_11557	  3e-34
+116-  2:	SEGI_19847	W_mirabilis_11558	 4e-188
+116-  3:	SEGI_29505	W_mirabilis_01956	 4e-281
+116-  4:	SEGI_36105	W_mirabilis_16192	  3e-26
+116-  5:	SEGI_41575	W_mirabilis_20719	 2e-161
+## Alignment 117: score=170.0 e_value=5e-15 N=8 seq_chr11&wel_Chr18 minus
+117-  0:	SEGI_33175	W_mirabilis_06443	  7e-96
+117-  1:	SEGI_20357	W_mirabilis_00880	 1e-166
+117-  2:	SEGI_35503	W_mirabilis_00646	  8e-50
+117-  3:	SEGI_17670	W_mirabilis_01214	  1e-09
+117-  4:	SEGI_29661	W_mirabilis_19643	  1e-50
+117-  5:	SEGI_26688	W_mirabilis_19642	  2e-13
+117-  6:	SEGI_41141	W_mirabilis_04450	 8e-132
+117-  7:	SEGI_22171	W_mirabilis_04454	  1e-36
+## Alignment 118: score=158.0 e_value=0.00029 N=4 seq_chr11&wel_Chr19 minus
+118-  0:	SEGI_16010	W_mirabilis_14081	  6e-24
+118-  1:	SEGI_11105	W_mirabilis_09903	  3e-15
+118-  2:	SEGI_20887	W_mirabilis_09905	  2e-21
+118-  3:	SEGI_18938	W_mirabilis_13879	 5e-118
+## Alignment 119: score=335.0 e_value=9.8e-28 N=12 seq_chr2&wel_Chr01 plus
+119-  0:	SEGI_04710	W_mirabilis_05449	  5e-57
+119-  1:	SEGI_01059	W_mirabilis_05457	  2e-24
+119-  2:	SEGI_31733	W_mirabilis_05293	  1e-21
+119-  3:	SEGI_01164	W_mirabilis_05296	 4e-120
+119-  4:	SEGI_05806	W_mirabilis_25227	 1e-117
+119-  5:	SEGI_22108	W_mirabilis_25237	 2e-190
+119-  6:	SEGI_19766	W_mirabilis_09931	 6e-234
+119-  7:	SEGI_26556	W_mirabilis_09899	  2e-07
+119-  8:	SEGI_22597	W_mirabilis_09012	 7e-100
+119-  9:	SEGI_13950	W_mirabilis_19590	 2e-140
+119- 10:	SEGI_38872	W_mirabilis_10582	 1e-126
+119- 11:	SEGI_33697	W_mirabilis_10589	 3e-128
+## Alignment 120: score=250.0 e_value=2.2e-12 N=7 seq_chr2&wel_Chr01 plus
+120-  0:	SEGI_24272	W_mirabilis_19653	 4e-147
+120-  1:	SEGI_25564	W_mirabilis_23497	  4e-84
+120-  2:	SEGI_14472	W_mirabilis_19221	      0
+120-  3:	SEGI_33114	W_mirabilis_19219	  3e-87
+120-  4:	SEGI_10136	W_mirabilis_11155	  6e-22
+120-  5:	SEGI_01594	W_mirabilis_11160	 3e-145
+120-  6:	SEGI_07839	W_mirabilis_25929	  4e-33
+## Alignment 121: score=238.0 e_value=7.6e-13 N=7 seq_chr2&wel_Chr01 plus
+121-  0:	SEGI_06415	W_mirabilis_23445	  2e-39
+121-  1:	SEGI_16785	W_mirabilis_08025	  2e-22
+121-  2:	SEGI_22324	W_mirabilis_18646	  5e-27
+121-  3:	SEGI_18283	W_mirabilis_18645	 5e-141
+121-  4:	SEGI_32817	W_mirabilis_18642	  4e-44
+121-  5:	SEGI_01353	W_mirabilis_02005	 8e-101
+121-  6:	SEGI_31151	W_mirabilis_08702	  8e-21
+## Alignment 122: score=202.0 e_value=4.1e-11 N=6 seq_chr2&wel_Chr01 plus
+122-  0:	SEGI_30866	W_mirabilis_03083	  1e-14
+122-  1:	SEGI_14424	W_mirabilis_03077	  7e-28
+122-  2:	SEGI_18220	W_mirabilis_03064	 3e-129
+122-  3:	SEGI_35720	W_mirabilis_03063	  5e-48
+122-  4:	SEGI_40664	W_mirabilis_06633	  2e-78
+122-  5:	SEGI_04619	W_mirabilis_20433	  3e-45
+## Alignment 123: score=172.0 e_value=6e-05 N=4 seq_chr2&wel_Chr01 plus
+123-  0:	SEGI_05612	W_mirabilis_19591	  4e-11
+123-  1:	SEGI_41344	W_mirabilis_19589	 2e-116
+123-  2:	SEGI_30537	W_mirabilis_13733	 3e-217
+123-  3:	SEGI_30052	W_mirabilis_10588	 1e-121
+## Alignment 124: score=166.0 e_value=0.00077 N=4 seq_chr2&wel_Chr01 plus
+124-  0:	SEGI_29448	W_mirabilis_20633	 2e-190
+124-  1:	SEGI_05435	W_mirabilis_26541	  1e-94
+124-  2:	SEGI_17382	W_mirabilis_05452	  2e-05
+124-  3:	SEGI_27499	W_mirabilis_05456	 8e-123
+## Alignment 125: score=770.0 e_value=6.3e-72 N=24 seq_chr2&wel_Chr01 minus
+125-  0:	SEGI_32609	W_mirabilis_05889	  8e-16
+125-  1:	SEGI_35169	W_mirabilis_20423	  2e-66
+125-  2:	SEGI_24410	W_mirabilis_20436	  7e-11
+125-  3:	SEGI_20177	W_mirabilis_07923	  8e-18
+125-  4:	SEGI_11210	W_mirabilis_16895	  6e-09
+125-  5:	SEGI_24013	W_mirabilis_14386	  3e-83
+125-  6:	SEGI_09250	W_mirabilis_16385	  3e-88
+125-  7:	SEGI_31985	W_mirabilis_07315	  2e-10
+125-  8:	SEGI_13591	W_mirabilis_03811	  1e-07
+125-  9:	SEGI_33648	W_mirabilis_03073	 2e-100
+125- 10:	SEGI_24663	W_mirabilis_03087	  7e-30
+125- 11:	SEGI_25893	W_mirabilis_03096	  2e-05
+125- 12:	SEGI_22371	W_mirabilis_18644	      0
+125- 13:	SEGI_22824	W_mirabilis_05360	 2e-194
+125- 14:	SEGI_15329	W_mirabilis_25092	  7e-57
+125- 15:	SEGI_10717	W_mirabilis_23448	  1e-33
+125- 16:	SEGI_01666	W_mirabilis_23445	 1e-138
+125- 17:	SEGI_07204	W_mirabilis_23440	  1e-57
+125- 18:	SEGI_35510	W_mirabilis_01403	  6e-31
+125- 19:	SEGI_36706	W_mirabilis_09719	  2e-83
+125- 20:	SEGI_20069	W_mirabilis_12138	 5e-164
+125- 21:	SEGI_09862	W_mirabilis_25932	  2e-08
+125- 22:	SEGI_22962	W_mirabilis_25939	  8e-56
+125- 23:	SEGI_40537	W_mirabilis_11156	  2e-63
+## Alignment 126: score=191.0 e_value=1.3e-07 N=5 seq_chr2&wel_Chr01 minus
+126-  0:	SEGI_05797	W_mirabilis_14262	 7e-108
+126-  1:	SEGI_24513	W_mirabilis_14259	  6e-95
+126-  2:	SEGI_04093	W_mirabilis_14256	  1e-89
+126-  3:	SEGI_19333	W_mirabilis_14245	  5e-32
+126-  4:	SEGI_18950	W_mirabilis_14242	  1e-19
+## Alignment 127: score=177.0 e_value=3.9e-06 N=4 seq_chr2&wel_Chr01 minus
+127-  0:	SEGI_10437	W_mirabilis_25187	  6e-08
+127-  1:	SEGI_07147	W_mirabilis_25188	 7e-248
+127-  2:	SEGI_01628	W_mirabilis_25191	 6e-145
+127-  3:	SEGI_06882	W_mirabilis_13689	  6e-69
+## Alignment 128: score=151.0 e_value=5.8e-05 N=4 seq_chr2&wel_Chr04 minus
+128-  0:	SEGI_00211	W_mirabilis_20667	  4e-31
+128-  1:	SEGI_30993	W_mirabilis_20665	  5e-38
+128-  2:	SEGI_00340	W_mirabilis_20664	 6e-269
+128-  3:	SEGI_05259	W_mirabilis_26299	  1e-92
+## Alignment 129: score=179.0 e_value=2.1e-06 N=5 seq_chr2&wel_Chr05 plus
+129-  0:	SEGI_26025	W_mirabilis_15929	  2e-39
+129-  1:	SEGI_34945	W_mirabilis_16615	  2e-78
+129-  2:	SEGI_03000	W_mirabilis_16676	  2e-21
+129-  3:	SEGI_39580	W_mirabilis_19724	  3e-63
+129-  4:	SEGI_25382	W_mirabilis_19880	  2e-20
+## Alignment 130: score=154.0 e_value=5.7e-10 N=6 seq_chr2&wel_Chr05 plus
+130-  0:	SEGI_24013	W_mirabilis_08059	  4e-36
+130-  1:	SEGI_27194	W_mirabilis_11451	  2e-18
+130-  2:	SEGI_03882	W_mirabilis_08918	  8e-24
+130-  3:	SEGI_09469	W_mirabilis_07126	  6e-13
+130-  4:	SEGI_34216	W_mirabilis_09467	  3e-09
+130-  5:	SEGI_30543	W_mirabilis_07166	 2e-145
+## Alignment 131: score=154.0 e_value=3.1e-06 N=4 seq_chr2&wel_Chr05 plus
+131-  0:	SEGI_14395	W_mirabilis_01693	  8e-98
+131-  1:	SEGI_04337	W_mirabilis_01692	 7e-125
+131-  2:	SEGI_04964	W_mirabilis_05252	 1e-134
+131-  3:	SEGI_05402	W_mirabilis_20684	  2e-51
+## Alignment 132: score=230.0 e_value=1.1e-11 N=7 seq_chr2&wel_Chr05 minus
+132-  0:	SEGI_21244	W_mirabilis_03206	  2e-14
+132-  1:	SEGI_41476	W_mirabilis_02057	  1e-58
+132-  2:	SEGI_23278	W_mirabilis_26452	  9e-28
+132-  3:	SEGI_19439	W_mirabilis_26451	 7e-109
+132-  4:	SEGI_14917	W_mirabilis_26449	  8e-27
+132-  5:	SEGI_15561	W_mirabilis_24834	 2e-218
+132-  6:	SEGI_04771	W_mirabilis_18571	  1e-53
+## Alignment 133: score=179.0 e_value=2e-12 N=5 seq_chr2&wel_Chr05 minus
+133-  0:	SEGI_41476	W_mirabilis_02475	  2e-48
+133-  1:	SEGI_23278	W_mirabilis_26498	  7e-30
+133-  2:	SEGI_11051	W_mirabilis_26500	 7e-136
+133-  3:	SEGI_39489	W_mirabilis_26501	  6e-11
+133-  4:	SEGI_10676	W_mirabilis_02206	  5e-41
+## Alignment 134: score=161.0 e_value=0.00014 N=4 seq_chr2&wel_Chr05 minus
+134-  0:	SEGI_25366	W_mirabilis_02204	 3e-120
+134-  1:	SEGI_37864	W_mirabilis_18713	  4e-10
+134-  2:	SEGI_29760	W_mirabilis_18717	      0
+134-  3:	SEGI_13050	W_mirabilis_15899	  3e-64
+## Alignment 135: score=151.0 e_value=0.00055 N=4 seq_chr2&wel_Chr05 minus
+135-  0:	SEGI_07586	W_mirabilis_18711	  7e-58
+135-  1:	SEGI_28136	W_mirabilis_10331	  7e-60
+135-  2:	SEGI_39462	W_mirabilis_17500	 1e-185
+135-  3:	SEGI_29655	W_mirabilis_17491	  6e-38
+## Alignment 136: score=150.0 e_value=7.8e-09 N=6 seq_chr2&wel_Chr05 minus
+136-  0:	SEGI_26254	W_mirabilis_16001	  8e-36
+136-  1:	SEGI_26025	W_mirabilis_15929	  2e-39
+136-  2:	SEGI_33884	W_mirabilis_13628	  2e-28
+136-  3:	SEGI_22892	W_mirabilis_08932	  1e-19
+136-  4:	SEGI_22681	W_mirabilis_06493	  2e-06
+136-  5:	SEGI_04312	W_mirabilis_05016	  3e-11
+## Alignment 137: score=336.0 e_value=0 N=11 seq_chr2&wel_Chr06 plus
+137-  0:	SEGI_24357	W_mirabilis_25839	 2e-130
+137-  1:	SEGI_24003	W_mirabilis_08466	 9e-102
+137-  2:	SEGI_30669	W_mirabilis_13824	  2e-84
+137-  3:	SEGI_41314	W_mirabilis_13822	 2e-291
+137-  4:	SEGI_23609	W_mirabilis_17913	  7e-49
+137-  5:	SEGI_38229	W_mirabilis_13683	  1e-13
+137-  6:	SEGI_40489	W_mirabilis_02224	 7e-127
+137-  7:	SEGI_37128	W_mirabilis_14155	  7e-63
+137-  8:	SEGI_12809	W_mirabilis_18670	  5e-34
+137-  9:	SEGI_38379	W_mirabilis_18671	 5e-151
+137- 10:	SEGI_38240	W_mirabilis_07195	 1e-175
+## Alignment 138: score=219.0 e_value=9.2e-12 N=6 seq_chr2&wel_Chr06 plus
+138-  0:	SEGI_23303	W_mirabilis_08464	  8e-72
+138-  1:	SEGI_29353	W_mirabilis_13828	  6e-94
+138-  2:	SEGI_16293	W_mirabilis_13826	 1e-157
+138-  3:	SEGI_25309	W_mirabilis_13825	  6e-27
+138-  4:	SEGI_28999	W_mirabilis_11279	  2e-28
+138-  5:	SEGI_18885	W_mirabilis_11026	 5e-274
+## Alignment 139: score=207.0 e_value=1.2e-07 N=5 seq_chr2&wel_Chr06 plus
+139-  0:	SEGI_15251	W_mirabilis_05616	  2e-77
+139-  1:	SEGI_20546	W_mirabilis_05620	  2e-45
+139-  2:	SEGI_39385	W_mirabilis_13832	 5e-133
+139-  3:	SEGI_33390	W_mirabilis_13830	  1e-68
+139-  4:	SEGI_01686	W_mirabilis_13827	 9e-246
+## Alignment 140: score=174.0 e_value=1.9e-08 N=6 seq_chr2&wel_Chr06 minus
+140-  0:	SEGI_01686	W_mirabilis_13827	 9e-246
+140-  1:	SEGI_17037	W_mirabilis_13830	  2e-64
+140-  2:	SEGI_10481	W_mirabilis_05621	  8e-06
+140-  3:	SEGI_06494	W_mirabilis_14776	  2e-73
+140-  4:	SEGI_20635	W_mirabilis_23832	  3e-14
+140-  5:	SEGI_23303	W_mirabilis_08464	  8e-72
+## Alignment 141: score=152.0 e_value=0.00013 N=4 seq_chr2&wel_Chr06 minus
+141-  0:	SEGI_20546	W_mirabilis_05620	  2e-45
+141-  1:	SEGI_37522	W_mirabilis_05614	  4e-59
+141-  2:	SEGI_19720	W_mirabilis_14430	  6e-13
+141-  3:	SEGI_37361	W_mirabilis_08467	  3e-57
+## Alignment 142: score=179.0 e_value=0.00014 N=4 seq_chr2&wel_Chr07 plus
+142-  0:	SEGI_41092	W_mirabilis_21308	  6e-12
+142-  1:	SEGI_13232	W_mirabilis_18344	 3e-120
+142-  2:	SEGI_13569	W_mirabilis_18345	  5e-68
+142-  3:	SEGI_00705	W_mirabilis_18352	 1e-194
+## Alignment 143: score=178.0 e_value=0.00057 N=4 seq_chr2&wel_Chr07 plus
+143-  0:	SEGI_39065	W_mirabilis_15686	 1e-200
+143-  1:	SEGI_05612	W_mirabilis_06063	  2e-11
+143-  2:	SEGI_30537	W_mirabilis_06058	 2e-208
+143-  3:	SEGI_05743	W_mirabilis_16439	  8e-97
+## Alignment 144: score=176.0 e_value=3.3e-14 N=8 seq_chr2&wel_Chr07 plus
+144-  0:	SEGI_25885	W_mirabilis_23321	  2e-20
+144-  1:	SEGI_20575	W_mirabilis_23323	  5e-97
+144-  2:	SEGI_09271	W_mirabilis_02673	  2e-82
+144-  3:	SEGI_28730	W_mirabilis_24895	  2e-57
+144-  4:	SEGI_09008	W_mirabilis_17614	  8e-52
+144-  5:	SEGI_34704	W_mirabilis_14203	  3e-24
+144-  6:	SEGI_02710	W_mirabilis_21308	  6e-25
+144-  7:	SEGI_28728	W_mirabilis_21311	  2e-45
+## Alignment 145: score=157.0 e_value=0.00079 N=4 seq_chr2&wel_Chr07 plus
+145-  0:	SEGI_14206	W_mirabilis_02668	  1e-28
+145-  1:	SEGI_20764	W_mirabilis_02671	  3e-30
+145-  2:	SEGI_03369	W_mirabilis_02678	  4e-49
+145-  3:	SEGI_00211	W_mirabilis_02681	 2e-147
+## Alignment 146: score=155.0 e_value=8.9e-06 N=4 seq_chr2&wel_Chr07 plus
+146-  0:	SEGI_16012	W_mirabilis_18353	  3e-52
+146-  1:	SEGI_07004	W_mirabilis_15333	 3e-218
+146-  2:	SEGI_16720	W_mirabilis_15335	  9e-15
+146-  3:	SEGI_35617	W_mirabilis_11423	  1e-71
+## Alignment 147: score=225.0 e_value=3.1e-10 N=6 seq_chr2&wel_Chr07 minus
+147-  0:	SEGI_01846	W_mirabilis_21315	  1e-82
+147-  1:	SEGI_09271	W_mirabilis_13543	 3e-125
+147-  2:	SEGI_06657	W_mirabilis_06621	  1e-26
+147-  3:	SEGI_06896	W_mirabilis_24900	 1e-182
+147-  4:	SEGI_21307	W_mirabilis_24898	  3e-52
+147-  5:	SEGI_28730	W_mirabilis_24895	  2e-57
+## Alignment 148: score=211.0 e_value=1.1e-10 N=6 seq_chr2&wel_Chr07 minus
+148-  0:	SEGI_19766	W_mirabilis_14202	 2e-246
+148-  1:	SEGI_09008	W_mirabilis_17614	  8e-52
+148-  2:	SEGI_34692	W_mirabilis_06621	      0
+148-  3:	SEGI_02928	W_mirabilis_18493	  1e-27
+148-  4:	SEGI_34535	W_mirabilis_18494	 6e-104
+148-  5:	SEGI_23955	W_mirabilis_18495	  3e-79
+## Alignment 149: score=157.0 e_value=0.00014 N=4 seq_chr2&wel_Chr07 minus
+149-  0:	SEGI_28728	W_mirabilis_21311	  2e-45
+149-  1:	SEGI_05967	W_mirabilis_19913	 1e-220
+149-  2:	SEGI_16098	W_mirabilis_02795	 2e-308
+149-  3:	SEGI_17846	W_mirabilis_16862	 7e-107
+## Alignment 150: score=210.0 e_value=8e-10 N=6 seq_chr2&wel_Chr09 minus
+150-  0:	SEGI_30192	W_mirabilis_18621	  3e-65
+150-  1:	SEGI_19148	W_mirabilis_17904	  3e-13
+150-  2:	SEGI_27056	W_mirabilis_17903	 1e-175
+150-  3:	SEGI_20387	W_mirabilis_08551	 5e-129
+150-  4:	SEGI_06909	W_mirabilis_04670	 1e-105
+150-  5:	SEGI_15298	W_mirabilis_02569	  1e-75
+## Alignment 151: score=150.0 e_value=2.6e-05 N=4 seq_chr2&wel_Chr10 plus
+151-  0:	SEGI_31705	W_mirabilis_26901	  1e-23
+151-  1:	SEGI_20707	W_mirabilis_07810	  6e-16
+151-  2:	SEGI_17557	W_mirabilis_07811	  1e-13
+151-  3:	SEGI_38731	W_mirabilis_25133	  3e-27
+## Alignment 152: score=192.0 e_value=5e-09 N=6 seq_chr2&wel_Chr12 plus
+152-  0:	SEGI_26425	W_mirabilis_06010	 2e-139
+152-  1:	SEGI_11701	W_mirabilis_12382	 7e-128
+152-  2:	SEGI_16362	W_mirabilis_26329	 2e-103
+152-  3:	SEGI_12299	W_mirabilis_03705	 6e-141
+152-  4:	SEGI_08688	W_mirabilis_01448	 3e-101
+152-  5:	SEGI_37229	W_mirabilis_01453	  4e-51
+## Alignment 153: score=174.0 e_value=5.3e-09 N=6 seq_chr2&wel_Chr12 minus
+153-  0:	SEGI_07801	W_mirabilis_12148	  5e-14
+153-  1:	SEGI_01997	W_mirabilis_04552	 5e-167
+153-  2:	SEGI_08933	W_mirabilis_17750	 9e-164
+153-  3:	SEGI_16066	W_mirabilis_19208	  1e-28
+153-  4:	SEGI_09735	W_mirabilis_26125	  1e-08
+153-  5:	SEGI_05274	W_mirabilis_01450	 4e-271
+## Alignment 154: score=183.0 e_value=2.6e-07 N=5 seq_chr2&wel_Chr13 minus
+154-  0:	SEGI_22050	W_mirabilis_16646	  1e-34
+154-  1:	SEGI_40234	W_mirabilis_12645	  2e-19
+154-  2:	SEGI_03246	W_mirabilis_11650	 2e-149
+154-  3:	SEGI_40824	W_mirabilis_20992	  1e-15
+154-  4:	SEGI_35316	W_mirabilis_07351	  2e-40
+## Alignment 155: score=183.0 e_value=4e-07 N=4 seq_chr2&wel_Chr13 minus
+155-  0:	SEGI_24404	W_mirabilis_03545	  2e-77
+155-  1:	SEGI_01687	W_mirabilis_03543	 8e-186
+155-  2:	SEGI_02234	W_mirabilis_03542	  2e-35
+155-  3:	SEGI_13186	W_mirabilis_03541	  9e-78
+## Alignment 156: score=153.0 e_value=5.3e-13 N=5 seq_chr2&wel_Chr13 minus
+156-  0:	SEGI_03251	W_mirabilis_08807	  4e-11
+156-  1:	SEGI_16270	W_mirabilis_08705	  8e-13
+156-  2:	SEGI_39259	W_mirabilis_06815	  3e-46
+156-  3:	SEGI_25138	W_mirabilis_06814	  5e-21
+156-  4:	SEGI_28103	W_mirabilis_03549	  5e-71
+## Alignment 157: score=330.0 e_value=6e-22 N=10 seq_chr2&wel_Chr16 plus
+157-  0:	SEGI_11151	W_mirabilis_15820	  4e-72
+157-  1:	SEGI_05593	W_mirabilis_08836	 5e-125
+157-  2:	SEGI_28087	W_mirabilis_08837	  2e-49
+157-  3:	SEGI_12209	W_mirabilis_02735	  2e-12
+157-  4:	SEGI_38164	W_mirabilis_08425	  9e-29
+157-  5:	SEGI_41314	W_mirabilis_08511	 1e-140
+157-  6:	SEGI_22080	W_mirabilis_24087	  4e-72
+157-  7:	SEGI_37749	W_mirabilis_24081	  6e-59
+157-  8:	SEGI_24712	W_mirabilis_07187	  1e-10
+157-  9:	SEGI_18977	W_mirabilis_18974	  2e-95
+## Alignment 158: score=192.0 e_value=6.1e-07 N=5 seq_chr2&wel_Chr16 plus
+158-  0:	SEGI_38333	W_mirabilis_26279	  2e-34
+158-  1:	SEGI_18587	W_mirabilis_26281	 8e-101
+158-  2:	SEGI_35394	W_mirabilis_26282	  2e-22
+158-  3:	SEGI_15348	W_mirabilis_26283	  1e-19
+158-  4:	SEGI_13735	W_mirabilis_01968	  6e-16
+## Alignment 159: score=187.0 e_value=0.00015 N=4 seq_chr2&wel_Chr16 minus
+159-  0:	SEGI_39632	W_mirabilis_01971	  7e-67
+159-  1:	SEGI_29061	W_mirabilis_01966	  4e-89
+159-  2:	SEGI_38198	W_mirabilis_26286	 2e-179
+159-  3:	SEGI_09927	W_mirabilis_26285	 2e-135
+## Alignment 160: score=182.0 e_value=3.7e-05 N=4 seq_chr2&wel_Chr16 minus
+160-  0:	SEGI_08021	W_mirabilis_23974	 8e-151
+160-  1:	SEGI_06160	W_mirabilis_23975	  6e-23
+160-  2:	SEGI_28999	W_mirabilis_23977	  6e-29
+160-  3:	SEGI_02150	W_mirabilis_23978	  2e-26
+## Alignment 161: score=174.0 e_value=8.4e-05 N=4 seq_chr2&wel_Chr16 minus
+161-  0:	SEGI_24193	W_mirabilis_03139	 4e-156
+161-  1:	SEGI_19720	W_mirabilis_03144	  2e-29
+161-  2:	SEGI_23519	W_mirabilis_11581	  5e-97
+161-  3:	SEGI_22381	W_mirabilis_11118	  1e-51
+## Alignment 162: score=153.0 e_value=2.7e-06 N=5 seq_chr2&wel_Chr16 minus
+162-  0:	SEGI_40292	W_mirabilis_24081	  1e-58
+162-  1:	SEGI_37020	W_mirabilis_24085	  3e-27
+162-  2:	SEGI_06758	W_mirabilis_10391	 7e-168
+162-  3:	SEGI_22285	W_mirabilis_08231	 2e-147
+162-  4:	SEGI_07718	W_mirabilis_23973	  6e-33
+## Alignment 163: score=163.0 e_value=2.8e-05 N=4 seq_chr2&wel_Chr17 minus
+163-  0:	SEGI_09588	W_mirabilis_13299	 6e-295
+163-  1:	SEGI_32643	W_mirabilis_08929	 9e-194
+163-  2:	SEGI_37382	W_mirabilis_08930	 8e-103
+163-  3:	SEGI_38731	W_mirabilis_26323	  5e-36
+## Alignment 164: score=152.0 e_value=1.3e-05 N=5 seq_chr2&wel_Chr19 plus
+164-  0:	SEGI_17319	W_mirabilis_04399	 5e-150
+164-  1:	SEGI_22885	W_mirabilis_23751	 2e-219
+164-  2:	SEGI_06514	W_mirabilis_23567	 7e-188
+164-  3:	SEGI_11762	W_mirabilis_15510	  3e-74
+164-  4:	SEGI_22249	W_mirabilis_08832	 2e-231
+## Alignment 165: score=244.0 e_value=8.7e-17 N=8 seq_chr3&wel_Chr02 plus
+165-  0:	SEGI_32277	W_mirabilis_01837	  2e-53
+165-  1:	SEGI_26078	W_mirabilis_01840	 5e-222
+165-  2:	SEGI_14596	W_mirabilis_08900	  9e-06
+165-  3:	SEGI_03683	W_mirabilis_08899	  6e-26
+165-  4:	SEGI_34787	W_mirabilis_08896	 5e-235
+165-  5:	SEGI_28187	W_mirabilis_08893	 4e-123
+165-  6:	SEGI_06958	W_mirabilis_26662	  2e-06
+165-  7:	SEGI_07964	W_mirabilis_26661	  2e-53
+## Alignment 166: score=216.0 e_value=2e-10 N=6 seq_chr3&wel_Chr02 plus
+166-  0:	SEGI_26385	W_mirabilis_21731	  4e-40
+166-  1:	SEGI_33645	W_mirabilis_19045	  3e-32
+166-  2:	SEGI_30150	W_mirabilis_19042	 9e-140
+166-  3:	SEGI_18607	W_mirabilis_08892	  2e-18
+166-  4:	SEGI_05010	W_mirabilis_10155	 6e-279
+166-  5:	SEGI_25517	W_mirabilis_18846	  9e-13
+## Alignment 167: score=198.0 e_value=2.8e-09 N=5 seq_chr3&wel_Chr02 minus
+167-  0:	SEGI_36129	W_mirabilis_26654	  1e-52
+167-  1:	SEGI_10636	W_mirabilis_13735	  1e-19
+167-  2:	SEGI_21219	W_mirabilis_13736	 8e-101
+167-  3:	SEGI_19649	W_mirabilis_13738	  9e-55
+167-  4:	SEGI_38683	W_mirabilis_01070	 5e-231
+## Alignment 168: score=287.0 e_value=3.1e-20 N=9 seq_chr3&wel_Chr03 minus
+168-  0:	SEGI_09902	W_mirabilis_09968	  2e-86
+168-  1:	SEGI_16907	W_mirabilis_18231	  2e-69
+168-  2:	SEGI_28614	W_mirabilis_03588	  5e-29
+168-  3:	SEGI_20113	W_mirabilis_03589	  3e-13
+168-  4:	SEGI_03212	W_mirabilis_03590	 3e-226
+168-  5:	SEGI_36292	W_mirabilis_04137	 2e-224
+168-  6:	SEGI_19977	W_mirabilis_17856	  3e-19
+168-  7:	SEGI_16880	W_mirabilis_02430	 2e-131
+168-  8:	SEGI_31296	W_mirabilis_12472	  2e-36
+## Alignment 169: score=291.0 e_value=5.4e-15 N=8 seq_chr3&wel_Chr04 minus
+169-  0:	SEGI_36478	W_mirabilis_21328	  2e-58
+169-  1:	SEGI_32991	W_mirabilis_21329	 3e-148
+169-  2:	SEGI_03925	W_mirabilis_19952	  8e-88
+169-  3:	SEGI_38675	W_mirabilis_05197	  2e-22
+169-  4:	SEGI_14105	W_mirabilis_25029	  9e-22
+169-  5:	SEGI_14561	W_mirabilis_18338	 6e-143
+169-  6:	SEGI_27742	W_mirabilis_02152	  2e-70
+169-  7:	SEGI_25749	W_mirabilis_26785	  5e-21
+## Alignment 170: score=165.0 e_value=9.5e-07 N=5 seq_chr3&wel_Chr04 minus
+170-  0:	SEGI_16712	W_mirabilis_11736	 4e-209
+170-  1:	SEGI_38305	W_mirabilis_07008	  2e-06
+170-  2:	SEGI_36489	W_mirabilis_07975	 7e-154
+170-  3:	SEGI_38961	W_mirabilis_07972	 4e-134
+170-  4:	SEGI_19081	W_mirabilis_04764	  8e-42
+## Alignment 171: score=251.0 e_value=1.7e-14 N=7 seq_chr3&wel_Chr06 plus
+171-  0:	SEGI_31667	W_mirabilis_11553	 3e-166
+171-  1:	SEGI_26588	W_mirabilis_04523	      0
+171-  2:	SEGI_24243	W_mirabilis_17558	  4e-53
+171-  3:	SEGI_06172	W_mirabilis_25904	 3e-296
+171-  4:	SEGI_31883	W_mirabilis_25903	  3e-50
+171-  5:	SEGI_16460	W_mirabilis_23269	 2e-161
+171-  6:	SEGI_01113	W_mirabilis_23270	  6e-18
+## Alignment 172: score=197.0 e_value=3.6e-09 N=6 seq_chr3&wel_Chr06 plus
+172-  0:	SEGI_02960	W_mirabilis_07541	  6e-41
+172-  1:	SEGI_15421	W_mirabilis_07538	 2e-105
+172-  2:	SEGI_23840	W_mirabilis_14133	 3e-112
+172-  3:	SEGI_11023	W_mirabilis_10435	  6e-55
+172-  4:	SEGI_29455	W_mirabilis_20329	  9e-76
+172-  5:	SEGI_18735	W_mirabilis_06015	  4e-78
+## Alignment 173: score=197.0 e_value=5.6e-09 N=6 seq_chr3&wel_Chr06 plus
+173-  0:	SEGI_02260	W_mirabilis_14318	  8e-73
+173-  1:	SEGI_32843	W_mirabilis_07542	  5e-30
+173-  2:	SEGI_35837	W_mirabilis_17560	  2e-42
+173-  3:	SEGI_08446	W_mirabilis_10438	  2e-57
+173-  4:	SEGI_40113	W_mirabilis_11800	  4e-20
+173-  5:	SEGI_14730	W_mirabilis_16868	 7e-155
+## Alignment 174: score=182.0 e_value=4.3e-06 N=5 seq_chr3&wel_Chr06 plus
+174-  0:	SEGI_01403	W_mirabilis_23867	  1e-68
+174-  1:	SEGI_24948	W_mirabilis_22638	  1e-53
+174-  2:	SEGI_08648	W_mirabilis_10137	  6e-85
+174-  3:	SEGI_14435	W_mirabilis_13489	  1e-08
+174-  4:	SEGI_20615	W_mirabilis_16157	  1e-57
+## Alignment 175: score=225.0 e_value=2.4e-09 N=6 seq_chr3&wel_Chr06 minus
+175-  0:	SEGI_01890	W_mirabilis_24923	  2e-64
+175-  1:	SEGI_20755	W_mirabilis_24905	  8e-24
+175-  2:	SEGI_35009	W_mirabilis_10354	 2e-126
+175-  3:	SEGI_03910	W_mirabilis_14068	  2e-23
+175-  4:	SEGI_28976	W_mirabilis_04857	 4e-191
+175-  5:	SEGI_26827	W_mirabilis_23528	  5e-73
+## Alignment 176: score=202.0 e_value=3e-12 N=7 seq_chr3&wel_Chr06 minus
+176-  0:	SEGI_39405	W_mirabilis_24911	  8e-75
+176-  1:	SEGI_21370	W_mirabilis_10352	  9e-64
+176-  2:	SEGI_27988	W_mirabilis_18131	 2e-160
+176-  3:	SEGI_30148	W_mirabilis_05664	  3e-12
+176-  4:	SEGI_40842	W_mirabilis_05662	  1e-11
+176-  5:	SEGI_08988	W_mirabilis_23715	  1e-21
+176-  6:	SEGI_03055	W_mirabilis_09556	  2e-98
+## Alignment 177: score=151.0 e_value=0.0001 N=4 seq_chr3&wel_Chr06 minus
+177-  0:	SEGI_22601	W_mirabilis_12767	 4e-168
+177-  1:	SEGI_15902	W_mirabilis_12761	  3e-31
+177-  2:	SEGI_11853	W_mirabilis_12756	 4e-135
+177-  3:	SEGI_20122	W_mirabilis_12746	  8e-86
+## Alignment 178: score=167.0 e_value=0.00083 N=4 seq_chr3&wel_Chr07 plus
+178-  0:	SEGI_22423	W_mirabilis_09153	  4e-17
+178-  1:	SEGI_37800	W_mirabilis_22096	  1e-43
+178-  2:	SEGI_26841	W_mirabilis_19725	  5e-23
+178-  3:	SEGI_16458	W_mirabilis_23536	  4e-44
+## Alignment 179: score=182.0 e_value=3.1e-05 N=4 seq_chr3&wel_Chr07 minus
+179-  0:	SEGI_37844	W_mirabilis_20269	  4e-50
+179-  1:	SEGI_40720	W_mirabilis_20264	  1e-11
+179-  2:	SEGI_23912	W_mirabilis_09152	  3e-60
+179-  3:	SEGI_21644	W_mirabilis_09151	  5e-62
+## Alignment 180: score=311.0 e_value=3.1e-16 N=8 seq_chr3&wel_Chr08 plus
+180-  0:	SEGI_26948	W_mirabilis_01136	  9e-42
+180-  1:	SEGI_11785	W_mirabilis_01138	 4e-126
+180-  2:	SEGI_14026	W_mirabilis_01148	 2e-199
+180-  3:	SEGI_39135	W_mirabilis_07307	  6e-29
+180-  4:	SEGI_33457	W_mirabilis_07306	 7e-145
+180-  5:	SEGI_06101	W_mirabilis_07304	  2e-23
+180-  6:	SEGI_03852	W_mirabilis_07303	  4e-79
+180-  7:	SEGI_05086	W_mirabilis_07301	  7e-86
+## Alignment 181: score=210.0 e_value=6.4e-11 N=6 seq_chr3&wel_Chr09 plus
+181-  0:	SEGI_20977	W_mirabilis_26851	  1e-16
+181-  1:	SEGI_07084	W_mirabilis_09536	  1e-71
+181-  2:	SEGI_10803	W_mirabilis_09538	  3e-18
+181-  3:	SEGI_02686	W_mirabilis_14321	  9e-59
+181-  4:	SEGI_35614	W_mirabilis_15489	  1e-52
+181-  5:	SEGI_08382	W_mirabilis_24020	 4e-211
+## Alignment 182: score=173.0 e_value=6.7e-05 N=4 seq_chr3&wel_Chr09 minus
+182-  0:	SEGI_31944	W_mirabilis_14107	  8e-40
+182-  1:	SEGI_15617	W_mirabilis_11225	  1e-46
+182-  2:	SEGI_03055	W_mirabilis_24021	 3e-178
+182-  3:	SEGI_26539	W_mirabilis_24023	  6e-66
+## Alignment 183: score=173.0 e_value=5.3e-12 N=6 seq_chr3&wel_Chr10 plus
+183-  0:	SEGI_15698	W_mirabilis_03627	  7e-38
+183-  1:	SEGI_27855	W_mirabilis_03631	  9e-85
+183-  2:	SEGI_01881	W_mirabilis_03635	 7e-160
+183-  3:	SEGI_37974	W_mirabilis_10009	 2e-150
+183-  4:	SEGI_22797	W_mirabilis_10012	  5e-35
+183-  5:	SEGI_00151	W_mirabilis_10013	  5e-95
+## Alignment 184: score=166.0 e_value=0.00021 N=4 seq_chr3&wel_Chr10 plus
+184-  0:	SEGI_38505	W_mirabilis_25462	  2e-51
+184-  1:	SEGI_05498	W_mirabilis_19953	 2e-191
+184-  2:	SEGI_24366	W_mirabilis_03812	  5e-13
+184-  3:	SEGI_36234	W_mirabilis_25772	  1e-10
+## Alignment 185: score=167.0 e_value=7.3e-07 N=5 seq_chr3&wel_Chr10 minus
+185-  0:	SEGI_19747	W_mirabilis_21961	 4e-147
+185-  1:	SEGI_09746	W_mirabilis_21957	 2e-133
+185-  2:	SEGI_27817	W_mirabilis_20896	  3e-15
+185-  3:	SEGI_03849	W_mirabilis_20892	 2e-153
+185-  4:	SEGI_23098	W_mirabilis_19299	 6e-179
+## Alignment 186: score=154.0 e_value=5.4e-06 N=4 seq_chr3&wel_Chr10 minus
+186-  0:	SEGI_30246	W_mirabilis_25463	 5e-109
+186-  1:	SEGI_29974	W_mirabilis_13933	 2e-304
+186-  2:	SEGI_38267	W_mirabilis_05124	  1e-19
+186-  3:	SEGI_01918	W_mirabilis_05121	  2e-10
+## Alignment 187: score=173.0 e_value=1.9e-14 N=7 seq_chr3&wel_Chr11 plus
+187-  0:	SEGI_33208	W_mirabilis_02007	 2e-221
+187-  1:	SEGI_03948	W_mirabilis_02014	 0.0001
+187-  2:	SEGI_10372	W_mirabilis_08067	  4e-59
+187-  3:	SEGI_08841	W_mirabilis_15627	 2e-186
+187-  4:	SEGI_41399	W_mirabilis_22818	 4e-144
+187-  5:	SEGI_13296	W_mirabilis_24176	  2e-21
+187-  6:	SEGI_04755	W_mirabilis_24186	  2e-43
+## Alignment 188: score=167.0 e_value=1e-06 N=5 seq_chr3&wel_Chr11 plus
+188-  0:	SEGI_15319	W_mirabilis_02018	  4e-86
+188-  1:	SEGI_23176	W_mirabilis_02026	 4e-241
+188-  2:	SEGI_13205	W_mirabilis_02977	  5e-27
+188-  3:	SEGI_22520	W_mirabilis_08076	 1e-178
+188-  4:	SEGI_05764	W_mirabilis_15629	 1e-105
+## Alignment 189: score=178.0 e_value=9.3e-14 N=7 seq_chr3&wel_Chr11 minus
+189-  0:	SEGI_28026	W_mirabilis_10473	  2e-09
+189-  1:	SEGI_02818	W_mirabilis_10198	  1e-32
+189-  2:	SEGI_11485	W_mirabilis_10197	  8e-24
+189-  3:	SEGI_37487	W_mirabilis_07882	  8e-05
+189-  4:	SEGI_20507	W_mirabilis_26442	  9e-20
+189-  5:	SEGI_33457	W_mirabilis_26440	 2e-135
+189-  6:	SEGI_35027	W_mirabilis_24178	  4e-67
+## Alignment 190: score=198.0 e_value=9.2e-09 N=6 seq_chr3&wel_Chr12 minus
+190-  0:	SEGI_27506	W_mirabilis_21971	 5e-204
+190-  1:	SEGI_21524	W_mirabilis_04541	  4e-91
+190-  2:	SEGI_34922	W_mirabilis_20111	 1e-152
+190-  3:	SEGI_00111	W_mirabilis_12155	  3e-22
+190-  4:	SEGI_31359	W_mirabilis_12148	 3e-153
+190-  5:	SEGI_11286	W_mirabilis_21111	  6e-47
+## Alignment 191: score=167.0 e_value=0.00038 N=4 seq_chr3&wel_Chr14 plus
+191-  0:	SEGI_19501	W_mirabilis_15328	  8e-77
+191-  1:	SEGI_39225	W_mirabilis_15326	 3e-140
+191-  2:	SEGI_01230	W_mirabilis_15920	 2e-120
+191-  3:	SEGI_08827	W_mirabilis_01399	  2e-10
+## Alignment 192: score=163.0 e_value=2.7e-06 N=5 seq_chr3&wel_Chr15 plus
+192-  0:	SEGI_01839	W_mirabilis_06586	  4e-11
+192-  1:	SEGI_34390	W_mirabilis_10845	  8e-09
+192-  2:	SEGI_39648	W_mirabilis_10853	  4e-94
+192-  3:	SEGI_09488	W_mirabilis_16478	  6e-95
+192-  4:	SEGI_19837	W_mirabilis_17965	  7e-35
+## Alignment 193: score=159.0 e_value=0.00088 N=4 seq_chr3&wel_Chr15 plus
+193-  0:	SEGI_22753	W_mirabilis_02608	  4e-28
+193-  1:	SEGI_20552	W_mirabilis_13193	  1e-37
+193-  2:	SEGI_33860	W_mirabilis_13188	  5e-59
+193-  3:	SEGI_30004	W_mirabilis_13182	  5e-69
+## Alignment 194: score=157.0 e_value=0.00026 N=4 seq_chr3&wel_Chr15 plus
+194-  0:	SEGI_40594	W_mirabilis_01112	  5e-21
+194-  1:	SEGI_00431	W_mirabilis_01113	  1e-50
+194-  2:	SEGI_04040	W_mirabilis_01125	  1e-17
+194-  3:	SEGI_05233	W_mirabilis_05696	      0
+## Alignment 195: score=177.0 e_value=1.8e-08 N=5 seq_chr3&wel_Chr15 minus
+195-  0:	SEGI_40594	W_mirabilis_01125	  4e-20
+195-  1:	SEGI_00431	W_mirabilis_01113	  1e-50
+195-  2:	SEGI_41202	W_mirabilis_01112	  2e-10
+195-  3:	SEGI_30691	W_mirabilis_01110	  4e-36
+195-  4:	SEGI_39033	W_mirabilis_01108	  4e-34
+## Alignment 196: score=162.0 e_value=2.1e-07 N=5 seq_chr3&wel_Chr15 minus
+196-  0:	SEGI_16529	W_mirabilis_14646	  5e-07
+196-  1:	SEGI_12475	W_mirabilis_14649	 4e-127
+196-  2:	SEGI_03208	W_mirabilis_14655	 5e-192
+196-  3:	SEGI_20669	W_mirabilis_23686	 1e-177
+196-  4:	SEGI_06581	W_mirabilis_16398	 6e-120
+## Alignment 197: score=236.0 e_value=2.1e-08 N=5 seq_chr3&wel_Chr16 minus
+197-  0:	SEGI_33715	W_mirabilis_11235	 6e-127
+197-  1:	SEGI_26167	W_mirabilis_21617	  5e-25
+197-  2:	SEGI_03666	W_mirabilis_25204	  5e-25
+197-  3:	SEGI_28412	W_mirabilis_25202	  3e-11
+197-  4:	SEGI_04040	W_mirabilis_25201	  1e-18
+## Alignment 198: score=183.0 e_value=5.3e-09 N=5 seq_chr3&wel_Chr17 plus
+198-  0:	SEGI_06458	W_mirabilis_04016	  2e-51
+198-  1:	SEGI_34834	W_mirabilis_04017	  7e-09
+198-  2:	SEGI_38050	W_mirabilis_04018	 6e-130
+198-  3:	SEGI_21283	W_mirabilis_25262	 4e-100
+198-  4:	SEGI_37069	W_mirabilis_25269	  3e-47
+## Alignment 199: score=173.0 e_value=1.7e-08 N=6 seq_chr3&wel_Chr17 plus
+199-  0:	SEGI_15612	W_mirabilis_25273	  3e-68
+199-  1:	SEGI_16467	W_mirabilis_07999	  8e-81
+199-  2:	SEGI_32536	W_mirabilis_08251	  5e-18
+199-  3:	SEGI_38805	W_mirabilis_26843	  1e-37
+199-  4:	SEGI_02570	W_mirabilis_20289	  3e-08
+199-  5:	SEGI_00817	W_mirabilis_12860	  4e-15
+## Alignment 200: score=152.0 e_value=3e-05 N=4 seq_chr3&wel_Chr17 plus
+200-  0:	SEGI_02960	W_mirabilis_02449	 1e-138
+200-  1:	SEGI_34480	W_mirabilis_02448	  2e-49
+200-  2:	SEGI_31221	W_mirabilis_09025	 9e-115
+200-  3:	SEGI_12294	W_mirabilis_20680	  8e-28
+## Alignment 201: score=191.0 e_value=5.3e-06 N=5 seq_chr3&wel_Chr20 minus
+201-  0:	SEGI_25987	W_mirabilis_05720	 1e-157
+201-  1:	SEGI_11560	W_mirabilis_14489	  9e-10
+201-  2:	SEGI_19272	W_mirabilis_14492	 4e-120
+201-  3:	SEGI_15152	W_mirabilis_14496	  2e-43
+201-  4:	SEGI_06192	W_mirabilis_21135	  4e-15
+## Alignment 202: score=265.0 e_value=4.5e-15 N=7 seq_chr4&wel_Chr01 plus
+202-  0:	SEGI_16172	W_mirabilis_20344	  5e-47
+202-  1:	SEGI_21453	W_mirabilis_20345	 9e-128
+202-  2:	SEGI_27142	W_mirabilis_20346	 3e-263
+202-  3:	SEGI_21337	W_mirabilis_19048	  1e-75
+202-  4:	SEGI_18049	W_mirabilis_19049	 6e-124
+202-  5:	SEGI_04405	W_mirabilis_23511	  2e-60
+202-  6:	SEGI_25613	W_mirabilis_23513	 1e-181
+## Alignment 203: score=187.0 e_value=8e-07 N=5 seq_chr4&wel_Chr01 plus
+203-  0:	SEGI_11929	W_mirabilis_10282	 3e-150
+203-  1:	SEGI_13096	W_mirabilis_10283	  1e-26
+203-  2:	SEGI_29478	W_mirabilis_04102	  3e-29
+203-  3:	SEGI_19922	W_mirabilis_04101	  3e-37
+203-  4:	SEGI_27316	W_mirabilis_04100	 1e-141
+## Alignment 204: score=166.0 e_value=5.6e-09 N=5 seq_chr4&wel_Chr01 plus
+204-  0:	SEGI_29368	W_mirabilis_24553	  5e-29
+204-  1:	SEGI_05854	W_mirabilis_24558	  2e-21
+204-  2:	SEGI_26440	W_mirabilis_24560	  1e-57
+204-  3:	SEGI_13283	W_mirabilis_24562	      0
+204-  4:	SEGI_32907	W_mirabilis_16812	  3e-39
+## Alignment 205: score=307.0 e_value=2.2e-19 N=8 seq_chr4&wel_Chr01 minus
+205-  0:	SEGI_18248	W_mirabilis_11759	 6e-147
+205-  1:	SEGI_34507	W_mirabilis_11758	  1e-36
+205-  2:	SEGI_09885	W_mirabilis_12294	  9e-93
+205-  3:	SEGI_26815	W_mirabilis_12295	  8e-47
+205-  4:	SEGI_28453	W_mirabilis_08882	 1e-158
+205-  5:	SEGI_27826	W_mirabilis_08883	  1e-16
+205-  6:	SEGI_28080	W_mirabilis_10986	  9e-49
+205-  7:	SEGI_13359	W_mirabilis_07299	 4e-157
+## Alignment 206: score=227.0 e_value=8.1e-08 N=5 seq_chr4&wel_Chr05 plus
+206-  0:	SEGI_34710	W_mirabilis_00626	 1e-146
+206-  1:	SEGI_28522	W_mirabilis_02498	 1e-187
+206-  2:	SEGI_31360	W_mirabilis_02501	  8e-08
+206-  3:	SEGI_06653	W_mirabilis_02502	      0
+206-  4:	SEGI_25387	W_mirabilis_02503	 4e-115
+## Alignment 207: score=180.0 e_value=1.2e-07 N=5 seq_chr4&wel_Chr05 plus
+207-  0:	SEGI_18063	W_mirabilis_19753	  4e-77
+207-  1:	SEGI_14099	W_mirabilis_26944	  2e-31
+207-  2:	SEGI_30120	W_mirabilis_26946	 5e-155
+207-  3:	SEGI_16901	W_mirabilis_26951	 5e-157
+207-  4:	SEGI_38972	W_mirabilis_14207	 6e-206
+## Alignment 208: score=170.0 e_value=0.00012 N=4 seq_chr4&wel_Chr05 plus
+208-  0:	SEGI_41039	W_mirabilis_23282	  1e-82
+208-  1:	SEGI_34509	W_mirabilis_00628	  3e-28
+208-  2:	SEGI_25273	W_mirabilis_00629	  1e-34
+208-  3:	SEGI_33786	W_mirabilis_00630	 7e-297
+## Alignment 209: score=267.0 e_value=8.5e-09 N=6 seq_chr4&wel_Chr05 minus
+209-  0:	SEGI_13427	W_mirabilis_11919	  8e-66
+209-  1:	SEGI_25268	W_mirabilis_11918	  1e-66
+209-  2:	SEGI_15344	W_mirabilis_11912	  8e-65
+209-  3:	SEGI_12414	W_mirabilis_11911	  9e-29
+209-  4:	SEGI_30531	W_mirabilis_11909	  4e-77
+209-  5:	SEGI_17856	W_mirabilis_02093	  8e-62
+## Alignment 210: score=197.0 e_value=6.1e-07 N=5 seq_chr4&wel_Chr05 minus
+210-  0:	SEGI_03791	W_mirabilis_02497	 6e-206
+210-  1:	SEGI_14800	W_mirabilis_09610	  1e-23
+210-  2:	SEGI_19336	W_mirabilis_09609	  4e-87
+210-  3:	SEGI_04834	W_mirabilis_09606	  1e-09
+210-  4:	SEGI_31260	W_mirabilis_00633	  2e-65
+## Alignment 211: score=166.0 e_value=5.6e-06 N=4 seq_chr4&wel_Chr07 plus
+211-  0:	SEGI_39571	W_mirabilis_17583	  2e-48
+211-  1:	SEGI_25445	W_mirabilis_17354	  2e-12
+211-  2:	SEGI_19372	W_mirabilis_19740	  4e-13
+211-  3:	SEGI_28355	W_mirabilis_19741	  4e-13
+## Alignment 212: score=172.0 e_value=2.9e-07 N=5 seq_chr4&wel_Chr07 minus
+212-  0:	SEGI_31857	W_mirabilis_12262	 3e-223
+212-  1:	SEGI_27682	W_mirabilis_17770	 8e-114
+212-  2:	SEGI_16291	W_mirabilis_10336	  3e-33
+212-  3:	SEGI_27494	W_mirabilis_17046	 5e-128
+212-  4:	SEGI_16482	W_mirabilis_17045	 4e-125
+## Alignment 213: score=171.0 e_value=0.00045 N=4 seq_chr4&wel_Chr09 plus
+213-  0:	SEGI_37992	W_mirabilis_02538	 2e-136
+213-  1:	SEGI_25174	W_mirabilis_19980	 2e-139
+213-  2:	SEGI_12448	W_mirabilis_19982	 5e-128
+213-  3:	SEGI_12314	W_mirabilis_19984	  1e-25
+## Alignment 214: score=172.0 e_value=0.0004 N=4 seq_chr4&wel_Chr09 minus
+214-  0:	SEGI_21849	W_mirabilis_15592	  6e-68
+214-  1:	SEGI_32934	W_mirabilis_26548	      0
+214-  2:	SEGI_04097	W_mirabilis_06325	  7e-90
+214-  3:	SEGI_09200	W_mirabilis_06329	 3e-135
+## Alignment 215: score=156.0 e_value=0.00063 N=4 seq_chr4&wel_Chr10 plus
+215-  0:	SEGI_16894	W_mirabilis_00716	  8e-81
+215-  1:	SEGI_07293	W_mirabilis_17465	 7e-166
+215-  2:	SEGI_26546	W_mirabilis_17463	 8e-308
+215-  3:	SEGI_37597	W_mirabilis_03366	  5e-91
+## Alignment 216: score=495.0 e_value=2.3e-36 N=14 seq_chr4&wel_Chr12 plus
+216-  0:	SEGI_19960	W_mirabilis_19494	  5e-92
+216-  1:	SEGI_27408	W_mirabilis_19495	  3e-31
+216-  2:	SEGI_41282	W_mirabilis_07285	  1e-67
+216-  3:	SEGI_14660	W_mirabilis_07282	  2e-23
+216-  4:	SEGI_09001	W_mirabilis_18540	 9e-125
+216-  5:	SEGI_03743	W_mirabilis_03199	  2e-83
+216-  6:	SEGI_17996	W_mirabilis_18290	  5e-94
+216-  7:	SEGI_38606	W_mirabilis_18287	      0
+216-  8:	SEGI_28522	W_mirabilis_18280	 3e-188
+216-  9:	SEGI_14030	W_mirabilis_18277	  9e-23
+216- 10:	SEGI_08689	W_mirabilis_20955	  5e-46
+216- 11:	SEGI_07378	W_mirabilis_14084	 2e-155
+216- 12:	SEGI_17725	W_mirabilis_14085	      0
+216- 13:	SEGI_41566	W_mirabilis_03851	 2e-275
+## Alignment 217: score=286.0 e_value=1.8e-17 N=9 seq_chr4&wel_Chr12 plus
+217-  0:	SEGI_28911	W_mirabilis_05144	  4e-63
+217-  1:	SEGI_32158	W_mirabilis_08651	 9e-105
+217-  2:	SEGI_29029	W_mirabilis_25724	 2e-189
+217-  3:	SEGI_13664	W_mirabilis_18296	 1e-147
+217-  4:	SEGI_25387	W_mirabilis_18291	 5e-149
+217-  5:	SEGI_23101	W_mirabilis_18283	  2e-93
+217-  6:	SEGI_08855	W_mirabilis_20950	 3e-102
+217-  7:	SEGI_27212	W_mirabilis_14086	 1e-228
+217-  8:	SEGI_03383	W_mirabilis_14785	  3e-23
+## Alignment 218: score=250.0 e_value=4.3e-10 N=6 seq_chr4&wel_Chr12 minus
+218-  0:	SEGI_28516	W_mirabilis_19058	  6e-19
+218-  1:	SEGI_13571	W_mirabilis_15450	 4e-124
+218-  2:	SEGI_13946	W_mirabilis_16353	  3e-23
+218-  3:	SEGI_39341	W_mirabilis_17820	 3e-109
+218-  4:	SEGI_26591	W_mirabilis_12213	      0
+218-  5:	SEGI_23511	W_mirabilis_22396	 3e-148
+## Alignment 219: score=214.0 e_value=2.1e-08 N=5 seq_chr4&wel_Chr12 minus
+219-  0:	SEGI_25462	W_mirabilis_19593	  3e-88
+219-  1:	SEGI_36463	W_mirabilis_18284	  5e-37
+219-  2:	SEGI_03791	W_mirabilis_18285	 2e-243
+219-  3:	SEGI_18440	W_mirabilis_18294	  1e-57
+219-  4:	SEGI_33954	W_mirabilis_18295	  4e-34
+## Alignment 220: score=176.0 e_value=1.5e-10 N=6 seq_chr4&wel_Chr12 minus
+220-  0:	SEGI_30243	W_mirabilis_19491	  5e-15
+220-  1:	SEGI_03513	W_mirabilis_19490	  4e-14
+220-  2:	SEGI_38695	W_mirabilis_19483	  2e-20
+220-  3:	SEGI_16227	W_mirabilis_21864	  7e-23
+220-  4:	SEGI_24514	W_mirabilis_20395	 2e-225
+220-  5:	SEGI_38113	W_mirabilis_12215	 4e-112
+## Alignment 221: score=166.0 e_value=3.9e-10 N=5 seq_chr4&wel_Chr12 minus
+221-  0:	SEGI_03304	W_mirabilis_19489	  2e-79
+221-  1:	SEGI_14995	W_mirabilis_19485	 4e-165
+221-  2:	SEGI_37570	W_mirabilis_19484	  7e-55
+221-  3:	SEGI_21086	W_mirabilis_01684	  2e-48
+221-  4:	SEGI_15566	W_mirabilis_01679	  3e-73
+## Alignment 222: score=152.0 e_value=0.00012 N=4 seq_chr4&wel_Chr12 minus
+222-  0:	SEGI_19983	W_mirabilis_11739	 3e-186
+222-  1:	SEGI_41105	W_mirabilis_01961	  6e-35
+222-  2:	SEGI_28916	W_mirabilis_20504	  4e-35
+222-  3:	SEGI_21903	W_mirabilis_22684	  7e-64
+## Alignment 223: score=195.0 e_value=6.5e-10 N=6 seq_chr4&wel_Chr13 plus
+223-  0:	SEGI_14723	W_mirabilis_19734	 5e-179
+223-  1:	SEGI_34470	W_mirabilis_19737	  6e-79
+223-  2:	SEGI_22463	W_mirabilis_14936	  5e-51
+223-  3:	SEGI_30960	W_mirabilis_24112	  2e-45
+223-  4:	SEGI_38891	W_mirabilis_10359	 1e-105
+223-  5:	SEGI_39105	W_mirabilis_02970	  1e-15
+## Alignment 224: score=187.0 e_value=1.5e-12 N=7 seq_chr4&wel_Chr13 plus
+224-  0:	SEGI_27630	W_mirabilis_13639	  5e-54
+224-  1:	SEGI_34730	W_mirabilis_14326	 5e-177
+224-  2:	SEGI_22804	W_mirabilis_10150	 0.0001
+224-  3:	SEGI_35365	W_mirabilis_01308	  4e-91
+224-  4:	SEGI_31646	W_mirabilis_01306	  2e-05
+224-  5:	SEGI_14268	W_mirabilis_01304	      0
+224-  6:	SEGI_38589	W_mirabilis_06312	  7e-96
+## Alignment 225: score=179.0 e_value=5.6e-07 N=5 seq_chr4&wel_Chr13 plus
+225-  0:	SEGI_24717	W_mirabilis_22244	  8e-28
+225-  1:	SEGI_30760	W_mirabilis_21164	  2e-61
+225-  2:	SEGI_28382	W_mirabilis_02910	  2e-31
+225-  3:	SEGI_19918	W_mirabilis_06312	 1e-150
+225-  4:	SEGI_25782	W_mirabilis_06311	  4e-84
+## Alignment 226: score=174.0 e_value=7.3e-07 N=5 seq_chr4&wel_Chr13 plus
+226-  0:	SEGI_14723	W_mirabilis_11780	  5e-22
+226-  1:	SEGI_30463	W_mirabilis_07631	      0
+226-  2:	SEGI_23894	W_mirabilis_17712	  2e-15
+226-  3:	SEGI_17696	W_mirabilis_17713	  1e-52
+226-  4:	SEGI_20998	W_mirabilis_17716	      0
+## Alignment 227: score=160.0 e_value=1e-06 N=5 seq_chr4&wel_Chr13 plus
+227-  0:	SEGI_39748	W_mirabilis_07209	 9e-143
+227-  1:	SEGI_10763	W_mirabilis_07210	  8e-89
+227-  2:	SEGI_05242	W_mirabilis_07704	 5e-118
+227-  3:	SEGI_12813	W_mirabilis_10893	 1e-146
+227-  4:	SEGI_10942	W_mirabilis_10894	  1e-84
+## Alignment 228: score=333.0 e_value=1e-24 N=11 seq_chr4&wel_Chr13 minus
+228-  0:	SEGI_35397	W_mirabilis_24105	  1e-47
+228-  1:	SEGI_23450	W_mirabilis_22832	  5e-14
+228-  2:	SEGI_30760	W_mirabilis_06309	  1e-73
+228-  3:	SEGI_28382	W_mirabilis_02910	  2e-31
+228-  4:	SEGI_19395	W_mirabilis_17901	  1e-34
+228-  5:	SEGI_17649	W_mirabilis_22239	      0
+228-  6:	SEGI_03096	W_mirabilis_02815	  5e-52
+228-  7:	SEGI_05455	W_mirabilis_02823	  3e-56
+228-  8:	SEGI_21509	W_mirabilis_14813	  1e-61
+228-  9:	SEGI_40847	W_mirabilis_19761	      0
+228- 10:	SEGI_09711	W_mirabilis_17866	 2e-120
+## Alignment 229: score=277.0 e_value=3.7e-14 N=7 seq_chr4&wel_Chr13 minus
+229-  0:	SEGI_10586	W_mirabilis_16317	  5e-89
+229-  1:	SEGI_00893	W_mirabilis_22461	 4e-256
+229-  2:	SEGI_30875	W_mirabilis_18111	  3e-56
+229-  3:	SEGI_15090	W_mirabilis_06339	      0
+229-  4:	SEGI_22804	W_mirabilis_01306	 0.0001
+229-  5:	SEGI_31646	W_mirabilis_10150	 0.0003
+229-  6:	SEGI_04568	W_mirabilis_10149	 0.0008
+## Alignment 230: score=181.0 e_value=1.4e-08 N=6 seq_chr4&wel_Chr13 minus
+230-  0:	SEGI_30960	W_mirabilis_12409	  4e-45
+230-  1:	SEGI_23305	W_mirabilis_12404	 2e-204
+230-  2:	SEGI_39105	W_mirabilis_17725	  2e-15
+230-  3:	SEGI_20998	W_mirabilis_17716	      0
+230-  4:	SEGI_21952	W_mirabilis_17710	  2e-46
+230-  5:	SEGI_26690	W_mirabilis_20748	  4e-92
+## Alignment 231: score=160.0 e_value=5.5e-05 N=4 seq_chr4&wel_Chr13 minus
+231-  0:	SEGI_13300	W_mirabilis_02778	 9e-165
+231-  1:	SEGI_18825	W_mirabilis_02777	 2e-236
+231-  2:	SEGI_37768	W_mirabilis_00304	  5e-98
+231-  3:	SEGI_02772	W_mirabilis_00303	 2e-183
+## Alignment 232: score=213.0 e_value=6.3e-06 N=5 seq_chr4&wel_Chr14 plus
+232-  0:	SEGI_40166	W_mirabilis_08326	  2e-28
+232-  1:	SEGI_13963	W_mirabilis_05143	  1e-84
+232-  2:	SEGI_11929	W_mirabilis_05141	 4e-172
+232-  3:	SEGI_11381	W_mirabilis_05140	  1e-88
+232-  4:	SEGI_12797	W_mirabilis_17171	  3e-75
+## Alignment 233: score=271.0 e_value=1.5e-08 N=6 seq_chr4&wel_Chr16 plus
+233-  0:	SEGI_28940	W_mirabilis_00923	  4e-82
+233-  1:	SEGI_05126	W_mirabilis_00924	  5e-57
+233-  2:	SEGI_09013	W_mirabilis_00926	 7e-125
+233-  3:	SEGI_35568	W_mirabilis_00927	 7e-151
+233-  4:	SEGI_21515	W_mirabilis_08397	  1e-41
+233-  5:	SEGI_39295	W_mirabilis_08395	  9e-17
+## Alignment 234: score=226.0 e_value=2.7e-06 N=5 seq_chr4&wel_Chr16 plus
+234-  0:	SEGI_01194	W_mirabilis_26421	  4e-18
+234-  1:	SEGI_33792	W_mirabilis_00829	  6e-18
+234-  2:	SEGI_31727	W_mirabilis_08461	 1e-190
+234-  3:	SEGI_12042	W_mirabilis_08459	  2e-40
+234-  4:	SEGI_14476	W_mirabilis_17065	  2e-05
+## Alignment 235: score=216.0 e_value=4.5e-13 N=7 seq_chr4&wel_Chr16 plus
+235-  0:	SEGI_03575	W_mirabilis_15273	  1e-07
+235-  1:	SEGI_34788	W_mirabilis_02637	  2e-30
+235-  2:	SEGI_10586	W_mirabilis_07836	  9e-96
+235-  3:	SEGI_36040	W_mirabilis_07832	  6e-12
+235-  4:	SEGI_33908	W_mirabilis_05093	  6e-49
+235-  5:	SEGI_21562	W_mirabilis_05095	  1e-36
+235-  6:	SEGI_39212	W_mirabilis_14355	  7e-10
+## Alignment 236: score=212.0 e_value=1.4e-06 N=5 seq_chr4&wel_Chr16 plus
+236-  0:	SEGI_03088	W_mirabilis_17063	  5e-84
+236-  1:	SEGI_37435	W_mirabilis_17067	 6e-125
+236-  2:	SEGI_21910	W_mirabilis_00654	 2e-157
+236-  3:	SEGI_33805	W_mirabilis_00658	 3e-137
+236-  4:	SEGI_13114	W_mirabilis_17548	 1e-132
+## Alignment 237: score=189.0 e_value=1.4e-09 N=6 seq_chr4&wel_Chr16 plus
+237-  0:	SEGI_13625	W_mirabilis_20127	  2e-16
+237-  1:	SEGI_03378	W_mirabilis_08589	  1e-85
+237-  2:	SEGI_34711	W_mirabilis_20683	  2e-91
+237-  3:	SEGI_10931	W_mirabilis_16936	  4e-74
+237-  4:	SEGI_04547	W_mirabilis_11242	  6e-08
+237-  5:	SEGI_15744	W_mirabilis_11244	  2e-17
+## Alignment 238: score=159.0 e_value=9.8e-11 N=6 seq_chr4&wel_Chr16 plus
+238-  0:	SEGI_36599	W_mirabilis_12179	  1e-46
+238-  1:	SEGI_03964	W_mirabilis_12180	  9e-17
+238-  2:	SEGI_04667	W_mirabilis_08591	 8e-164
+238-  3:	SEGI_38001	W_mirabilis_03264	  1e-08
+238-  4:	SEGI_29462	W_mirabilis_20683	  6e-96
+238-  5:	SEGI_40478	W_mirabilis_16935	  1e-30
+## Alignment 239: score=156.0 e_value=4.7e-07 N=5 seq_chr4&wel_Chr16 plus
+239-  0:	SEGI_18215	W_mirabilis_26427	  2e-86
+239-  1:	SEGI_34877	W_mirabilis_26422	 4e-152
+239-  2:	SEGI_09744	W_mirabilis_26419	 3e-195
+239-  3:	SEGI_06604	W_mirabilis_00654	  1e-85
+239-  4:	SEGI_10040	W_mirabilis_23692	 1e-211
+## Alignment 240: score=155.0 e_value=2.7e-09 N=5 seq_chr4&wel_Chr16 plus
+240-  0:	SEGI_18248	W_mirabilis_13169	  5e-38
+240-  1:	SEGI_32667	W_mirabilis_13168	  2e-92
+240-  2:	SEGI_38227	W_mirabilis_13167	 3e-166
+240-  3:	SEGI_15193	W_mirabilis_17016	  4e-60
+240-  4:	SEGI_27924	W_mirabilis_15888	  8e-13
+## Alignment 241: score=205.0 e_value=3.4e-08 N=5 seq_chr4&wel_Chr16 minus
+241-  0:	SEGI_24979	W_mirabilis_19123	  3e-49
+241-  1:	SEGI_12450	W_mirabilis_00654	  6e-21
+241-  2:	SEGI_15151	W_mirabilis_26421	 8e-153
+241-  3:	SEGI_34877	W_mirabilis_26422	 4e-152
+241-  4:	SEGI_32346	W_mirabilis_26423	  1e-47
+## Alignment 242: score=391.0 e_value=9.4e-22 N=10 seq_chr4&wel_Chr18 minus
+242-  0:	SEGI_11577	W_mirabilis_22403	  3e-34
+242-  1:	SEGI_34014	W_mirabilis_08790	  1e-78
+242-  2:	SEGI_00739	W_mirabilis_18724	  2e-08
+242-  3:	SEGI_25118	W_mirabilis_11903	  2e-61
+242-  4:	SEGI_11166	W_mirabilis_22630	      0
+242-  5:	SEGI_24374	W_mirabilis_22627	 5e-107
+242-  6:	SEGI_08587	W_mirabilis_02725	  1e-52
+242-  7:	SEGI_06820	W_mirabilis_18545	  3e-19
+242-  8:	SEGI_28951	W_mirabilis_21945	  5e-84
+242-  9:	SEGI_07400	W_mirabilis_15512	 8e-121
+## Alignment 243: score=235.0 e_value=4.2e-10 N=6 seq_chr4&wel_Chr18 minus
+243-  0:	SEGI_17613	W_mirabilis_17792	 1e-143
+243-  1:	SEGI_33004	W_mirabilis_11647	  1e-28
+243-  2:	SEGI_09646	W_mirabilis_18800	  6e-93
+243-  3:	SEGI_08298	W_mirabilis_18801	  2e-82
+243-  4:	SEGI_01444	W_mirabilis_12331	 4e-135
+243-  5:	SEGI_39393	W_mirabilis_24077	  4e-54
+## Alignment 244: score=166.0 e_value=0.00026 N=4 seq_chr4&wel_Chr19 minus
+244-  0:	SEGI_26738	W_mirabilis_21993	 1e-127
+244-  1:	SEGI_01520	W_mirabilis_09884	  2e-48
+244-  2:	SEGI_29528	W_mirabilis_15123	 2e-240
+244-  3:	SEGI_21634	W_mirabilis_18519	 1e-263
+## Alignment 245: score=202.0 e_value=2.2e-14 N=8 seq_chr4&wel_Chr20 plus
+245-  0:	SEGI_40570	W_mirabilis_25219	  2e-60
+245-  1:	SEGI_32294	W_mirabilis_04608	  2e-20
+245-  2:	SEGI_24562	W_mirabilis_05731	  3e-45
+245-  3:	SEGI_12855	W_mirabilis_01820	 2e-298
+245-  4:	SEGI_06675	W_mirabilis_01817	 2e-133
+245-  5:	SEGI_19097	W_mirabilis_03320	  1e-96
+245-  6:	SEGI_21552	W_mirabilis_08364	  5e-43
+245-  7:	SEGI_01393	W_mirabilis_04967	  7e-29
+## Alignment 246: score=192.0 e_value=3.8e-16 N=7 seq_chr4&wel_Chr20 minus
+246-  0:	SEGI_11285	W_mirabilis_04965	  4e-07
+246-  1:	SEGI_11639	W_mirabilis_14907	  4e-49
+246-  2:	SEGI_41526	W_mirabilis_11825	  2e-36
+246-  3:	SEGI_38901	W_mirabilis_01817	  1e-08
+246-  4:	SEGI_09849	W_mirabilis_16034	  2e-10
+246-  5:	SEGI_25187	W_mirabilis_16037	  3e-28
+246-  6:	SEGI_16778	W_mirabilis_04609	  7e-39
+## Alignment 247: score=172.0 e_value=3.8e-14 N=7 seq_chr4&wel_Chr20 minus
+247-  0:	SEGI_34810	W_mirabilis_10333	  2e-56
+247-  1:	SEGI_15665	W_mirabilis_11834	  1e-45
+247-  2:	SEGI_10315	W_mirabilis_06993	  3e-39
+247-  3:	SEGI_08112	W_mirabilis_01822	  8e-27
+247-  4:	SEGI_06262	W_mirabilis_04611	 3e-192
+247-  5:	SEGI_13420	W_mirabilis_25222	  3e-99
+247-  6:	SEGI_38830	W_mirabilis_25214	 1e-241
+## Alignment 248: score=157.0 e_value=1.5e-05 N=4 seq_chr4&wel_Chr20 minus
+248-  0:	SEGI_28383	W_mirabilis_06543	 2e-150
+248-  1:	SEGI_27940	W_mirabilis_08353	 5e-118
+248-  2:	SEGI_06397	W_mirabilis_09283	  1e-11
+248-  3:	SEGI_08208	W_mirabilis_15719	  4e-10
+## Alignment 249: score=378.0 e_value=1e-25 N=11 seq_chr5&wel_Chr01 plus
+249-  0:	SEGI_30959	W_mirabilis_21086	  8e-45
+249-  1:	SEGI_13000	W_mirabilis_21090	 1e-146
+249-  2:	SEGI_40680	W_mirabilis_21091	 1e-234
+249-  3:	SEGI_34202	W_mirabilis_04414	 1e-204
+249-  4:	SEGI_05871	W_mirabilis_10393	 3e-130
+249-  5:	SEGI_35227	W_mirabilis_13563	 1e-165
+249-  6:	SEGI_10120	W_mirabilis_22668	  2e-89
+249-  7:	SEGI_04642	W_mirabilis_22032	  5e-29
+249-  8:	SEGI_19863	W_mirabilis_04638	  1e-40
+249-  9:	SEGI_00024	W_mirabilis_04643	  4e-14
+249- 10:	SEGI_34966	W_mirabilis_04644	  6e-65
+## Alignment 250: score=196.0 e_value=7.3e-07 N=5 seq_chr5&wel_Chr01 plus
+250-  0:	SEGI_16384	W_mirabilis_23176	 3e-121
+250-  1:	SEGI_17229	W_mirabilis_18698	      0
+250-  2:	SEGI_37215	W_mirabilis_25244	  3e-50
+250-  3:	SEGI_39407	W_mirabilis_25313	 4e-147
+250-  4:	SEGI_23371	W_mirabilis_25316	  1e-11
+## Alignment 251: score=151.0 e_value=0.00035 N=4 seq_chr5&wel_Chr01 plus
+251-  0:	SEGI_02468	W_mirabilis_05276	 2e-140
+251-  1:	SEGI_33443	W_mirabilis_08228	  5e-73
+251-  2:	SEGI_36273	W_mirabilis_08227	  2e-45
+251-  3:	SEGI_26073	W_mirabilis_08219	  1e-71
+## Alignment 252: score=303.0 e_value=4.1e-16 N=8 seq_chr5&wel_Chr01 minus
+252-  0:	SEGI_07449	W_mirabilis_03499	 5e-207
+252-  1:	SEGI_07489	W_mirabilis_15240	  2e-94
+252-  2:	SEGI_39407	W_mirabilis_20732	 6e-159
+252-  3:	SEGI_23371	W_mirabilis_14019	  2e-12
+252-  4:	SEGI_09071	W_mirabilis_00494	  6e-40
+252-  5:	SEGI_21249	W_mirabilis_00495	 9e-111
+252-  6:	SEGI_12324	W_mirabilis_00427	 7e-154
+252-  7:	SEGI_37226	W_mirabilis_00429	  9e-43
+## Alignment 253: score=183.0 e_value=3.2e-09 N=6 seq_chr5&wel_Chr01 minus
+253-  0:	SEGI_30959	W_mirabilis_22668	  3e-33
+253-  1:	SEGI_36577	W_mirabilis_05741	  7e-29
+253-  2:	SEGI_14785	W_mirabilis_05425	  7e-22
+253-  3:	SEGI_08191	W_mirabilis_04412	  3e-38
+253-  4:	SEGI_27099	W_mirabilis_21087	 1e-104
+253-  5:	SEGI_10120	W_mirabilis_21086	 6e-195
+## Alignment 254: score=221.0 e_value=9.6e-12 N=6 seq_chr5&wel_Chr02 plus
+254-  0:	SEGI_06255	W_mirabilis_15646	 1e-157
+254-  1:	SEGI_33401	W_mirabilis_03372	 2e-130
+254-  2:	SEGI_38788	W_mirabilis_03374	  1e-58
+254-  3:	SEGI_16876	W_mirabilis_03375	  6e-78
+254-  4:	SEGI_25530	W_mirabilis_12942	 8e-105
+254-  5:	SEGI_14249	W_mirabilis_18030	 0.0002
+## Alignment 255: score=151.0 e_value=0.00014 N=4 seq_chr5&wel_Chr02 plus
+255-  0:	SEGI_25599	W_mirabilis_15564	  5e-94
+255-  1:	SEGI_22177	W_mirabilis_12848	  2e-61
+255-  2:	SEGI_08773	W_mirabilis_02776	  1e-74
+255-  3:	SEGI_12329	W_mirabilis_26920	  1e-35
+## Alignment 256: score=165.0 e_value=1.1e-07 N=5 seq_chr5&wel_Chr02 minus
+256-  0:	SEGI_25599	W_mirabilis_19413	  2e-92
+256-  1:	SEGI_22177	W_mirabilis_12848	  2e-61
+256-  2:	SEGI_27957	W_mirabilis_08825	  2e-45
+256-  3:	SEGI_01730	W_mirabilis_15564	  6e-73
+256-  4:	SEGI_32756	W_mirabilis_25412	  1e-36
+## Alignment 257: score=228.0 e_value=1.3e-08 N=6 seq_chr5&wel_Chr03 plus
+257-  0:	SEGI_10104	W_mirabilis_06915	  1e-18
+257-  1:	SEGI_10257	W_mirabilis_07578	  2e-31
+257-  2:	SEGI_06328	W_mirabilis_07580	 2e-180
+257-  3:	SEGI_07726	W_mirabilis_15383	  4e-87
+257-  4:	SEGI_17554	W_mirabilis_20173	  2e-96
+257-  5:	SEGI_01516	W_mirabilis_20174	  1e-26
+## Alignment 258: score=183.0 e_value=8.9e-20 N=9 seq_chr5&wel_Chr03 plus
+258-  0:	SEGI_17978	W_mirabilis_13910	 1e-107
+258-  1:	SEGI_22693	W_mirabilis_12960	  2e-18
+258-  2:	SEGI_00638	W_mirabilis_21623	  3e-26
+258-  3:	SEGI_35292	W_mirabilis_21642	 9e-128
+258-  4:	SEGI_30551	W_mirabilis_05386	  2e-16
+258-  5:	SEGI_24048	W_mirabilis_05388	 2e-119
+258-  6:	SEGI_09394	W_mirabilis_08415	 1e-240
+258-  7:	SEGI_09584	W_mirabilis_08418	 5e-242
+258-  8:	SEGI_41099	W_mirabilis_08726	  7e-58
+## Alignment 259: score=235.0 e_value=4.7e-10 N=6 seq_chr5&wel_Chr03 minus
+259-  0:	SEGI_06376	W_mirabilis_03820	  1e-98
+259-  1:	SEGI_17229	W_mirabilis_12876	      0
+259-  2:	SEGI_35221	W_mirabilis_25658	  2e-18
+259-  3:	SEGI_00443	W_mirabilis_09665	 5e-202
+259-  4:	SEGI_07449	W_mirabilis_09667	 7e-230
+259-  5:	SEGI_14672	W_mirabilis_09669	  6e-31
+## Alignment 260: score=198.0 e_value=1.6e-07 N=5 seq_chr5&wel_Chr03 minus
+260-  0:	SEGI_09071	W_mirabilis_05970	  9e-43
+260-  1:	SEGI_12324	W_mirabilis_02859	 9e-149
+260-  2:	SEGI_19048	W_mirabilis_03148	  3e-27
+260-  3:	SEGI_39709	W_mirabilis_03152	  3e-35
+260-  4:	SEGI_09760	W_mirabilis_03155	  3e-06
+## Alignment 261: score=191.0 e_value=8.5e-10 N=6 seq_chr5&wel_Chr03 minus
+261-  0:	SEGI_16304	W_mirabilis_15381	 1e-112
+261-  1:	SEGI_05713	W_mirabilis_10862	 4e-141
+261-  2:	SEGI_08822	W_mirabilis_16282	 2e-131
+261-  3:	SEGI_02771	W_mirabilis_14848	  2e-32
+261-  4:	SEGI_23577	W_mirabilis_14846	  6e-42
+261-  5:	SEGI_38777	W_mirabilis_20868	  5e-36
+## Alignment 262: score=165.0 e_value=1.1e-07 N=5 seq_chr5&wel_Chr03 minus
+262-  0:	SEGI_31270	W_mirabilis_12651	  6e-13
+262-  1:	SEGI_05783	W_mirabilis_08422	  3e-51
+262-  2:	SEGI_00735	W_mirabilis_08420	  2e-26
+262-  3:	SEGI_20269	W_mirabilis_08411	  4e-39
+262-  4:	SEGI_02823	W_mirabilis_07678	  2e-28
+## Alignment 263: score=164.0 e_value=4.8e-11 N=5 seq_chr5&wel_Chr03 minus
+263-  0:	SEGI_04267	W_mirabilis_25184	  2e-26
+263-  1:	SEGI_23218	W_mirabilis_23083	  2e-81
+263-  2:	SEGI_04617	W_mirabilis_22417	  2e-54
+263-  3:	SEGI_29638	W_mirabilis_22416	  3e-25
+263-  4:	SEGI_37347	W_mirabilis_21508	  1e-24
+## Alignment 264: score=198.0 e_value=4.2e-08 N=5 seq_chr5&wel_Chr05 plus
+264-  0:	SEGI_02113	W_mirabilis_06771	  4e-92
+264-  1:	SEGI_14451	W_mirabilis_06773	  8e-30
+264-  2:	SEGI_33239	W_mirabilis_11167	 1e-161
+264-  3:	SEGI_13936	W_mirabilis_11168	  1e-55
+264-  4:	SEGI_12584	W_mirabilis_11176	  1e-31
+## Alignment 265: score=178.0 e_value=0.00022 N=4 seq_chr5&wel_Chr05 plus
+265-  0:	SEGI_40440	W_mirabilis_24313	 5e-192
+265-  1:	SEGI_11903	W_mirabilis_24314	 4e-108
+265-  2:	SEGI_34440	W_mirabilis_24315	 9e-131
+265-  3:	SEGI_35236	W_mirabilis_24316	  4e-22
+## Alignment 266: score=163.0 e_value=8.4e-06 N=5 seq_chr5&wel_Chr05 minus
+266-  0:	SEGI_41220	W_mirabilis_08436	  6e-31
+266-  1:	SEGI_32935	W_mirabilis_11183	 4e-204
+266-  2:	SEGI_29245	W_mirabilis_11173	  1e-67
+266-  3:	SEGI_14451	W_mirabilis_06773	  8e-30
+266-  4:	SEGI_20372	W_mirabilis_06770	 1e-222
+## Alignment 267: score=214.0 e_value=1.6e-09 N=6 seq_chr5&wel_Chr07 plus
+267-  0:	SEGI_34995	W_mirabilis_16294	  5e-12
+267-  1:	SEGI_03201	W_mirabilis_04434	 5e-313
+267-  2:	SEGI_11770	W_mirabilis_04435	 2e-193
+267-  3:	SEGI_05251	W_mirabilis_03971	  6e-22
+267-  4:	SEGI_00968	W_mirabilis_03965	  3e-52
+267-  5:	SEGI_31268	W_mirabilis_09110	  1e-52
+## Alignment 268: score=155.0 e_value=4.8e-05 N=4 seq_chr5&wel_Chr07 minus
+268-  0:	SEGI_31750	W_mirabilis_07523	  6e-29
+268-  1:	SEGI_27113	W_mirabilis_07519	  2e-56
+268-  2:	SEGI_09223	W_mirabilis_18318	  8e-49
+268-  3:	SEGI_05023	W_mirabilis_25528	  2e-23
+## Alignment 269: score=177.0 e_value=0.00049 N=4 seq_chr5&wel_Chr09 minus
+269-  0:	SEGI_06255	W_mirabilis_20709	 1e-151
+269-  1:	SEGI_33401	W_mirabilis_20711	 1e-118
+269-  2:	SEGI_32056	W_mirabilis_13720	 2e-104
+269-  3:	SEGI_30139	W_mirabilis_13719	 1e-205
+## Alignment 270: score=194.0 e_value=3.5e-05 N=4 seq_chr5&wel_Chr16 plus
+270-  0:	SEGI_19774	W_mirabilis_23155	  1e-29
+270-  1:	SEGI_22709	W_mirabilis_20271	  1e-25
+270-  2:	SEGI_39185	W_mirabilis_02583	 2e-105
+270-  3:	SEGI_32788	W_mirabilis_02578	  5e-25
+## Alignment 271: score=169.0 e_value=1e-06 N=5 seq_chr5&wel_Chr16 plus
+271-  0:	SEGI_06647	W_mirabilis_02577	 2e-106
+271-  1:	SEGI_21404	W_mirabilis_02574	  3e-52
+271-  2:	SEGI_22652	W_mirabilis_12400	 5e-174
+271-  3:	SEGI_33443	W_mirabilis_17063	  6e-06
+271-  4:	SEGI_37826	W_mirabilis_00654	  1e-24
+## Alignment 272: score=226.0 e_value=1.3e-11 N=7 seq_chr5&wel_Chr18 plus
+272-  0:	SEGI_02814	W_mirabilis_16178	  6e-48
+272-  1:	SEGI_31571	W_mirabilis_05622	  3e-79
+272-  2:	SEGI_19985	W_mirabilis_21367	 3e-100
+272-  3:	SEGI_32292	W_mirabilis_21362	 0.0002
+272-  4:	SEGI_41114	W_mirabilis_04450	  2e-07
+272-  5:	SEGI_33911	W_mirabilis_20488	  5e-69
+272-  6:	SEGI_28605	W_mirabilis_17704	 3e-162
+## Alignment 273: score=216.0 e_value=6.1e-07 N=5 seq_chr5&wel_Chr18 plus
+273-  0:	SEGI_11318	W_mirabilis_22722	 0.0009
+273-  1:	SEGI_24200	W_mirabilis_22721	  4e-55
+273-  2:	SEGI_16654	W_mirabilis_14828	 5e-215
+273-  3:	SEGI_08313	W_mirabilis_00856	  5e-50
+273-  4:	SEGI_32854	W_mirabilis_16677	  7e-50
+## Alignment 274: score=198.0 e_value=4.7e-07 N=5 seq_chr5&wel_Chr18 plus
+274-  0:	SEGI_08805	W_mirabilis_13762	  9e-85
+274-  1:	SEGI_14165	W_mirabilis_14039	  2e-50
+274-  2:	SEGI_35511	W_mirabilis_14041	  2e-33
+274-  3:	SEGI_13491	W_mirabilis_15563	 8e-100
+274-  4:	SEGI_24385	W_mirabilis_16705	      0
+## Alignment 275: score=180.0 e_value=5.7e-12 N=6 seq_chr5&wel_Chr18 plus
+275-  0:	SEGI_12731	W_mirabilis_21619	  2e-29
+275-  1:	SEGI_34329	W_mirabilis_06526	 2e-105
+275-  2:	SEGI_16297	W_mirabilis_23657	 1e-274
+275-  3:	SEGI_07129	W_mirabilis_06443	  6e-97
+275-  4:	SEGI_24635	W_mirabilis_09856	  1e-68
+275-  5:	SEGI_28212	W_mirabilis_21036	  1e-63
+## Alignment 276: score=178.0 e_value=9.2e-08 N=5 seq_chr5&wel_Chr18 plus
+276-  0:	SEGI_31241	W_mirabilis_17800	  2e-56
+276-  1:	SEGI_13027	W_mirabilis_22407	  1e-56
+276-  2:	SEGI_40020	W_mirabilis_09605	  6e-32
+276-  3:	SEGI_19656	W_mirabilis_09603	  3e-48
+276-  4:	SEGI_15986	W_mirabilis_24399	  1e-22
+## Alignment 277: score=165.0 e_value=8.1e-06 N=4 seq_chr5&wel_Chr18 plus
+277-  0:	SEGI_16580	W_mirabilis_17793	  6e-40
+277-  1:	SEGI_16641	W_mirabilis_17791	 1e-150
+277-  2:	SEGI_30554	W_mirabilis_17790	  1e-37
+277-  3:	SEGI_35079	W_mirabilis_09603	  5e-19
+## Alignment 278: score=164.0 e_value=3.4e-06 N=4 seq_chr5&wel_Chr18 plus
+278-  0:	SEGI_15918	W_mirabilis_01091	  8e-75
+278-  1:	SEGI_39369	W_mirabilis_01094	  6e-62
+278-  2:	SEGI_17745	W_mirabilis_01095	  2e-60
+278-  3:	SEGI_38999	W_mirabilis_05723	 7e-198
+## Alignment 279: score=183.0 e_value=8.9e-13 N=7 seq_chr5&wel_Chr18 minus
+279-  0:	SEGI_11693	W_mirabilis_01052	  3e-11
+279-  1:	SEGI_17592	W_mirabilis_16556	  2e-74
+279-  2:	SEGI_19674	W_mirabilis_19642	 6e-125
+279-  3:	SEGI_27939	W_mirabilis_04451	  4e-46
+279-  4:	SEGI_02077	W_mirabilis_09403	  9e-30
+279-  5:	SEGI_38084	W_mirabilis_24097	 3e-170
+279-  6:	SEGI_06760	W_mirabilis_24096	  4e-25
+## Alignment 280: score=161.0 e_value=1.6e-09 N=5 seq_chr5&wel_Chr18 minus
+280-  0:	SEGI_09248	W_mirabilis_06567	  1e-21
+280-  1:	SEGI_31694	W_mirabilis_24096	 1e-190
+280-  2:	SEGI_12315	W_mirabilis_19138	 1e-125
+280-  3:	SEGI_02824	W_mirabilis_14828	  7e-75
+280-  4:	SEGI_13535	W_mirabilis_20296	  4e-09
+## Alignment 281: score=155.0 e_value=4.7e-05 N=4 seq_chr5&wel_Chr18 minus
+281-  0:	SEGI_32935	W_mirabilis_13212	 3e-214
+281-  1:	SEGI_22784	W_mirabilis_13365	  7e-07
+281-  2:	SEGI_29245	W_mirabilis_26622	  1e-72
+281-  3:	SEGI_11767	W_mirabilis_26619	  3e-96
+## Alignment 282: score=169.0 e_value=2.4e-05 N=4 seq_chr6&wel_Chr01 plus
+282-  0:	SEGI_18179	W_mirabilis_18636	  9e-53
+282-  1:	SEGI_23781	W_mirabilis_05330	  2e-28
+282-  2:	SEGI_33164	W_mirabilis_05327	  4e-58
+282-  3:	SEGI_08272	W_mirabilis_01998	  1e-51
+## Alignment 283: score=177.0 e_value=8.1e-06 N=4 seq_chr6&wel_Chr01 minus
+283-  0:	SEGI_18179	W_mirabilis_01998	  4e-50
+283-  1:	SEGI_07869	W_mirabilis_02003	  2e-32
+283-  2:	SEGI_23781	W_mirabilis_05330	  2e-28
+283-  3:	SEGI_33164	W_mirabilis_18636	  4e-53
+## Alignment 284: score=280.0 e_value=4.1e-17 N=8 seq_chr6&wel_Chr02 plus
+284-  0:	SEGI_05809	W_mirabilis_02467	 1e-305
+284-  1:	SEGI_02141	W_mirabilis_08769	 8e-116
+284-  2:	SEGI_35033	W_mirabilis_13146	  2e-16
+284-  3:	SEGI_29950	W_mirabilis_26253	 3e-196
+284-  4:	SEGI_09138	W_mirabilis_26248	 6e-233
+284-  5:	SEGI_37275	W_mirabilis_26247	  2e-29
+284-  6:	SEGI_08196	W_mirabilis_15305	  7e-51
+284-  7:	SEGI_17564	W_mirabilis_03461	  8e-90
+## Alignment 285: score=245.0 e_value=2e-13 N=7 seq_chr6&wel_Chr02 plus
+285-  0:	SEGI_38865	W_mirabilis_05288	 8e-174
+285-  1:	SEGI_40540	W_mirabilis_05287	 6e-168
+285-  2:	SEGI_38645	W_mirabilis_05286	  5e-71
+285-  3:	SEGI_34786	W_mirabilis_15747	  2e-44
+285-  4:	SEGI_14403	W_mirabilis_15748	  7e-17
+285-  5:	SEGI_08836	W_mirabilis_12797	  7e-11
+285-  6:	SEGI_08025	W_mirabilis_16272	  3e-29
+## Alignment 286: score=177.0 e_value=8.9e-09 N=5 seq_chr6&wel_Chr02 plus
+286-  0:	SEGI_14127	W_mirabilis_09228	 3e-170
+286-  1:	SEGI_12532	W_mirabilis_09235	 1e-145
+286-  2:	SEGI_29336	W_mirabilis_25469	  5e-07
+286-  3:	SEGI_32020	W_mirabilis_03464	 9e-210
+286-  4:	SEGI_36229	W_mirabilis_03463	 7e-142
+## Alignment 287: score=155.0 e_value=1.5e-06 N=4 seq_chr6&wel_Chr02 plus
+287-  0:	SEGI_31821	W_mirabilis_03798	 6e-134
+287-  1:	SEGI_26577	W_mirabilis_04377	  4e-62
+287-  2:	SEGI_18519	W_mirabilis_14339	  6e-47
+287-  3:	SEGI_38795	W_mirabilis_20437	  1e-32
+## Alignment 288: score=306.0 e_value=5.6e-14 N=7 seq_chr6&wel_Chr02 minus
+288-  0:	SEGI_30062	W_mirabilis_13930	  5e-43
+288-  1:	SEGI_38541	W_mirabilis_13927	  6e-43
+288-  2:	SEGI_11405	W_mirabilis_17501	  7e-22
+288-  3:	SEGI_01006	W_mirabilis_13208	  3e-30
+288-  4:	SEGI_35588	W_mirabilis_19111	  2e-18
+288-  5:	SEGI_32923	W_mirabilis_12549	  1e-45
+288-  6:	SEGI_08836	W_mirabilis_13196	  2e-11
+## Alignment 289: score=196.0 e_value=4.6e-10 N=6 seq_chr6&wel_Chr02 minus
+289-  0:	SEGI_13162	W_mirabilis_06864	  4e-11
+289-  1:	SEGI_19252	W_mirabilis_04839	 2e-118
+289-  2:	SEGI_11292	W_mirabilis_04838	 4e-119
+289-  3:	SEGI_05664	W_mirabilis_00650	 2e-294
+289-  4:	SEGI_39149	W_mirabilis_25963	  9e-10
+289-  5:	SEGI_09630	W_mirabilis_25962	  4e-49
+## Alignment 290: score=192.0 e_value=2.3e-05 N=4 seq_chr6&wel_Chr02 minus
+290-  0:	SEGI_40056	W_mirabilis_00374	  1e-68
+290-  1:	SEGI_09898	W_mirabilis_21890	  7e-92
+290-  2:	SEGI_24753	W_mirabilis_19576	 1e-100
+290-  3:	SEGI_36528	W_mirabilis_14361	 8e-114
+## Alignment 291: score=186.0 e_value=1.9e-12 N=6 seq_chr6&wel_Chr02 minus
+291-  0:	SEGI_40999	W_mirabilis_26926	  2e-53
+291-  1:	SEGI_16319	W_mirabilis_26924	  1e-46
+291-  2:	SEGI_24010	W_mirabilis_02776	  1e-64
+291-  3:	SEGI_34846	W_mirabilis_06256	  5e-52
+291-  4:	SEGI_25792	W_mirabilis_08768	  3e-56
+291-  5:	SEGI_19208	W_mirabilis_18081	  5e-41
+## Alignment 292: score=175.0 e_value=0.00041 N=4 seq_chr6&wel_Chr02 minus
+292-  0:	SEGI_11312	W_mirabilis_01609	  9e-26
+292-  1:	SEGI_12917	W_mirabilis_01604	 2e-108
+292-  2:	SEGI_19270	W_mirabilis_01603	 3e-124
+292-  3:	SEGI_29605	W_mirabilis_00651	  2e-94
+## Alignment 293: score=168.0 e_value=5e-08 N=5 seq_chr6&wel_Chr02 minus
+293-  0:	SEGI_23957	W_mirabilis_17490	  8e-42
+293-  1:	SEGI_16420	W_mirabilis_20133	  3e-31
+293-  2:	SEGI_33055	W_mirabilis_20442	 1e-215
+293-  3:	SEGI_22051	W_mirabilis_20440	 2e-134
+293-  4:	SEGI_17423	W_mirabilis_03908	  8e-77
+## Alignment 294: score=154.0 e_value=0.0009 N=4 seq_chr6&wel_Chr02 minus
+294-  0:	SEGI_09750	W_mirabilis_22067	 3e-158
+294-  1:	SEGI_15591	W_mirabilis_22065	 3e-126
+294-  2:	SEGI_18264	W_mirabilis_22061	  2e-57
+294-  3:	SEGI_26064	W_mirabilis_22224	  1e-50
+## Alignment 295: score=150.0 e_value=0.00026 N=4 seq_chr6&wel_Chr02 minus
+295-  0:	SEGI_07183	W_mirabilis_04704	  3e-89
+295-  1:	SEGI_32020	W_mirabilis_03464	 9e-210
+295-  2:	SEGI_40369	W_mirabilis_15087	  2e-12
+295-  3:	SEGI_06658	W_mirabilis_15084	  7e-87
+## Alignment 296: score=169.0 e_value=7.2e-06 N=4 seq_chr6&wel_Chr04 plus
+296-  0:	SEGI_30302	W_mirabilis_01905	  1e-23
+296-  1:	SEGI_22855	W_mirabilis_26806	 1e-135
+296-  2:	SEGI_37129	W_mirabilis_26808	  2e-06
+296-  3:	SEGI_01680	W_mirabilis_26810	  6e-29
+## Alignment 297: score=151.0 e_value=0.00019 N=4 seq_chr6&wel_Chr04 plus
+297-  0:	SEGI_01706	W_mirabilis_10399	  6e-96
+297-  1:	SEGI_11611	W_mirabilis_13051	  7e-71
+297-  2:	SEGI_05897	W_mirabilis_18167	  2e-41
+297-  3:	SEGI_18108	W_mirabilis_18384	  6e-58
+## Alignment 298: score=186.0 e_value=0.00042 N=4 seq_chr6&wel_Chr04 minus
+298-  0:	SEGI_04349	W_mirabilis_01621	  2e-99
+298-  1:	SEGI_34531	W_mirabilis_01618	  2e-21
+298-  2:	SEGI_31219	W_mirabilis_26807	  7e-32
+298-  3:	SEGI_22855	W_mirabilis_26806	 1e-135
+## Alignment 299: score=176.0 e_value=0.0004 N=4 seq_chr6&wel_Chr04 minus
+299-  0:	SEGI_14281	W_mirabilis_14574	  3e-41
+299-  1:	SEGI_35725	W_mirabilis_14578	  2e-48
+299-  2:	SEGI_01366	W_mirabilis_07117	  8e-07
+299-  3:	SEGI_15385	W_mirabilis_18074	  2e-51
+## Alignment 300: score=160.0 e_value=1.9e-07 N=5 seq_chr6&wel_Chr04 minus
+300-  0:	SEGI_28534	W_mirabilis_21535	  1e-76
+300-  1:	SEGI_31810	W_mirabilis_21531	  2e-78
+300-  2:	SEGI_03424	W_mirabilis_21529	 1e-289
+300-  3:	SEGI_28197	W_mirabilis_21528	  7e-14
+300-  4:	SEGI_35659	W_mirabilis_04795	      0
+## Alignment 301: score=229.0 e_value=8.5e-12 N=7 seq_chr6&wel_Chr05 plus
+301-  0:	SEGI_16440	W_mirabilis_09527	  2e-84
+301-  1:	SEGI_09431	W_mirabilis_16918	 5e-195
+301-  2:	SEGI_19442	W_mirabilis_16910	 3e-140
+301-  3:	SEGI_10241	W_mirabilis_01767	 1e-200
+301-  4:	SEGI_37167	W_mirabilis_14504	 2e-303
+301-  5:	SEGI_27123	W_mirabilis_18600	  1e-52
+301-  6:	SEGI_23646	W_mirabilis_20244	  2e-70
+## Alignment 302: score=192.0 e_value=1.6e-07 N=5 seq_chr6&wel_Chr05 plus
+302-  0:	SEGI_00323	W_mirabilis_05794	  1e-48
+302-  1:	SEGI_06931	W_mirabilis_15669	  2e-19
+302-  2:	SEGI_24467	W_mirabilis_15673	  9e-19
+302-  3:	SEGI_40421	W_mirabilis_20251	 3e-223
+302-  4:	SEGI_02129	W_mirabilis_20253	 2e-235
+## Alignment 303: score=165.0 e_value=6e-07 N=5 seq_chr6&wel_Chr05 plus
+303-  0:	SEGI_20896	W_mirabilis_15635	 2e-129
+303-  1:	SEGI_12132	W_mirabilis_23458	  1e-33
+303-  2:	SEGI_39419	W_mirabilis_01866	 8e-166
+303-  3:	SEGI_14282	W_mirabilis_09214	 8e-160
+303-  4:	SEGI_24049	W_mirabilis_09209	  1e-68
+## Alignment 304: score=307.0 e_value=5.5e-11 N=7 seq_chr6&wel_Chr05 minus
+304-  0:	SEGI_33118	W_mirabilis_17756	  3e-93
+304-  1:	SEGI_25463	W_mirabilis_00640	  1e-68
+304-  2:	SEGI_10951	W_mirabilis_25172	 4e-228
+304-  3:	SEGI_35846	W_mirabilis_25174	 8e-154
+304-  4:	SEGI_28170	W_mirabilis_16461	  1e-26
+304-  5:	SEGI_22390	W_mirabilis_07511	  4e-88
+304-  6:	SEGI_38017	W_mirabilis_07513	  4e-86
+## Alignment 305: score=175.0 e_value=5.9e-08 N=4 seq_chr6&wel_Chr05 minus
+305-  0:	SEGI_03764	W_mirabilis_05791	 4e-101
+305-  1:	SEGI_06193	W_mirabilis_16909	  1e-76
+305-  2:	SEGI_15745	W_mirabilis_09529	  1e-30
+305-  3:	SEGI_36312	W_mirabilis_09528	  4e-30
+## Alignment 306: score=160.0 e_value=1.8e-05 N=4 seq_chr6&wel_Chr05 minus
+306-  0:	SEGI_34585	W_mirabilis_17757	 3e-236
+306-  1:	SEGI_14282	W_mirabilis_09214	 8e-160
+306-  2:	SEGI_03108	W_mirabilis_01870	 2e-131
+306-  3:	SEGI_26088	W_mirabilis_01868	  7e-86
+## Alignment 307: score=150.0 e_value=1.8e-06 N=5 seq_chr6&wel_Chr06 minus
+307-  0:	SEGI_40112	W_mirabilis_14519	  4e-30
+307-  1:	SEGI_36920	W_mirabilis_04104	 1e-117
+307-  2:	SEGI_18019	W_mirabilis_22499	  7e-16
+307-  3:	SEGI_39118	W_mirabilis_04486	  9e-51
+307-  4:	SEGI_13071	W_mirabilis_04485	  8e-16
+## Alignment 308: score=166.0 e_value=6.6e-05 N=4 seq_chr6&wel_Chr07 plus
+308-  0:	SEGI_40054	W_mirabilis_09617	      0
+308-  1:	SEGI_41138	W_mirabilis_09619	 3e-145
+308-  2:	SEGI_11449	W_mirabilis_25588	 2e-104
+308-  3:	SEGI_06880	W_mirabilis_03411	 9e-101
+## Alignment 309: score=230.0 e_value=1.7e-07 N=5 seq_chr6&wel_Chr09 plus
+309-  0:	SEGI_18135	W_mirabilis_22763	  3e-08
+309-  1:	SEGI_11312	W_mirabilis_22762	  2e-99
+309-  2:	SEGI_07711	W_mirabilis_22761	 2e-151
+309-  3:	SEGI_13807	W_mirabilis_22760	 6e-115
+309-  4:	SEGI_19270	W_mirabilis_22757	  2e-50
+## Alignment 310: score=163.0 e_value=5.4e-06 N=4 seq_chr6&wel_Chr10 plus
+310-  0:	SEGI_18748	W_mirabilis_11003	 1e-136
+310-  1:	SEGI_29651	W_mirabilis_13310	  3e-22
+310-  2:	SEGI_35073	W_mirabilis_13311	  2e-86
+310-  3:	SEGI_40471	W_mirabilis_13312	  1e-17
+## Alignment 311: score=155.0 e_value=0.00051 N=4 seq_chr6&wel_Chr11 minus
+311-  0:	SEGI_25735	W_mirabilis_14287	 1e-135
+311-  1:	SEGI_31590	W_mirabilis_16591	  2e-86
+311-  2:	SEGI_25778	W_mirabilis_05628	 1e-134
+311-  3:	SEGI_36621	W_mirabilis_07907	  3e-79
+## Alignment 312: score=153.0 e_value=1.5e-07 N=5 seq_chr6&wel_Chr12 plus
+312-  0:	SEGI_26117	W_mirabilis_26533	 1e-151
+312-  1:	SEGI_22127	W_mirabilis_26534	  7e-17
+312-  2:	SEGI_29651	W_mirabilis_01261	 3e-126
+312-  3:	SEGI_35073	W_mirabilis_01265	  7e-85
+312-  4:	SEGI_37022	W_mirabilis_08809	  7e-18
+## Alignment 313: score=160.0 e_value=0.00083 N=4 seq_chr6&wel_Chr12 minus
+313-  0:	SEGI_22127	W_mirabilis_26534	  7e-17
+313-  1:	SEGI_38735	W_mirabilis_26532	  5e-86
+313-  2:	SEGI_03490	W_mirabilis_22994	      0
+313-  3:	SEGI_00670	W_mirabilis_18785	  2e-08
+## Alignment 314: score=155.0 e_value=2e-07 N=5 seq_chr6&wel_Chr12 minus
+314-  0:	SEGI_18002	W_mirabilis_21094	  3e-25
+314-  1:	SEGI_31462	W_mirabilis_16108	 7e-261
+314-  2:	SEGI_06453	W_mirabilis_16107	 3e-158
+314-  3:	SEGI_25422	W_mirabilis_16106	 2e-172
+314-  4:	SEGI_15231	W_mirabilis_02123	  4e-37
+## Alignment 315: score=186.0 e_value=4.1e-05 N=4 seq_chr6&wel_Chr16 plus
+315-  0:	SEGI_29816	W_mirabilis_04093	 6e-220
+315-  1:	SEGI_00706	W_mirabilis_11271	  3e-93
+315-  2:	SEGI_23230	W_mirabilis_19929	 1e-102
+315-  3:	SEGI_05504	W_mirabilis_19928	  9e-53
+## Alignment 316: score=158.0 e_value=7.4e-07 N=5 seq_chr6&wel_Chr16 plus
+316-  0:	SEGI_16281	W_mirabilis_11708	 7e-117
+316-  1:	SEGI_28587	W_mirabilis_20299	  2e-60
+316-  2:	SEGI_30575	W_mirabilis_23694	 3e-170
+316-  3:	SEGI_07337	W_mirabilis_08927	  5e-12
+316-  4:	SEGI_36454	W_mirabilis_26278	  3e-41
+## Alignment 317: score=158.0 e_value=0.00034 N=4 seq_chr6&wel_Chr17 plus
+317-  0:	SEGI_31333	W_mirabilis_25713	  4e-17
+317-  1:	SEGI_00425	W_mirabilis_04018	  4e-46
+317-  2:	SEGI_36023	W_mirabilis_25263	  2e-31
+317-  3:	SEGI_37615	W_mirabilis_25268	  4e-63
+## Alignment 318: score=338.0 e_value=2.1e-15 N=8 seq_chr6&wel_Chr19 plus
+318-  0:	SEGI_00607	W_mirabilis_26398	  3e-11
+318-  1:	SEGI_23247	W_mirabilis_12039	 8e-102
+318-  2:	SEGI_03011	W_mirabilis_12038	  2e-47
+318-  3:	SEGI_16193	W_mirabilis_12037	 7e-106
+318-  4:	SEGI_02137	W_mirabilis_10677	  1e-08
+318-  5:	SEGI_10241	W_mirabilis_20469	 4e-191
+318-  6:	SEGI_25476	W_mirabilis_20467	  4e-95
+318-  7:	SEGI_13769	W_mirabilis_20462	  6e-16
+## Alignment 319: score=206.0 e_value=2.4e-13 N=7 seq_chr6&wel_Chr21 minus
+319-  0:	SEGI_20853	W_mirabilis_21593	  2e-16
+319-  1:	SEGI_23585	W_mirabilis_21592	  5e-83
+319-  2:	SEGI_08759	W_mirabilis_21591	  1e-72
+319-  3:	SEGI_32268	W_mirabilis_25967	  4e-18
+319-  4:	SEGI_06487	W_mirabilis_00726	  2e-62
+319-  5:	SEGI_18606	W_mirabilis_22842	  3e-05
+319-  6:	SEGI_11155	W_mirabilis_06652	  2e-84
+## Alignment 320: score=168.0 e_value=1.2e-06 N=5 seq_chr6&wel_Chr21 minus
+320-  0:	SEGI_04059	W_mirabilis_03381	  5e-34
+320-  1:	SEGI_38253	W_mirabilis_06002	 2e-121
+320-  2:	SEGI_33521	W_mirabilis_24765	 0.0006
+320-  3:	SEGI_28399	W_mirabilis_06361	 2e-239
+320-  4:	SEGI_35329	W_mirabilis_15284	 2e-274
+## Alignment 321: score=255.0 e_value=2.7e-09 N=6 seq_chr7&wel_Chr01 plus
+321-  0:	SEGI_29966	W_mirabilis_12993	  3e-58
+321-  1:	SEGI_27449	W_mirabilis_12995	 3e-216
+321-  2:	SEGI_04286	W_mirabilis_12997	  1e-22
+321-  3:	SEGI_00755	W_mirabilis_13000	  1e-18
+321-  4:	SEGI_36085	W_mirabilis_13001	  2e-60
+321-  5:	SEGI_13473	W_mirabilis_13002	  4e-85
+## Alignment 322: score=195.0 e_value=3.8e-10 N=6 seq_chr7&wel_Chr01 plus
+322-  0:	SEGI_03567	W_mirabilis_09599	 1e-149
+322-  1:	SEGI_37613	W_mirabilis_12475	 7e-154
+322-  2:	SEGI_19278	W_mirabilis_16490	  7e-16
+322-  3:	SEGI_15282	W_mirabilis_13803	  6e-77
+322-  4:	SEGI_03312	W_mirabilis_08469	  4e-74
+322-  5:	SEGI_26645	W_mirabilis_11485	  8e-70
+## Alignment 323: score=193.0 e_value=4.8e-07 N=5 seq_chr7&wel_Chr01 plus
+323-  0:	SEGI_00288	W_mirabilis_17507	  7e-88
+323-  1:	SEGI_27433	W_mirabilis_24587	 1e-101
+323-  2:	SEGI_12840	W_mirabilis_08824	  4e-58
+323-  3:	SEGI_29854	W_mirabilis_11486	  1e-72
+323-  4:	SEGI_00852	W_mirabilis_00355	  1e-87
+## Alignment 324: score=283.0 e_value=3.6e-09 N=6 seq_chr7&wel_Chr01 minus
+324-  0:	SEGI_08552	W_mirabilis_04472	  1e-21
+324-  1:	SEGI_15552	W_mirabilis_08046	  1e-26
+324-  2:	SEGI_28489	W_mirabilis_24136	  8e-58
+324-  3:	SEGI_34143	W_mirabilis_24135	 4e-122
+324-  4:	SEGI_12761	W_mirabilis_24130	  2e-87
+324-  5:	SEGI_20252	W_mirabilis_24126	 6e-103
+## Alignment 325: score=161.0 e_value=0.00031 N=4 seq_chr7&wel_Chr01 minus
+325-  0:	SEGI_29397	W_mirabilis_16170	 1e-224
+325-  1:	SEGI_21526	W_mirabilis_16168	  1e-54
+325-  2:	SEGI_39793	W_mirabilis_16166	  4e-87
+325-  3:	SEGI_26627	W_mirabilis_10648	 9e-122
+## Alignment 326: score=291.0 e_value=2.1e-18 N=9 seq_chr7&wel_Chr02 plus
+326-  0:	SEGI_21054	W_mirabilis_24878	  4e-17
+326-  1:	SEGI_22109	W_mirabilis_05932	 7e-142
+326-  2:	SEGI_22062	W_mirabilis_11359	  1e-77
+326-  3:	SEGI_11863	W_mirabilis_14593	  2e-80
+326-  4:	SEGI_15470	W_mirabilis_14600	  1e-48
+326-  5:	SEGI_06119	W_mirabilis_06762	  1e-10
+326-  6:	SEGI_05674	W_mirabilis_06758	  2e-68
+326-  7:	SEGI_37102	W_mirabilis_06756	 2e-100
+326-  8:	SEGI_32915	W_mirabilis_06750	 1e-256
+## Alignment 327: score=265.0 e_value=5e-21 N=10 seq_chr7&wel_Chr02 plus
+327-  0:	SEGI_32629	W_mirabilis_06685	  1e-27
+327-  1:	SEGI_18528	W_mirabilis_04924	  5e-56
+327-  2:	SEGI_32083	W_mirabilis_22029	  4e-82
+327-  3:	SEGI_31992	W_mirabilis_22031	 2e-112
+327-  4:	SEGI_30435	W_mirabilis_06716	 2e-125
+327-  5:	SEGI_04215	W_mirabilis_05342	 4e-160
+327-  6:	SEGI_09720	W_mirabilis_24877	  1e-49
+327-  7:	SEGI_34419	W_mirabilis_05913	  6e-58
+327-  8:	SEGI_32521	W_mirabilis_06765	  4e-39
+327-  9:	SEGI_16182	W_mirabilis_06744	      0
+## Alignment 328: score=195.0 e_value=4.9e-08 N=5 seq_chr7&wel_Chr02 plus
+328-  0:	SEGI_09143	W_mirabilis_05908	  4e-15
+328-  1:	SEGI_00185	W_mirabilis_05909	 5e-280
+328-  2:	SEGI_15605	W_mirabilis_05917	 2e-164
+328-  3:	SEGI_36773	W_mirabilis_05918	 3e-153
+328-  4:	SEGI_21039	W_mirabilis_05930	  3e-54
+## Alignment 329: score=163.0 e_value=1.3e-09 N=6 seq_chr7&wel_Chr02 plus
+329-  0:	SEGI_03401	W_mirabilis_16465	  1e-72
+329-  1:	SEGI_36941	W_mirabilis_03850	 8e-191
+329-  2:	SEGI_01378	W_mirabilis_24879	 3e-131
+329-  3:	SEGI_16299	W_mirabilis_05928	  3e-25
+329-  4:	SEGI_06782	W_mirabilis_06768	  8e-76
+329-  5:	SEGI_18655	W_mirabilis_06756	  3e-93
+## Alignment 330: score=308.0 e_value=5.8e-21 N=10 seq_chr7&wel_Chr02 minus
+330-  0:	SEGI_28831	W_mirabilis_05928	  4e-39
+330-  1:	SEGI_39160	W_mirabilis_24883	  3e-49
+330-  2:	SEGI_14025	W_mirabilis_22027	  3e-14
+330-  3:	SEGI_31210	W_mirabilis_08817	  7e-13
+330-  4:	SEGI_32556	W_mirabilis_03833	 2e-164
+330-  5:	SEGI_05630	W_mirabilis_04926	  4e-40
+330-  6:	SEGI_41183	W_mirabilis_03387	 4e-112
+330-  7:	SEGI_11759	W_mirabilis_03386	  2e-23
+330-  8:	SEGI_19122	W_mirabilis_06688	 3e-160
+330-  9:	SEGI_31055	W_mirabilis_06684	 2e-151
+## Alignment 331: score=160.0 e_value=1.6e-07 N=4 seq_chr7&wel_Chr03 plus
+331-  0:	SEGI_37942	W_mirabilis_18228	  3e-92
+331-  1:	SEGI_03617	W_mirabilis_18227	  8e-17
+331-  2:	SEGI_39492	W_mirabilis_04991	 1e-108
+331-  3:	SEGI_36420	W_mirabilis_11935	 9e-230
+## Alignment 332: score=221.0 e_value=4.2e-09 N=5 seq_chr7&wel_Chr04 plus
+332-  0:	SEGI_04359	W_mirabilis_13381	  2e-41
+332-  1:	SEGI_06258	W_mirabilis_13382	  1e-41
+332-  2:	SEGI_14699	W_mirabilis_13383	 1e-180
+332-  3:	SEGI_06692	W_mirabilis_17823	 2e-151
+332-  4:	SEGI_30067	W_mirabilis_17828	 1e-118
+## Alignment 333: score=192.0 e_value=1e-06 N=5 seq_chr7&wel_Chr04 plus
+333-  0:	SEGI_03329	W_mirabilis_15503	  1e-70
+333-  1:	SEGI_33311	W_mirabilis_20209	  3e-55
+333-  2:	SEGI_23771	W_mirabilis_20216	  4e-85
+333-  3:	SEGI_03552	W_mirabilis_20781	 5e-230
+333-  4:	SEGI_21729	W_mirabilis_20791	  2e-41
+## Alignment 334: score=177.0 e_value=9.8e-10 N=4 seq_chr7&wel_Chr04 plus
+334-  0:	SEGI_23811	W_mirabilis_15724	 7e-134
+334-  1:	SEGI_04958	W_mirabilis_16683	  8e-06
+334-  2:	SEGI_09379	W_mirabilis_17173	  2e-26
+334-  3:	SEGI_19036	W_mirabilis_17174	  2e-32
+## Alignment 335: score=172.0 e_value=4.5e-12 N=6 seq_chr7&wel_Chr04 plus
+335-  0:	SEGI_30000	W_mirabilis_06600	  3e-43
+335-  1:	SEGI_26558	W_mirabilis_08707	 4e-104
+335-  2:	SEGI_13377	W_mirabilis_08710	 3e-243
+335-  3:	SEGI_03433	W_mirabilis_11980	  5e-72
+335-  4:	SEGI_31450	W_mirabilis_11981	  1e-06
+335-  5:	SEGI_15457	W_mirabilis_13238	  1e-78
+## Alignment 336: score=157.0 e_value=8.2e-07 N=4 seq_chr7&wel_Chr04 plus
+336-  0:	SEGI_33379	W_mirabilis_23806	      0
+336-  1:	SEGI_39672	W_mirabilis_23814	  8e-46
+336-  2:	SEGI_18645	W_mirabilis_23815	  2e-81
+336-  3:	SEGI_15357	W_mirabilis_23816	  2e-96
+## Alignment 337: score=299.0 e_value=3e-22 N=9 seq_chr7&wel_Chr05 plus
+337-  0:	SEGI_32063	W_mirabilis_07158	  5e-39
+337-  1:	SEGI_39022	W_mirabilis_12260	  1e-67
+337-  2:	SEGI_07697	W_mirabilis_20815	  1e-56
+337-  3:	SEGI_03462	W_mirabilis_10972	  9e-89
+337-  4:	SEGI_35129	W_mirabilis_26413	  5e-13
+337-  5:	SEGI_21106	W_mirabilis_16802	 5e-159
+337-  6:	SEGI_15605	W_mirabilis_13649	 2e-172
+337-  7:	SEGI_36773	W_mirabilis_13671	 2e-171
+337-  8:	SEGI_28831	W_mirabilis_13672	  1e-40
+## Alignment 338: score=208.0 e_value=1.1e-06 N=5 seq_chr7&wel_Chr05 plus
+338-  0:	SEGI_04839	W_mirabilis_00746	  1e-36
+338-  1:	SEGI_13172	W_mirabilis_20405	  1e-60
+338-  2:	SEGI_27627	W_mirabilis_20396	  1e-93
+338-  3:	SEGI_30486	W_mirabilis_23754	 1e-199
+338-  4:	SEGI_38558	W_mirabilis_12169	  3e-49
+## Alignment 339: score=179.0 e_value=7.6e-08 N=5 seq_chr7&wel_Chr05 plus
+339-  0:	SEGI_16561	W_mirabilis_19262	 2e-235
+339-  1:	SEGI_27050	W_mirabilis_15417	 4e-118
+339-  2:	SEGI_02638	W_mirabilis_15406	 8e-107
+339-  3:	SEGI_06782	W_mirabilis_15405	  4e-72
+339-  4:	SEGI_41428	W_mirabilis_21386	 3e-141
+## Alignment 340: score=167.0 e_value=6.8e-11 N=6 seq_chr7&wel_Chr05 plus
+340-  0:	SEGI_26661	W_mirabilis_22829	  3e-09
+340-  1:	SEGI_36820	W_mirabilis_00740	  3e-24
+340-  2:	SEGI_10876	W_mirabilis_00741	 5e-196
+340-  3:	SEGI_16766	W_mirabilis_12165	 1e-123
+340-  4:	SEGI_22692	W_mirabilis_22585	  1e-37
+340-  5:	SEGI_23272	W_mirabilis_22583	      0
+## Alignment 341: score=165.0 e_value=0.00053 N=4 seq_chr7&wel_Chr05 plus
+341-  0:	SEGI_10882	W_mirabilis_07142	  4e-45
+341-  1:	SEGI_37729	W_mirabilis_07135	  6e-64
+341-  2:	SEGI_11980	W_mirabilis_20803	 9e-213
+341-  3:	SEGI_11233	W_mirabilis_10689	 2e-162
+## Alignment 342: score=155.0 e_value=8.2e-05 N=4 seq_chr7&wel_Chr05 plus
+342-  0:	SEGI_23472	W_mirabilis_07155	  9e-20
+342-  1:	SEGI_11590	W_mirabilis_20816	  5e-44
+342-  2:	SEGI_03282	W_mirabilis_20810	 2e-123
+342-  3:	SEGI_16627	W_mirabilis_20808	  5e-86
+## Alignment 343: score=301.0 e_value=1.4e-22 N=10 seq_chr7&wel_Chr05 minus
+343-  0:	SEGI_35151	W_mirabilis_25852	 4e-137
+343-  1:	SEGI_16503	W_mirabilis_25847	  3e-33
+343-  2:	SEGI_14401	W_mirabilis_22584	  1e-45
+343-  3:	SEGI_19940	W_mirabilis_22587	 4e-170
+343-  4:	SEGI_16766	W_mirabilis_12165	 1e-123
+343-  5:	SEGI_23272	W_mirabilis_20399	 1e-116
+343-  6:	SEGI_13172	W_mirabilis_20405	  1e-60
+343-  7:	SEGI_07518	W_mirabilis_20408	  3e-57
+343-  8:	SEGI_16996	W_mirabilis_20413	  9e-10
+343-  9:	SEGI_19877	W_mirabilis_17590	 7e-171
+## Alignment 344: score=224.0 e_value=1.6e-19 N=9 seq_chr7&wel_Chr05 minus
+344-  0:	SEGI_27050	W_mirabilis_15417	 4e-118
+344-  1:	SEGI_03115	W_mirabilis_15418	      0
+344-  2:	SEGI_16299	W_mirabilis_13672	 2e-107
+344-  3:	SEGI_05718	W_mirabilis_16781	 8e-132
+344-  4:	SEGI_02641	W_mirabilis_16786	 1e-135
+344-  5:	SEGI_36739	W_mirabilis_16802	  6e-76
+344-  6:	SEGI_32826	W_mirabilis_10687	  6e-82
+344-  7:	SEGI_39931	W_mirabilis_10697	  2e-27
+344-  8:	SEGI_11980	W_mirabilis_20803	 9e-213
+## Alignment 345: score=182.0 e_value=0.00057 N=4 seq_chr7&wel_Chr05 minus
+345-  0:	SEGI_39504	W_mirabilis_06614	  2e-38
+345-  1:	SEGI_11062	W_mirabilis_25858	 2e-206
+345-  2:	SEGI_06288	W_mirabilis_25857	 2e-157
+345-  3:	SEGI_03888	W_mirabilis_25854	  1e-14
+## Alignment 346: score=180.0 e_value=1.8e-10 N=6 seq_chr7&wel_Chr05 minus
+346-  0:	SEGI_32556	W_mirabilis_00748	 7e-254
+346-  1:	SEGI_20118	W_mirabilis_00744	  3e-11
+346-  2:	SEGI_36820	W_mirabilis_00740	  3e-24
+346-  3:	SEGI_16568	W_mirabilis_00735	  2e-95
+346-  4:	SEGI_20043	W_mirabilis_05247	 0.0001
+346-  5:	SEGI_29333	W_mirabilis_01692	  6e-45
+## Alignment 347: score=164.0 e_value=0.00034 N=4 seq_chr7&wel_Chr06 minus
+347-  0:	SEGI_36929	W_mirabilis_17292	      0
+347-  1:	SEGI_05589	W_mirabilis_03295	  1e-33
+347-  2:	SEGI_05262	W_mirabilis_03292	 9e-168
+347-  3:	SEGI_36857	W_mirabilis_03291	  2e-28
+## Alignment 348: score=156.0 e_value=2.4e-08 N=5 seq_chr7&wel_Chr06 minus
+348-  0:	SEGI_27097	W_mirabilis_24367	  1e-64
+348-  1:	SEGI_28920	W_mirabilis_24366	  3e-40
+348-  2:	SEGI_06516	W_mirabilis_17306	 6e-121
+348-  3:	SEGI_21295	W_mirabilis_17303	  1e-44
+348-  4:	SEGI_14789	W_mirabilis_17297	  2e-48
+## Alignment 349: score=418.0 e_value=9.7e-33 N=13 seq_chr7&wel_Chr07 plus
+349-  0:	SEGI_38265	W_mirabilis_00935	 2e-230
+349-  1:	SEGI_00484	W_mirabilis_00936	 2e-119
+349-  2:	SEGI_12680	W_mirabilis_06202	  2e-27
+349-  3:	SEGI_36394	W_mirabilis_06194	  1e-27
+349-  4:	SEGI_21342	W_mirabilis_22042	  2e-57
+349-  5:	SEGI_08448	W_mirabilis_09976	  1e-99
+349-  6:	SEGI_27918	W_mirabilis_17663	  1e-18
+349-  7:	SEGI_14923	W_mirabilis_17665	 3e-169
+349-  8:	SEGI_02184	W_mirabilis_23188	  8e-42
+349-  9:	SEGI_09533	W_mirabilis_23189	  2e-68
+349- 10:	SEGI_28937	W_mirabilis_09940	  5e-93
+349- 11:	SEGI_15879	W_mirabilis_09944	      0
+349- 12:	SEGI_28489	W_mirabilis_12463	  2e-20
+## Alignment 350: score=228.0 e_value=1.4e-12 N=7 seq_chr7&wel_Chr07 plus
+350-  0:	SEGI_39026	W_mirabilis_23402	  5e-05
+350-  1:	SEGI_03186	W_mirabilis_23392	  2e-24
+350-  2:	SEGI_29224	W_mirabilis_23390	 1e-152
+350-  3:	SEGI_34785	W_mirabilis_23387	  3e-28
+350-  4:	SEGI_37317	W_mirabilis_23385	  3e-23
+350-  5:	SEGI_26166	W_mirabilis_23378	  6e-46
+350-  6:	SEGI_08976	W_mirabilis_12228	  3e-29
+## Alignment 351: score=226.0 e_value=8.8e-14 N=7 seq_chr7&wel_Chr07 plus
+351-  0:	SEGI_35120	W_mirabilis_09947	 8e-100
+351-  1:	SEGI_29944	W_mirabilis_09949	  3e-07
+351-  2:	SEGI_30854	W_mirabilis_12463	  3e-42
+351-  3:	SEGI_38283	W_mirabilis_12461	      0
+351-  4:	SEGI_08820	W_mirabilis_17318	 9e-194
+351-  5:	SEGI_30000	W_mirabilis_13227	  7e-34
+351-  6:	SEGI_40355	W_mirabilis_10218	  1e-97
+## Alignment 352: score=220.0 e_value=7.1e-10 N=6 seq_chr7&wel_Chr07 plus
+352-  0:	SEGI_18430	W_mirabilis_23203	  1e-76
+352-  1:	SEGI_02171	W_mirabilis_23204	  2e-96
+352-  2:	SEGI_25953	W_mirabilis_02721	  1e-65
+352-  3:	SEGI_17405	W_mirabilis_05836	  1e-67
+352-  4:	SEGI_05708	W_mirabilis_14867	 3e-198
+352-  5:	SEGI_00483	W_mirabilis_14871	 2e-258
+## Alignment 353: score=202.0 e_value=3e-08 N=5 seq_chr7&wel_Chr07 plus
+353-  0:	SEGI_03372	W_mirabilis_13231	  7e-29
+353-  1:	SEGI_15552	W_mirabilis_10228	  6e-48
+353-  2:	SEGI_26448	W_mirabilis_10229	 9e-161
+353-  3:	SEGI_18085	W_mirabilis_10230	 6e-206
+353-  4:	SEGI_27449	W_mirabilis_18128	 6e-182
+## Alignment 354: score=207.0 e_value=5.5e-07 N=5 seq_chr7&wel_Chr07 minus
+354-  0:	SEGI_13817	W_mirabilis_05851	  5e-44
+354-  1:	SEGI_33534	W_mirabilis_05853	 2e-196
+354-  2:	SEGI_11187	W_mirabilis_02722	  3e-14
+354-  3:	SEGI_32099	W_mirabilis_23206	 7e-135
+354-  4:	SEGI_21200	W_mirabilis_23205	 1e-149
+## Alignment 355: score=187.0 e_value=5.8e-09 N=6 seq_chr7&wel_Chr07 minus
+355-  0:	SEGI_26092	W_mirabilis_23601	 9e-111
+355-  1:	SEGI_27636	W_mirabilis_04721	  1e-42
+355-  2:	SEGI_00288	W_mirabilis_10220	 2e-124
+355-  3:	SEGI_29854	W_mirabilis_10211	  3e-69
+355-  4:	SEGI_00852	W_mirabilis_13229	  3e-93
+355-  5:	SEGI_14258	W_mirabilis_13231	 8e-257
+## Alignment 356: score=186.0 e_value=0.00065 N=4 seq_chr7&wel_Chr07 minus
+356-  0:	SEGI_10072	W_mirabilis_02718	  1e-20
+356-  1:	SEGI_34160	W_mirabilis_23201	 9e-120
+356-  2:	SEGI_10069	W_mirabilis_23198	 4e-137
+356-  3:	SEGI_05092	W_mirabilis_23191	  1e-30
+## Alignment 357: score=174.0 e_value=2e-05 N=5 seq_chr7&wel_Chr07 minus
+357-  0:	SEGI_23811	W_mirabilis_13231	 2e-143
+357-  1:	SEGI_15290	W_mirabilis_13084	  3e-96
+357-  2:	SEGI_24778	W_mirabilis_20586	  2e-75
+357-  3:	SEGI_21185	W_mirabilis_10130	 2e-128
+357-  4:	SEGI_35146	W_mirabilis_09950	  3e-38
+## Alignment 358: score=152.0 e_value=2e-09 N=6 seq_chr7&wel_Chr07 minus
+358-  0:	SEGI_25494	W_mirabilis_23200	  2e-19
+358-  1:	SEGI_35189	W_mirabilis_06198	 4e-307
+358-  2:	SEGI_11102	W_mirabilis_03034	  1e-27
+358-  3:	SEGI_10681	W_mirabilis_03035	  1e-15
+358-  4:	SEGI_20957	W_mirabilis_00179	 4e-149
+358-  5:	SEGI_15779	W_mirabilis_05606	 8e-111
+## Alignment 359: score=237.0 e_value=8.5e-14 N=7 seq_chr7&wel_Chr08 plus
+359-  0:	SEGI_22141	W_mirabilis_24989	  2e-57
+359-  1:	SEGI_35921	W_mirabilis_08602	 2e-145
+359-  2:	SEGI_18154	W_mirabilis_05208	  2e-15
+359-  3:	SEGI_37210	W_mirabilis_05209	  1e-49
+359-  4:	SEGI_08448	W_mirabilis_26969	 1e-101
+359-  5:	SEGI_27921	W_mirabilis_16019	 1e-133
+359-  6:	SEGI_26624	W_mirabilis_02394	  3e-97
+## Alignment 360: score=165.0 e_value=0.00058 N=4 seq_chr7&wel_Chr08 plus
+360-  0:	SEGI_40836	W_mirabilis_15402	  6e-98
+360-  1:	SEGI_28267	W_mirabilis_19464	 7e-143
+360-  2:	SEGI_24852	W_mirabilis_10627	  4e-37
+360-  3:	SEGI_36964	W_mirabilis_18454	  2e-98
+## Alignment 361: score=188.0 e_value=1.7e-08 N=5 seq_chr7&wel_Chr08 minus
+361-  0:	SEGI_17724	W_mirabilis_18454	 3e-147
+361-  1:	SEGI_24852	W_mirabilis_10627	  4e-37
+361-  2:	SEGI_36964	W_mirabilis_10628	 1e-100
+361-  3:	SEGI_05996	W_mirabilis_10639	 4e-150
+361-  4:	SEGI_02774	W_mirabilis_02435	      0
+## Alignment 362: score=238.0 e_value=1.5e-10 N=6 seq_chr7&wel_Chr09 plus
+362-  0:	SEGI_01771	W_mirabilis_19873	 6e-123
+362-  1:	SEGI_05360	W_mirabilis_09133	 1e-103
+362-  2:	SEGI_11009	W_mirabilis_16058	  2e-96
+362-  3:	SEGI_35076	W_mirabilis_23024	  1e-54
+362-  4:	SEGI_37511	W_mirabilis_20836	 3e-159
+362-  5:	SEGI_38605	W_mirabilis_17040	  5e-59
+## Alignment 363: score=157.0 e_value=1.1e-05 N=4 seq_chr7&wel_Chr09 plus
+363-  0:	SEGI_33176	W_mirabilis_16839	  4e-13
+363-  1:	SEGI_09560	W_mirabilis_20027	  7e-05
+363-  2:	SEGI_30126	W_mirabilis_10708	 3e-199
+363-  3:	SEGI_30765	W_mirabilis_10707	  6e-78
+## Alignment 364: score=162.0 e_value=0.00012 N=4 seq_chr7&wel_Chr13 minus
+364-  0:	SEGI_38775	W_mirabilis_24494	  3e-50
+364-  1:	SEGI_12761	W_mirabilis_08853	  4e-43
+364-  2:	SEGI_26448	W_mirabilis_11779	 8e-112
+364-  3:	SEGI_33615	W_mirabilis_06031	  3e-85
+## Alignment 365: score=278.0 e_value=2.7e-11 N=7 seq_chr7&wel_Chr14 plus
+365-  0:	SEGI_07823	W_mirabilis_24736	  3e-18
+365-  1:	SEGI_25460	W_mirabilis_24735	  3e-94
+365-  2:	SEGI_10702	W_mirabilis_08475	  1e-84
+365-  3:	SEGI_10057	W_mirabilis_25341	 1e-181
+365-  4:	SEGI_35373	W_mirabilis_17053	  5e-90
+365-  5:	SEGI_23712	W_mirabilis_05365	 1e-144
+365-  6:	SEGI_21960	W_mirabilis_08404	 8e-150
+## Alignment 366: score=198.0 e_value=6.3e-10 N=5 seq_chr7&wel_Chr14 plus
+366-  0:	SEGI_34008	W_mirabilis_24485	  3e-98
+366-  1:	SEGI_12567	W_mirabilis_18203	 6e-163
+366-  2:	SEGI_18579	W_mirabilis_05058	  2e-66
+366-  3:	SEGI_04862	W_mirabilis_05059	  3e-07
+366-  4:	SEGI_17310	W_mirabilis_05060	  6e-54
+## Alignment 367: score=184.0 e_value=6.7e-06 N=4 seq_chr7&wel_Chr14 plus
+367-  0:	SEGI_35875	W_mirabilis_22598	 1e-135
+367-  1:	SEGI_24148	W_mirabilis_03191	  2e-29
+367-  2:	SEGI_14932	W_mirabilis_03193	  9e-15
+367-  3:	SEGI_00483	W_mirabilis_14875	 2e-254
+## Alignment 368: score=171.0 e_value=4.4e-11 N=6 seq_chr7&wel_Chr14 plus
+368-  0:	SEGI_17241	W_mirabilis_15852	  1e-15
+368-  1:	SEGI_26446	W_mirabilis_24196	  3e-85
+368-  2:	SEGI_00967	W_mirabilis_01270	 8e-107
+368-  3:	SEGI_24546	W_mirabilis_01271	  1e-25
+368-  4:	SEGI_03391	W_mirabilis_01278	  5e-32
+368-  5:	SEGI_08877	W_mirabilis_01558	  2e-43
+## Alignment 369: score=165.0 e_value=1.2e-06 N=5 seq_chr7&wel_Chr14 plus
+369-  0:	SEGI_11263	W_mirabilis_24193	  2e-40
+369-  1:	SEGI_04432	W_mirabilis_24208	 4e-166
+369-  2:	SEGI_01489	W_mirabilis_24210	  9e-44
+369-  3:	SEGI_40019	W_mirabilis_24478	  2e-29
+369-  4:	SEGI_35570	W_mirabilis_01557	 5e-194
+## Alignment 370: score=204.0 e_value=3.6e-09 N=5 seq_chr7&wel_Chr14 minus
+370-  0:	SEGI_23656	W_mirabilis_14520	  1e-14
+370-  1:	SEGI_04543	W_mirabilis_21195	  9e-41
+370-  2:	SEGI_18633	W_mirabilis_02047	 4e-217
+370-  3:	SEGI_41601	W_mirabilis_02052	 2e-147
+370-  4:	SEGI_21030	W_mirabilis_00344	  8e-95
+## Alignment 371: score=199.0 e_value=7.7e-11 N=6 seq_chr7&wel_Chr14 minus
+371-  0:	SEGI_15913	W_mirabilis_24482	  4e-12
+371-  1:	SEGI_39808	W_mirabilis_24480	 5e-140
+371-  2:	SEGI_11498	W_mirabilis_24200	  7e-74
+371-  3:	SEGI_28858	W_mirabilis_24198	 3e-154
+371-  4:	SEGI_35570	W_mirabilis_21465	  6e-19
+371-  5:	SEGI_01311	W_mirabilis_15032	 2e-128
+## Alignment 372: score=172.0 e_value=0.0003 N=4 seq_chr7&wel_Chr14 minus
+372-  0:	SEGI_40485	W_mirabilis_08402	 7e-130
+372-  1:	SEGI_04139	W_mirabilis_14614	  2e-35
+372-  2:	SEGI_34176	W_mirabilis_05366	  2e-25
+372-  3:	SEGI_27859	W_mirabilis_05368	  3e-06
+## Alignment 373: score=155.0 e_value=1.3e-06 N=5 seq_chr7&wel_Chr14 minus
+373-  0:	SEGI_17405	W_mirabilis_24737	  5e-66
+373-  1:	SEGI_25455	W_mirabilis_12608	  7e-30
+373-  2:	SEGI_28985	W_mirabilis_03195	 1e-119
+373-  3:	SEGI_03551	W_mirabilis_00761	  5e-50
+373-  4:	SEGI_09712	W_mirabilis_11517	  5e-63
+## Alignment 374: score=243.0 e_value=1.5e-13 N=6 seq_chr8&wel_Chr01 plus
+374-  0:	SEGI_33073	W_mirabilis_17974	 1e-132
+374-  1:	SEGI_39051	W_mirabilis_10924	 1e-122
+374-  2:	SEGI_00479	W_mirabilis_10928	  2e-19
+374-  3:	SEGI_16546	W_mirabilis_14965	 1e-291
+374-  4:	SEGI_35241	W_mirabilis_14964	  1e-11
+374-  5:	SEGI_03488	W_mirabilis_14963	  7e-81
+## Alignment 375: score=218.0 e_value=7.2e-12 N=6 seq_chr8&wel_Chr01 plus
+375-  0:	SEGI_40396	W_mirabilis_09136	  2e-34
+375-  1:	SEGI_03430	W_mirabilis_09137	 6e-127
+375-  2:	SEGI_31787	W_mirabilis_09138	  4e-30
+375-  3:	SEGI_37015	W_mirabilis_20738	  2e-26
+375-  4:	SEGI_09611	W_mirabilis_14889	 1e-139
+375-  5:	SEGI_20254	W_mirabilis_25698	  4e-31
+## Alignment 376: score=177.0 e_value=1.4e-07 N=5 seq_chr8&wel_Chr01 plus
+376-  0:	SEGI_12050	W_mirabilis_14449	 2e-149
+376-  1:	SEGI_14155	W_mirabilis_10921	 3e-250
+376-  2:	SEGI_21543	W_mirabilis_10923	  1e-34
+376-  3:	SEGI_28331	W_mirabilis_21757	 7e-103
+376-  4:	SEGI_11968	W_mirabilis_21750	 4e-147
+## Alignment 377: score=160.0 e_value=7.2e-07 N=4 seq_chr8&wel_Chr01 plus
+377-  0:	SEGI_19290	W_mirabilis_12680	  2e-64
+377-  1:	SEGI_41283	W_mirabilis_17837	  3e-63
+377-  2:	SEGI_29366	W_mirabilis_17839	  3e-42
+377-  3:	SEGI_41335	W_mirabilis_14076	 2e-169
+## Alignment 378: score=378.0 e_value=2.6e-13 N=8 seq_chr8&wel_Chr01 minus
+378-  0:	SEGI_40530	W_mirabilis_12227	  4e-19
+378-  1:	SEGI_01358	W_mirabilis_09825	  8e-67
+378-  2:	SEGI_20197	W_mirabilis_09824	  4e-94
+378-  3:	SEGI_30560	W_mirabilis_12935	  7e-33
+378-  4:	SEGI_04690	W_mirabilis_15060	 8e-203
+378-  5:	SEGI_00346	W_mirabilis_15058	  6e-87
+378-  6:	SEGI_06427	W_mirabilis_11373	  2e-77
+378-  7:	SEGI_37375	W_mirabilis_11372	 2e-123
+## Alignment 379: score=232.0 e_value=2.1e-18 N=8 seq_chr8&wel_Chr01 minus
+379-  0:	SEGI_01522	W_mirabilis_03869	  1e-85
+379-  1:	SEGI_07044	W_mirabilis_14886	 4e-188
+379-  2:	SEGI_33791	W_mirabilis_14888	  2e-92
+379-  3:	SEGI_40745	W_mirabilis_26687	  7e-26
+379-  4:	SEGI_02666	W_mirabilis_26688	  2e-19
+379-  5:	SEGI_14438	W_mirabilis_11726	  3e-52
+379-  6:	SEGI_33430	W_mirabilis_01854	  2e-37
+379-  7:	SEGI_16679	W_mirabilis_14958	 9e-246
+## Alignment 380: score=172.0 e_value=4.1e-06 N=5 seq_chr8&wel_Chr01 minus
+380-  0:	SEGI_25888	W_mirabilis_13414	  3e-52
+380-  1:	SEGI_35411	W_mirabilis_03867	  9e-17
+380-  2:	SEGI_34532	W_mirabilis_02340	  3e-55
+380-  3:	SEGI_31589	W_mirabilis_26684	  6e-45
+380-  4:	SEGI_05790	W_mirabilis_20738	  1e-15
+## Alignment 381: score=199.0 e_value=7.1e-12 N=7 seq_chr8&wel_Chr02 plus
+381-  0:	SEGI_28547	W_mirabilis_00001	 1e-156
+381-  1:	SEGI_28504	W_mirabilis_00018	 1e-118
+381-  2:	SEGI_00782	W_mirabilis_00021	  5e-38
+381-  3:	SEGI_38823	W_mirabilis_00024	  4e-51
+381-  4:	SEGI_13590	W_mirabilis_00045	  1e-47
+381-  5:	SEGI_00138	W_mirabilis_00051	  5e-44
+381-  6:	SEGI_32524	W_mirabilis_00052	  6e-62
+## Alignment 382: score=182.0 e_value=1.1e-11 N=5 seq_chr8&wel_Chr03 plus
+382-  0:	SEGI_14967	W_mirabilis_09809	  8e-26
+382-  1:	SEGI_12235	W_mirabilis_19290	  3e-25
+382-  2:	SEGI_04119	W_mirabilis_22354	  1e-26
+382-  3:	SEGI_28751	W_mirabilis_09816	  4e-18
+382-  4:	SEGI_26819	W_mirabilis_09817	 2e-158
+## Alignment 383: score=189.0 e_value=0.00031 N=4 seq_chr8&wel_Chr04 minus
+383-  0:	SEGI_01358	W_mirabilis_24049	 9e-101
+383-  1:	SEGI_20197	W_mirabilis_24047	  5e-72
+383-  2:	SEGI_30560	W_mirabilis_15532	  3e-33
+383-  3:	SEGI_37375	W_mirabilis_15527	 1e-130
+## Alignment 384: score=150.0 e_value=0.00027 N=4 seq_chr8&wel_Chr05 plus
+384-  0:	SEGI_41377	W_mirabilis_20406	  4e-25
+384-  1:	SEGI_37338	W_mirabilis_23754	 2e-131
+384-  2:	SEGI_22994	W_mirabilis_22297	  3e-38
+384-  3:	SEGI_40972	W_mirabilis_03097	 0.0009
+## Alignment 385: score=150.0 e_value=6.2e-07 N=4 seq_chr8&wel_Chr07 minus
+385-  0:	SEGI_23823	W_mirabilis_01337	      0
+385-  1:	SEGI_21897	W_mirabilis_01336	  2e-13
+385-  2:	SEGI_10904	W_mirabilis_21479	 2e-105
+385-  3:	SEGI_02403	W_mirabilis_07545	 3e-100
+## Alignment 386: score=296.0 e_value=8.3e-21 N=9 seq_chr8&wel_Chr08 plus
+386-  0:	SEGI_38447	W_mirabilis_25384	  6e-80
+386-  1:	SEGI_29325	W_mirabilis_25385	 5e-173
+386-  2:	SEGI_18369	W_mirabilis_25386	  1e-38
+386-  3:	SEGI_34093	W_mirabilis_16179	  4e-63
+386-  4:	SEGI_21534	W_mirabilis_24593	  3e-18
+386-  5:	SEGI_26340	W_mirabilis_24591	  2e-73
+386-  6:	SEGI_10619	W_mirabilis_16554	  9e-44
+386-  7:	SEGI_12913	W_mirabilis_04746	  2e-25
+386-  8:	SEGI_18590	W_mirabilis_07002	  1e-31
+## Alignment 387: score=197.0 e_value=4.5e-08 N=5 seq_chr8&wel_Chr08 plus
+387-  0:	SEGI_25399	W_mirabilis_09287	  3e-31
+387-  1:	SEGI_08317	W_mirabilis_19906	  3e-61
+387-  2:	SEGI_36789	W_mirabilis_05184	 1e-184
+387-  3:	SEGI_17051	W_mirabilis_05186	  3e-42
+387-  4:	SEGI_13835	W_mirabilis_01476	  8e-35
+## Alignment 388: score=179.0 e_value=3.6e-07 N=5 seq_chr8&wel_Chr08 plus
+388-  0:	SEGI_23628	W_mirabilis_00499	 4e-104
+388-  1:	SEGI_32755	W_mirabilis_00501	 2e-158
+388-  2:	SEGI_09055	W_mirabilis_03227	  8e-15
+388-  3:	SEGI_27155	W_mirabilis_03229	  5e-34
+388-  4:	SEGI_16113	W_mirabilis_03927	 7e-301
+## Alignment 389: score=173.0 e_value=3.8e-07 N=5 seq_chr8&wel_Chr08 plus
+389-  0:	SEGI_01931	W_mirabilis_08478	 2e-226
+389-  1:	SEGI_21372	W_mirabilis_09868	  3e-19
+389-  2:	SEGI_35518	W_mirabilis_13138	 1e-271
+389-  3:	SEGI_01459	W_mirabilis_13141	  7e-52
+389-  4:	SEGI_25357	W_mirabilis_15809	  3e-16
+## Alignment 390: score=159.0 e_value=5.7e-10 N=4 seq_chr8&wel_Chr08 plus
+390-  0:	SEGI_40147	W_mirabilis_25475	  5e-19
+390-  1:	SEGI_19592	W_mirabilis_25476	  1e-76
+390-  2:	SEGI_04080	W_mirabilis_25477	  2e-37
+390-  3:	SEGI_09611	W_mirabilis_02716	 6e-125
+## Alignment 391: score=152.0 e_value=4e-11 N=7 seq_chr8&wel_Chr08 plus
+391-  0:	SEGI_05790	W_mirabilis_26144	  7e-16
+391-  1:	SEGI_28924	W_mirabilis_26149	  2e-98
+391-  2:	SEGI_15440	W_mirabilis_03227	 5e-152
+391-  3:	SEGI_17162	W_mirabilis_03929	  2e-30
+391-  4:	SEGI_20318	W_mirabilis_06778	  3e-34
+391-  5:	SEGI_20304	W_mirabilis_08985	  3e-58
+391-  6:	SEGI_00014	W_mirabilis_09868	  2e-18
+## Alignment 392: score=182.0 e_value=1.8e-12 N=7 seq_chr8&wel_Chr08 minus
+392-  0:	SEGI_14053	W_mirabilis_05186	  2e-41
+392-  1:	SEGI_40202	W_mirabilis_25482	 8e-214
+392-  2:	SEGI_07053	W_mirabilis_04740	 6e-170
+392-  3:	SEGI_39785	W_mirabilis_20482	 1e-119
+392-  4:	SEGI_01522	W_mirabilis_07468	  1e-75
+392-  5:	SEGI_40745	W_mirabilis_12694	  1e-05
+392-  6:	SEGI_02666	W_mirabilis_12696	  8e-17
+## Alignment 393: score=176.0 e_value=4e-07 N=5 seq_chr8&wel_Chr08 minus
+393-  0:	SEGI_04208	W_mirabilis_10790	 1e-161
+393-  1:	SEGI_13405	W_mirabilis_09671	  1e-12
+393-  2:	SEGI_19403	W_mirabilis_08989	  1e-21
+393-  3:	SEGI_25965	W_mirabilis_08984	  2e-37
+393-  4:	SEGI_24656	W_mirabilis_06779	 0.0008
+## Alignment 394: score=170.0 e_value=1.6e-14 N=6 seq_chr8&wel_Chr08 minus
+394-  0:	SEGI_36025	W_mirabilis_02714	  3e-44
+394-  1:	SEGI_23188	W_mirabilis_02713	  2e-65
+394-  2:	SEGI_16202	W_mirabilis_02712	  9e-72
+394-  3:	SEGI_27845	W_mirabilis_09290	  1e-97
+394-  4:	SEGI_06495	W_mirabilis_09289	  1e-30
+394-  5:	SEGI_19994	W_mirabilis_04738	  2e-85
+## Alignment 395: score=162.0 e_value=4.1e-05 N=4 seq_chr8&wel_Chr08 minus
+395-  0:	SEGI_40469	W_mirabilis_24522	  3e-32
+395-  1:	SEGI_16546	W_mirabilis_24520	 8e-294
+395-  2:	SEGI_26682	W_mirabilis_24515	 2e-134
+395-  3:	SEGI_40646	W_mirabilis_21249	  9e-32
+## Alignment 396: score=159.0 e_value=3.7e-05 N=4 seq_chr8&wel_Chr08 minus
+396-  0:	SEGI_08268	W_mirabilis_22604	  8e-92
+396-  1:	SEGI_11947	W_mirabilis_26512	 2e-137
+396-  2:	SEGI_36789	W_mirabilis_26513	 3e-224
+396-  3:	SEGI_28881	W_mirabilis_01477	  6e-66
+## Alignment 397: score=157.0 e_value=9.2e-07 N=4 seq_chr8&wel_Chr08 minus
+397-  0:	SEGI_03174	W_mirabilis_21251	  2e-53
+397-  1:	SEGI_28748	W_mirabilis_21245	  6e-05
+397-  2:	SEGI_22905	W_mirabilis_21244	 2e-144
+397-  3:	SEGI_25304	W_mirabilis_16948	  8e-10
+## Alignment 398: score=156.0 e_value=5.5e-06 N=4 seq_chr8&wel_Chr08 minus
+398-  0:	SEGI_02117	W_mirabilis_15105	 4e-161
+398-  1:	SEGI_29250	W_mirabilis_15107	 1e-204
+398-  2:	SEGI_25836	W_mirabilis_15110	  3e-97
+398-  3:	SEGI_33267	W_mirabilis_05186	 3e-109
+## Alignment 399: score=244.0 e_value=2.1e-16 N=8 seq_chr8&wel_Chr11 plus
+399-  0:	SEGI_09084	W_mirabilis_20279	 4e-161
+399-  1:	SEGI_34227	W_mirabilis_20281	  1e-18
+399-  2:	SEGI_15977	W_mirabilis_10780	  1e-46
+399-  3:	SEGI_05429	W_mirabilis_00438	  2e-37
+399-  4:	SEGI_36584	W_mirabilis_08803	  3e-84
+399-  5:	SEGI_05370	W_mirabilis_15352	  3e-09
+399-  6:	SEGI_23999	W_mirabilis_19212	  2e-18
+399-  7:	SEGI_32860	W_mirabilis_23100	 1e-177
+## Alignment 400: score=209.0 e_value=1.5e-07 N=6 seq_chr8&wel_Chr11 minus
+400-  0:	SEGI_17355	W_mirabilis_15365	  2e-60
+400-  1:	SEGI_28325	W_mirabilis_11075	 6e-220
+400-  2:	SEGI_16201	W_mirabilis_10781	  9e-19
+400-  3:	SEGI_32379	W_mirabilis_01226	      0
+400-  4:	SEGI_39690	W_mirabilis_20282	  3e-60
+400-  5:	SEGI_22811	W_mirabilis_10538	 1e-128
+## Alignment 401: score=176.0 e_value=2.5e-08 N=4 seq_chr8&wel_Chr11 minus
+401-  0:	SEGI_21275	W_mirabilis_00437	 5e-180
+401-  1:	SEGI_33091	W_mirabilis_00436	  7e-14
+401-  2:	SEGI_26062	W_mirabilis_00434	  6e-67
+401-  3:	SEGI_26502	W_mirabilis_01045	 2e-194
+## Alignment 402: score=179.0 e_value=2.2e-06 N=4 seq_chr8&wel_Chr15 plus
+402-  0:	SEGI_11589	W_mirabilis_17603	  9e-18
+402-  1:	SEGI_05989	W_mirabilis_17602	 1e-107
+402-  2:	SEGI_27851	W_mirabilis_17598	  3e-80
+402-  3:	SEGI_21724	W_mirabilis_17597	  3e-84
+## Alignment 403: score=154.0 e_value=2.9e-06 N=5 seq_chr8&wel_Chr17 minus
+403-  0:	SEGI_15816	W_mirabilis_15687	  1e-93
+403-  1:	SEGI_21159	W_mirabilis_06345	  1e-89
+403-  2:	SEGI_31476	W_mirabilis_19803	 9e-154
+403-  3:	SEGI_25711	W_mirabilis_08054	  2e-64
+403-  4:	SEGI_09475	W_mirabilis_15708	 3e-151
+## Alignment 404: score=170.0 e_value=2e-09 N=4 seq_chr8&wel_ContigUN minus
+404-  0:	SEGI_32061	W_mirabilis_18015	 4e-264
+404-  1:	SEGI_17576	W_mirabilis_18014	  3e-12
+404-  2:	SEGI_11968	W_mirabilis_17690	  5e-89
+404-  3:	SEGI_10549	W_mirabilis_17689	  7e-65
+## Alignment 405: score=186.0 e_value=1e-06 N=5 seq_chr9&wel_Chr01 plus
+405-  0:	SEGI_10443	W_mirabilis_04657	 1e-107
+405-  1:	SEGI_34352	W_mirabilis_04650	  3e-33
+405-  2:	SEGI_33568	W_mirabilis_04649	  8e-35
+405-  3:	SEGI_08518	W_mirabilis_19222	  6e-65
+405-  4:	SEGI_04437	W_mirabilis_11156	  6e-16
+## Alignment 406: score=332.0 e_value=2.2e-17 N=9 seq_chr9&wel_Chr02 plus
+406-  0:	SEGI_19462	W_mirabilis_15294	 1e-168
+406-  1:	SEGI_04945	W_mirabilis_15302	  1e-13
+406-  2:	SEGI_17573	W_mirabilis_05900	  2e-25
+406-  3:	SEGI_08784	W_mirabilis_13795	  1e-53
+406-  4:	SEGI_30485	W_mirabilis_04236	  9e-52
+406-  5:	SEGI_36052	W_mirabilis_04242	 6e-175
+406-  6:	SEGI_11583	W_mirabilis_04244	  6e-54
+406-  7:	SEGI_17172	W_mirabilis_02550	 5e-132
+406-  8:	SEGI_14139	W_mirabilis_02551	 2e-172
+## Alignment 407: score=286.0 e_value=4.1e-14 N=7 seq_chr9&wel_Chr02 plus
+407-  0:	SEGI_25478	W_mirabilis_16242	 2e-109
+407-  1:	SEGI_34994	W_mirabilis_00944	  2e-68
+407-  2:	SEGI_25637	W_mirabilis_20937	  6e-17
+407-  3:	SEGI_05563	W_mirabilis_07723	  4e-17
+407-  4:	SEGI_31894	W_mirabilis_15291	  1e-91
+407-  5:	SEGI_31800	W_mirabilis_15293	 1e-138
+407-  6:	SEGI_28454	W_mirabilis_15296	  1e-15
+## Alignment 408: score=181.0 e_value=0.00048 N=4 seq_chr9&wel_Chr02 plus
+408-  0:	SEGI_31081	W_mirabilis_22953	  1e-72
+408-  1:	SEGI_41150	W_mirabilis_22949	  7e-80
+408-  2:	SEGI_18970	W_mirabilis_22176	  2e-33
+408-  3:	SEGI_28518	W_mirabilis_07690	  1e-57
+## Alignment 409: score=153.0 e_value=4.3e-05 N=4 seq_chr9&wel_Chr02 plus
+409-  0:	SEGI_22688	W_mirabilis_26251	 0.0003
+409-  1:	SEGI_32149	W_mirabilis_22953	  1e-21
+409-  2:	SEGI_36429	W_mirabilis_22176	  3e-20
+409-  3:	SEGI_19259	W_mirabilis_22333	  3e-32
+## Alignment 410: score=321.0 e_value=2.4e-23 N=10 seq_chr9&wel_Chr02 minus
+410-  0:	SEGI_17463	W_mirabilis_02614	  2e-08
+410-  1:	SEGI_30461	W_mirabilis_02613	  2e-62
+410-  2:	SEGI_23706	W_mirabilis_04487	 7e-152
+410-  3:	SEGI_37852	W_mirabilis_03920	  1e-31
+410-  4:	SEGI_39412	W_mirabilis_16247	 4e-276
+410-  5:	SEGI_17056	W_mirabilis_16250	 1e-224
+410-  6:	SEGI_11620	W_mirabilis_26867	  1e-20
+410-  7:	SEGI_23962	W_mirabilis_26864	  6e-53
+410-  8:	SEGI_19294	W_mirabilis_26862	 9e-201
+410-  9:	SEGI_13581	W_mirabilis_06743	 3e-201
+## Alignment 411: score=275.0 e_value=1.4e-11 N=7 seq_chr9&wel_Chr02 minus
+411-  0:	SEGI_29720	W_mirabilis_02610	 1e-130
+411-  1:	SEGI_22117	W_mirabilis_22043	  4e-36
+411-  2:	SEGI_29365	W_mirabilis_00942	  7e-94
+411-  3:	SEGI_14760	W_mirabilis_00941	  2e-84
+411-  4:	SEGI_23918	W_mirabilis_03916	  5e-77
+411-  5:	SEGI_17671	W_mirabilis_16249	 8e-168
+411-  6:	SEGI_12108	W_mirabilis_16254	 4e-135
+## Alignment 412: score=176.0 e_value=0.0007 N=4 seq_chr9&wel_Chr02 minus
+412-  0:	SEGI_16146	W_mirabilis_07326	 7e-139
+412-  1:	SEGI_17016	W_mirabilis_07321	  7e-18
+412-  2:	SEGI_31800	W_mirabilis_05898	 2e-117
+412-  3:	SEGI_28306	W_mirabilis_15296	  1e-15
+## Alignment 413: score=165.0 e_value=1.2e-06 N=5 seq_chr9&wel_Chr02 minus
+413-  0:	SEGI_01873	W_mirabilis_01269	  5e-16
+413-  1:	SEGI_17888	W_mirabilis_04528	  1e-74
+413-  2:	SEGI_40389	W_mirabilis_13796	  3e-07
+413-  3:	SEGI_29496	W_mirabilis_07322	 6e-119
+413-  4:	SEGI_13138	W_mirabilis_15301	 3e-108
+## Alignment 414: score=210.0 e_value=9.7e-07 N=5 seq_chr9&wel_Chr03 plus
+414-  0:	SEGI_13091	W_mirabilis_00790	  3e-08
+414-  1:	SEGI_41177	W_mirabilis_00792	 2e-120
+414-  2:	SEGI_18839	W_mirabilis_00798	  2e-12
+414-  3:	SEGI_04061	W_mirabilis_00800	  2e-35
+414-  4:	SEGI_10665	W_mirabilis_00803	      0
+## Alignment 415: score=182.0 e_value=1.2e-05 N=5 seq_chr9&wel_Chr03 plus
+415-  0:	SEGI_01157	W_mirabilis_26296	  3e-46
+415-  1:	SEGI_35827	W_mirabilis_02304	 2e-142
+415-  2:	SEGI_33633	W_mirabilis_02834	  3e-71
+415-  3:	SEGI_15723	W_mirabilis_03577	  1e-87
+415-  4:	SEGI_30795	W_mirabilis_03829	  2e-31
+## Alignment 416: score=175.0 e_value=2.9e-11 N=7 seq_chr9&wel_Chr03 minus
+416-  0:	SEGI_28558	W_mirabilis_20166	 1e-120
+416-  1:	SEGI_25554	W_mirabilis_05547	  1e-52
+416-  2:	SEGI_02364	W_mirabilis_20191	 4e-103
+416-  3:	SEGI_22391	W_mirabilis_11999	  1e-42
+416-  4:	SEGI_39605	W_mirabilis_25139	  2e-24
+416-  5:	SEGI_05464	W_mirabilis_23799	  6e-72
+416-  6:	SEGI_32360	W_mirabilis_23795	  2e-13
+## Alignment 417: score=151.0 e_value=1.5e-05 N=4 seq_chr9&wel_Chr04 plus
+417-  0:	SEGI_27372	W_mirabilis_22870	  2e-35
+417-  1:	SEGI_41319	W_mirabilis_22886	 2e-109
+417-  2:	SEGI_34771	W_mirabilis_22887	 2e-190
+417-  3:	SEGI_27997	W_mirabilis_22894	  3e-26
+## Alignment 418: score=300.0 e_value=4.8e-18 N=8 seq_chr9&wel_Chr04 minus
+418-  0:	SEGI_36817	W_mirabilis_19415	 4e-172
+418-  1:	SEGI_32000	W_mirabilis_19429	 5e-125
+418-  2:	SEGI_05116	W_mirabilis_19430	  6e-30
+418-  3:	SEGI_27997	W_mirabilis_22894	  3e-26
+418-  4:	SEGI_09680	W_mirabilis_22893	      0
+418-  5:	SEGI_07107	W_mirabilis_22891	  3e-10
+418-  6:	SEGI_21451	W_mirabilis_22888	  1e-05
+418-  7:	SEGI_29098	W_mirabilis_22876	 1e-119
+## Alignment 419: score=202.0 e_value=1.7e-06 N=5 seq_chr9&wel_Chr04 minus
+419-  0:	SEGI_27673	W_mirabilis_25373	 0.0004
+419-  1:	SEGI_32530	W_mirabilis_25362	  7e-18
+419-  2:	SEGI_12591	W_mirabilis_25361	 5e-106
+419-  3:	SEGI_34406	W_mirabilis_11689	  2e-70
+419-  4:	SEGI_28854	W_mirabilis_12363	  2e-57
+## Alignment 420: score=155.0 e_value=7.5e-06 N=5 seq_chr9&wel_Chr04 minus
+420-  0:	SEGI_39542	W_mirabilis_19418	  2e-24
+420-  1:	SEGI_29383	W_mirabilis_14751	  7e-73
+420-  2:	SEGI_18333	W_mirabilis_10554	  2e-65
+420-  3:	SEGI_33985	W_mirabilis_22893	  3e-50
+420-  4:	SEGI_39257	W_mirabilis_22872	  1e-78
+## Alignment 421: score=166.0 e_value=5e-08 N=4 seq_chr9&wel_Chr06 plus
+421-  0:	SEGI_39195	W_mirabilis_22650	  3e-12
+421-  1:	SEGI_33946	W_mirabilis_22647	  1e-05
+421-  2:	SEGI_26933	W_mirabilis_22646	 9e-151
+421-  3:	SEGI_09343	W_mirabilis_22640	 4e-141
+## Alignment 422: score=150.0 e_value=0.00055 N=4 seq_chr9&wel_Chr07 minus
+422-  0:	SEGI_19989	W_mirabilis_03468	  1e-28
+422-  1:	SEGI_31671	W_mirabilis_03469	  2e-29
+422-  2:	SEGI_21455	W_mirabilis_03470	  5e-35
+422-  3:	SEGI_11716	W_mirabilis_03409	  2e-28
+## Alignment 423: score=167.0 e_value=0.00012 N=4 seq_chr9&wel_Chr08 minus
+423-  0:	SEGI_01286	W_mirabilis_16101	 2e-286
+423-  1:	SEGI_10341	W_mirabilis_16102	 1e-129
+423-  2:	SEGI_03728	W_mirabilis_23712	 3e-244
+423-  3:	SEGI_12330	W_mirabilis_10864	  7e-39
+## Alignment 424: score=340.0 e_value=2.7e-27 N=12 seq_chr9&wel_Chr10 plus
+424-  0:	SEGI_03231	W_mirabilis_15753	 5e-114
+424-  1:	SEGI_36403	W_mirabilis_17739	 4e-119
+424-  2:	SEGI_21460	W_mirabilis_22570	  9e-36
+424-  3:	SEGI_09514	W_mirabilis_16723	  3e-19
+424-  4:	SEGI_13636	W_mirabilis_16744	  1e-74
+424-  5:	SEGI_32483	W_mirabilis_05491	  2e-70
+424-  6:	SEGI_19187	W_mirabilis_25132	 1e-159
+424-  7:	SEGI_36218	W_mirabilis_09756	  1e-34
+424-  8:	SEGI_30491	W_mirabilis_19773	  5e-46
+424-  9:	SEGI_01027	W_mirabilis_19776	  5e-16
+424- 10:	SEGI_11797	W_mirabilis_19788	 6e-119
+424- 11:	SEGI_25736	W_mirabilis_23050	  2e-63
+## Alignment 425: score=277.0 e_value=9.8e-23 N=9 seq_chr9&wel_Chr10 plus
+425-  0:	SEGI_36713	W_mirabilis_13933	  1e-61
+425-  1:	SEGI_10328	W_mirabilis_06022	  2e-56
+425-  2:	SEGI_19256	W_mirabilis_06024	 2e-156
+425-  3:	SEGI_22894	W_mirabilis_17741	  4e-33
+425-  4:	SEGI_25252	W_mirabilis_17743	 1e-114
+425-  5:	SEGI_17585	W_mirabilis_16752	  4e-37
+425-  6:	SEGI_01912	W_mirabilis_16753	  1e-19
+425-  7:	SEGI_22230	W_mirabilis_16756	  1e-86
+425-  8:	SEGI_02055	W_mirabilis_26901	  3e-48
+## Alignment 426: score=239.0 e_value=6.7e-13 N=7 seq_chr9&wel_Chr10 plus
+426-  0:	SEGI_20325	W_mirabilis_06023	 1e-159
+426-  1:	SEGI_22365	W_mirabilis_06028	  2e-36
+426-  2:	SEGI_10694	W_mirabilis_22573	 3e-295
+426-  3:	SEGI_33181	W_mirabilis_22571	  2e-41
+426-  4:	SEGI_22392	W_mirabilis_16754	 3e-285
+426-  5:	SEGI_23971	W_mirabilis_17511	  3e-77
+426-  6:	SEGI_30128	W_mirabilis_26901	 0.0004
+## Alignment 427: score=235.0 e_value=4.3e-11 N=6 seq_chr9&wel_Chr10 plus
+427-  0:	SEGI_26894	W_mirabilis_25790	 3e-104
+427-  1:	SEGI_39865	W_mirabilis_25788	 2e-160
+427-  2:	SEGI_01703	W_mirabilis_25786	 4e-100
+427-  3:	SEGI_32757	W_mirabilis_25772	 9e-141
+427-  4:	SEGI_16108	W_mirabilis_09046	  6e-23
+427-  5:	SEGI_17862	W_mirabilis_06021	  2e-11
+## Alignment 428: score=187.0 e_value=2.7e-09 N=5 seq_chr9&wel_Chr10 plus
+428-  0:	SEGI_21964	W_mirabilis_26901	  6e-47
+428-  1:	SEGI_38129	W_mirabilis_00533	  9e-21
+428-  2:	SEGI_38518	W_mirabilis_18931	  3e-53
+428-  3:	SEGI_22822	W_mirabilis_25130	  7e-18
+428-  4:	SEGI_33016	W_mirabilis_25129	 6e-123
+## Alignment 429: score=151.0 e_value=5.6e-09 N=5 seq_chr9&wel_Chr10 plus
+429-  0:	SEGI_15957	W_mirabilis_06027	  8e-78
+429-  1:	SEGI_14205	W_mirabilis_06029	  4e-89
+429-  2:	SEGI_12271	W_mirabilis_17740	  9e-73
+429-  3:	SEGI_07609	W_mirabilis_16747	 9e-113
+429-  4:	SEGI_15492	W_mirabilis_16749	 1e-242
+## Alignment 430: score=215.0 e_value=9.4e-12 N=7 seq_chr9&wel_Chr10 minus
+430-  0:	SEGI_34888	W_mirabilis_19788	 0.0004
+430-  1:	SEGI_15869	W_mirabilis_19769	  1e-23
+430-  2:	SEGI_10387	W_mirabilis_09755	  5e-35
+430-  3:	SEGI_13318	W_mirabilis_00530	  1e-12
+430-  4:	SEGI_12152	W_mirabilis_08454	  9e-32
+430-  5:	SEGI_25736	W_mirabilis_16748	 8e-121
+430-  6:	SEGI_07609	W_mirabilis_16747	 9e-113
+## Alignment 431: score=330.0 e_value=3.3e-31 N=12 seq_chr9&wel_Chr11 plus
+431-  0:	SEGI_16611	W_mirabilis_09736	  6e-52
+431-  1:	SEGI_19375	W_mirabilis_08618	 3e-133
+431-  2:	SEGI_18075	W_mirabilis_15207	  3e-27
+431-  3:	SEGI_33363	W_mirabilis_13548	  1e-38
+431-  4:	SEGI_39437	W_mirabilis_09397	 5e-159
+431-  5:	SEGI_14453	W_mirabilis_01543	 2e-108
+431-  6:	SEGI_35383	W_mirabilis_01539	  5e-16
+431-  7:	SEGI_30970	W_mirabilis_16592	 8e-112
+431-  8:	SEGI_29516	W_mirabilis_16591	 7e-114
+431-  9:	SEGI_03159	W_mirabilis_16587	  1e-06
+431- 10:	SEGI_06959	W_mirabilis_15826	  2e-35
+431- 11:	SEGI_35075	W_mirabilis_09496	  2e-14
+## Alignment 432: score=253.0 e_value=2.1e-14 N=8 seq_chr9&wel_Chr11 plus
+432-  0:	SEGI_06241	W_mirabilis_07456	  1e-75
+432-  1:	SEGI_20583	W_mirabilis_12075	  5e-54
+432-  2:	SEGI_12265	W_mirabilis_23984	 2e-160
+432-  3:	SEGI_35766	W_mirabilis_17075	 1e-199
+432-  4:	SEGI_05823	W_mirabilis_09733	 8e-125
+432-  5:	SEGI_04343	W_mirabilis_00913	 3e-168
+432-  6:	SEGI_34064	W_mirabilis_09747	 2e-192
+432-  7:	SEGI_15873	W_mirabilis_08621	  6e-65
+## Alignment 433: score=211.0 e_value=1.4e-10 N=6 seq_chr9&wel_Chr11 plus
+433-  0:	SEGI_02868	W_mirabilis_09485	  1e-28
+433-  1:	SEGI_32950	W_mirabilis_18390	 3e-176
+433-  2:	SEGI_18156	W_mirabilis_12175	  8e-12
+433-  3:	SEGI_39389	W_mirabilis_07963	  2e-13
+433-  4:	SEGI_36405	W_mirabilis_07965	  6e-83
+433-  5:	SEGI_28323	W_mirabilis_06166	 4e-106
+## Alignment 434: score=156.0 e_value=6.5e-06 N=4 seq_chr9&wel_Chr11 plus
+434-  0:	SEGI_36625	W_mirabilis_21677	  1e-37
+434-  1:	SEGI_19453	W_mirabilis_19605	 1e-114
+434-  2:	SEGI_23538	W_mirabilis_10535	  6e-11
+434-  3:	SEGI_17721	W_mirabilis_10536	  1e-76
+## Alignment 435: score=150.0 e_value=4.3e-08 N=5 seq_chr9&wel_Chr11 plus
+435-  0:	SEGI_28925	W_mirabilis_12073	 1e-129
+435-  1:	SEGI_17808	W_mirabilis_23984	 4e-149
+435-  2:	SEGI_21029	W_mirabilis_09743	  8e-17
+435-  3:	SEGI_02306	W_mirabilis_09749	 3e-248
+435-  4:	SEGI_12503	W_mirabilis_09750	  6e-62
+## Alignment 436: score=261.0 e_value=3.7e-19 N=9 seq_chr9&wel_Chr11 minus
+436-  0:	SEGI_05014	W_mirabilis_16491	  8e-33
+436-  1:	SEGI_33959	W_mirabilis_15054	  3e-63
+436-  2:	SEGI_34705	W_mirabilis_05625	 2e-140
+436-  3:	SEGI_02308	W_mirabilis_05628	 3e-158
+436-  4:	SEGI_13273	W_mirabilis_07907	  2e-74
+436-  5:	SEGI_21452	W_mirabilis_18161	 1e-300
+436-  6:	SEGI_25569	W_mirabilis_18163	  4e-18
+436-  7:	SEGI_01819	W_mirabilis_15204	  2e-14
+436-  8:	SEGI_14936	W_mirabilis_20163	  4e-19
+## Alignment 437: score=211.0 e_value=5.3e-13 N=7 seq_chr9&wel_Chr11 minus
+437-  0:	SEGI_16877	W_mirabilis_08950	 5e-215
+437-  1:	SEGI_11354	W_mirabilis_19205	  2e-61
+437-  2:	SEGI_21003	W_mirabilis_19204	  4e-58
+437-  3:	SEGI_01149	W_mirabilis_09754	  1e-42
+437-  4:	SEGI_18682	W_mirabilis_09746	  4e-14
+437-  5:	SEGI_28542	W_mirabilis_12100	  5e-40
+437-  6:	SEGI_08439	W_mirabilis_12096	  1e-33
+## Alignment 438: score=204.0 e_value=6.6e-12 N=7 seq_chr9&wel_Chr11 minus
+438-  0:	SEGI_25418	W_mirabilis_00669	  4e-24
+438-  1:	SEGI_06695	W_mirabilis_00668	  1e-36
+438-  2:	SEGI_37200	W_mirabilis_02618	  5e-24
+438-  3:	SEGI_12651	W_mirabilis_14709	  4e-29
+438-  4:	SEGI_21458	W_mirabilis_14288	  1e-74
+438-  5:	SEGI_14656	W_mirabilis_14679	  2e-26
+438-  6:	SEGI_17293	W_mirabilis_01541	  2e-46
+## Alignment 439: score=233.0 e_value=3.3e-09 N=6 seq_chr9&wel_Chr14 plus
+439-  0:	SEGI_01361	W_mirabilis_14397	  7e-39
+439-  1:	SEGI_31426	W_mirabilis_14399	 3e-155
+439-  2:	SEGI_17356	W_mirabilis_08308	 6e-107
+439-  3:	SEGI_35766	W_mirabilis_23592	  7e-54
+439-  4:	SEGI_28595	W_mirabilis_23595	 1e-169
+439-  5:	SEGI_11107	W_mirabilis_10127	  4e-16
+## Alignment 440: score=181.0 e_value=8.1e-06 N=5 seq_chr9&wel_Chr14 plus
+440-  0:	SEGI_00743	W_mirabilis_14401	  4e-75
+440-  1:	SEGI_18062	W_mirabilis_08307	  1e-25
+440-  2:	SEGI_17808	W_mirabilis_23595	 3e-177
+440-  3:	SEGI_39023	W_mirabilis_10125	  2e-27
+440-  4:	SEGI_28056	W_mirabilis_10118	      0
+## Alignment 441: score=159.0 e_value=0.00069 N=4 seq_chr9&wel_Chr14 plus
+441-  0:	SEGI_32276	W_mirabilis_23675	 2e-206
+441-  1:	SEGI_21616	W_mirabilis_16433	 5e-188
+441-  2:	SEGI_37087	W_mirabilis_26642	  7e-67
+441-  3:	SEGI_35141	W_mirabilis_26635	  2e-22
+## Alignment 442: score=157.0 e_value=0.00025 N=4 seq_chr9&wel_Chr14 plus
+442-  0:	SEGI_12503	W_mirabilis_24892	 2e-103
+442-  1:	SEGI_22600	W_mirabilis_20565	  8e-88
+442-  2:	SEGI_34558	W_mirabilis_22449	  2e-31
+442-  3:	SEGI_09864	W_mirabilis_17231	  2e-20
+## Alignment 443: score=294.0 e_value=2.7e-17 N=7 seq_chr9&wel_Chr14 minus
+443-  0:	SEGI_34774	W_mirabilis_10117	 8e-131
+443-  1:	SEGI_09913	W_mirabilis_10121	  2e-17
+443-  2:	SEGI_15712	W_mirabilis_10123	  8e-67
+443-  3:	SEGI_12265	W_mirabilis_23595	 3e-231
+443-  4:	SEGI_00596	W_mirabilis_14394	  1e-10
+443-  5:	SEGI_40233	W_mirabilis_03758	  7e-32
+443-  6:	SEGI_28439	W_mirabilis_03757	  7e-15
+## Alignment 444: score=186.0 e_value=0.00027 N=4 seq_chr9&wel_Chr14 minus
+444-  0:	SEGI_23265	W_mirabilis_22448	  1e-50
+444-  1:	SEGI_15940	W_mirabilis_09828	  7e-50
+444-  2:	SEGI_14169	W_mirabilis_09834	  4e-45
+444-  3:	SEGI_15873	W_mirabilis_12204	  1e-71
+## Alignment 445: score=162.0 e_value=0.00018 N=4 seq_chr9&wel_Chr14 minus
+445-  0:	SEGI_09103	W_mirabilis_15080	  3e-53
+445-  1:	SEGI_05339	W_mirabilis_16432	 3e-216
+445-  2:	SEGI_28925	W_mirabilis_10445	 2e-134
+445-  3:	SEGI_04787	W_mirabilis_17035	  4e-20
+## Alignment 446: score=205.0 e_value=1e-06 N=5 seq_chr9&wel_Chr15 plus
+446-  0:	SEGI_14695	W_mirabilis_21353	  3e-32
+446-  1:	SEGI_08712	W_mirabilis_00248	  5e-50
+446-  2:	SEGI_28224	W_mirabilis_25736	  1e-31
+446-  3:	SEGI_09474	W_mirabilis_03580	      0
+446-  4:	SEGI_01027	W_mirabilis_14556	  9e-11
+## Alignment 447: score=205.0 e_value=6.8e-09 N=6 seq_chr9&wel_Chr15 minus
+447-  0:	SEGI_01423	W_mirabilis_13774	 4e-201
+447-  1:	SEGI_21460	W_mirabilis_00249	  9e-60
+447-  2:	SEGI_31755	W_mirabilis_19533	  1e-85
+447-  3:	SEGI_20325	W_mirabilis_15469	 1e-153
+447-  4:	SEGI_33925	W_mirabilis_00288	  1e-64
+447-  5:	SEGI_35371	W_mirabilis_03012	  3e-76
+## Alignment 448: score=179.0 e_value=4.1e-06 N=5 seq_chr9&wel_Chr15 minus
+448-  0:	SEGI_11652	W_mirabilis_03578	 4e-206
+448-  1:	SEGI_30491	W_mirabilis_25741	  2e-62
+448-  2:	SEGI_10387	W_mirabilis_16214	  8e-68
+448-  3:	SEGI_10694	W_mirabilis_19535	      0
+448-  4:	SEGI_22894	W_mirabilis_00287	  5e-38
+## Alignment 449: score=268.0 e_value=1.3e-11 N=7 seq_chr9&wel_Chr19 plus
+449-  0:	SEGI_04437	W_mirabilis_19121	  1e-37
+449-  1:	SEGI_00397	W_mirabilis_03279	 3e-134
+449-  2:	SEGI_40356	W_mirabilis_03277	 2e-187
+449-  3:	SEGI_28959	W_mirabilis_03276	  2e-17
+449-  4:	SEGI_28577	W_mirabilis_14629	  2e-27
+449-  5:	SEGI_36432	W_mirabilis_07416	  2e-78
+449-  6:	SEGI_15821	W_mirabilis_23957	 9e-102
+## Alignment 450: score=150.0 e_value=1.2e-05 N=4 seq_chr9&wel_Chr19 plus
+450-  0:	SEGI_37316	W_mirabilis_09392	  2e-61
+450-  1:	SEGI_18764	W_mirabilis_03782	  8e-34
+450-  2:	SEGI_10978	W_mirabilis_03780	 2e-122
+450-  3:	SEGI_13462	W_mirabilis_03778	  4e-37
+## Alignment 451: score=183.0 e_value=1.1e-09 N=6 seq_chr9&wel_Chr19 minus
+451-  0:	SEGI_24060	W_mirabilis_10836	 2e-231
+451-  1:	SEGI_27003	W_mirabilis_10832	  8e-91
+451-  2:	SEGI_13462	W_mirabilis_03778	  4e-37
+451-  3:	SEGI_00397	W_mirabilis_03780	 3e-153
+451-  4:	SEGI_08795	W_mirabilis_02630	  6e-94
+451-  5:	SEGI_04501	W_mirabilis_07653	 2e-241
+## Alignment 452: score=183.0 e_value=0.00027 N=4 seq_chr9&wel_Chr19 minus
+452-  0:	SEGI_10980	W_mirabilis_26387	  9e-57
+452-  1:	SEGI_22581	W_mirabilis_24393	 1e-103
+452-  2:	SEGI_12637	W_mirabilis_12559	  8e-97
+452-  3:	SEGI_34708	W_mirabilis_12557	  2e-53
+## Alignment 453: score=208.0 e_value=6.4e-15 N=7 seq_chr9&wel_Chr21 plus
+453-  0:	SEGI_21748	W_mirabilis_04849	 5e-135
+453-  1:	SEGI_25574	W_mirabilis_11975	  5e-64
+453-  2:	SEGI_37536	W_mirabilis_11978	  1e-90
+453-  3:	SEGI_19717	W_mirabilis_01250	  4e-63
+453-  4:	SEGI_14139	W_mirabilis_01251	 3e-153
+453-  5:	SEGI_07069	W_mirabilis_01313	  3e-98
+453-  6:	SEGI_12858	W_mirabilis_02995	 2e-105
+## Alignment 454: score=162.0 e_value=1.5e-06 N=4 seq_chr9&wel_Chr21 plus
+454-  0:	SEGI_09274	W_mirabilis_11505	  1e-54
+454-  1:	SEGI_28446	W_mirabilis_11506	  5e-38
+454-  2:	SEGI_37856	W_mirabilis_11508	 1e-238
+454-  3:	SEGI_14729	W_mirabilis_13241	  6e-32
+## Alignment 455: score=152.0 e_value=1.9e-09 N=6 seq_chr9&wel_Chr21 plus
+455-  0:	SEGI_35265	W_mirabilis_01321	  3e-55
+455-  1:	SEGI_26839	W_mirabilis_01771	 8e-198
+455-  2:	SEGI_21513	W_mirabilis_05526	 1e-104
+455-  3:	SEGI_18781	W_mirabilis_05584	  8e-73
+455-  4:	SEGI_05286	W_mirabilis_08369	  3e-27
+455-  5:	SEGI_19724	W_mirabilis_09641	  2e-16
+## Alignment 456: score=224.0 e_value=5.3e-13 N=7 seq_chr9&wel_Chr21 minus
+456-  0:	SEGI_22094	W_mirabilis_09011	  2e-43
+456-  1:	SEGI_17671	W_mirabilis_07068	 1e-172
+456-  2:	SEGI_36371	W_mirabilis_07067	  9e-19
+456-  3:	SEGI_22662	W_mirabilis_07066	 9e-111
+456-  4:	SEGI_06829	W_mirabilis_05591	  9e-81
+456-  5:	SEGI_17056	W_mirabilis_05586	 2e-253
+456-  6:	SEGI_06259	W_mirabilis_02994	  8e-82

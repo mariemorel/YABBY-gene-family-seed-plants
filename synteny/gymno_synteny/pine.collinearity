@@ -1,0 +1,1328 @@
+############### Parameters ###############
+# MATCH_SCORE: 50
+# GAP_PENALTY: -1
+# MATCH_SIZE: 3
+# OVERLAP_WINDOW: 5
+# E_VALUE: 0.001
+# MAX GAPS: 55
+############### Statistics ###############
+# Number of collinear genes: 2007, Percentage: 2.78
+# Number of all genes: 72305
+##########################################
+## Alignment 0: score=371.0 e_value=6.6e-16 N=8 pin_chr1&pin_chr1 plus
+  0-  0:	Pt1G70650.1	Pt1G71870.1	  1e-65
+  0-  1:	Pt1G70710.1	Pt1G71920.1	  3e-37
+  0-  2:	Pt1G70730.1	Pt1G71980.1	  7e-44
+  0-  3:	Pt1G70740.1	Pt1G72030.1	 6e-159
+  0-  4:	Pt1G70760.1	Pt1G72040.1	  4e-35
+  0-  5:	Pt1G70840.1	Pt1G72110.1	  2e-46
+  0-  6:	Pt1G70850.1	Pt1G72140.1	  7e-57
+  0-  7:	Pt1G70900.9	Pt1G72200.1	 7e-235
+## Alignment 1: score=248.0 e_value=2.7e-14 N=7 pin_chr1&pin_chr1 plus
+  1-  0:	Pt1G06830.1	Pt1G09350.1	 1e-213
+  1-  1:	Pt1G07250.9	Pt1G09400.1	 2e-161
+  1-  2:	Pt1G07820.2	Pt1G09820.1	  1e-58
+  1-  3:	Pt1G07850.2	Pt1G09830.1	 1e-189
+  1-  4:	Pt1G07920.1	Pt1G09870.1	  7e-31
+  1-  5:	Pt1G07930.1	Pt1G09900.1	 4e-238
+  1-  6:	Pt1G07990.1	Pt1G09930.1	 5e-261
+## Alignment 2: score=237.0 e_value=9.2e-07 N=5 pin_chr1&pin_chr1 plus
+  2-  0:	Pt1G36640.1	Pt1G54060.1	  5e-96
+  2-  1:	Pt1G36650.1	Pt1G54080.1	 2e-104
+  2-  2:	Pt1G36680.1	Pt1G54110.1	 2e-104
+  2-  3:	Pt1G36730.1	Pt1G54120.1	  1e-92
+  2-  4:	Pt1G36810.1	Pt1G54170.1	  6e-92
+## Alignment 3: score=198.0 e_value=0.00039 N=4 pin_chr1&pin_chr1 plus
+  3-  0:	Pt1G01790.1	Pt1G11700.1	  2e-56
+  3-  1:	Pt1G01810.1	Pt1G11710.1	  8e-06
+  3-  2:	Pt1G01830.1	Pt1G11730.1	  4e-91
+  3-  3:	Pt1G01840.3	Pt1G11740.1	 7e-179
+## Alignment 4: score=195.0 e_value=5.8e-05 N=4 pin_chr1&pin_chr1 plus
+  4-  0:	Pt1G32650.1	Pt1G54080.1	 2e-104
+  4-  1:	Pt1G32660.1	Pt1G54110.1	 3e-102
+  4-  2:	Pt1G32670.1	Pt1G54120.1	  2e-36
+  4-  3:	Pt1G32680.1	Pt1G54160.1	  5e-71
+## Alignment 5: score=190.0 e_value=1.1e-13 N=5 pin_chr1&pin_chr1 plus
+  5-  0:	Pt1G32090.1	Pt1G36140.10	  3e-29
+  5-  1:	Pt1G32650.1	Pt1G36490.1	  1e-94
+  5-  2:	Pt1G32660.1	Pt1G36520.1	  1e-86
+  5-  3:	Pt1G32670.1	Pt1G36630.1	  2e-60
+  5-  4:	Pt1G32680.1	Pt1G36640.1	  4e-93
+## Alignment 6: score=179.0 e_value=9.9e-08 N=4 pin_chr1&pin_chr1 plus
+  6-  0:	Pt1G07790.1	Pt1G09830.1	 2e-179
+  6-  1:	Pt1G07830.1	Pt1G09840.1	 6e-197
+  6-  2:	Pt1G08040.1	Pt1G09890.1	  9e-55
+  6-  3:	Pt1G08050.1	Pt1G09900.1	 4e-233
+## Alignment 7: score=178.0 e_value=0.00094 N=4 pin_chr1&pin_chr1 plus
+  7-  0:	Pt1G61340.1	Pt1G62130.18	 1e-249
+  7-  1:	Pt1G61380.1	Pt1G62200.1	 7e-208
+  7-  2:	Pt1G61540.1	Pt1G62250.1	  1e-66
+  7-  3:	Pt1G61590.1	Pt1G62270.1	  4e-50
+## Alignment 8: score=174.0 e_value=3.4e-05 N=4 pin_chr1&pin_chr1 plus
+  8-  0:	Pt1G70720.1	Pt1G71900.1	 2e-288
+  8-  1:	Pt1G70730.1	Pt1G72120.1	  1e-35
+  8-  2:	Pt1G70780.1	Pt1G72150.1	  1e-34
+  8-  3:	Pt1G70810.1	Pt1G72180.1	  1e-30
+## Alignment 9: score=173.0 e_value=0.00084 N=4 pin_chr1&pin_chr1 plus
+  9-  0:	Pt1G36720.1	Pt1G54060.1	 1e-119
+  9-  1:	Pt1G36750.1	Pt1G54080.1	 2e-104
+  9-  2:	Pt1G36930.1	Pt1G54110.1	  2e-95
+  9-  3:	Pt1G37020.1	Pt1G54140.1	  3e-96
+## Alignment 10: score=366.0 e_value=3.6e-22 N=9 pin_chr1&pin_chr1 minus
+ 10-  0:	Pt1G21080.1	Pt1G22560.1	 9e-220
+ 10-  1:	Pt1G21580.1	Pt1G22360.4	  9e-81
+ 10-  2:	Pt1G21800.1	Pt1G22290.1	  9e-56
+ 10-  3:	Pt1G21810.1	Pt1G22270.1	  2e-20
+ 10-  4:	Pt1G21820.1	Pt1G22260.1	  6e-89
+ 10-  5:	Pt1G21830.1	Pt1G22250.1	  3e-33
+ 10-  6:	Pt1G21880.2	Pt1G22230.1	 3e-305
+ 10-  7:	Pt1G21900.1	Pt1G22170.1	      0
+ 10-  8:	Pt1G21920.1	Pt1G22000.1	      0
+## Alignment 11: score=325.0 e_value=1.8e-11 N=7 pin_chr1&pin_chr1 minus
+ 11-  0:	Pt1G66110.1	Pt1G66800.1	      0
+ 11-  1:	Pt1G66160.1	Pt1G66790.1	 8e-105
+ 11-  2:	Pt1G66180.1	Pt1G66780.1	 7e-265
+ 11-  3:	Pt1G66200.1	Pt1G66740.1	 1e-291
+ 11-  4:	Pt1G66210.4	Pt1G66730.1	 1e-123
+ 11-  5:	Pt1G66240.1	Pt1G66710.1	  1e-64
+ 11-  6:	Pt1G66390.1	Pt1G66510.1	 2e-258
+## Alignment 12: score=255.0 e_value=1.4e-16 N=7 pin_chr1&pin_chr1 minus
+ 12-  0:	Pt1G09680.1	Pt1G11680.1	      0
+ 12-  1:	Pt1G10030.2	Pt1G11500.1	  2e-07
+ 12-  2:	Pt1G10120.4	Pt1G11490.1	 2e-284
+ 12-  3:	Pt1G10140.1	Pt1G11470.1	  4e-88
+ 12-  4:	Pt1G10270.1	Pt1G11050.1	  6e-23
+ 12-  5:	Pt1G10280.1	Pt1G10940.1	 2e-126
+ 12-  6:	Pt1G10360.1	Pt1G10930.1	  2e-41
+## Alignment 13: score=254.0 e_value=1.1e-08 N=6 pin_chr1&pin_chr1 minus
+ 13-  0:	Pt1G07090.1	Pt1G15720.1	      0
+ 13-  1:	Pt1G07110.1	Pt1G15650.1	 5e-253
+ 13-  2:	Pt1G07120.1	Pt1G15600.1	 1e-292
+ 13-  3:	Pt1G07180.2	Pt1G15480.1	  6e-90
+ 13-  4:	Pt1G07190.1	Pt1G15390.1	  1e-66
+ 13-  5:	Pt1G07400.1	Pt1G15320.1	  1e-23
+## Alignment 14: score=249.0 e_value=8.2e-11 N=6 pin_chr1&pin_chr1 minus
+ 14-  0:	Pt1G36520.1	Pt1G54140.1	  2e-85
+ 14-  1:	Pt1G36630.1	Pt1G54120.1	  5e-38
+ 14-  2:	Pt1G36870.1	Pt1G54110.1	 5e-105
+ 14-  3:	Pt1G36910.1	Pt1G54060.1	  5e-96
+ 14-  4:	Pt1G37070.1	Pt1G54040.1	  7e-29
+ 14-  5:	Pt1G37080.1	Pt1G54030.2	  6e-18
+## Alignment 15: score=237.0 e_value=7.4e-12 N=6 pin_chr1&pin_chr1 minus
+ 15-  0:	Pt1G39270.1	Pt1G40300.1	  1e-96
+ 15-  1:	Pt1G39420.1	Pt1G40290.1	  3e-96
+ 15-  2:	Pt1G39830.1	Pt1G40140.1	 6e-103
+ 15-  3:	Pt1G39840.2	Pt1G40130.1	  2e-33
+ 15-  4:	Pt1G39850.1	Pt1G40110.1	 9e-121
+ 15-  5:	Pt1G39960.1	Pt1G40070.1	 6e-314
+## Alignment 16: score=206.0 e_value=2.5e-09 N=6 pin_chr1&pin_chr1 minus
+ 16-  0:	Pt1G49700.1	Pt1G51100.1	 3e-170
+ 16-  1:	Pt1G49850.2	Pt1G50650.1	  5e-82
+ 16-  2:	Pt1G49920.1	Pt1G50590.1	  9e-66
+ 16-  3:	Pt1G50060.1	Pt1G50530.1	  5e-62
+ 16-  4:	Pt1G50420.5	Pt1G50480.2	 8e-182
+ 16-  5:	Pt1G50450.1	Pt1G50470.1	 1e-148
+## Alignment 17: score=200.0 e_value=0.00049 N=4 pin_chr1&pin_chr1 minus
+ 17-  0:	Pt1G01850.1	Pt1G11690.1	      0
+ 17-  1:	Pt1G01870.1	Pt1G11680.1	      0
+ 17-  2:	Pt1G01880.1	Pt1G11670.1	      0
+ 17-  3:	Pt1G01900.1	Pt1G11650.1	 3e-128
+## Alignment 18: score=192.0 e_value=2e-05 N=4 pin_chr1&pin_chr1 minus
+ 18-  0:	Pt1G73120.1	Pt1G73380.1	 4e-218
+ 18-  1:	Pt1G73160.1	Pt1G73370.1	 1e-100
+ 18-  2:	Pt1G73170.1	Pt1G73360.2	      0
+ 18-  3:	Pt1G73180.1	Pt1G73290.1	 1e-103
+## Alignment 19: score=190.0 e_value=2.6e-07 N=5 pin_chr1&pin_chr1 minus
+ 19-  0:	Pt1G27810.4	Pt1G28830.1	 1e-176
+ 19-  1:	Pt1G27860.1	Pt1G28780.1	 3e-180
+ 19-  2:	Pt1G27970.1	Pt1G28610.1	  2e-24
+ 19-  3:	Pt1G28010.1	Pt1G28600.1	 4e-117
+ 19-  4:	Pt1G28180.1	Pt1G28210.1	 2e-121
+## Alignment 20: score=182.0 e_value=2.4e-09 N=5 pin_chr1&pin_chr1 minus
+ 20-  0:	Pt1G69570.1	Pt1G70720.1	 3e-110
+ 20-  1:	Pt1G70130.1	Pt1G70500.1	  6e-81
+ 20-  2:	Pt1G70140.1	Pt1G70490.1	 1e-141
+ 20-  3:	Pt1G70190.1	Pt1G70470.1	  7e-23
+ 20-  4:	Pt1G70360.1	Pt1G70370.1	 7e-114
+## Alignment 21: score=182.0 e_value=6.9e-05 N=4 pin_chr1&pin_chr1 minus
+ 21-  0:	Pt1G70700.1	Pt1G72140.1	  1e-37
+ 21-  1:	Pt1G70810.1	Pt1G72000.1	  6e-31
+ 21-  2:	Pt1G70830.1	Pt1G71980.1	  2e-30
+ 21-  3:	Pt1G70850.1	Pt1G71920.1	  4e-40
+## Alignment 22: score=181.0 e_value=5.2e-06 N=5 pin_chr1&pin_chr1 minus
+ 22-  0:	Pt1G00310.1	Pt1G12140.1	 3e-235
+ 22-  1:	Pt1G00610.1	Pt1G12070.1	 8e-238
+ 22-  2:	Pt1G00720.1	Pt1G11940.1	  3e-50
+ 22-  3:	Pt1G00860.1	Pt1G11690.1	      0
+ 22-  4:	Pt1G01000.1	Pt1G11650.1	  1e-38
+## Alignment 23: score=172.0 e_value=1.9e-07 N=5 pin_chr1&pin_chr1 minus
+ 23-  0:	Pt1G06060.1	Pt1G07260.1	 1e-111
+ 23-  1:	Pt1G06120.7	Pt1G06880.1	 3e-141
+ 23-  2:	Pt1G06140.1	Pt1G06830.1	  7e-70
+ 23-  3:	Pt1G06220.1	Pt1G06550.1	  2e-11
+ 23-  4:	Pt1G06430.1	Pt1G06450.1	 4e-201
+## Alignment 24: score=154.0 e_value=1.7e-07 N=5 pin_chr1&pin_chr1 minus
+ 24-  0:	Pt1G00490.1	Pt1G01900.1	  1e-43
+ 24-  1:	Pt1G00670.1	Pt1G01850.1	      0
+ 24-  2:	Pt1G00900.1	Pt1G01470.1	      0
+ 24-  3:	Pt1G00930.1	Pt1G01450.1	 2e-179
+ 24-  4:	Pt1G00940.1	Pt1G00950.1	      0
+## Alignment 25: score=187.0 e_value=3.7e-09 N=6 pin_chr1&pin_chr12 plus
+ 25-  0:	Pt1G50820.1	PtQG21540.1	 2e-136
+ 25-  1:	Pt1G50980.1	PtQG21560.1	  3e-91
+ 25-  2:	Pt1G51460.2	PtQG22090.1	  3e-47
+ 25-  3:	Pt1G51660.1	PtQG22430.1	  7e-14
+ 25-  4:	Pt1G51830.1	PtQG22580.1	  2e-25
+ 25-  5:	Pt1G51870.1	PtQG22600.1	  2e-40
+## Alignment 26: score=178.0 e_value=6.5e-11 N=5 pin_chr1&pin_chr3 plus
+ 26-  0:	Pt1G66900.1	Pt3G07810.1	  1e-23
+ 26-  1:	Pt1G66960.1	Pt3G08220.1	 1e-160
+ 26-  2:	Pt1G67030.1	Pt3G08240.1	  1e-51
+ 26-  3:	Pt1G67040.1	Pt3G08250.1	  3e-86
+ 26-  4:	Pt1G67400.1	Pt3G08440.1	  4e-58
+## Alignment 27: score=186.0 e_value=0.00037 N=4 pin_chr1&pin_chr3 minus
+ 27-  0:	Pt1G51250.13	Pt3G66740.1	  3e-44
+ 27-  1:	Pt1G51310.1	Pt3G66680.3	 2e-180
+ 27-  2:	Pt1G51340.1	Pt3G66600.1	 6e-125
+ 27-  3:	Pt1G51380.1	Pt3G66580.7	 3e-113
+## Alignment 28: score=158.0 e_value=1.1e-07 N=4 pin_chr1&pin_chr4 minus
+ 28-  0:	Pt1G02400.1	Pt4G49340.1	  8e-46
+ 28-  1:	Pt1G02410.1	Pt4G49320.1	  5e-48
+ 28-  2:	Pt1G02420.1	Pt4G49310.1	 2e-291
+ 28-  3:	Pt1G02520.1	Pt4G48860.1	  2e-33
+## Alignment 29: score=184.0 e_value=2e-12 N=6 pin_chr1&pin_chr7 plus
+ 29-  0:	Pt1G70080.1	Pt7G05950.1	 3e-245
+ 29-  1:	Pt1G70220.1	Pt7G06000.1	  6e-50
+ 29-  2:	Pt1G70250.1	Pt7G06010.1	 2e-172
+ 29-  3:	Pt1G70360.1	Pt7G06090.1	 3e-107
+ 29-  4:	Pt1G70600.1	Pt7G06640.3	  1e-53
+ 29-  5:	Pt1G71080.1	Pt7G06830.3	 3e-185
+## Alignment 30: score=183.0 e_value=3e-05 N=4 pin_chr1&pin_chr9 minus
+ 30-  0:	Pt1G67130.18	Pt9G39300.1	 5e-118
+ 30-  1:	Pt1G67150.1	Pt9G39230.1	 1e-166
+ 30-  2:	Pt1G67260.11	Pt9G39100.1	 8e-167
+ 30-  3:	Pt1G67270.16	Pt9G39090.18	 6e-254
+## Alignment 31: score=179.0 e_value=0.00079 N=4 pin_chr1&pin_tig00292686 plus
+ 31-  0:	Pt1G18620.1	Pt0G16130.1	  2e-85
+ 31-  1:	Pt1G18690.1	Pt0G16140.1	 1e-313
+ 31-  2:	Pt1G18770.1	Pt0G16160.1	  1e-69
+ 31-  3:	Pt1G18870.2	Pt0G16170.1	 7e-142
+## Alignment 32: score=185.0 e_value=3.3e-07 N=5 pin_chr10&pin_chr10 plus
+ 32-  0:	PtXG40900.1	PtXG41620.1	  5e-93
+ 32-  1:	PtXG40920.1	PtXG41640.1	 2e-108
+ 32-  2:	PtXG41010.1	PtXG41970.1	 9e-111
+ 32-  3:	PtXG41300.1	PtXG42080.1	  3e-63
+ 32-  4:	PtXG41350.1	PtXG42170.1	  2e-94
+## Alignment 33: score=184.0 e_value=7.3e-05 N=4 pin_chr10&pin_chr10 plus
+ 33-  0:	PtXG45030.3	PtXG48170.1	 4e-200
+ 33-  1:	PtXG45040.1	PtXG48180.1	 4e-206
+ 33-  2:	PtXG45150.1	PtXG48350.1	  1e-37
+ 33-  3:	PtXG45170.1	PtXG48370.1	 6e-179
+## Alignment 34: score=397.0 e_value=4.6e-14 N=8 pin_chr10&pin_chr10 minus
+ 34-  0:	PtXG03390.2	PtXG03950.1	 3e-284
+ 34-  1:	PtXG03400.1	PtXG03930.1	  4e-67
+ 34-  2:	PtXG03410.3	PtXG03920.1	  2e-69
+ 34-  3:	PtXG03420.1	PtXG03910.2	  2e-86
+ 34-  4:	PtXG03450.1	PtXG03890.3	 3e-100
+ 34-  5:	PtXG03470.7	PtXG03880.1	 6e-215
+ 34-  6:	PtXG03480.4	PtXG03870.1	 5e-285
+ 34-  7:	PtXG03490.5	PtXG03860.1	 4e-117
+## Alignment 35: score=293.0 e_value=2.3e-09 N=6 pin_chr10&pin_chr10 minus
+ 35-  0:	PtXG34420.1	PtXG34710.1	 3e-187
+ 35-  1:	PtXG34450.1	PtXG34700.1	  3e-33
+ 35-  2:	PtXG34460.1	PtXG34690.1	 3e-158
+ 35-  3:	PtXG34470.1	PtXG34680.1	 4e-218
+ 35-  4:	PtXG34490.1	PtXG34670.1	      0
+ 35-  5:	PtXG34540.1	PtXG34610.1	 2e-223
+## Alignment 36: score=233.0 e_value=4.4e-06 N=5 pin_chr10&pin_chr10 minus
+ 36-  0:	PtXG37320.1	PtXG37790.1	  1e-77
+ 36-  1:	PtXG37370.1	PtXG37750.1	  4e-49
+ 36-  2:	PtXG37390.1	PtXG37730.1	 1e-133
+ 36-  3:	PtXG37410.1	PtXG37680.1	  5e-34
+ 36-  4:	PtXG37520.1	PtXG37620.1	  8e-49
+## Alignment 37: score=204.0 e_value=1.6e-08 N=5 pin_chr10&pin_chr10 minus
+ 37-  0:	PtXG32110.1	PtXG35940.1	      0
+ 37-  1:	PtXG32420.1	PtXG35530.1	  2e-89
+ 37-  2:	PtXG32440.1	PtXG35520.1	      0
+ 37-  3:	PtXG32460.1	PtXG35510.1	      0
+ 37-  4:	PtXG32540.1	PtXG35410.1	 2e-210
+## Alignment 38: score=192.0 e_value=0.00013 N=4 pin_chr10&pin_chr10 minus
+ 38-  0:	PtXG51390.1	PtXG51590.1	      0
+ 38-  1:	PtXG51410.1	PtXG51580.2	  3e-60
+ 38-  2:	PtXG51430.1	PtXG51500.1	  2e-69
+ 38-  3:	PtXG51440.1	PtXG51480.1	  3e-09
+## Alignment 39: score=190.0 e_value=0.00026 N=4 pin_chr10&pin_chr10 minus
+ 39-  0:	PtXG52240.1	PtXG52640.1	  4e-70
+ 39-  1:	PtXG52320.1	PtXG52600.1	 2e-203
+ 39-  2:	PtXG52350.6	PtXG52580.4	 4e-135
+ 39-  3:	PtXG52360.1	PtXG52550.1	  2e-61
+## Alignment 40: score=168.0 e_value=4.4e-06 N=5 pin_chr10&pin_chr10 minus
+ 40-  0:	PtXG45030.1	PtXG48230.1	 1e-199
+ 40-  1:	PtXG45120.1	PtXG48180.1	 1e-205
+ 40-  2:	PtXG45670.1	PtXG47900.1	  4e-63
+ 40-  3:	PtXG45740.1	PtXG47860.1	  3e-14
+ 40-  4:	PtXG45990.1	PtXG47850.1	  3e-10
+## Alignment 41: score=196.0 e_value=9e-08 N=5 pin_chr10&pin_chr11 plus
+ 41-  0:	PtXG19030.1	PtJG40510.1	  1e-06
+ 41-  1:	PtXG19300.1	PtJG40890.1	  6e-86
+ 41-  2:	PtXG19360.1	PtJG40980.1	 7e-102
+ 41-  3:	PtXG19370.5	PtJG41000.1	  4e-41
+ 41-  4:	PtXG19580.1	PtJG41110.1	 3e-300
+## Alignment 42: score=191.0 e_value=4.6e-07 N=5 pin_chr10&pin_chr11 minus
+ 42-  0:	PtXG10780.1	PtJG44810.1	  4e-25
+ 42-  1:	PtXG10830.1	PtJG44730.1	  8e-61
+ 42-  2:	PtXG10860.1	PtJG44710.1	 2e-135
+ 42-  3:	PtXG10880.1	PtJG44690.1	 5e-117
+ 42-  4:	PtXG11470.1	PtJG44430.3	 1e-152
+## Alignment 43: score=180.0 e_value=0.00018 N=4 pin_chr10&pin_chr3 minus
+ 43-  0:	PtXG24800.1	Pt3G42210.1	  8e-31
+ 43-  1:	PtXG24850.1	Pt3G42200.1	  5e-55
+ 43-  2:	PtXG24870.1	Pt3G42100.1	  6e-38
+ 43-  3:	PtXG24970.1	Pt3G41980.1	  2e-26
+## Alignment 44: score=165.0 e_value=0.00026 N=4 pin_chr10&pin_chr4 plus
+ 44-  0:	PtXG26230.1	Pt4G44870.12	  8e-32
+ 44-  1:	PtXG26290.2	Pt4G45020.1	 2e-206
+ 44-  2:	PtXG26340.1	Pt4G45070.1	  5e-68
+ 44-  3:	PtXG26560.1	Pt4G45080.1	  6e-15
+## Alignment 45: score=217.0 e_value=3.7e-09 N=6 pin_chr10&pin_chr6 plus
+ 45-  0:	PtXG45320.1	Pt6G11480.1	  1e-30
+ 45-  1:	PtXG45500.1	Pt6G11580.1	  7e-10
+ 45-  2:	PtXG45750.1	Pt6G11590.1	  2e-08
+ 45-  3:	PtXG46030.1	Pt6G11650.1	  2e-11
+ 45-  4:	PtXG46290.5	Pt6G11710.1	 1e-112
+ 45-  5:	PtXG46300.1	Pt6G11730.1	  1e-50
+## Alignment 46: score=201.0 e_value=2.4e-08 N=6 pin_chr10&pin_chr6 plus
+ 46-  0:	PtXG37310.1	Pt6G30340.1	 1e-133
+ 46-  1:	PtXG37480.5	Pt6G30440.1	 2e-118
+ 46-  2:	PtXG37870.1	Pt6G30450.1	  4e-14
+ 46-  3:	PtXG38240.1	Pt6G30670.1	 5e-150
+ 46-  4:	PtXG38260.1	Pt6G30700.1	  2e-70
+ 46-  5:	PtXG38390.1	Pt6G30780.1	 0.0003
+## Alignment 47: score=199.0 e_value=6.3e-10 N=5 pin_chr10&pin_chr6 minus
+ 47-  0:	PtXG30700.1	Pt6G15800.3	  2e-06
+ 47-  1:	PtXG31050.1	Pt6G15660.6	 2e-101
+ 47-  2:	PtXG31070.1	Pt6G15460.1	 1e-117
+ 47-  3:	PtXG31090.1	Pt6G15430.1	 4e-140
+ 47-  4:	PtXG31110.1	Pt6G15420.1	 3e-183
+## Alignment 48: score=150.0 e_value=2e-05 N=4 pin_chr10&pin_chr6 minus
+ 48-  0:	PtXG46030.1	Pt6G11650.1	  2e-11
+ 48-  1:	PtXG46080.1	Pt6G11590.1	  8e-13
+ 48-  2:	PtXG46090.1	Pt6G11580.1	  3e-11
+ 48-  3:	PtXG46560.1	Pt6G11090.1	  6e-72
+## Alignment 49: score=180.0 e_value=6.9e-11 N=5 pin_chr10&pin_chr8 minus
+ 49-  0:	PtXG33600.1	Pt8G15760.1	  1e-12
+ 49-  1:	PtXG33640.1	Pt8G15340.1	 4e-115
+ 49-  2:	PtXG33750.1	Pt8G15270.1	 2e-149
+ 49-  3:	PtXG34010.1	Pt8G15030.1	  3e-22
+ 49-  4:	PtXG34030.1	Pt8G15020.1	  3e-31
+## Alignment 50: score=247.0 e_value=3.1e-12 N=6 pin_chr11&pin_chr11 plus
+ 50-  0:	PtJG26750.1	PtJG28220.1	      0
+ 50-  1:	PtJG26800.1	PtJG28230.1	  2e-67
+ 50-  2:	PtJG26860.7	PtJG28270.10	  3e-75
+ 50-  3:	PtJG26870.6	PtJG28380.1	  1e-77
+ 50-  4:	PtJG26880.1	PtJG28390.3	  2e-44
+ 50-  5:	PtJG27320.1	PtJG28620.1	  3e-24
+## Alignment 51: score=243.0 e_value=3e-16 N=8 pin_chr11&pin_chr11 plus
+ 51-  0:	PtJG44280.1	PtJG48890.1	 2e-101
+ 51-  1:	PtJG44320.1	PtJG49430.1	  1e-27
+ 51-  2:	PtJG44810.1	PtJG49610.1	  4e-25
+ 51-  3:	PtJG45120.1	PtJG49940.1	 4e-248
+ 51-  4:	PtJG45170.1	PtJG50020.1	  7e-97
+ 51-  5:	PtJG45230.1	PtJG50030.1	 5e-153
+ 51-  6:	PtJG45240.1	PtJG50190.1	  3e-86
+ 51-  7:	PtJG45260.16	PtJG50380.1	 4e-140
+## Alignment 52: score=228.0 e_value=1.3e-06 N=5 pin_chr11&pin_chr11 plus
+ 52-  0:	PtJG26640.1	PtJG28220.1	      0
+ 52-  1:	PtJG26710.1	PtJG28230.1	  2e-67
+ 52-  2:	PtJG26760.1	PtJG28370.1	      0
+ 52-  3:	PtJG26800.1	PtJG28380.1	  1e-66
+ 52-  4:	PtJG26860.7	PtJG28480.1	  2e-80
+## Alignment 53: score=226.0 e_value=1.5e-05 N=5 pin_chr11&pin_chr11 plus
+ 53-  0:	PtJG11930.1	PtJG14880.1	 3e-229
+ 53-  1:	PtJG11980.1	PtJG14960.1	  2e-48
+ 53-  2:	PtJG12020.4	PtJG15060.4	  3e-66
+ 53-  3:	PtJG12050.1	PtJG15110.3	  3e-39
+ 53-  4:	PtJG12080.10	PtJG15180.1	 2e-238
+## Alignment 54: score=213.0 e_value=3.1e-07 N=5 pin_chr11&pin_chr11 plus
+ 54-  0:	PtJG45110.1	PtJG50020.1	 4e-151
+ 54-  1:	PtJG45160.1	PtJG50040.1	 2e-120
+ 54-  2:	PtJG45210.1	PtJG50400.1	  3e-92
+ 54-  3:	PtJG45230.1	PtJG50430.1	 8e-154
+ 54-  4:	PtJG45240.1	PtJG50440.1	 5e-100
+## Alignment 55: score=180.0 e_value=0.00047 N=4 pin_chr11&pin_chr11 plus
+ 55-  0:	PtJG26510.6	PtJG28220.1	      0
+ 55-  1:	PtJG26640.1	PtJG28370.1	      0
+ 55-  2:	PtJG26710.1	PtJG28380.1	  1e-66
+ 55-  3:	PtJG26750.1	PtJG28450.1	  9e-77
+## Alignment 56: score=159.0 e_value=0.00092 N=4 pin_chr11&pin_chr11 plus
+ 56-  0:	PtJG11650.1	PtJG14890.1	  2e-40
+ 56-  1:	PtJG11930.1	PtJG15130.5	      0
+ 56-  2:	PtJG12020.4	PtJG15230.3	  9e-50
+ 56-  3:	PtJG12050.1	PtJG15310.1	  2e-47
+## Alignment 57: score=205.0 e_value=7.1e-08 N=5 pin_chr11&pin_chr11 minus
+ 57-  0:	PtJG11930.1	PtJG15320.1	  1e-82
+ 57-  1:	PtJG11970.1	PtJG15300.1	 3e-243
+ 57-  2:	PtJG12030.1	PtJG14880.1	 2e-245
+ 57-  3:	PtJG12050.1	PtJG14870.1	  4e-61
+ 57-  4:	PtJG12080.10	PtJG14830.1	 2e-164
+## Alignment 58: score=174.0 e_value=5.8e-06 N=4 pin_chr11&pin_chr11 minus
+ 58-  0:	PtJG31250.1	PtJG31720.1	  1e-31
+ 58-  1:	PtJG31330.1	PtJG31570.1	  2e-60
+ 58-  2:	PtJG31350.1	PtJG31560.1	  1e-51
+ 58-  3:	PtJG31510.1	PtJG31550.5	  2e-65
+## Alignment 59: score=170.0 e_value=9.7e-05 N=4 pin_chr11&pin_chr11 minus
+ 59-  0:	PtJG49910.1	PtJG50550.1	  9e-68
+ 59-  1:	PtJG49930.1	PtJG50540.1	  2e-67
+ 59-  2:	PtJG49940.1	PtJG50470.1	 2e-248
+ 59-  3:	PtJG50050.6	PtJG50190.1	 1e-157
+## Alignment 60: score=163.0 e_value=3.9e-07 N=5 pin_chr11&pin_chr11 minus
+ 60-  0:	PtJG45030.1	PtJG51020.17	 1e-201
+ 60-  1:	PtJG45090.1	PtJG50470.1	 2e-296
+ 60-  2:	PtJG45110.1	PtJG50400.1	 7e-153
+ 60-  3:	PtJG45240.1	PtJG50050.6	  1e-84
+ 60-  4:	PtJG45250.2	PtJG50020.1	 9e-128
+## Alignment 61: score=153.0 e_value=3.3e-09 N=5 pin_chr11&pin_chr11 minus
+ 61-  0:	PtJG35890.1	PtJG37270.1	 1e-184
+ 61-  1:	PtJG35920.1	PtJG37120.2	 2e-177
+ 61-  2:	PtJG36090.1	PtJG36490.1	 4e-277
+ 61-  3:	PtJG36250.1	PtJG36480.1	 2e-212
+ 61-  4:	PtJG36460.1	PtJG36470.1	 1e-281
+## Alignment 62: score=155.0 e_value=2.8e-09 N=6 pin_chr11&pin_chr12 plus
+ 62-  0:	PtJG52780.5	PtQG40640.1	  2e-11
+ 62-  1:	PtJG52960.1	PtQG40840.1	 1e-136
+ 62-  2:	PtJG53410.1	PtQG40970.1	  7e-07
+ 62-  3:	PtJG53520.1	PtQG41350.1	 4e-183
+ 62-  4:	PtJG53930.1	PtQG41810.1	 4e-235
+ 62-  5:	PtJG53950.1	PtQG41960.1	 2e-183
+## Alignment 63: score=175.0 e_value=3.5e-06 N=5 pin_chr11&pin_chr3 plus
+ 63-  0:	PtJG32060.1	Pt3G66540.1	 2e-193
+ 63-  1:	PtJG32150.1	Pt3G66570.1	 2e-109
+ 63-  2:	PtJG32770.5	Pt3G66660.1	  5e-96
+ 63-  3:	PtJG32810.1	Pt3G66720.1	 7e-110
+ 63-  4:	PtJG32900.1	Pt3G66770.1	 7e-135
+## Alignment 64: score=217.0 e_value=2.3e-08 N=6 pin_chr11&pin_chr6 plus
+ 64-  0:	PtJG22600.1	Pt6G54670.1	  2e-57
+ 64-  1:	PtJG22760.5	Pt6G54780.1	  6e-27
+ 64-  2:	PtJG22950.1	Pt6G54860.1	  6e-88
+ 64-  3:	PtJG23010.2	Pt6G55040.1	 4e-152
+ 64-  4:	PtJG23300.1	Pt6G55060.1	  1e-29
+ 64-  5:	PtJG23440.1	Pt6G55250.1	 1e-184
+## Alignment 65: score=213.0 e_value=8.5e-14 N=8 pin_chr11&pin_chr6 minus
+ 65-  0:	PtJG00200.11	Pt6G16300.14	  2e-41
+ 65-  1:	PtJG00220.1	Pt6G16270.1	      0
+ 65-  2:	PtJG00400.1	Pt6G15940.1	  2e-65
+ 65-  3:	PtJG00690.1	Pt6G15710.1	 1e-172
+ 65-  4:	PtJG01050.1	Pt6G15530.1	  2e-37
+ 65-  5:	PtJG01330.1	Pt6G15320.1	  7e-91
+ 65-  6:	PtJG01660.1	Pt6G14910.1	  3e-35
+ 65-  7:	PtJG01880.1	Pt6G14440.1	 5e-145
+## Alignment 66: score=201.0 e_value=5.5e-06 N=5 pin_chr11&pin_chr6 minus
+ 66-  0:	PtJG31930.1	Pt6G51060.15	  6e-15
+ 66-  1:	PtJG31980.1	Pt6G50950.1	 6e-274
+ 66-  2:	PtJG32010.2	Pt6G50850.16	  3e-76
+ 66-  3:	PtJG32060.1	Pt6G50570.1	 1e-234
+ 66-  4:	PtJG32150.1	Pt6G50460.6	 1e-105
+## Alignment 67: score=248.0 e_value=1.1e-05 N=5 pin_chr12&pin_chr12 plus
+ 67-  0:	PtQG42400.1	PtQG43440.1	      0
+ 67-  1:	PtQG42420.1	PtQG43450.1	      0
+ 67-  2:	PtQG42450.1	PtQG43470.1	      0
+ 67-  3:	PtQG42470.1	PtQG43490.1	      0
+ 67-  4:	PtQG42480.1	PtQG43500.1	      0
+## Alignment 68: score=328.0 e_value=1.8e-17 N=7 pin_chr12&pin_chr12 minus
+ 68-  0:	PtQG35810.1	PtQG36330.1	 6e-122
+ 68-  1:	PtQG35820.1	PtQG36320.1	 2e-246
+ 68-  2:	PtQG35830.1	PtQG36310.1	 7e-224
+ 68-  3:	PtQG35840.1	PtQG36290.1	      0
+ 68-  4:	PtQG35860.1	PtQG36280.1	      0
+ 68-  5:	PtQG35870.1	PtQG36260.1	      0
+ 68-  6:	PtQG36090.1	PtQG36120.1	  4e-30
+## Alignment 69: score=197.0 e_value=1.4e-05 N=5 pin_chr12&pin_chr2 minus
+ 69-  0:	PtQG13530.1	Pt2G34420.1	 6e-231
+ 69-  1:	PtQG13700.1	Pt2G34350.1	  8e-31
+ 69-  2:	PtQG13900.1	Pt2G34270.1	  4e-30
+ 69-  3:	PtQG14090.1	Pt2G34130.1	  3e-36
+ 69-  4:	PtQG14220.4	Pt2G34070.1	  5e-82
+## Alignment 70: score=232.0 e_value=2.3e-11 N=7 pin_chr12&pin_chr3 plus
+ 70-  0:	PtQG21360.1	Pt3G65770.1	  4e-22
+ 70-  1:	PtQG21560.1	Pt3G66280.5	  2e-99
+ 70-  2:	PtQG21670.1	Pt3G66380.8	 7e-128
+ 70-  3:	PtQG21730.1	Pt3G66570.1	 7e-113
+ 70-  4:	PtQG22060.3	Pt3G66660.1	 2e-103
+ 70-  5:	PtQG22090.1	Pt3G66810.1	  5e-75
+ 70-  6:	PtQG22160.1	Pt3G66820.1	  5e-94
+## Alignment 71: score=174.0 e_value=0.00082 N=4 pin_chr12&pin_chr6 plus
+ 71-  0:	PtQG25320.1	Pt6G17670.1	  5e-18
+ 71-  1:	PtQG25400.1	Pt6G17840.1	 1e-143
+ 71-  2:	PtQG25430.1	Pt6G17890.1	 2e-209
+ 71-  3:	PtQG25450.1	Pt6G18000.1	 1e-195
+## Alignment 72: score=163.0 e_value=6.7e-09 N=6 pin_chr12&pin_chr6 minus
+ 72-  0:	PtQG22110.1	Pt6G48980.4	  1e-53
+ 72-  1:	PtQG22510.2	Pt6G48940.1	  9e-89
+ 72-  2:	PtQG22590.1	Pt6G48640.1	  3e-79
+ 72-  3:	PtQG22780.1	Pt6G48050.1	 7e-153
+ 72-  4:	PtQG22920.1	Pt6G47900.1	  7e-76
+ 72-  5:	PtQG23030.5	Pt6G47860.1	 3e-153
+## Alignment 73: score=150.0 e_value=3.8e-05 N=4 pin_chr12&pin_chr6 minus
+ 73-  0:	PtQG18560.1	Pt6G42330.1	  4e-16
+ 73-  1:	PtQG18930.6	Pt6G41900.1	 8e-122
+ 73-  2:	PtQG18960.1	Pt6G41800.1	 3e-124
+ 73-  3:	PtQG18980.1	Pt6G41760.1	  2e-68
+## Alignment 74: score=237.0 e_value=6.9e-13 N=6 pin_chr12&pin_chr7 plus
+ 74-  0:	PtQG16020.1	Pt7G04640.1	 2e-112
+ 74-  1:	PtQG16030.1	Pt7G04660.1	 8e-168
+ 74-  2:	PtQG16100.1	Pt7G04830.1	  1e-52
+ 74-  3:	PtQG16170.3	Pt7G04900.1	  5e-11
+ 74-  4:	PtQG16190.1	Pt7G04910.1	  3e-15
+ 74-  5:	PtQG16630.1	Pt7G04920.5	 3e-163
+## Alignment 75: score=210.0 e_value=8.7e-09 N=6 pin_chr12&pin_chr7 minus
+ 75-  0:	PtQG16650.1	Pt7G01110.1	  1e-69
+ 75-  1:	PtQG16800.1	Pt7G00900.1	 4e-148
+ 75-  2:	PtQG17020.1	Pt7G00750.1	  1e-69
+ 75-  3:	PtQG17440.1	Pt7G00370.1	 1e-219
+ 75-  4:	PtQG17450.1	Pt7G00340.1	 2e-166
+ 75-  5:	PtQG17490.1	Pt7G00180.1	 1e-198
+## Alignment 76: score=168.0 e_value=1.1e-07 N=5 pin_chr12&pin_chr9 plus
+ 76-  0:	PtQG09930.1	Pt9G48950.1	 2e-116
+ 76-  1:	PtQG09940.1	Pt9G49100.1	  6e-77
+ 76-  2:	PtQG10030.1	Pt9G49210.1	  2e-74
+ 76-  3:	PtQG10150.7	Pt9G49260.2	  5e-88
+ 76-  4:	PtQG10360.11	Pt9G49810.1	 1e-177
+## Alignment 77: score=159.0 e_value=0.0008 N=4 pin_chr12&pin_chr9 plus
+ 77-  0:	PtQG09940.1	Pt9G48930.1	 1e-118
+ 77-  1:	PtQG10030.1	Pt9G49100.1	  1e-74
+ 77-  2:	PtQG10150.7	Pt9G49170.1	  4e-16
+ 77-  3:	PtQG10330.1	Pt9G49210.1	  3e-54
+## Alignment 78: score=177.0 e_value=5.3e-10 N=5 pin_chr12&pin_chr9 minus
+ 78-  0:	PtQG11090.1	Pt9G45590.1	 6e-240
+ 78-  1:	PtQG11100.1	Pt9G45580.1	  2e-38
+ 78-  2:	PtQG11110.1	Pt9G45430.1	 2e-178
+ 78-  3:	PtQG11360.3	Pt9G45370.5	 4e-123
+ 78-  4:	PtQG11500.1	Pt9G44930.1	 2e-313
+## Alignment 79: score=170.0 e_value=2.6e-06 N=5 pin_chr12&pin_chr9 minus
+ 79-  0:	PtQG07010.3	Pt9G59060.1	 7e-188
+ 79-  1:	PtQG07260.1	Pt9G58790.6	  5e-28
+ 79-  2:	PtQG07470.1	Pt9G58760.1	 3e-227
+ 79-  3:	PtQG07560.5	Pt9G58670.1	 2e-275
+ 79-  4:	PtQG07810.1	Pt9G58360.1	 9e-236
+## Alignment 80: score=157.0 e_value=0.00046 N=4 pin_chr12&pin_chr9 minus
+ 80-  0:	PtQG01560.1	Pt9G50500.1	  3e-30
+ 80-  1:	PtQG01760.1	Pt9G50440.1	  6e-15
+ 80-  2:	PtQG01900.2	Pt9G50370.1	  3e-94
+ 80-  3:	PtQG01910.1	Pt9G50190.1	  6e-66
+## Alignment 81: score=383.0 e_value=6e-17 N=8 pin_chr2&pin_chr2 plus
+ 81-  0:	Pt2G59780.1	Pt2G60740.1	  1e-43
+ 81-  1:	Pt2G59790.1	Pt2G60760.5	  4e-62
+ 81-  2:	Pt2G59800.1	Pt2G60770.1	 6e-184
+ 81-  3:	Pt2G59810.1	Pt2G60790.1	 5e-200
+ 81-  4:	Pt2G59930.1	Pt2G60870.1	 1e-194
+ 81-  5:	Pt2G59970.1	Pt2G60890.1	  3e-53
+ 81-  6:	Pt2G59980.1	Pt2G60900.1	  4e-07
+ 81-  7:	Pt2G60060.2	Pt2G60980.1	  5e-48
+## Alignment 82: score=341.0 e_value=7.5e-15 N=8 pin_chr2&pin_chr2 plus
+ 82-  0:	Pt2G13680.1	Pt2G14470.1	  1e-79
+ 82-  1:	Pt2G13790.1	Pt2G14860.1	  1e-97
+ 82-  2:	Pt2G13820.2	Pt2G14890.1	  2e-66
+ 82-  3:	Pt2G13840.1	Pt2G14970.1	  3e-39
+ 82-  4:	Pt2G13860.1	Pt2G14990.1	 4e-100
+ 82-  5:	Pt2G13870.4	Pt2G15040.1	  7e-57
+ 82-  6:	Pt2G14000.1	Pt2G15090.1	  4e-30
+ 82-  7:	Pt2G14040.1	Pt2G15110.1	  8e-15
+## Alignment 83: score=326.0 e_value=1.1e-14 N=7 pin_chr2&pin_chr2 plus
+ 83-  0:	Pt2G67900.1	Pt2G69250.3	  3e-59
+ 83-  1:	Pt2G67910.1	Pt2G69350.2	  2e-33
+ 83-  2:	Pt2G68010.1	Pt2G69390.7	  8e-61
+ 83-  3:	Pt2G68020.18	Pt2G69400.1	  6e-46
+ 83-  4:	Pt2G68040.1	Pt2G69420.1	  4e-42
+ 83-  5:	Pt2G68060.4	Pt2G69440.8	  6e-55
+ 83-  6:	Pt2G68070.1	Pt2G69540.1	      0
+## Alignment 84: score=252.0 e_value=2e-08 N=6 pin_chr2&pin_chr2 plus
+ 84-  0:	Pt2G31830.1	Pt2G32040.1	 5e-117
+ 84-  1:	Pt2G31850.1	Pt2G32060.1	 1e-110
+ 84-  2:	Pt2G31870.1	Pt2G32150.1	  5e-24
+ 84-  3:	Pt2G31920.1	Pt2G32220.1	  8e-28
+ 84-  4:	Pt2G31960.1	Pt2G32520.7	 8e-204
+ 84-  5:	Pt2G32020.1	Pt2G32600.1	  2e-63
+## Alignment 85: score=251.0 e_value=6.4e-10 N=6 pin_chr2&pin_chr2 plus
+ 85-  0:	Pt2G61110.1	Pt2G61810.1	 6e-301
+ 85-  1:	Pt2G61300.1	Pt2G61900.1	  2e-50
+ 85-  2:	Pt2G61380.1	Pt2G61960.1	  5e-70
+ 85-  3:	Pt2G61440.1	Pt2G61970.9	      0
+ 85-  4:	Pt2G61500.1	Pt2G62150.1	      0
+ 85-  5:	Pt2G61610.1	Pt2G62250.1	 4e-216
+## Alignment 86: score=205.0 e_value=6.2e-08 N=5 pin_chr2&pin_chr2 plus
+ 86-  0:	Pt2G21960.1	Pt2G45990.1	 5e-221
+ 86-  1:	Pt2G21970.1	Pt2G46010.1	 4e-252
+ 86-  2:	Pt2G21980.1	Pt2G46080.3	 2e-295
+ 86-  3:	Pt2G22130.1	Pt2G46100.1	 9e-272
+ 86-  4:	Pt2G22350.1	Pt2G46390.1	  2e-31
+## Alignment 87: score=191.0 e_value=0.00057 N=4 pin_chr2&pin_chr2 plus
+ 87-  0:	Pt2G07620.1	Pt2G50330.1	      0
+ 87-  1:	Pt2G07630.1	Pt2G50360.1	  7e-66
+ 87-  2:	Pt2G07650.2	Pt2G50370.1	      0
+ 87-  3:	Pt2G07670.5	Pt2G50440.1	  3e-47
+## Alignment 88: score=181.0 e_value=0.00018 N=4 pin_chr2&pin_chr2 plus
+ 88-  0:	Pt2G06480.1	Pt2G10890.1	 4e-309
+ 88-  1:	Pt2G06520.1	Pt2G10930.1	 5e-309
+ 88-  2:	Pt2G06580.1	Pt2G11060.1	  1e-08
+ 88-  3:	Pt2G06660.1	Pt2G11140.1	 5e-273
+## Alignment 89: score=178.0 e_value=0.00032 N=4 pin_chr2&pin_chr2 plus
+ 89-  0:	Pt2G13860.1	Pt2G14760.1	 4e-110
+ 89-  1:	Pt2G13890.1	Pt2G14840.1	  8e-42
+ 89-  2:	Pt2G13980.1	Pt2G14870.1	  3e-51
+ 89-  3:	Pt2G14090.1	Pt2G14930.1	  6e-42
+## Alignment 90: score=171.0 e_value=0.00062 N=4 pin_chr2&pin_chr2 plus
+ 90-  0:	Pt2G61320.1	Pt2G61840.1	      0
+ 90-  1:	Pt2G61330.1	Pt2G61970.9	      0
+ 90-  2:	Pt2G61350.1	Pt2G62130.1	      0
+ 90-  3:	Pt2G61360.1	Pt2G62210.1	      0
+## Alignment 91: score=168.0 e_value=3.5e-07 N=5 pin_chr2&pin_chr2 plus
+ 91-  0:	Pt2G08320.1	Pt2G08960.1	  1e-60
+ 91-  1:	Pt2G08430.1	Pt2G08970.1	  1e-60
+ 91-  2:	Pt2G08640.1	Pt2G09500.1	  9e-59
+ 91-  3:	Pt2G08840.1	Pt2G09540.1	  4e-78
+ 91-  4:	Pt2G08890.1	Pt2G09640.1	  5e-85
+## Alignment 92: score=157.0 e_value=7.8e-08 N=4 pin_chr2&pin_chr2 plus
+ 92-  0:	Pt2G06170.1	Pt2G10990.1	  7e-43
+ 92-  1:	Pt2G06180.1	Pt2G11060.1	  3e-05
+ 92-  2:	Pt2G06190.1	Pt2G11140.1	 1e-269
+ 92-  3:	Pt2G06580.1	Pt2G11400.1	 3e-298
+## Alignment 93: score=155.0 e_value=0.0004 N=4 pin_chr2&pin_chr2 plus
+ 93-  0:	Pt2G07950.5	Pt2G11500.1	  4e-17
+ 93-  1:	Pt2G07980.5	Pt2G11510.1	 5e-102
+ 93-  2:	Pt2G08090.1	Pt2G11570.1	  1e-74
+ 93-  3:	Pt2G08470.1	Pt2G11820.1	  9e-05
+## Alignment 94: score=150.0 e_value=1.5e-05 N=4 pin_chr2&pin_chr2 plus
+ 94-  0:	Pt2G16510.1	Pt2G18600.1	  1e-16
+ 94-  1:	Pt2G16540.1	Pt2G18650.1	  6e-15
+ 94-  2:	Pt2G16860.1	Pt2G18840.1	 5e-150
+ 94-  3:	Pt2G17050.1	Pt2G18940.1	 3e-198
+## Alignment 95: score=324.0 e_value=2.4e-11 N=7 pin_chr2&pin_chr2 minus
+ 95-  0:	Pt2G00320.1	Pt2G00930.1	      0
+ 95-  1:	Pt2G00350.1	Pt2G00920.1	  4e-59
+ 95-  2:	Pt2G00370.5	Pt2G00890.4	      0
+ 95-  3:	Pt2G00380.1	Pt2G00880.1	 6e-158
+ 95-  4:	Pt2G00390.1	Pt2G00840.1	 2e-140
+ 95-  5:	Pt2G00590.1	Pt2G00830.1	  8e-63
+ 95-  6:	Pt2G00630.1	Pt2G00820.1	 2e-292
+## Alignment 96: score=287.0 e_value=1.2e-08 N=6 pin_chr2&pin_chr2 minus
+ 96-  0:	Pt2G60070.1	Pt2G62580.2	      0
+ 96-  1:	Pt2G60130.1	Pt2G62520.1	  8e-74
+ 96-  2:	Pt2G60140.1	Pt2G62500.1	 3e-200
+ 96-  3:	Pt2G60180.1	Pt2G62410.1	  1e-31
+ 96-  4:	Pt2G60200.1	Pt2G62390.1	      0
+ 96-  5:	Pt2G60210.1	Pt2G62370.1	 8e-228
+## Alignment 97: score=238.0 e_value=1.1e-06 N=5 pin_chr2&pin_chr2 minus
+ 97-  0:	Pt2G67270.1	Pt2G67630.1	 5e-254
+ 97-  1:	Pt2G67280.1	Pt2G67620.1	 3e-230
+ 97-  2:	Pt2G67290.1	Pt2G67610.1	 1e-165
+ 97-  3:	Pt2G67320.1	Pt2G67590.1	  1e-66
+ 97-  4:	Pt2G67330.1	Pt2G67470.1	 3e-192
+## Alignment 98: score=227.0 e_value=6.8e-06 N=5 pin_chr2&pin_chr2 minus
+ 98-  0:	Pt2G00010.4	Pt2G03970.1	 2e-185
+ 98-  1:	Pt2G00040.1	Pt2G03940.7	 1e-120
+ 98-  2:	Pt2G00180.1	Pt2G03900.1	  2e-56
+ 98-  3:	Pt2G00230.1	Pt2G03890.1	 3e-290
+ 98-  4:	Pt2G00290.1	Pt2G03880.1	 9e-104
+## Alignment 99: score=214.0 e_value=4.2e-09 N=6 pin_chr2&pin_chr2 minus
+ 99-  0:	Pt2G50400.1	Pt2G52240.1	  8e-26
+ 99-  1:	Pt2G50880.1	Pt2G51940.1	  4e-33
+ 99-  2:	Pt2G50900.1	Pt2G51880.1	 3e-109
+ 99-  3:	Pt2G51100.1	Pt2G51680.1	  1e-98
+ 99-  4:	Pt2G51270.1	Pt2G51490.1	 3e-233
+ 99-  5:	Pt2G51360.1	Pt2G51470.1	  9e-19
+## Alignment 100: score=214.0 e_value=5.8e-09 N=5 pin_chr2&pin_chr2 minus
+100-  0:	Pt2G01800.10	Pt2G04870.5	 4e-132
+100-  1:	Pt2G01950.1	Pt2G04550.1	  2e-13
+100-  2:	Pt2G01980.2	Pt2G04540.1	  3e-44
+100-  3:	Pt2G02030.3	Pt2G04470.11	      0
+100-  4:	Pt2G02060.1	Pt2G04450.1	  3e-69
+## Alignment 101: score=198.0 e_value=2.1e-06 N=5 pin_chr2&pin_chr2 minus
+101-  0:	Pt2G46970.1	Pt2G49980.1	 2e-130
+101-  1:	Pt2G47310.2	Pt2G49930.1	  1e-11
+101-  2:	Pt2G47440.1	Pt2G49900.1	  1e-59
+101-  3:	Pt2G47490.1	Pt2G49850.1	 2e-272
+101-  4:	Pt2G47550.1	Pt2G49790.1	 2e-276
+## Alignment 102: score=195.0 e_value=1.3e-09 N=5 pin_chr2&pin_chr2 minus
+102-  0:	Pt2G52690.1	Pt2G53580.1	  3e-34
+102-  1:	Pt2G53010.1	Pt2G53560.1	 8e-151
+102-  2:	Pt2G53020.1	Pt2G53350.5	  1e-47
+102-  3:	Pt2G53070.1	Pt2G53340.1	  5e-51
+102-  4:	Pt2G53140.1	Pt2G53320.1	 2e-100
+## Alignment 103: score=194.0 e_value=1.1e-06 N=5 pin_chr2&pin_chr2 minus
+103-  0:	Pt2G44850.13	Pt2G45930.1	 2e-177
+103-  1:	Pt2G45040.1	Pt2G45560.1	      0
+103-  2:	Pt2G45140.1	Pt2G45450.1	  7e-77
+103-  3:	Pt2G45150.3	Pt2G45390.1	  2e-29
+103-  4:	Pt2G45270.1	Pt2G45350.1	  3e-08
+## Alignment 104: score=194.0 e_value=2.1e-10 N=6 pin_chr2&pin_chr2 minus
+104-  0:	Pt2G16860.1	Pt2G18940.1	 4e-148
+104-  1:	Pt2G17010.1	Pt2G18840.1	 4e-141
+104-  2:	Pt2G17470.1	Pt2G18240.1	  3e-96
+104-  3:	Pt2G17480.1	Pt2G18220.1	 4e-122
+104-  4:	Pt2G17750.1	Pt2G18120.1	 5e-142
+104-  5:	Pt2G17840.1	Pt2G17990.1	  3e-48
+## Alignment 105: score=176.0 e_value=9.3e-06 N=4 pin_chr2&pin_chr2 minus
+105-  0:	Pt2G57530.1	Pt2G58060.23	 5e-101
+105-  1:	Pt2G57560.1	Pt2G58040.8	 3e-157
+105-  2:	Pt2G57630.1	Pt2G57860.1	  3e-65
+105-  3:	Pt2G57700.1	Pt2G57730.1	  1e-54
+## Alignment 106: score=174.0 e_value=0.00015 N=4 pin_chr2&pin_chr2 minus
+106-  0:	Pt2G59920.7	Pt2G60910.1	 1e-207
+106-  1:	Pt2G59980.1	Pt2G60820.1	  9e-05
+106-  2:	Pt2G60010.1	Pt2G60790.1	  3e-26
+106-  3:	Pt2G60270.2	Pt2G60730.9	  1e-73
+## Alignment 107: score=172.0 e_value=0.00048 N=4 pin_chr2&pin_chr2 minus
+107-  0:	Pt2G06120.1	Pt2G06600.1	 4e-186
+107-  1:	Pt2G06190.1	Pt2G06580.1	 6e-280
+107-  2:	Pt2G06220.1	Pt2G06520.1	  4e-13
+107-  3:	Pt2G06430.1	Pt2G06440.5	  4e-89
+## Alignment 108: score=166.0 e_value=0.00092 N=4 pin_chr2&pin_chr2 minus
+108-  0:	Pt2G06770.1	Pt2G09030.1	 5e-195
+108-  1:	Pt2G06780.1	Pt2G08870.1	      0
+108-  2:	Pt2G06800.1	Pt2G08770.1	 5e-259
+108-  3:	Pt2G06870.1	Pt2G08630.1	 2e-185
+## Alignment 109: score=163.0 e_value=0.00027 N=4 pin_chr2&pin_chr2 minus
+109-  0:	Pt2G13790.1	Pt2G15130.4	  2e-76
+109-  1:	Pt2G13860.1	Pt2G15100.1	  3e-57
+109-  2:	Pt2G13870.4	Pt2G14940.1	  4e-67
+109-  3:	Pt2G14090.1	Pt2G14840.1	  1e-40
+## Alignment 110: score=157.0 e_value=0.00011 N=4 pin_chr2&pin_chr2 minus
+110-  0:	Pt2G08940.1	Pt2G09580.1	 5e-128
+110-  1:	Pt2G08960.1	Pt2G09510.1	  7e-61
+110-  2:	Pt2G08970.1	Pt2G09500.1	 5e-112
+110-  3:	Pt2G09000.1	Pt2G09080.1	  1e-43
+## Alignment 111: score=150.0 e_value=1.1e-05 N=4 pin_chr2&pin_chr2 minus
+111-  0:	Pt2G50900.1	Pt2G51970.1	  9e-52
+111-  1:	Pt2G50920.1	Pt2G51950.1	  2e-05
+111-  2:	Pt2G51120.1	Pt2G51760.5	 2e-227
+111-  3:	Pt2G51160.1	Pt2G51400.1	  8e-95
+## Alignment 112: score=173.0 e_value=3.1e-08 N=5 pin_chr2&pin_chr5 minus
+112-  0:	Pt2G49020.1	Pt5G08470.1	  1e-23
+112-  1:	Pt2G49160.1	Pt5G08050.1	  1e-27
+112-  2:	Pt2G49240.1	Pt5G07770.1	  1e-12
+112-  3:	Pt2G49290.1	Pt5G07690.1	  3e-05
+112-  4:	Pt2G49340.1	Pt5G07680.1	  2e-05
+## Alignment 113: score=220.0 e_value=1.3e-06 N=5 pin_chr2&pin_chr6 minus
+113-  0:	Pt2G68600.3	Pt6G12260.1	 1e-282
+113-  1:	Pt2G68630.1	Pt6G12250.8	 7e-265
+113-  2:	Pt2G68640.6	Pt6G12220.1	  1e-31
+113-  3:	Pt2G68650.1	Pt6G12130.2	  3e-70
+113-  4:	Pt2G68660.1	Pt6G11880.1	 4e-170
+## Alignment 114: score=164.0 e_value=7.9e-06 N=5 pin_chr2&pin_chr7 minus
+114-  0:	Pt2G04610.1	Pt7G61180.1	 9e-162
+114-  1:	Pt2G04870.5	Pt7G61020.1	  1e-12
+114-  2:	Pt2G04880.1	Pt7G60810.1	  2e-66
+114-  3:	Pt2G05010.1	Pt7G60630.1	  7e-82
+114-  4:	Pt2G05080.1	Pt7G60280.1	 6e-198
+## Alignment 115: score=181.0 e_value=2.5e-07 N=5 pin_chr2&pin_chr8 minus
+115-  0:	Pt2G19390.1	Pt8G25200.1	  3e-42
+115-  1:	Pt2G19400.1	Pt8G25180.1	  1e-20
+115-  2:	Pt2G19800.1	Pt8G25040.1	  2e-65
+115-  3:	Pt2G19980.1	Pt8G25010.1	  3e-51
+115-  4:	Pt2G20170.1	Pt8G25000.1	 6e-115
+## Alignment 116: score=177.0 e_value=0.0002 N=4 pin_chr2&pin_chr9 plus
+116-  0:	Pt2G33840.6	Pt9G41330.1	 2e-128
+116-  1:	Pt2G34040.1	Pt9G41390.1	 2e-148
+116-  2:	Pt2G34070.1	Pt9G41480.1	 2e-229
+116-  3:	Pt2G34100.1	Pt9G41490.1	 4e-196
+## Alignment 117: score=199.0 e_value=0.00013 N=4 pin_chr2&pin_tig00068980 plus
+117-  0:	Pt2G62020.1	Pt0G31180.1	  5e-58
+117-  1:	Pt2G62030.1	Pt0G31190.1	      0
+117-  2:	Pt2G62040.1	Pt0G31210.1	 2e-182
+117-  3:	Pt2G62050.1	Pt0G31220.1	 1e-180
+## Alignment 118: score=194.0 e_value=2e-08 N=5 pin_chr3&pin_chr3 plus
+118-  0:	Pt3G07150.1	Pt3G25760.1	  2e-45
+118-  1:	Pt3G07670.1	Pt3G26260.1	 2e-262
+118-  2:	Pt3G07730.1	Pt3G26330.1	 6e-152
+118-  3:	Pt3G07760.1	Pt3G26340.1	 2e-252
+118-  4:	Pt3G07800.1	Pt3G26370.1	      0
+## Alignment 119: score=182.0 e_value=0.00074 N=4 pin_chr3&pin_chr3 plus
+119-  0:	Pt3G27200.1	Pt3G27500.1	 5e-174
+119-  1:	Pt3G27310.1	Pt3G27620.1	      0
+119-  2:	Pt3G27340.1	Pt3G27650.1	  7e-52
+119-  3:	Pt3G27400.1	Pt3G27710.1	  1e-79
+## Alignment 120: score=177.0 e_value=1.3e-05 N=4 pin_chr3&pin_chr3 plus
+120-  0:	Pt3G17990.1	Pt3G19550.2	  4e-47
+120-  1:	Pt3G18010.1	Pt3G19560.1	  3e-21
+120-  2:	Pt3G18080.1	Pt3G19580.1	 4e-189
+120-  3:	Pt3G18250.1	Pt3G19650.1	 1e-159
+## Alignment 121: score=173.0 e_value=2.4e-07 N=4 pin_chr3&pin_chr3 plus
+121-  0:	Pt3G27930.1	Pt3G30250.1	 2e-138
+121-  1:	Pt3G27940.1	Pt3G30310.1	  7e-64
+121-  2:	Pt3G27960.1	Pt3G30320.1	 3e-273
+121-  3:	Pt3G28240.1	Pt3G30370.1	 8e-305
+## Alignment 122: score=157.0 e_value=0.00024 N=4 pin_chr3&pin_chr3 plus
+122-  0:	Pt3G19380.1	Pt3G22320.1	 7e-211
+122-  1:	Pt3G19480.1	Pt3G22360.1	      0
+122-  2:	Pt3G19540.1	Pt3G22390.1	 7e-166
+122-  3:	Pt3G19550.2	Pt3G22710.1	  3e-45
+## Alignment 123: score=232.0 e_value=2.6e-06 N=5 pin_chr3&pin_chr3 minus
+123-  0:	Pt3G20440.1	Pt3G22680.1	 3e-293
+123-  1:	Pt3G20510.1	Pt3G22600.1	      0
+123-  2:	Pt3G20530.1	Pt3G22590.2	      0
+123-  3:	Pt3G20630.1	Pt3G22550.2	 2e-134
+123-  4:	Pt3G20650.1	Pt3G22510.1	 2e-113
+## Alignment 124: score=229.0 e_value=2.6e-06 N=5 pin_chr3&pin_chr3 minus
+124-  0:	Pt3G19220.2	Pt3G22440.1	 1e-127
+124-  1:	Pt3G19250.3	Pt3G22410.2	  4e-48
+124-  2:	Pt3G19310.1	Pt3G22390.1	 1e-188
+124-  3:	Pt3G19410.4	Pt3G22360.1	 1e-135
+124-  4:	Pt3G19480.1	Pt3G22290.1	  5e-49
+## Alignment 125: score=226.0 e_value=9.9e-10 N=6 pin_chr3&pin_chr3 minus
+125-  0:	Pt3G26720.1	Pt3G28190.1	  4e-14
+125-  1:	Pt3G26780.1	Pt3G28120.1	  1e-12
+125-  2:	Pt3G26850.1	Pt3G28080.1	  3e-24
+125-  3:	Pt3G27070.1	Pt3G27700.1	  3e-11
+125-  4:	Pt3G27200.1	Pt3G27620.1	      0
+125-  5:	Pt3G27450.1	Pt3G27460.2	  1e-18
+## Alignment 126: score=177.0 e_value=4.7e-05 N=4 pin_chr3&pin_chr3 minus
+126-  0:	Pt3G11550.1	Pt3G12090.1	 1e-227
+126-  1:	Pt3G11750.1	Pt3G12030.1	  1e-73
+126-  2:	Pt3G11770.1	Pt3G12000.1	  8e-74
+126-  3:	Pt3G11810.1	Pt3G11940.2	  1e-76
+## Alignment 127: score=176.0 e_value=0.00045 N=4 pin_chr3&pin_chr3 minus
+127-  0:	Pt3G16990.1	Pt3G20580.11	 3e-246
+127-  1:	Pt3G17040.1	Pt3G20510.1	 3e-202
+127-  2:	Pt3G17050.1	Pt3G20440.1	 5e-215
+127-  3:	Pt3G17190.1	Pt3G20340.1	  3e-65
+## Alignment 128: score=173.0 e_value=7.9e-05 N=4 pin_chr3&pin_chr3 minus
+128-  0:	Pt3G14480.1	Pt3G15310.9	      0
+128-  1:	Pt3G14520.1	Pt3G15280.1	  3e-63
+128-  2:	Pt3G14650.1	Pt3G15260.1	 7e-176
+128-  3:	Pt3G14810.1	Pt3G15200.1	 8e-145
+## Alignment 129: score=163.0 e_value=0.0006 N=4 pin_chr3&pin_chr3 minus
+129-  0:	Pt3G64990.1	Pt3G65710.1	 7e-111
+129-  1:	Pt3G65110.1	Pt3G65580.1	  1e-05
+129-  2:	Pt3G65180.1	Pt3G65500.1	 2e-197
+129-  3:	Pt3G65400.1	Pt3G65480.1	  5e-40
+## Alignment 130: score=160.0 e_value=1.1e-05 N=5 pin_chr3&pin_chr3 minus
+130-  0:	Pt3G63080.1	Pt3G64310.1	  2e-49
+130-  1:	Pt3G63150.1	Pt3G64080.1	  2e-22
+130-  2:	Pt3G63180.1	Pt3G63950.1	  4e-10
+130-  3:	Pt3G63250.1	Pt3G63340.1	 6e-107
+130-  4:	Pt3G63270.1	Pt3G63290.1	  2e-14
+## Alignment 131: score=219.0 e_value=4.8e-10 N=6 pin_chr3&pin_chr4 plus
+131-  0:	Pt3G03540.1	Pt4G04280.2	 2e-159
+131-  1:	Pt3G03800.1	Pt4G04470.1	  5e-05
+131-  2:	Pt3G03960.1	Pt4G04530.1	  1e-56
+131-  3:	Pt3G04040.1	Pt4G04570.1	  5e-14
+131-  4:	Pt3G04470.1	Pt4G04940.1	  6e-28
+131-  5:	Pt3G04480.1	Pt4G04950.11	      0
+## Alignment 132: score=187.0 e_value=8.2e-07 N=5 pin_chr3&pin_chr4 plus
+132-  0:	Pt3G04560.12	Pt4G05810.1	 2e-231
+132-  1:	Pt3G04720.1	Pt4G06190.1	  3e-35
+132-  2:	Pt3G04730.1	Pt4G06220.1	 2e-275
+132-  3:	Pt3G05020.1	Pt4G06410.1	  2e-14
+132-  4:	Pt3G05030.1	Pt4G06440.1	 9e-208
+## Alignment 133: score=243.0 e_value=9.5e-07 N=5 pin_chr3&pin_chr5 minus
+133-  0:	Pt3G18130.1	Pt5G21870.1	 1e-128
+133-  1:	Pt3G18160.1	Pt5G21790.1	 5e-312
+133-  2:	Pt3G18170.4	Pt5G21780.1	  6e-75
+133-  3:	Pt3G18180.1	Pt5G21770.1	      0
+133-  4:	Pt3G18190.2	Pt5G21760.1	 5e-191
+## Alignment 134: score=204.0 e_value=6.2e-12 N=7 pin_chr3&pin_chr6 plus
+134-  0:	Pt3G45430.1	Pt6G13940.1	 7e-193
+134-  1:	Pt3G45490.4	Pt6G14420.1	 9e-169
+134-  2:	Pt3G45580.1	Pt6G14650.1	 4e-117
+134-  3:	Pt3G45680.1	Pt6G14770.1	 2e-109
+134-  4:	Pt3G45800.2	Pt6G14800.1	  6e-69
+134-  5:	Pt3G45980.1	Pt6G14880.4	  1e-08
+134-  6:	Pt3G46320.1	Pt6G15410.1	 7e-130
+## Alignment 135: score=223.0 e_value=2.7e-09 N=6 pin_chr3&pin_chr6 minus
+135-  0:	Pt3G65770.1	Pt6G51080.1	  4e-24
+135-  1:	Pt3G65820.7	Pt6G51060.15	  5e-19
+135-  2:	Pt3G66370.1	Pt6G50740.7	 3e-152
+135-  3:	Pt3G66390.3	Pt6G50690.1	 6e-106
+135-  4:	Pt3G66540.1	Pt6G50570.1	 3e-195
+135-  5:	Pt3G66570.1	Pt6G50440.1	 6e-115
+## Alignment 136: score=173.0 e_value=0.00021 N=4 pin_chr3&pin_chr7 minus
+136-  0:	Pt3G56720.1	Pt7G48500.1	  5e-37
+136-  1:	Pt3G56800.1	Pt7G48280.1	  1e-76
+136-  2:	Pt3G56830.1	Pt7G48260.1	  5e-24
+136-  3:	Pt3G56900.1	Pt7G48240.1	  4e-69
+## Alignment 137: score=155.0 e_value=4.3e-05 N=4 pin_chr3&pin_chr9 plus
+137-  0:	Pt3G35680.1	Pt9G50690.1	 1e-113
+137-  1:	Pt3G35800.1	Pt9G50730.1	 3e-102
+137-  2:	Pt3G35830.1	Pt9G50740.1	  5e-80
+137-  3:	Pt3G35930.1	Pt9G51130.1	 7e-123
+## Alignment 138: score=170.0 e_value=0.0004 N=4 pin_chr3&pin_chr9 minus
+138-  0:	Pt3G35420.1	Pt9G51020.1	  1e-94
+138-  1:	Pt3G35440.1	Pt9G50770.1	  9e-31
+138-  2:	Pt3G35510.1	Pt9G50740.1	  7e-78
+138-  3:	Pt3G35530.1	Pt9G50690.1	 5e-115
+## Alignment 139: score=299.0 e_value=3.1e-08 N=6 pin_chr3&pin_tig00273349 minus
+139-  0:	Pt3G18140.1	Pt0G39860.1	 1e-180
+139-  1:	Pt3G18150.1	Pt0G39850.1	 4e-291
+139-  2:	Pt3G18160.1	Pt0G39840.1	 5e-312
+139-  3:	Pt3G18170.4	Pt0G39830.5	 8e-158
+139-  4:	Pt3G18180.1	Pt0G39810.1	      0
+139-  5:	Pt3G18190.2	Pt0G39800.1	 9e-289
+## Alignment 140: score=238.0 e_value=4.3e-11 N=7 pin_chr4&pin_chr4 plus
+140-  0:	Pt4G48810.1	Pt4G51670.1	  1e-47
+140-  1:	Pt4G48890.2	Pt4G51940.1	  3e-61
+140-  2:	Pt4G49030.1	Pt4G52010.1	 1e-185
+140-  3:	Pt4G49110.1	Pt4G52370.1	  2e-40
+140-  4:	Pt4G49130.1	Pt4G52500.1	  2e-90
+140-  5:	Pt4G49290.2	Pt4G52550.1	  3e-46
+140-  6:	Pt4G49350.1	Pt4G52770.1	  5e-69
+## Alignment 141: score=202.0 e_value=4.8e-06 N=5 pin_chr4&pin_chr4 plus
+141-  0:	Pt4G02550.1	Pt4G03430.1	 3e-235
+141-  1:	Pt4G02680.1	Pt4G03520.1	      0
+141-  2:	Pt4G02960.1	Pt4G03810.1	 7e-121
+141-  3:	Pt4G03050.1	Pt4G03870.1	  3e-45
+141-  4:	Pt4G03110.1	Pt4G03930.1	 2e-141
+## Alignment 142: score=174.0 e_value=0.00017 N=4 pin_chr4&pin_chr4 plus
+142-  0:	Pt4G17110.1	Pt4G17590.1	  4e-86
+142-  1:	Pt4G17280.1	Pt4G17680.1	  6e-75
+142-  2:	Pt4G17310.1	Pt4G17690.1	  1e-22
+142-  3:	Pt4G17320.1	Pt4G17780.1	  2e-43
+## Alignment 143: score=159.0 e_value=3.1e-07 N=4 pin_chr4&pin_chr4 plus
+143-  0:	Pt4G00800.1	Pt4G63970.1	  1e-31
+143-  1:	Pt4G00810.1	Pt4G64020.1	  6e-38
+143-  2:	Pt4G01040.1	Pt4G64120.1	  3e-38
+143-  3:	Pt4G01100.1	Pt4G64310.1	  2e-08
+## Alignment 144: score=153.0 e_value=0.00049 N=4 pin_chr4&pin_chr4 plus
+144-  0:	Pt4G02880.1	Pt4G03360.1	  1e-86
+144-  1:	Pt4G03090.1	Pt4G03620.1	 2e-222
+144-  2:	Pt4G03110.1	Pt4G03830.1	 8e-142
+144-  3:	Pt4G03230.1	Pt4G03930.1	 1e-139
+## Alignment 145: score=219.0 e_value=1.4e-07 N=5 pin_chr4&pin_chr4 minus
+145-  0:	Pt4G59080.1	Pt4G59750.1	 4e-142
+145-  1:	Pt4G59110.1	Pt4G59700.1	  2e-61
+145-  2:	Pt4G59120.1	Pt4G59650.1	  2e-19
+145-  3:	Pt4G59340.1	Pt4G59480.1	  4e-43
+145-  4:	Pt4G59350.1	Pt4G59420.1	  4e-60
+## Alignment 146: score=170.0 e_value=0.00057 N=4 pin_chr4&pin_chr4 minus
+146-  0:	Pt4G22870.1	Pt4G24460.1	 3e-260
+146-  1:	Pt4G22910.1	Pt4G24440.1	 2e-169
+146-  2:	Pt4G22970.1	Pt4G24360.8	 2e-252
+146-  3:	Pt4G23080.1	Pt4G24130.1	      0
+## Alignment 147: score=163.0 e_value=4.4e-05 N=4 pin_chr4&pin_chr4 minus
+147-  0:	Pt4G61780.1	Pt4G62460.1	 4e-199
+147-  1:	Pt4G61970.1	Pt4G62450.1	  2e-23
+147-  2:	Pt4G62050.1	Pt4G62440.1	 1e-230
+147-  3:	Pt4G62220.1	Pt4G62360.1	  6e-53
+## Alignment 148: score=157.0 e_value=0.00087 N=4 pin_chr4&pin_chr4 minus
+148-  0:	Pt4G49670.1	Pt4G50350.1	 1e-187
+148-  1:	Pt4G49740.1	Pt4G50270.1	 2e-168
+148-  2:	Pt4G49800.1	Pt4G49980.1	  9e-22
+148-  3:	Pt4G49830.1	Pt4G49850.1	  4e-33
+## Alignment 149: score=259.0 e_value=5e-16 N=7 pin_chr4&pin_chr5 plus
+149-  0:	Pt4G11970.1	Pt5G54520.1	 2e-121
+149-  1:	Pt4G11980.1	Pt5G54900.1	 3e-119
+149-  2:	Pt4G12010.1	Pt5G54950.1	 4e-153
+149-  3:	Pt4G12040.1	Pt5G55010.1	  5e-53
+149-  4:	Pt4G12100.1	Pt5G55020.1	  6e-23
+149-  5:	Pt4G12600.1	Pt5G55160.1	  3e-31
+149-  6:	Pt4G12620.1	Pt5G55170.1	  3e-47
+## Alignment 150: score=168.0 e_value=0.00083 N=4 pin_chr4&pin_chr7 minus
+150-  0:	Pt4G01020.1	Pt7G62930.1	 1e-240
+150-  1:	Pt4G01040.2	Pt7G62850.1	  3e-33
+150-  2:	Pt4G01050.1	Pt7G62780.1	  5e-24
+150-  3:	Pt4G01090.1	Pt7G62490.1	 4e-246
+## Alignment 151: score=205.0 e_value=1.7e-15 N=6 pin_chr4&pin_chr8 plus
+151-  0:	Pt4G51840.1	Pt8G13140.1	  8e-81
+151-  1:	Pt4G51850.1	Pt8G13150.1	  4e-84
+151-  2:	Pt4G52250.1	Pt8G13530.1	 6e-103
+151-  3:	Pt4G52690.1	Pt8G13580.1	  6e-17
+151-  4:	Pt4G52820.3	Pt8G13680.1	  2e-47
+151-  5:	Pt4G52900.1	Pt8G13790.5	  8e-90
+## Alignment 152: score=275.0 e_value=1.1e-09 N=6 pin_chr5&pin_chr5 plus
+152-  0:	Pt5G06490.1	Pt5G45050.1	 2e-236
+152-  1:	Pt5G06500.1	Pt5G45080.1	      0
+152-  2:	Pt5G06510.1	Pt5G45090.1	      0
+152-  3:	Pt5G06530.1	Pt5G45100.1	      0
+152-  4:	Pt5G06610.1	Pt5G45220.1	 8e-278
+152-  5:	Pt5G06780.1	Pt5G45230.1	  4e-98
+## Alignment 153: score=270.0 e_value=1.8e-19 N=8 pin_chr5&pin_chr5 plus
+153-  0:	Pt5G11240.1	Pt5G12410.1	 5e-270
+153-  1:	Pt5G11400.1	Pt5G12880.1	 2e-174
+153-  2:	Pt5G11670.1	Pt5G13160.1	  3e-53
+153-  3:	Pt5G11880.1	Pt5G13170.1	 3e-212
+153-  4:	Pt5G11910.1	Pt5G13380.1	  8e-52
+153-  5:	Pt5G11950.1	Pt5G13410.1	  4e-21
+153-  6:	Pt5G11960.1	Pt5G13440.1	 2e-232
+153-  7:	Pt5G11990.1	Pt5G13700.1	 5e-156
+## Alignment 154: score=208.0 e_value=1.2e-07 N=5 pin_chr5&pin_chr5 plus
+154-  0:	Pt5G11510.1	Pt5G13480.1	  5e-53
+154-  1:	Pt5G11670.1	Pt5G13570.1	  1e-55
+154-  2:	Pt5G11860.1	Pt5G13700.1	 2e-154
+154-  3:	Pt5G11950.1	Pt5G13730.1	  3e-22
+154-  4:	Pt5G11990.1	Pt5G13790.1	 1e-141
+## Alignment 155: score=200.0 e_value=5.6e-06 N=5 pin_chr5&pin_chr5 plus
+155-  0:	Pt5G45710.1	Pt5G46470.1	 2e-167
+155-  1:	Pt5G45870.1	Pt5G46540.1	  9e-17
+155-  2:	Pt5G45950.1	Pt5G46570.1	      0
+155-  3:	Pt5G46010.1	Pt5G46580.1	      0
+155-  4:	Pt5G46300.1	Pt5G46720.1	      0
+## Alignment 156: score=172.0 e_value=0.00063 N=4 pin_chr5&pin_chr5 plus
+156-  0:	Pt5G13090.1	Pt5G13540.1	  5e-57
+156-  1:	Pt5G13160.1	Pt5G13570.1	 1e-143
+156-  2:	Pt5G13170.1	Pt5G13730.1	 1e-214
+156-  3:	Pt5G13320.10	Pt5G13860.1	 2e-292
+## Alignment 157: score=163.0 e_value=5e-06 N=4 pin_chr5&pin_chr5 plus
+157-  0:	Pt5G51400.1	Pt5G55860.1	 8e-135
+157-  1:	Pt5G51790.1	Pt5G55910.1	 2e-262
+157-  2:	Pt5G51820.1	Pt5G55920.1	      0
+157-  3:	Pt5G51840.1	Pt5G55930.1	      0
+## Alignment 158: score=151.0 e_value=1.1e-05 N=4 pin_chr5&pin_chr5 plus
+158-  0:	Pt5G11510.1	Pt5G13160.1	  2e-53
+158-  1:	Pt5G12020.1	Pt5G13260.1	  3e-43
+158-  2:	Pt5G12030.1	Pt5G13290.1	 5e-176
+158-  3:	Pt5G12050.1	Pt5G13310.1	 3e-273
+## Alignment 159: score=244.0 e_value=1.5e-05 N=5 pin_chr5&pin_chr5 minus
+159-  0:	Pt5G61110.1	Pt5G61370.1	 2e-102
+159-  1:	Pt5G61120.1	Pt5G61360.3	  4e-96
+159-  2:	Pt5G61140.4	Pt5G61340.16	  7e-50
+159-  3:	Pt5G61170.1	Pt5G61330.1	 2e-143
+159-  4:	Pt5G61200.1	Pt5G61290.1	 2e-148
+## Alignment 160: score=243.0 e_value=2.9e-07 N=5 pin_chr5&pin_chr5 minus
+160-  0:	Pt5G44360.1	Pt5G44640.1	 2e-180
+160-  1:	Pt5G44380.1	Pt5G44590.1	  5e-79
+160-  2:	Pt5G44390.2	Pt5G44580.8	 2e-211
+160-  3:	Pt5G44410.1	Pt5G44570.1	  2e-99
+160-  4:	Pt5G44440.1	Pt5G44560.1	  2e-53
+## Alignment 161: score=239.0 e_value=2.1e-07 N=5 pin_chr5&pin_chr5 minus
+161-  0:	Pt5G01140.1	Pt5G01420.1	  1e-14
+161-  1:	Pt5G01150.1	Pt5G01340.1	  7e-76
+161-  2:	Pt5G01170.1	Pt5G01330.1	  3e-60
+161-  3:	Pt5G01200.1	Pt5G01290.4	 2e-109
+161-  4:	Pt5G01210.1	Pt5G01280.1	 7e-111
+## Alignment 162: score=237.0 e_value=9.5e-10 N=6 pin_chr5&pin_chr5 minus
+162-  0:	Pt5G51910.1	Pt5G53160.1	  4e-55
+162-  1:	Pt5G51980.1	Pt5G53020.1	  2e-88
+162-  2:	Pt5G52070.1	Pt5G52950.1	 2e-139
+162-  3:	Pt5G52170.1	Pt5G52840.1	 9e-267
+162-  4:	Pt5G52220.1	Pt5G52530.1	 9e-293
+162-  5:	Pt5G52230.1	Pt5G52420.1	 3e-231
+## Alignment 163: score=230.0 e_value=2.7e-08 N=5 pin_chr5&pin_chr5 minus
+163-  0:	Pt5G13340.1	Pt5G13840.1	 2e-253
+163-  1:	Pt5G13350.2	Pt5G13830.1	 1e-190
+163-  2:	Pt5G13370.10	Pt5G13820.1	  2e-65
+163-  3:	Pt5G13400.1	Pt5G13730.1	  1e-46
+163-  4:	Pt5G13450.1	Pt5G13570.1	  5e-28
+## Alignment 164: score=207.0 e_value=7.1e-10 N=6 pin_chr5&pin_chr5 minus
+164-  0:	Pt5G34200.1	Pt5G35870.1	  1e-58
+164-  1:	Pt5G34630.1	Pt5G35780.1	  1e-74
+164-  2:	Pt5G34680.1	Pt5G35760.1	 6e-106
+164-  3:	Pt5G34830.1	Pt5G35480.10	  2e-37
+164-  4:	Pt5G35070.1	Pt5G35170.1	 4e-208
+164-  5:	Pt5G35100.1	Pt5G35150.6	 1e-269
+## Alignment 165: score=207.0 e_value=1.6e-08 N=5 pin_chr5&pin_chr5 minus
+165-  0:	Pt5G11860.1	Pt5G13790.1	 1e-172
+165-  1:	Pt5G11880.1	Pt5G13730.1	 1e-197
+165-  2:	Pt5G11960.1	Pt5G13720.1	 4e-236
+165-  3:	Pt5G11990.1	Pt5G13390.1	 4e-136
+165-  4:	Pt5G12050.1	Pt5G13310.1	 3e-273
+## Alignment 166: score=202.0 e_value=1.1e-08 N=5 pin_chr5&pin_chr5 minus
+166-  0:	Pt5G45730.1	Pt5G46720.1	 3e-296
+166-  1:	Pt5G45830.1	Pt5G46280.1	 1e-296
+166-  2:	Pt5G45840.1	Pt5G46270.1	 1e-290
+166-  3:	Pt5G45950.1	Pt5G46190.1	  4e-54
+166-  4:	Pt5G45960.1	Pt5G46180.1	      0
+## Alignment 167: score=191.0 e_value=1.4e-05 N=5 pin_chr5&pin_chr5 minus
+167-  0:	Pt5G09550.1	Pt5G49020.1	  1e-91
+167-  1:	Pt5G09650.9	Pt5G48950.1	  2e-72
+167-  2:	Pt5G09920.1	Pt5G48810.9	 7e-123
+167-  3:	Pt5G10120.1	Pt5G48680.1	 7e-116
+167-  4:	Pt5G10210.1	Pt5G48610.1	 6e-119
+## Alignment 168: score=237.0 e_value=2.1e-06 N=5 pin_chr5&pin_chr7 plus
+168-  0:	Pt5G61630.1	Pt7G01610.1	 6e-234
+168-  1:	Pt5G61650.1	Pt7G01620.1	 7e-217
+168-  2:	Pt5G61690.1	Pt7G01660.1	 8e-118
+168-  3:	Pt5G61810.1	Pt7G01730.1	 4e-120
+168-  4:	Pt5G61820.1	Pt7G01760.1	 1e-270
+## Alignment 169: score=206.0 e_value=2.1e-09 N=5 pin_chr6&pin_chr6 plus
+169-  0:	Pt6G53540.1	Pt6G54230.1	      0
+169-  1:	Pt6G53770.1	Pt6G54280.1	 7e-121
+169-  2:	Pt6G53780.1	Pt6G54310.1	  6e-45
+169-  3:	Pt6G53870.1	Pt6G54340.1	  5e-23
+169-  4:	Pt6G54010.1	Pt6G54520.1	      0
+## Alignment 170: score=171.0 e_value=0.00019 N=4 pin_chr6&pin_chr6 plus
+170-  0:	Pt6G46940.1	Pt6G47420.1	 5e-162
+170-  1:	Pt6G47150.1	Pt6G47440.1	  1e-42
+170-  2:	Pt6G47270.1	Pt6G47460.2	  8e-63
+170-  3:	Pt6G47310.1	Pt6G47500.1	      0
+## Alignment 171: score=170.0 e_value=6.8e-06 N=4 pin_chr6&pin_chr6 plus
+171-  0:	Pt6G15420.1	Pt6G25660.1	 4e-189
+171-  1:	Pt6G15430.1	Pt6G25670.2	 1e-185
+171-  2:	Pt6G15660.6	Pt6G25680.1	 1e-110
+171-  3:	Pt6G15800.3	Pt6G25700.1	 2e-101
+## Alignment 172: score=166.0 e_value=7e-05 N=4 pin_chr6&pin_chr6 plus
+172-  0:	Pt6G21190.1	Pt6G25100.1	 3e-304
+172-  1:	Pt6G21370.1	Pt6G25130.1	  2e-27
+172-  2:	Pt6G21410.1	Pt6G25140.1	  3e-51
+172-  3:	Pt6G21540.4	Pt6G25290.2	  1e-28
+## Alignment 173: score=200.0 e_value=0.00015 N=4 pin_chr6&pin_chr6 minus
+173-  0:	Pt6G00440.1	Pt6G00950.1	 8e-188
+173-  1:	Pt6G00450.1	Pt6G00940.1	  4e-66
+173-  2:	Pt6G00460.1	Pt6G00930.1	 5e-235
+173-  3:	Pt6G00480.1	Pt6G00910.1	      0
+## Alignment 174: score=177.0 e_value=5.3e-06 N=4 pin_chr6&pin_chr6 minus
+174-  0:	Pt6G26930.1	Pt6G27550.1	 2e-228
+174-  1:	Pt6G27160.1	Pt6G27360.1	 7e-208
+174-  2:	Pt6G27170.1	Pt6G27350.1	 6e-189
+174-  3:	Pt6G27180.1	Pt6G27320.1	 4e-164
+## Alignment 175: score=174.0 e_value=4.1e-05 N=4 pin_chr6&pin_chr6 minus
+175-  0:	Pt6G56450.1	Pt6G57170.1	 2e-109
+175-  1:	Pt6G56580.1	Pt6G57130.1	  4e-18
+175-  2:	Pt6G56750.1	Pt6G56970.2	  7e-66
+175-  3:	Pt6G56760.1	Pt6G56960.1	  4e-93
+## Alignment 176: score=193.0 e_value=2.4e-08 N=5 pin_chr6&pin_chr9 minus
+176-  0:	Pt6G12560.1	Pt9G58150.1	 6e-198
+176-  1:	Pt6G12630.1	Pt9G58140.1	  4e-22
+176-  2:	Pt6G12640.1	Pt9G58120.2	  1e-18
+176-  3:	Pt6G12670.1	Pt9G58000.1	 3e-199
+176-  4:	Pt6G13130.1	Pt9G57670.1	  8e-91
+## Alignment 177: score=197.0 e_value=0.00062 N=4 pin_chr6&pin_tig00266601_1_2 minus
+177-  0:	Pt6G55620.1	Pt0G13940.1	 6e-311
+177-  1:	Pt6G55630.1	Pt0G13930.1	      0
+177-  2:	Pt6G55670.1	Pt0G13900.1	  2e-92
+177-  3:	Pt6G55700.1	Pt0G13870.1	      0
+## Alignment 178: score=161.0 e_value=2.7e-07 N=4 pin_chr7&pin_chr7 plus
+178-  0:	Pt7G42680.1	Pt7G42820.1	  3e-39
+178-  1:	Pt7G42690.1	Pt7G42840.1	 9e-291
+178-  2:	Pt7G42750.1	Pt7G43230.1	  1e-34
+178-  3:	Pt7G42760.1	Pt7G43240.1	 7e-156
+## Alignment 179: score=333.0 e_value=1.2e-18 N=8 pin_chr7&pin_chr7 minus
+179-  0:	Pt7G17740.1	Pt7G19000.1	      0
+179-  1:	Pt7G17780.1	Pt7G18930.1	  2e-26
+179-  2:	Pt7G17820.1	Pt7G18910.1	  2e-72
+179-  3:	Pt7G17910.1	Pt7G18800.1	  3e-51
+179-  4:	Pt7G17930.1	Pt7G18780.1	      0
+179-  5:	Pt7G17940.8	Pt7G18770.1	  9e-72
+179-  6:	Pt7G18060.1	Pt7G18260.1	  2e-24
+179-  7:	Pt7G18070.1	Pt7G18240.1	  3e-42
+## Alignment 180: score=205.0 e_value=3.4e-07 N=5 pin_chr7&pin_chr7 minus
+180-  0:	Pt7G10900.1	Pt7G11930.1	  6e-10
+180-  1:	Pt7G11010.1	Pt7G11810.1	  2e-22
+180-  2:	Pt7G11060.1	Pt7G11730.1	 1e-195
+180-  3:	Pt7G11220.1	Pt7G11720.1	 2e-174
+180-  4:	Pt7G11390.1	Pt7G11600.1	 2e-178
+## Alignment 181: score=167.0 e_value=0.00011 N=4 pin_chr7&pin_chr7 minus
+181-  0:	Pt7G37760.1	Pt7G38260.1	  5e-09
+181-  1:	Pt7G37920.1	Pt7G38250.2	  8e-56
+181-  2:	Pt7G38010.1	Pt7G38200.1	 5e-214
+181-  3:	Pt7G38070.1	Pt7G38080.1	 7e-298
+## Alignment 182: score=161.0 e_value=7.9e-08 N=5 pin_chr7&pin_chr7 minus
+182-  0:	Pt7G45030.6	Pt7G46740.1	 5e-214
+182-  1:	Pt7G45070.1	Pt7G46730.1	  2e-52
+182-  2:	Pt7G45310.1	Pt7G46350.1	 1e-216
+182-  3:	Pt7G45330.1	Pt7G46260.1	 4e-163
+182-  4:	Pt7G45570.1	Pt7G45710.1	  6e-90
+## Alignment 183: score=157.0 e_value=4.2e-06 N=5 pin_chr7&pin_chr7 minus
+183-  0:	Pt7G12800.1	Pt7G20050.1	 2e-146
+183-  1:	Pt7G13280.1	Pt7G19780.1	  7e-56
+183-  2:	Pt7G13370.1	Pt7G19720.1	  5e-82
+183-  3:	Pt7G13400.1	Pt7G19550.1	  1e-54
+183-  4:	Pt7G13420.1	Pt7G19250.1	  2e-45
+## Alignment 184: score=180.0 e_value=0.00016 N=4 pin_chr7&pin_chr8 minus
+184-  0:	Pt7G54530.1	Pt8G13280.1	  3e-72
+184-  1:	Pt7G54540.1	Pt8G13120.1	  6e-81
+184-  2:	Pt7G54580.1	Pt8G13110.11	 1e-231
+184-  3:	Pt7G54590.1	Pt8G13050.1	 2e-165
+## Alignment 185: score=237.0 e_value=2.3e-12 N=7 pin_chr7&pin_chr9 plus
+185-  0:	Pt7G00090.1	Pt9G38780.1	 3e-106
+185-  1:	Pt7G00520.1	Pt9G39170.1	 3e-137
+185-  2:	Pt7G00750.1	Pt9G39430.1	  1e-69
+185-  3:	Pt7G00830.1	Pt9G39470.4	  4e-82
+185-  4:	Pt7G00860.1	Pt9G39650.1	  9e-84
+185-  5:	Pt7G01200.9	Pt9G39790.1	  3e-48
+185-  6:	Pt7G01220.1	Pt9G39810.1	  1e-58
+## Alignment 186: score=224.0 e_value=8.1e-06 N=5 pin_chr8&pin_chr8 plus
+186-  0:	Pt8G13690.1	Pt8G14170.1	 5e-107
+186-  1:	Pt8G13780.1	Pt8G14270.5	 1e-159
+186-  2:	Pt8G13830.3	Pt8G14360.1	 1e-141
+186-  3:	Pt8G13890.1	Pt8G14400.1	  1e-23
+186-  4:	Pt8G13960.1	Pt8G14460.5	 4e-189
+## Alignment 187: score=221.0 e_value=3.1e-07 N=5 pin_chr8&pin_chr8 plus
+187-  0:	Pt8G53160.1	Pt8G55240.1	  1e-12
+187-  1:	Pt8G53180.1	Pt8G55270.1	  8e-62
+187-  2:	Pt8G53190.1	Pt8G55340.1	  1e-67
+187-  3:	Pt8G53290.1	Pt8G55360.1	 6e-197
+187-  4:	Pt8G53340.1	Pt8G55500.1	 1e-266
+## Alignment 188: score=216.0 e_value=1.8e-14 N=6 pin_chr8&pin_chr8 plus
+188-  0:	Pt8G22100.1	Pt8G23680.1	  3e-61
+188-  1:	Pt8G22350.1	Pt8G24090.2	  6e-05
+188-  2:	Pt8G22360.1	Pt8G24140.2	  2e-15
+188-  3:	Pt8G22750.1	Pt8G24600.1	  7e-74
+188-  4:	Pt8G22780.1	Pt8G24620.1	 6e-190
+188-  5:	Pt8G22790.1	Pt8G24630.1	 9e-115
+## Alignment 189: score=192.0 e_value=0.00014 N=4 pin_chr8&pin_chr8 plus
+189-  0:	Pt8G10680.1	Pt8G12130.1	  8e-50
+189-  1:	Pt8G10770.1	Pt8G12220.6	      0
+189-  2:	Pt8G10790.1	Pt8G12230.1	 2e-292
+189-  3:	Pt8G10800.1	Pt8G12240.1	 5e-186
+## Alignment 190: score=182.0 e_value=7.7e-08 N=5 pin_chr8&pin_chr8 plus
+190-  0:	Pt8G38940.9	Pt8G39740.3	  4e-93
+190-  1:	Pt8G39060.1	Pt8G39910.1	  2e-64
+190-  2:	Pt8G39160.1	Pt8G39940.1	  4e-82
+190-  3:	Pt8G39280.1	Pt8G39950.1	  3e-06
+190-  4:	Pt8G39660.1	Pt8G40000.1	  1e-63
+## Alignment 191: score=180.0 e_value=9.9e-08 N=4 pin_chr8&pin_chr8 plus
+191-  0:	Pt8G34200.1	Pt8G52830.1	  8e-86
+191-  1:	Pt8G34230.1	Pt8G53000.1	 1e-121
+191-  2:	Pt8G34270.1	Pt8G53050.1	 1e-261
+191-  3:	Pt8G34280.1	Pt8G53060.1	  6e-16
+## Alignment 192: score=169.0 e_value=8.6e-05 N=4 pin_chr8&pin_chr8 plus
+192-  0:	Pt8G19830.1	Pt8G20540.1	  4e-72
+192-  1:	Pt8G19840.1	Pt8G20550.1	 7e-220
+192-  2:	Pt8G19930.1	Pt8G20730.1	  1e-91
+192-  3:	Pt8G20020.1	Pt8G20930.1	  7e-40
+## Alignment 193: score=159.0 e_value=1.1e-06 N=4 pin_chr8&pin_chr8 plus
+193-  0:	Pt8G37810.1	Pt8G38780.1	  6e-86
+193-  1:	Pt8G38110.1	Pt8G39140.1	  1e-32
+193-  2:	Pt8G38130.1	Pt8G39160.1	  8e-84
+193-  3:	Pt8G38150.1	Pt8G39280.1	  4e-07
+## Alignment 194: score=154.0 e_value=6.7e-06 N=4 pin_chr8&pin_chr8 plus
+194-  0:	Pt8G38110.1	Pt8G39720.1	  1e-33
+194-  1:	Pt8G38130.1	Pt8G39790.1	  3e-42
+194-  2:	Pt8G38150.1	Pt8G39950.1	  4e-05
+194-  3:	Pt8G38470.1	Pt8G40040.1	  1e-71
+## Alignment 195: score=342.0 e_value=4.5e-13 N=7 pin_chr8&pin_chr8 minus
+195-  0:	Pt8G12520.1	Pt8G13050.1	 1e-225
+195-  1:	Pt8G12530.1	Pt8G13030.1	  7e-90
+195-  2:	Pt8G12550.1	Pt8G13000.1	      0
+195-  3:	Pt8G12560.1	Pt8G12970.1	 6e-261
+195-  4:	Pt8G12580.1	Pt8G12940.1	  3e-24
+195-  5:	Pt8G12590.1	Pt8G12930.1	  7e-30
+195-  6:	Pt8G12610.1	Pt8G12880.3	  3e-09
+## Alignment 196: score=196.0 e_value=0.00011 N=4 pin_chr8&pin_chr8 minus
+196-  0:	Pt8G59880.1	Pt8G60080.1	  2e-27
+196-  1:	Pt8G59890.1	Pt8G60070.1	 3e-206
+196-  2:	Pt8G59900.1	Pt8G60050.8	 2e-307
+196-  3:	Pt8G59940.1	Pt8G60010.1	 1e-141
+## Alignment 197: score=193.0 e_value=3.1e-11 N=7 pin_chr8&pin_chr8 minus
+197-  0:	Pt8G52810.1	Pt8G55500.1	      0
+197-  1:	Pt8G53000.1	Pt8G55440.1	  5e-78
+197-  2:	Pt8G53170.1	Pt8G55290.1	  6e-91
+197-  3:	Pt8G53180.1	Pt8G55070.1	 4e-169
+197-  4:	Pt8G53380.1	Pt8G54780.1	  2e-18
+197-  5:	Pt8G53430.1	Pt8G54140.1	 6e-189
+197-  6:	Pt8G53740.1	Pt8G53830.1	 3e-224
+## Alignment 198: score=178.0 e_value=8.9e-07 N=4 pin_chr8&pin_chr8 minus
+198-  0:	Pt8G49430.1	Pt8G50040.1	  2e-24
+198-  1:	Pt8G49600.1	Pt8G49910.1	  9e-39
+198-  2:	Pt8G49620.1	Pt8G49900.1	 9e-102
+198-  3:	Pt8G49650.1	Pt8G49780.1	  1e-74
+## Alignment 199: score=176.0 e_value=1.3e-06 N=5 pin_chr8&pin_chr8 minus
+199-  0:	Pt8G50630.1	Pt8G51780.8	 4e-211
+199-  1:	Pt8G50640.1	Pt8G51550.1	  8e-23
+199-  2:	Pt8G50680.1	Pt8G51530.1	 2e-132
+199-  3:	Pt8G50780.1	Pt8G51430.1	  2e-24
+199-  4:	Pt8G50810.1	Pt8G50990.1	 3e-143
+## Alignment 200: score=162.0 e_value=1e-09 N=4 pin_chr8&pin_chr8 minus
+200-  0:	Pt8G39130.1	Pt8G40140.1	  6e-12
+200-  1:	Pt8G39140.1	Pt8G40120.1	  7e-13
+200-  2:	Pt8G39210.1	Pt8G40100.1	  9e-29
+200-  3:	Pt8G39440.1	Pt8G39740.3	 4e-103
+## Alignment 201: score=153.0 e_value=6e-08 N=5 pin_chr8&pin_chr8 minus
+201-  0:	Pt8G13020.1	Pt8G15220.1	  1e-18
+201-  1:	Pt8G13270.5	Pt8G15040.1	  2e-11
+201-  2:	Pt8G13670.1	Pt8G14490.1	 1e-108
+201-  3:	Pt8G13750.1	Pt8G14460.5	 4e-120
+201-  4:	Pt8G13830.3	Pt8G14150.1	 7e-138
+## Alignment 202: score=175.0 e_value=7.3e-05 N=4 pin_chr8&pin_tig00002302_1_2 plus
+202-  0:	Pt8G57140.1	Pt0G04920.1	  4e-80
+202-  1:	Pt8G57360.1	Pt0G04930.1	      0
+202-  2:	Pt8G57410.2	Pt0G04950.7	      0
+202-  3:	Pt8G57430.1	Pt0G04990.1	 7e-293
+## Alignment 203: score=151.0 e_value=2.6e-05 N=4 pin_chr8&pin_tig00002302_1_2 minus
+203-  0:	Pt8G57010.2	Pt0G04950.7	      0
+203-  1:	Pt8G57020.2	Pt0G04940.1	  8e-59
+203-  2:	Pt8G57230.1	Pt0G04930.1	      0
+203-  3:	Pt8G57530.1	Pt0G04920.1	  2e-73
+## Alignment 204: score=216.0 e_value=4.2e-07 N=5 pin_chr9&pin_chr9 plus
+204-  0:	Pt9G06090.6	Pt9G50810.6	  8e-24
+204-  1:	Pt9G06220.1	Pt9G50940.1	 6e-112
+204-  2:	Pt9G06260.1	Pt9G51020.1	 6e-122
+204-  3:	Pt9G06390.1	Pt9G51150.1	 7e-112
+204-  4:	Pt9G06430.1	Pt9G51190.1	  6e-29
+## Alignment 205: score=177.0 e_value=1.9e-06 N=5 pin_chr9&pin_chr9 plus
+205-  0:	Pt9G04630.1	Pt9G07130.1	 4e-112
+205-  1:	Pt9G04710.1	Pt9G07370.6	  4e-74
+205-  2:	Pt9G04800.1	Pt9G07440.10	  4e-79
+205-  3:	Pt9G04810.1	Pt9G07470.1	 2e-145
+205-  4:	Pt9G04930.1	Pt9G07940.1	 2e-148
+## Alignment 206: score=172.0 e_value=0.00037 N=4 pin_chr9&pin_chr9 plus
+206-  0:	Pt9G48220.1	Pt9G51610.1	  2e-60
+206-  1:	Pt9G48290.1	Pt9G51660.1	  5e-26
+206-  2:	Pt9G48310.1	Pt9G51670.1	  8e-59
+206-  3:	Pt9G48400.1	Pt9G51930.1	  1e-57
+## Alignment 207: score=155.0 e_value=2.7e-06 N=5 pin_chr9&pin_chr9 plus
+207-  0:	Pt9G03900.1	Pt9G07130.1	 2e-108
+207-  1:	Pt9G04240.1	Pt9G07450.1	 2e-151
+207-  2:	Pt9G04590.1	Pt9G07670.1	  5e-49
+207-  3:	Pt9G04740.1	Pt9G07940.1	 9e-149
+207-  4:	Pt9G04810.1	Pt9G07970.1	 9e-146
+## Alignment 208: score=152.0 e_value=7e-09 N=5 pin_chr9&pin_chr9 plus
+208-  0:	Pt9G18080.1	Pt9G20810.1	 6e-203
+208-  1:	Pt9G18400.1	Pt9G21160.1	 1e-124
+208-  2:	Pt9G18980.1	Pt9G21200.1	  4e-64
+208-  3:	Pt9G19000.1	Pt9G21230.1	 3e-312
+208-  4:	Pt9G19040.1	Pt9G21330.1	 8e-131
+## Alignment 209: score=303.0 e_value=1.3e-11 N=7 pin_chr9&pin_chr9 minus
+209-  0:	Pt9G55500.1	Pt9G56460.1	 4e-116
+209-  1:	Pt9G55570.3	Pt9G56450.1	 2e-294
+209-  2:	Pt9G55590.1	Pt9G56360.1	 9e-165
+209-  3:	Pt9G55630.1	Pt9G56140.1	 2e-122
+209-  4:	Pt9G55660.1	Pt9G56100.1	 2e-204
+209-  5:	Pt9G55690.1	Pt9G56060.1	  8e-43
+209-  6:	Pt9G55770.1	Pt9G56040.1	 1e-229
+## Alignment 210: score=229.0 e_value=3e-06 N=5 pin_chr9&pin_chr9 minus
+210-  0:	Pt9G11730.1	Pt9G12160.4	 3e-128
+210-  1:	Pt9G11910.1	Pt9G12140.1	 3e-191
+210-  2:	Pt9G11970.1	Pt9G12110.1	  3e-86
+210-  3:	Pt9G12000.1	Pt9G12090.1	  5e-25
+210-  4:	Pt9G12040.1	Pt9G12070.1	      0
+## Alignment 211: score=228.0 e_value=6.7e-08 N=5 pin_chr9&pin_chr9 minus
+211-  0:	Pt9G43260.1	Pt9G43710.1	  1e-94
+211-  1:	Pt9G43450.1	Pt9G43680.1	 8e-208
+211-  2:	Pt9G43460.1	Pt9G43670.1	  8e-45
+211-  3:	Pt9G43480.1	Pt9G43660.1	 1e-222
+211-  4:	Pt9G43490.1	Pt9G43600.1	 5e-166
+## Alignment 212: score=215.0 e_value=2.6e-09 N=6 pin_chr9&pin_chr9 minus
+212-  0:	Pt9G07270.1	Pt9G08770.1	  1e-15
+212-  1:	Pt9G07310.12	Pt9G08510.2	 5e-119
+212-  2:	Pt9G07320.1	Pt9G08440.1	  3e-25
+212-  3:	Pt9G07450.1	Pt9G07970.1	 3e-151
+212-  4:	Pt9G07470.1	Pt9G07940.1	 9e-154
+212-  5:	Pt9G07570.1	Pt9G07760.1	 2e-153
+## Alignment 213: score=205.0 e_value=1.1e-09 N=6 pin_chr9&pin_chr9 minus
+213-  0:	Pt9G18780.1	Pt9G21890.1	 7e-146
+213-  1:	Pt9G18820.1	Pt9G21840.1	 5e-135
+213-  2:	Pt9G18980.1	Pt9G21320.1	 3e-240
+213-  3:	Pt9G19000.1	Pt9G21160.1	      0
+213-  4:	Pt9G19040.1	Pt9G21070.1	 2e-152
+213-  5:	Pt9G19300.1	Pt9G20810.1	 4e-205
+## Alignment 214: score=196.0 e_value=1.3e-05 N=4 pin_chr9&pin_chr9 minus
+214-  0:	Pt9G54900.1	Pt9G55460.1	  1e-50
+214-  1:	Pt9G54940.1	Pt9G55430.1	  7e-49
+214-  2:	Pt9G54950.1	Pt9G55420.1	  4e-44
+214-  3:	Pt9G54980.1	Pt9G55400.1	  5e-51
+## Alignment 215: score=190.0 e_value=0.00019 N=4 pin_chr9&pin_chr9 minus
+215-  0:	Pt9G45620.1	Pt9G56180.1	 1e-180
+215-  1:	Pt9G45640.1	Pt9G56160.6	 4e-172
+215-  2:	Pt9G45670.1	Pt9G56150.2	 2e-180
+215-  3:	Pt9G45680.1	Pt9G56060.1	  2e-55
+## Alignment 216: score=185.0 e_value=3.5e-07 N=5 pin_chr9&pin_chr9 minus
+216-  0:	Pt9G18890.1	Pt9G21910.1	 1e-163
+216-  1:	Pt9G18910.1	Pt9G21890.1	 6e-145
+216-  2:	Pt9G18980.1	Pt9G21420.1	 3e-182
+216-  3:	Pt9G19000.1	Pt9G21230.1	 3e-312
+216-  4:	Pt9G19040.1	Pt9G21150.1	 1e-240
+## Alignment 217: score=164.0 e_value=2.1e-06 N=4 pin_chr9&pin_chr9 minus
+217-  0:	Pt9G25480.1	Pt9G27750.1	 1e-311
+217-  1:	Pt9G25490.1	Pt9G27690.1	 1e-248
+217-  2:	Pt9G25510.1	Pt9G27670.1	 7e-244
+217-  3:	Pt9G25880.1	Pt9G27530.1	  5e-25
+## Alignment 218: score=158.0 e_value=3e-07 N=4 pin_chr9&pin_chr9 minus
+218-  0:	Pt9G21350.1	Pt9G22450.1	 2e-287
+218-  1:	Pt9G21640.1	Pt9G21980.1	      0
+218-  2:	Pt9G21650.1	Pt9G21950.1	  4e-79
+218-  3:	Pt9G21690.1	Pt9G21940.1	  3e-85
+## Alignment 219: score=150.0 e_value=0.00025 N=4 pin_chr9&pin_chr9 minus
+219-  0:	Pt9G11830.1	Pt9G46420.7	 2e-109
+219-  1:	Pt9G11880.1	Pt9G46360.1	 9e-215
+219-  2:	Pt9G11960.1	Pt9G46220.1	  5e-33
+219-  3:	Pt9G12370.1	Pt9G45840.1	 2e-126

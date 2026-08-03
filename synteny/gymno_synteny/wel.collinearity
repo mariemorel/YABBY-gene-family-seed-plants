@@ -1,0 +1,1034 @@
+############### Parameters ###############
+# MATCH_SCORE: 50
+# GAP_PENALTY: -1
+# MATCH_SIZE: 3
+# OVERLAP_WINDOW: 5
+# E_VALUE: 0.001
+# MAX GAPS: 55
+############### Statistics ###############
+# Number of collinear genes: 1683, Percentage: 6.24
+# Number of all genes: 26990
+##########################################
+## Alignment 0: score=164.0 e_value=1.2e-06 N=5 wel_Chr01&wel_Chr01 plus
+  0-  0:	W_mirabilis_14968	W_mirabilis_14883	  7e-14
+  0-  1:	W_mirabilis_11811	W_mirabilis_06467	 1e-174
+  0-  2:	W_mirabilis_20945	W_mirabilis_06468	  9e-53
+  0-  3:	W_mirabilis_17894	W_mirabilis_02688	 8e-238
+  0-  4:	W_mirabilis_21512	W_mirabilis_21897	 1e-142
+## Alignment 1: score=240.0 e_value=2.2e-21 N=7 wel_Chr01&wel_Chr01 minus
+  1-  0:	W_mirabilis_16994	W_mirabilis_04661	  2e-83
+  1-  1:	W_mirabilis_16995	W_mirabilis_04662	  5e-12
+  1-  2:	W_mirabilis_16997	W_mirabilis_04663	  8e-16
+  1-  3:	W_mirabilis_26650	W_mirabilis_14821	  2e-16
+  1-  4:	W_mirabilis_19006	W_mirabilis_19406	  4e-22
+  1-  5:	W_mirabilis_19005	W_mirabilis_16988	  3e-50
+  1-  6:	W_mirabilis_19004	W_mirabilis_17586	 1e-106
+## Alignment 2: score=751.0 e_value=1.1e-56 N=19 wel_Chr01&wel_Chr03 plus
+  2-  0:	W_mirabilis_09063	W_mirabilis_06094	  8e-26
+  2-  1:	W_mirabilis_11497	W_mirabilis_14160	 6e-240
+  2-  2:	W_mirabilis_11499	W_mirabilis_05640	 1e-111
+  2-  3:	W_mirabilis_23366	W_mirabilis_00605	  4e-17
+  2-  4:	W_mirabilis_23360	W_mirabilis_00607	  3e-16
+  2-  5:	W_mirabilis_22299	W_mirabilis_06740	  2e-40
+  2-  6:	W_mirabilis_06240	W_mirabilis_06735	 4e-117
+  2-  7:	W_mirabilis_06241	W_mirabilis_10978	 3e-183
+  2-  8:	W_mirabilis_06242	W_mirabilis_22442	  2e-27
+  2-  9:	W_mirabilis_06243	W_mirabilis_22436	 3e-231
+  2- 10:	W_mirabilis_16025	W_mirabilis_22429	  2e-92
+  2- 11:	W_mirabilis_21192	W_mirabilis_03168	 2e-173
+  2- 12:	W_mirabilis_09766	W_mirabilis_03166	 8e-196
+  2- 13:	W_mirabilis_00427	W_mirabilis_02859	 6e-169
+  2- 14:	W_mirabilis_00493	W_mirabilis_19327	  8e-91
+  2- 15:	W_mirabilis_14563	W_mirabilis_16963	 2e-141
+  2- 16:	W_mirabilis_14562	W_mirabilis_16964	 1e-269
+  2- 17:	W_mirabilis_11351	W_mirabilis_16970	 2e-219
+  2- 18:	W_mirabilis_23181	W_mirabilis_16975	      0
+## Alignment 3: score=181.0 e_value=2.1e-12 N=7 wel_Chr01&wel_Chr03 plus
+  3-  0:	W_mirabilis_23342	W_mirabilis_00517	  1e-55
+  3-  1:	W_mirabilis_23339	W_mirabilis_00512	 1e-234
+  3-  2:	W_mirabilis_02076	W_mirabilis_00599	  2e-60
+  3-  3:	W_mirabilis_09766	W_mirabilis_22436	 8e-102
+  3-  4:	W_mirabilis_00429	W_mirabilis_02860	  4e-52
+  3-  5:	W_mirabilis_00494	W_mirabilis_05970	 5e-112
+  3-  6:	W_mirabilis_14562	W_mirabilis_16975	 1e-268
+## Alignment 4: score=309.0 e_value=1.2e-11 N=7 wel_Chr01&wel_Chr03 minus
+  4-  0:	W_mirabilis_10393	W_mirabilis_12985	 1e-189
+  4-  1:	W_mirabilis_13563	W_mirabilis_12984	 2e-140
+  4-  2:	W_mirabilis_05423	W_mirabilis_12978	 6e-101
+  4-  3:	W_mirabilis_05741	W_mirabilis_12960	  3e-41
+  4-  4:	W_mirabilis_22660	W_mirabilis_12956	  3e-56
+  4-  5:	W_mirabilis_22665	W_mirabilis_12954	  3e-26
+  4-  6:	W_mirabilis_24902	W_mirabilis_12950	 7e-104
+## Alignment 5: score=307.0 e_value=7.6e-15 N=8 wel_Chr01&wel_Chr03 minus
+  5-  0:	W_mirabilis_21719	W_mirabilis_12290	  3e-46
+  5-  1:	W_mirabilis_22907	W_mirabilis_09197	 2e-174
+  5-  2:	W_mirabilis_22906	W_mirabilis_16389	 2e-105
+  5-  3:	W_mirabilis_22903	W_mirabilis_13814	  6e-05
+  5-  4:	W_mirabilis_11419	W_mirabilis_10971	 4e-133
+  5-  5:	W_mirabilis_07381	W_mirabilis_22085	 0.0003
+  5-  6:	W_mirabilis_04614	W_mirabilis_20823	  2e-12
+  5-  7:	W_mirabilis_21904	W_mirabilis_15956	 2e-304
+## Alignment 6: score=208.0 e_value=1e-11 N=6 wel_Chr01&wel_Chr03 minus
+  6-  0:	W_mirabilis_11351	W_mirabilis_03821	  3e-09
+  6-  1:	W_mirabilis_23177	W_mirabilis_03820	  5e-29
+  6-  2:	W_mirabilis_18698	W_mirabilis_12876	      0
+  6-  3:	W_mirabilis_25246	W_mirabilis_25656	 3e-127
+  6-  4:	W_mirabilis_03499	W_mirabilis_09667	 8e-255
+  6-  5:	W_mirabilis_03498	W_mirabilis_09668	 7e-116
+## Alignment 7: score=188.0 e_value=0.00039 N=4 wel_Chr01&wel_Chr03 minus
+  7-  0:	W_mirabilis_23362	W_mirabilis_20492	  2e-85
+  7-  1:	W_mirabilis_23354	W_mirabilis_00605	  7e-27
+  7-  2:	W_mirabilis_23350	W_mirabilis_00604	  1e-59
+  7-  3:	W_mirabilis_23348	W_mirabilis_00601	 2e-262
+## Alignment 8: score=178.0 e_value=1.5e-06 N=4 wel_Chr01&wel_Chr03 minus
+  8-  0:	W_mirabilis_21082	W_mirabilis_15941	 8e-218
+  8-  1:	W_mirabilis_13410	W_mirabilis_15938	  6e-38
+  8-  2:	W_mirabilis_13411	W_mirabilis_15937	  7e-51
+  8-  3:	W_mirabilis_10395	W_mirabilis_15936	  7e-47
+## Alignment 9: score=157.0 e_value=0.00064 N=4 wel_Chr01&wel_Chr03 minus
+  9-  0:	W_mirabilis_12612	W_mirabilis_22083	 1e-298
+  9-  1:	W_mirabilis_12615	W_mirabilis_25640	  1e-82
+  9-  2:	W_mirabilis_15162	W_mirabilis_20830	  6e-66
+  9-  3:	W_mirabilis_21906	W_mirabilis_20983	  4e-57
+## Alignment 10: score=478.0 e_value=4.3e-27 N=11 wel_Chr01&wel_Chr04 plus
+ 10-  0:	W_mirabilis_18792	W_mirabilis_06829	 3e-196
+ 10-  1:	W_mirabilis_13725	W_mirabilis_06830	 4e-151
+ 10-  2:	W_mirabilis_11964	W_mirabilis_06835	 1e-233
+ 10-  3:	W_mirabilis_07459	W_mirabilis_06837	  4e-30
+ 10-  4:	W_mirabilis_11372	W_mirabilis_15527	 1e-187
+ 10-  5:	W_mirabilis_12935	W_mirabilis_15532	  2e-57
+ 10-  6:	W_mirabilis_20993	W_mirabilis_24043	  3e-34
+ 10-  7:	W_mirabilis_09824	W_mirabilis_24047	  2e-94
+ 10-  8:	W_mirabilis_09825	W_mirabilis_24049	  4e-71
+ 10-  9:	W_mirabilis_09827	W_mirabilis_24054	  2e-33
+ 10- 10:	W_mirabilis_24038	W_mirabilis_16182	  3e-14
+## Alignment 11: score=246.0 e_value=1.2e-16 N=8 wel_Chr01&wel_Chr04 plus
+ 11-  0:	W_mirabilis_04308	W_mirabilis_11689	  9e-20
+ 11-  1:	W_mirabilis_16175	W_mirabilis_16641	 7e-106
+ 11-  2:	W_mirabilis_22309	W_mirabilis_25361	 4e-140
+ 11-  3:	W_mirabilis_00982	W_mirabilis_25378	  2e-83
+ 11-  4:	W_mirabilis_00985	W_mirabilis_25379	 1e-252
+ 11-  5:	W_mirabilis_01667	W_mirabilis_25381	  8e-41
+ 11-  6:	W_mirabilis_04154	W_mirabilis_04760	  2e-80
+ 11-  7:	W_mirabilis_04777	W_mirabilis_25599	 4e-103
+## Alignment 12: score=272.0 e_value=1.3e-12 N=7 wel_Chr01&wel_Chr07 plus
+ 12-  0:	W_mirabilis_05293	W_mirabilis_02666	  2e-18
+ 12-  1:	W_mirabilis_19861	W_mirabilis_05936	 8e-154
+ 12-  2:	W_mirabilis_25198	W_mirabilis_21395	  4e-11
+ 12-  3:	W_mirabilis_25194	W_mirabilis_16077	 2e-130
+ 12-  4:	W_mirabilis_25228	W_mirabilis_06618	  4e-62
+ 12-  5:	W_mirabilis_25241	W_mirabilis_06621	      0
+ 12-  6:	W_mirabilis_09898	W_mirabilis_23580	  1e-34
+## Alignment 13: score=191.0 e_value=2.3e-07 N=5 wel_Chr01&wel_Chr07 plus
+ 13-  0:	W_mirabilis_13798	W_mirabilis_11424	 1e-107
+ 13-  1:	W_mirabilis_23277	W_mirabilis_11426	  1e-58
+ 13-  2:	W_mirabilis_19589	W_mirabilis_06064	 2e-204
+ 13-  3:	W_mirabilis_13733	W_mirabilis_06058	 2e-233
+ 13-  4:	W_mirabilis_10573	W_mirabilis_16438	  2e-14
+## Alignment 14: score=310.0 e_value=2.3e-21 N=8 wel_Chr01&wel_Chr07 minus
+ 14-  0:	W_mirabilis_19591	W_mirabilis_06063	  1e-68
+ 14-  1:	W_mirabilis_19589	W_mirabilis_06064	 2e-204
+ 14-  2:	W_mirabilis_10577	W_mirabilis_15685	      0
+ 14-  3:	W_mirabilis_10585	W_mirabilis_13724	  1e-95
+ 14-  4:	W_mirabilis_14263	W_mirabilis_13722	  1e-39
+ 14-  5:	W_mirabilis_14269	W_mirabilis_11064	  2e-14
+ 14-  6:	W_mirabilis_14270	W_mirabilis_11065	  3e-25
+ 14-  7:	W_mirabilis_12043	W_mirabilis_11427	  5e-10
+## Alignment 15: score=280.0 e_value=2.3e-14 N=7 wel_Chr01&wel_Chr07 minus
+ 15-  0:	W_mirabilis_08046	W_mirabilis_10228	  3e-24
+ 15-  1:	W_mirabilis_17507	W_mirabilis_10220	 6e-123
+ 15-  2:	W_mirabilis_04784	W_mirabilis_10218	  4e-88
+ 15-  3:	W_mirabilis_16136	W_mirabilis_10215	 8e-147
+ 15-  4:	W_mirabilis_08822	W_mirabilis_10213	  8e-33
+ 15-  5:	W_mirabilis_11486	W_mirabilis_10211	  6e-97
+ 15-  6:	W_mirabilis_07862	W_mirabilis_24901	  2e-91
+## Alignment 16: score=164.0 e_value=3.2e-11 N=6 wel_Chr01&wel_Chr08 plus
+ 16-  0:	W_mirabilis_14965	W_mirabilis_24520	      0
+ 16-  1:	W_mirabilis_14963	W_mirabilis_24522	  2e-83
+ 16-  2:	W_mirabilis_09919	W_mirabilis_02521	 2e-191
+ 16-  3:	W_mirabilis_17894	W_mirabilis_02523	 1e-188
+ 16-  4:	W_mirabilis_23956	W_mirabilis_04386	  7e-10
+ 16-  5:	W_mirabilis_03867	W_mirabilis_06779	  7e-43
+## Alignment 17: score=151.0 e_value=3.5e-05 N=4 wel_Chr01&wel_Chr08 plus
+ 17-  0:	W_mirabilis_23951	W_mirabilis_08983	  1e-08
+ 17-  1:	W_mirabilis_03867	W_mirabilis_09868	  4e-24
+ 17-  2:	W_mirabilis_06464	W_mirabilis_10790	 2e-220
+ 17-  3:	W_mirabilis_06467	W_mirabilis_10889	 5e-179
+## Alignment 18: score=313.0 e_value=4.9e-15 N=8 wel_Chr01&wel_Chr08 minus
+ 18-  0:	W_mirabilis_14889	W_mirabilis_02716	 7e-134
+ 18-  1:	W_mirabilis_14887	W_mirabilis_02711	  3e-85
+ 18-  2:	W_mirabilis_14886	W_mirabilis_09294	  8e-98
+ 18-  3:	W_mirabilis_14881	W_mirabilis_07002	  1e-42
+ 18-  4:	W_mirabilis_25695	W_mirabilis_04743	 5e-253
+ 18-  5:	W_mirabilis_25703	W_mirabilis_04730	  2e-51
+ 18-  6:	W_mirabilis_03869	W_mirabilis_07468	  2e-86
+ 18-  7:	W_mirabilis_03874	W_mirabilis_17406	  3e-34
+## Alignment 19: score=152.0 e_value=0.00013 N=4 wel_Chr01&wel_Chr08 minus
+ 19-  0:	W_mirabilis_09373	W_mirabilis_22606	  4e-05
+ 19-  1:	W_mirabilis_10922	W_mirabilis_26516	  2e-34
+ 19-  2:	W_mirabilis_10936	W_mirabilis_05178	  2e-17
+ 19-  3:	W_mirabilis_10939	W_mirabilis_06702	  4e-45
+## Alignment 20: score=185.0 e_value=5e-11 N=5 wel_Chr01&wel_Chr14 minus
+ 20-  0:	W_mirabilis_19910	W_mirabilis_19440	  8e-48
+ 20-  1:	W_mirabilis_26845	W_mirabilis_19441	  4e-28
+ 20-  2:	W_mirabilis_01195	W_mirabilis_05143	  8e-33
+ 20-  3:	W_mirabilis_01194	W_mirabilis_08350	  9e-31
+ 20-  4:	W_mirabilis_01192	W_mirabilis_02247	  1e-74
+## Alignment 21: score=184.0 e_value=8.5e-07 N=5 wel_Chr01&wel_Chr15 plus
+ 21-  0:	W_mirabilis_00564	W_mirabilis_14639	 1e-206
+ 21-  1:	W_mirabilis_01673	W_mirabilis_14635	 8e-212
+ 21-  2:	W_mirabilis_07214	W_mirabilis_09325	  1e-24
+ 21-  3:	W_mirabilis_07216	W_mirabilis_09323	      0
+ 21-  4:	W_mirabilis_07984	W_mirabilis_18696	 3e-207
+## Alignment 22: score=231.0 e_value=6.1e-08 N=6 wel_Chr01&wel_Chr16 plus
+ 22-  0:	W_mirabilis_11759	W_mirabilis_13169	  8e-38
+ 22-  1:	W_mirabilis_03286	W_mirabilis_00916	  2e-38
+ 22-  2:	W_mirabilis_04771	W_mirabilis_08397	  1e-26
+ 22-  3:	W_mirabilis_20349	W_mirabilis_17017	 1e-107
+ 22-  4:	W_mirabilis_23541	W_mirabilis_11253	  1e-12
+ 22-  5:	W_mirabilis_19049	W_mirabilis_15893	      0
+## Alignment 23: score=215.0 e_value=8.2e-13 N=7 wel_Chr01&wel_Chr16 plus
+ 23-  0:	W_mirabilis_26973	W_mirabilis_25205	  2e-22
+ 23-  1:	W_mirabilis_15949	W_mirabilis_11814	  9e-53
+ 23-  2:	W_mirabilis_26507	W_mirabilis_23155	  4e-57
+ 23-  3:	W_mirabilis_07298	W_mirabilis_12403	 7e-220
+ 23-  4:	W_mirabilis_22917	W_mirabilis_12400	 2e-243
+ 23-  5:	W_mirabilis_10987	W_mirabilis_17748	 3e-129
+ 23-  6:	W_mirabilis_08381	W_mirabilis_17067	  1e-07
+## Alignment 24: score=320.0 e_value=6.3e-23 N=9 wel_Chr01&wel_Chr16 minus
+ 24-  0:	W_mirabilis_05274	W_mirabilis_15280	  4e-45
+ 24-  1:	W_mirabilis_05275	W_mirabilis_09335	 2e-150
+ 24-  2:	W_mirabilis_23513	W_mirabilis_06085	 2e-167
+ 24-  3:	W_mirabilis_08227	W_mirabilis_04678	  2e-61
+ 24-  4:	W_mirabilis_08225	W_mirabilis_04675	  1e-32
+ 24-  5:	W_mirabilis_08224	W_mirabilis_04674	 1e-155
+ 24-  6:	W_mirabilis_08223	W_mirabilis_04673	 2e-271
+ 24-  7:	W_mirabilis_08219	W_mirabilis_04671	  8e-67
+ 24-  8:	W_mirabilis_24544	W_mirabilis_26403	  4e-29
+## Alignment 25: score=305.0 e_value=1.7e-16 N=8 wel_Chr01&wel_Chr16 minus
+ 25-  0:	W_mirabilis_06731	W_mirabilis_01738	 9e-139
+ 25-  1:	W_mirabilis_18647	W_mirabilis_01740	 3e-146
+ 25-  2:	W_mirabilis_18644	W_mirabilis_01741	      0
+ 25-  3:	W_mirabilis_02005	W_mirabilis_01742	 4e-102
+ 25-  4:	W_mirabilis_03064	W_mirabilis_01748	 9e-141
+ 25-  5:	W_mirabilis_03062	W_mirabilis_01749	 3e-190
+ 25-  6:	W_mirabilis_03811	W_mirabilis_01750	  1e-39
+ 25-  7:	W_mirabilis_07315	W_mirabilis_01751	  4e-11
+## Alignment 26: score=171.0 e_value=6.8e-05 N=4 wel_Chr01&wel_Chr16 minus
+ 26-  0:	W_mirabilis_19401	W_mirabilis_01718	 2e-118
+ 26-  1:	W_mirabilis_05600	W_mirabilis_01720	  2e-21
+ 26-  2:	W_mirabilis_19653	W_mirabilis_01724	 5e-137
+ 26-  3:	W_mirabilis_04667	W_mirabilis_01730	  9e-33
+## Alignment 27: score=160.0 e_value=1.8e-05 N=4 wel_Chr01&wel_Chr16 minus
+ 27-  0:	W_mirabilis_22794	W_mirabilis_04202	 5e-202
+ 27-  1:	W_mirabilis_24547	W_mirabilis_04201	  8e-49
+ 27-  2:	W_mirabilis_24558	W_mirabilis_04199	  2e-57
+ 27-  3:	W_mirabilis_10967	W_mirabilis_12606	  8e-33
+## Alignment 28: score=158.0 e_value=1.8e-07 N=4 wel_Chr01&wel_Chr18 plus
+ 28-  0:	W_mirabilis_23335	W_mirabilis_16178	  8e-23
+ 28-  1:	W_mirabilis_22302	W_mirabilis_06571	 0.0005
+ 28-  2:	W_mirabilis_22301	W_mirabilis_06572	  2e-09
+ 28-  3:	W_mirabilis_21190	W_mirabilis_21367	 6e-157
+## Alignment 29: score=157.0 e_value=1.6e-11 N=6 wel_Chr02&wel_Chr02 plus
+ 29-  0:	W_mirabilis_23624	W_mirabilis_13482	  6e-62
+ 29-  1:	W_mirabilis_14361	W_mirabilis_12014	 5e-165
+ 29-  2:	W_mirabilis_00374	W_mirabilis_12013	  1e-22
+ 29-  3:	W_mirabilis_18859	W_mirabilis_19132	 1e-139
+ 29-  4:	W_mirabilis_18861	W_mirabilis_18043	  5e-85
+ 29-  5:	W_mirabilis_25122	W_mirabilis_01919	  8e-33
+## Alignment 30: score=270.0 e_value=7e-15 N=6 wel_Chr02&wel_Chr02 minus
+ 30-  0:	W_mirabilis_13172	W_mirabilis_25688	  6e-58
+ 30-  1:	W_mirabilis_13367	W_mirabilis_25692	  2e-77
+ 30-  2:	W_mirabilis_02116	W_mirabilis_26157	  2e-34
+ 30-  3:	W_mirabilis_02114	W_mirabilis_26156	  2e-10
+ 30-  4:	W_mirabilis_02113	W_mirabilis_26155	  4e-20
+ 30-  5:	W_mirabilis_02108	W_mirabilis_25050	  1e-42
+## Alignment 31: score=150.0 e_value=1.6e-05 N=5 wel_Chr02&wel_Chr03 minus
+ 31-  0:	W_mirabilis_06715	W_mirabilis_00802	 8e-136
+ 31-  1:	W_mirabilis_24879	W_mirabilis_25321	  1e-29
+ 31-  2:	W_mirabilis_05916	W_mirabilis_12984	  2e-57
+ 31-  3:	W_mirabilis_14593	W_mirabilis_12960	  1e-12
+ 31-  4:	W_mirabilis_06765	W_mirabilis_12948	  2e-32
+## Alignment 32: score=242.0 e_value=4.4e-17 N=9 wel_Chr02&wel_Chr04 plus
+ 32-  0:	W_mirabilis_03614	W_mirabilis_16837	  3e-35
+ 32-  1:	W_mirabilis_22067	W_mirabilis_16823	  3e-37
+ 32-  2:	W_mirabilis_10872	W_mirabilis_21528	  7e-34
+ 32-  3:	W_mirabilis_20380	W_mirabilis_19681	 5e-242
+ 32-  4:	W_mirabilis_06476	W_mirabilis_19686	  4e-17
+ 32-  5:	W_mirabilis_16272	W_mirabilis_04296	  5e-35
+ 32-  6:	W_mirabilis_09222	W_mirabilis_26797	 7e-119
+ 32-  7:	W_mirabilis_26253	W_mirabilis_26804	 8e-240
+ 32-  8:	W_mirabilis_15085	W_mirabilis_26813	  6e-20
+## Alignment 33: score=157.0 e_value=5.7e-05 N=4 wel_Chr02&wel_Chr04 minus
+ 33-  0:	W_mirabilis_03463	W_mirabilis_23246	 3e-152
+ 33-  1:	W_mirabilis_03461	W_mirabilis_23241	 8e-211
+ 33-  2:	W_mirabilis_22954	W_mirabilis_23238	 2e-215
+ 33-  3:	W_mirabilis_04957	W_mirabilis_22125	 3e-195
+## Alignment 34: score=534.0 e_value=1e-39 N=15 wel_Chr02&wel_Chr05 plus
+ 34-  0:	W_mirabilis_10702	W_mirabilis_07166	 1e-298
+ 34-  1:	W_mirabilis_10698	W_mirabilis_07142	 8e-234
+ 34-  2:	W_mirabilis_08818	W_mirabilis_20811	      0
+ 34-  3:	W_mirabilis_22025	W_mirabilis_10696	  3e-82
+ 34-  4:	W_mirabilis_22029	W_mirabilis_04572	 2e-136
+ 34-  5:	W_mirabilis_22030	W_mirabilis_04570	 1e-180
+ 34-  6:	W_mirabilis_05916	W_mirabilis_04689	 9e-137
+ 34-  7:	W_mirabilis_05917	W_mirabilis_13649	 1e-188
+ 34-  8:	W_mirabilis_05918	W_mirabilis_13670	  1e-17
+ 34-  9:	W_mirabilis_05923	W_mirabilis_13674	 4e-151
+ 34- 10:	W_mirabilis_05931	W_mirabilis_02490	 7e-125
+ 34- 11:	W_mirabilis_14601	W_mirabilis_15423	  7e-38
+ 34- 12:	W_mirabilis_06768	W_mirabilis_15405	  2e-89
+ 34- 13:	W_mirabilis_06746	W_mirabilis_06976	 1e-139
+ 34- 14:	W_mirabilis_25750	W_mirabilis_16259	  9e-45
+## Alignment 35: score=384.0 e_value=7.8e-20 N=9 wel_Chr02&wel_Chr05 plus
+ 35-  0:	W_mirabilis_00031	W_mirabilis_12225	 8e-119
+ 35-  1:	W_mirabilis_00044	W_mirabilis_26485	 7e-310
+ 35-  2:	W_mirabilis_00051	W_mirabilis_26480	  1e-58
+ 35-  3:	W_mirabilis_00052	W_mirabilis_26479	  6e-91
+ 35-  4:	W_mirabilis_00053	W_mirabilis_26475	      0
+ 35-  5:	W_mirabilis_22288	W_mirabilis_11448	 2e-311
+ 35-  6:	W_mirabilis_22282	W_mirabilis_11442	 2e-200
+ 35-  7:	W_mirabilis_02168	W_mirabilis_11438	 2e-129
+ 35-  8:	W_mirabilis_06694	W_mirabilis_07083	  5e-22
+## Alignment 36: score=468.0 e_value=1.4e-26 N=12 wel_Chr02&wel_Chr05 minus
+ 36-  0:	W_mirabilis_06686	W_mirabilis_06615	  3e-29
+ 36-  1:	W_mirabilis_06689	W_mirabilis_25855	 1e-196
+ 36-  2:	W_mirabilis_14349	W_mirabilis_25849	  4e-48
+ 36-  3:	W_mirabilis_03385	W_mirabilis_25847	  6e-61
+ 36-  4:	W_mirabilis_06883	W_mirabilis_21876	  2e-82
+ 36-  5:	W_mirabilis_06884	W_mirabilis_03100	 5e-130
+ 36-  6:	W_mirabilis_06898	W_mirabilis_03098	      0
+ 36-  7:	W_mirabilis_16229	W_mirabilis_12169	  6e-37
+ 36-  8:	W_mirabilis_04924	W_mirabilis_20406	  7e-66
+ 36-  9:	W_mirabilis_03833	W_mirabilis_00748	 7e-165
+ 36- 10:	W_mirabilis_03836	W_mirabilis_17588	  1e-86
+ 36- 11:	W_mirabilis_03844	W_mirabilis_08029	 1e-248
+## Alignment 37: score=196.0 e_value=1.7e-06 N=5 wel_Chr02&wel_Chr07 plus
+ 37-  0:	W_mirabilis_16374	W_mirabilis_14542	 6e-120
+ 37-  1:	W_mirabilis_16365	W_mirabilis_20270	 1e-107
+ 37-  2:	W_mirabilis_07108	W_mirabilis_07131	      0
+ 37-  3:	W_mirabilis_07347	W_mirabilis_13136	  4e-54
+ 37-  4:	W_mirabilis_17330	W_mirabilis_16894	  2e-94
+## Alignment 38: score=255.0 e_value=1.2e-08 N=6 wel_Chr02&wel_Chr07 minus
+ 38-  0:	W_mirabilis_16382	W_mirabilis_06575	  2e-33
+ 38-  1:	W_mirabilis_25168	W_mirabilis_18271	 8e-216
+ 38-  2:	W_mirabilis_25160	W_mirabilis_18268	 5e-118
+ 38-  3:	W_mirabilis_18092	W_mirabilis_16295	 1e-139
+ 38-  4:	W_mirabilis_14297	W_mirabilis_16294	 1e-124
+ 38-  5:	W_mirabilis_21138	W_mirabilis_01189	  2e-47
+## Alignment 39: score=177.0 e_value=1e-06 N=5 wel_Chr02&wel_Chr08 plus
+ 39-  0:	W_mirabilis_04530	W_mirabilis_05191	      0
+ 39-  1:	W_mirabilis_15543	W_mirabilis_26518	  2e-10
+ 39-  2:	W_mirabilis_24425	W_mirabilis_15109	  2e-52
+ 39-  3:	W_mirabilis_24423	W_mirabilis_15106	  1e-13
+ 39-  4:	W_mirabilis_00816	W_mirabilis_08743	  3e-49
+## Alignment 40: score=157.0 e_value=2.1e-06 N=5 wel_Chr02&wel_Chr09 plus
+ 40-  0:	W_mirabilis_08116	W_mirabilis_20705	  3e-51
+ 40-  1:	W_mirabilis_19963	W_mirabilis_22766	      0
+ 40-  2:	W_mirabilis_00651	W_mirabilis_22759	 1e-105
+ 40-  3:	W_mirabilis_01603	W_mirabilis_22757	  2e-68
+ 40-  4:	W_mirabilis_05236	W_mirabilis_14745	  4e-53
+## Alignment 41: score=227.0 e_value=3.3e-08 N=5 wel_Chr02&wel_Chr09 minus
+ 41-  0:	W_mirabilis_25962	W_mirabilis_00463	  1e-63
+ 41-  1:	W_mirabilis_00651	W_mirabilis_22759	 1e-105
+ 41-  2:	W_mirabilis_01604	W_mirabilis_22760	 4e-138
+ 41-  3:	W_mirabilis_01610	W_mirabilis_22762	  9e-99
+ 41-  4:	W_mirabilis_01611	W_mirabilis_22765	 2e-115
+## Alignment 42: score=306.0 e_value=1.8e-15 N=8 wel_Chr02&wel_Chr10 plus
+ 42-  0:	W_mirabilis_18814	W_mirabilis_15664	  2e-76
+ 42-  1:	W_mirabilis_05540	W_mirabilis_15662	 2e-149
+ 42-  2:	W_mirabilis_21737	W_mirabilis_15659	  1e-22
+ 42-  3:	W_mirabilis_21736	W_mirabilis_15657	  8e-43
+ 42-  4:	W_mirabilis_01842	W_mirabilis_03558	 2e-178
+ 42-  5:	W_mirabilis_01069	W_mirabilis_03555	 1e-214
+ 42-  6:	W_mirabilis_07057	W_mirabilis_09251	  7e-16
+ 42-  7:	W_mirabilis_18846	W_mirabilis_17668	  2e-38
+## Alignment 43: score=273.0 e_value=3.8e-17 N=9 wel_Chr02&wel_Chr10 minus
+ 43-  0:	W_mirabilis_09121	W_mirabilis_01026	  8e-83
+ 43-  1:	W_mirabilis_21518	W_mirabilis_20321	 8e-247
+ 43-  2:	W_mirabilis_17911	W_mirabilis_20316	 3e-124
+ 43-  3:	W_mirabilis_23167	W_mirabilis_02990	  1e-47
+ 43-  4:	W_mirabilis_05120	W_mirabilis_26698	  2e-60
+ 43-  5:	W_mirabilis_05472	W_mirabilis_26694	  2e-23
+ 43-  6:	W_mirabilis_04333	W_mirabilis_26691	 4e-137
+ 43-  7:	W_mirabilis_03860	W_mirabilis_05861	  5e-78
+ 43-  8:	W_mirabilis_01067	W_mirabilis_18721	  2e-95
+## Alignment 44: score=223.0 e_value=1e-16 N=9 wel_Chr03&wel_Chr03 minus
+ 44-  0:	W_mirabilis_09390	W_mirabilis_10182	  8e-07
+ 44-  1:	W_mirabilis_12800	W_mirabilis_08315	  2e-74
+ 44-  2:	W_mirabilis_04139	W_mirabilis_07908	  4e-20
+ 44-  3:	W_mirabilis_03587	W_mirabilis_07062	  1e-08
+ 44-  4:	W_mirabilis_13588	W_mirabilis_05244	  2e-46
+ 44-  5:	W_mirabilis_07879	W_mirabilis_04550	      0
+ 44-  6:	W_mirabilis_04987	W_mirabilis_04543	 4e-102
+ 44-  7:	W_mirabilis_19069	W_mirabilis_03573	  2e-20
+ 44-  8:	W_mirabilis_19025	W_mirabilis_01992	  1e-21
+## Alignment 45: score=314.0 e_value=7.1e-20 N=10 wel_Chr03&wel_Chr04 plus
+ 45-  0:	W_mirabilis_23067	W_mirabilis_20647	  6e-18
+ 45-  1:	W_mirabilis_07778	W_mirabilis_20656	  3e-47
+ 45-  2:	W_mirabilis_12944	W_mirabilis_17108	 4e-147
+ 45-  3:	W_mirabilis_21628	W_mirabilis_01002	  1e-29
+ 45-  4:	W_mirabilis_21637	W_mirabilis_01013	  2e-13
+ 45-  5:	W_mirabilis_25321	W_mirabilis_18084	 3e-182
+ 45-  6:	W_mirabilis_00801	W_mirabilis_12363	  3e-64
+ 45-  7:	W_mirabilis_00803	W_mirabilis_12364	      0
+ 45-  8:	W_mirabilis_05379	W_mirabilis_12367	  4e-36
+ 45-  9:	W_mirabilis_05775	W_mirabilis_12927	  1e-71
+## Alignment 46: score=166.0 e_value=3.5e-08 N=4 wel_Chr03&wel_Chr04 plus
+ 46-  0:	W_mirabilis_25320	W_mirabilis_18085	  7e-61
+ 46-  1:	W_mirabilis_00790	W_mirabilis_12925	  9e-31
+ 46-  2:	W_mirabilis_00793	W_mirabilis_12923	 6e-185
+ 46-  3:	W_mirabilis_00794	W_mirabilis_12922	 2e-284
+## Alignment 47: score=208.0 e_value=2.1e-13 N=7 wel_Chr03&wel_Chr04 minus
+ 47-  0:	W_mirabilis_00789	W_mirabilis_12921	  3e-41
+ 47-  1:	W_mirabilis_00794	W_mirabilis_12922	 2e-284
+ 47-  2:	W_mirabilis_03431	W_mirabilis_12926	 2e-122
+ 47-  3:	W_mirabilis_05776	W_mirabilis_12356	      0
+ 47-  4:	W_mirabilis_05985	W_mirabilis_01009	 3e-126
+ 47-  5:	W_mirabilis_08417	W_mirabilis_00268	  5e-50
+ 47-  6:	W_mirabilis_11866	W_mirabilis_23271	 4e-123
+## Alignment 48: score=193.0 e_value=8.4e-11 N=6 wel_Chr03&wel_Chr07 minus
+ 48-  0:	W_mirabilis_18387	W_mirabilis_17905	  7e-14
+ 48-  1:	W_mirabilis_25138	W_mirabilis_17907	 4e-119
+ 48-  2:	W_mirabilis_25140	W_mirabilis_07340	  2e-22
+ 48-  3:	W_mirabilis_18558	W_mirabilis_16557	  1e-16
+ 48-  4:	W_mirabilis_05875	W_mirabilis_24977	  5e-27
+ 48-  5:	W_mirabilis_17594	W_mirabilis_18269	  2e-37
+## Alignment 49: score=151.0 e_value=0.00022 N=4 wel_Chr03&wel_Chr08 plus
+ 49-  0:	W_mirabilis_07754	W_mirabilis_01844	  3e-91
+ 49-  1:	W_mirabilis_09815	W_mirabilis_01848	  5e-79
+ 49-  2:	W_mirabilis_05135	W_mirabilis_25559	  3e-05
+ 49-  3:	W_mirabilis_15782	W_mirabilis_02296	 1e-109
+## Alignment 50: score=244.0 e_value=2.8e-14 N=8 wel_Chr03&wel_Chr08 minus
+ 50-  0:	W_mirabilis_07375	W_mirabilis_18929	 6e-211
+ 50-  1:	W_mirabilis_09662	W_mirabilis_17876	 1e-152
+ 50-  2:	W_mirabilis_22351	W_mirabilis_00947	 4e-129
+ 50-  3:	W_mirabilis_22340	W_mirabilis_03776	  1e-17
+ 50-  4:	W_mirabilis_07734	W_mirabilis_06290	  4e-24
+ 50-  5:	W_mirabilis_07754	W_mirabilis_01844	  3e-91
+ 50-  6:	W_mirabilis_20023	W_mirabilis_18119	  5e-45
+ 50-  7:	W_mirabilis_09821	W_mirabilis_18121	  2e-81
+## Alignment 51: score=172.0 e_value=2.1e-08 N=6 wel_Chr04&wel_Chr06 plus
+ 51-  0:	W_mirabilis_04759	W_mirabilis_02807	  8e-12
+ 51-  1:	W_mirabilis_04983	W_mirabilis_10885	  2e-39
+ 51-  2:	W_mirabilis_04981	W_mirabilis_26836	  1e-18
+ 51-  3:	W_mirabilis_10767	W_mirabilis_04104	  1e-34
+ 51-  4:	W_mirabilis_07016	W_mirabilis_00481	  1e-08
+ 51-  5:	W_mirabilis_11736	W_mirabilis_24293	  5e-54
+## Alignment 52: score=210.0 e_value=1.5e-07 N=5 wel_Chr04&wel_Chr07 plus
+ 52-  0:	W_mirabilis_20659	W_mirabilis_02673	  3e-16
+ 52-  1:	W_mirabilis_20662	W_mirabilis_02676	  3e-93
+ 52-  2:	W_mirabilis_20665	W_mirabilis_02679	      0
+ 52-  3:	W_mirabilis_20667	W_mirabilis_02681	  2e-45
+ 52-  4:	W_mirabilis_17099	W_mirabilis_12422	  4e-64
+## Alignment 53: score=195.0 e_value=9.8e-11 N=6 wel_Chr04&wel_Chr07 plus
+ 53-  0:	W_mirabilis_10205	W_mirabilis_09943	  6e-67
+ 53-  1:	W_mirabilis_11784	W_mirabilis_09947	 1e-109
+ 53-  2:	W_mirabilis_11980	W_mirabilis_09952	  3e-95
+ 53-  3:	W_mirabilis_11982	W_mirabilis_10130	 8e-146
+ 53-  4:	W_mirabilis_12036	W_mirabilis_13218	  3e-14
+ 53-  5:	W_mirabilis_14093	W_mirabilis_13217	  1e-54
+## Alignment 54: score=150.0 e_value=0.00014 N=4 wel_Chr04&wel_Chr07 plus
+ 54-  0:	W_mirabilis_24815	W_mirabilis_18357	      0
+ 54-  1:	W_mirabilis_24827	W_mirabilis_12422	 1e-165
+ 54-  2:	W_mirabilis_16835	W_mirabilis_16278	 1e-102
+ 54-  3:	W_mirabilis_16820	W_mirabilis_06620	  8e-13
+## Alignment 55: score=199.0 e_value=4.2e-07 N=5 wel_Chr04&wel_Chr07 minus
+ 55-  0:	W_mirabilis_02149	W_mirabilis_05104	  1e-60
+ 55-  1:	W_mirabilis_02152	W_mirabilis_05105	 9e-172
+ 55-  2:	W_mirabilis_15596	W_mirabilis_17810	  4e-71
+ 55-  3:	W_mirabilis_11723	W_mirabilis_02066	 1e-108
+ 55-  4:	W_mirabilis_16711	W_mirabilis_25492	  4e-80
+## Alignment 56: score=181.0 e_value=2.1e-05 N=4 wel_Chr04&wel_Chr07 minus
+ 56-  0:	W_mirabilis_18049	W_mirabilis_12461	 4e-159
+ 56-  1:	W_mirabilis_18052	W_mirabilis_12463	  2e-71
+ 56-  2:	W_mirabilis_18055	W_mirabilis_12464	  2e-77
+ 56-  3:	W_mirabilis_19259	W_mirabilis_09939	  7e-15
+## Alignment 57: score=274.0 e_value=5.8e-15 N=7 wel_Chr04&wel_Chr09 plus
+ 57-  0:	W_mirabilis_03304	W_mirabilis_06254	  4e-13
+ 57-  1:	W_mirabilis_03305	W_mirabilis_06252	 4e-163
+ 57-  2:	W_mirabilis_03306	W_mirabilis_06250	  5e-14
+ 57-  3:	W_mirabilis_03312	W_mirabilis_05667	 8e-193
+ 57-  4:	W_mirabilis_15498	W_mirabilis_06000	  1e-49
+ 57-  5:	W_mirabilis_15503	W_mirabilis_10431	  3e-51
+ 57-  6:	W_mirabilis_17830	W_mirabilis_05824	 4e-134
+## Alignment 58: score=186.0 e_value=3.8e-12 N=5 wel_Chr04&wel_Chr09 plus
+ 58-  0:	W_mirabilis_22886	W_mirabilis_20851	 9e-112
+ 58-  1:	W_mirabilis_22897	W_mirabilis_20850	 5e-237
+ 58-  2:	W_mirabilis_22898	W_mirabilis_20849	  2e-12
+ 58-  3:	W_mirabilis_23182	W_mirabilis_20848	  4e-94
+ 58-  4:	W_mirabilis_19428	W_mirabilis_04176	 2e-301
+## Alignment 59: score=173.0 e_value=0.00018 N=4 wel_Chr04&wel_Chr10 plus
+ 59-  0:	W_mirabilis_10399	W_mirabilis_05661	  2e-47
+ 59-  1:	W_mirabilis_20131	W_mirabilis_26899	  1e-34
+ 59-  2:	W_mirabilis_11326	W_mirabilis_26902	  4e-93
+ 59-  3:	W_mirabilis_02388	W_mirabilis_26904	 2e-104
+## Alignment 60: score=293.0 e_value=5.2e-14 N=8 wel_Chr04&wel_Chr10 minus
+ 60-  0:	W_mirabilis_07016	W_mirabilis_26899	  3e-12
+ 60-  1:	W_mirabilis_10399	W_mirabilis_05661	  2e-47
+ 60-  2:	W_mirabilis_16073	W_mirabilis_05658	  8e-32
+ 60-  3:	W_mirabilis_18374	W_mirabilis_17510	  7e-25
+ 60-  4:	W_mirabilis_18379	W_mirabilis_16756	  4e-97
+ 60-  5:	W_mirabilis_02984	W_mirabilis_16752	  6e-46
+ 60-  6:	W_mirabilis_22537	W_mirabilis_16745	  5e-33
+ 60-  7:	W_mirabilis_16201	W_mirabilis_16730	 1e-153
+## Alignment 61: score=158.0 e_value=4.9e-06 N=4 wel_Chr04&wel_Chr11 plus
+ 61-  0:	W_mirabilis_05356	W_mirabilis_10705	  2e-15
+ 61-  1:	W_mirabilis_05952	W_mirabilis_11933	 2e-148
+ 61-  2:	W_mirabilis_08384	W_mirabilis_13522	  9e-21
+ 61-  3:	W_mirabilis_08386	W_mirabilis_13524	  2e-51
+## Alignment 62: score=164.0 e_value=7.6e-07 N=4 wel_Chr05&wel_Chr05 plus
+ 62-  0:	W_mirabilis_14931	W_mirabilis_21169	 6e-230
+ 62-  1:	W_mirabilis_13326	W_mirabilis_12733	  1e-08
+ 62-  2:	W_mirabilis_07936	W_mirabilis_12732	  3e-33
+ 62-  3:	W_mirabilis_08453	W_mirabilis_26970	 2e-132
+## Alignment 63: score=160.0 e_value=8.2e-10 N=5 wel_Chr05&wel_Chr05 plus
+ 63-  0:	W_mirabilis_02204	W_mirabilis_03743	 5e-136
+ 63-  1:	W_mirabilis_26496	W_mirabilis_04833	  2e-87
+ 63-  2:	W_mirabilis_26494	W_mirabilis_06917	 3e-162
+ 63-  3:	W_mirabilis_26492	W_mirabilis_06918	 6e-124
+ 63-  4:	W_mirabilis_05264	W_mirabilis_07593	  4e-18
+## Alignment 64: score=212.0 e_value=9.3e-12 N=7 wel_Chr05&wel_Chr05 minus
+ 64-  0:	W_mirabilis_10331	W_mirabilis_05016	  1e-61
+ 64-  1:	W_mirabilis_02204	W_mirabilis_03743	 5e-136
+ 64-  2:	W_mirabilis_01693	W_mirabilis_02059	  7e-99
+ 64-  3:	W_mirabilis_02475	W_mirabilis_02056	  1e-23
+ 64-  4:	W_mirabilis_20685	W_mirabilis_18568	  4e-12
+ 64-  5:	W_mirabilis_06877	W_mirabilis_13610	 1e-171
+ 64-  6:	W_mirabilis_00327	W_mirabilis_13605	  2e-44
+## Alignment 65: score=156.0 e_value=0.00015 N=4 wel_Chr05&wel_Chr12 plus
+ 65-  0:	W_mirabilis_00627	W_mirabilis_25724	  7e-68
+ 65-  1:	W_mirabilis_02497	W_mirabilis_18285	 8e-239
+ 65-  2:	W_mirabilis_02498	W_mirabilis_18280	 7e-221
+ 65-  3:	W_mirabilis_02507	W_mirabilis_20950	 2e-131
+## Alignment 66: score=364.0 e_value=1e-25 N=11 wel_Chr05&wel_Chr12 minus
+ 66-  0:	W_mirabilis_09610	W_mirabilis_14087	 5e-152
+ 66-  1:	W_mirabilis_02494	W_mirabilis_19593	  3e-46
+ 66-  2:	W_mirabilis_02495	W_mirabilis_20950	 6e-157
+ 66-  3:	W_mirabilis_02498	W_mirabilis_18280	 7e-221
+ 66-  4:	W_mirabilis_02503	W_mirabilis_18291	 2e-160
+ 66-  5:	W_mirabilis_02505	W_mirabilis_05144	 1e-150
+ 66-  6:	W_mirabilis_02506	W_mirabilis_19486	  2e-19
+ 66-  7:	W_mirabilis_02507	W_mirabilis_19474	 7e-189
+ 66-  8:	W_mirabilis_10633	W_mirabilis_19471	  3e-09
+ 66-  9:	W_mirabilis_08754	W_mirabilis_18416	 2e-101
+ 66- 10:	W_mirabilis_26847	W_mirabilis_20395	 1e-162
+## Alignment 67: score=230.0 e_value=3e-13 N=7 wel_Chr05&wel_Chr18 plus
+ 67-  0:	W_mirabilis_08655	W_mirabilis_21574	 3e-154
+ 67-  1:	W_mirabilis_08656	W_mirabilis_21568	  9e-68
+ 67-  2:	W_mirabilis_08658	W_mirabilis_20766	  7e-47
+ 67-  3:	W_mirabilis_04502	W_mirabilis_14364	  2e-36
+ 67-  4:	W_mirabilis_04503	W_mirabilis_23114	  2e-99
+ 67-  5:	W_mirabilis_04505	W_mirabilis_23126	 8e-181
+ 67-  6:	W_mirabilis_08785	W_mirabilis_01094	  2e-64
+## Alignment 68: score=207.0 e_value=2.1e-07 N=5 wel_Chr05&wel_Chr18 plus
+ 68-  0:	W_mirabilis_13705	W_mirabilis_19976	  5e-13
+ 68-  1:	W_mirabilis_13708	W_mirabilis_11659	  6e-14
+ 68-  2:	W_mirabilis_23310	W_mirabilis_13746	 1e-101
+ 68-  3:	W_mirabilis_20153	W_mirabilis_13744	  2e-26
+ 68-  4:	W_mirabilis_10679	W_mirabilis_26106	  4e-36
+## Alignment 69: score=207.0 e_value=1.6e-07 N=5 wel_Chr05&wel_Chr18 plus
+ 69-  0:	W_mirabilis_06773	W_mirabilis_00149	  1e-21
+ 69-  1:	W_mirabilis_06775	W_mirabilis_00152	  4e-12
+ 69-  2:	W_mirabilis_11172	W_mirabilis_26622	  9e-24
+ 69-  3:	W_mirabilis_11182	W_mirabilis_17472	  2e-26
+ 69-  4:	W_mirabilis_11183	W_mirabilis_13212	 2e-226
+## Alignment 70: score=161.0 e_value=7.2e-05 N=4 wel_Chr05&wel_Chr18 plus
+ 70-  0:	W_mirabilis_00205	W_mirabilis_24866	  5e-09
+ 70-  1:	W_mirabilis_08452	W_mirabilis_06525	 3e-120
+ 70-  2:	W_mirabilis_24309	W_mirabilis_23657	 1e-298
+ 70-  3:	W_mirabilis_24310	W_mirabilis_23656	  5e-25
+## Alignment 71: score=219.0 e_value=3.1e-11 N=6 wel_Chr05&wel_Chr18 minus
+ 71-  0:	W_mirabilis_13704	W_mirabilis_19974	  2e-56
+ 71-  1:	W_mirabilis_13706	W_mirabilis_24399	  2e-23
+ 71-  2:	W_mirabilis_23922	W_mirabilis_22407	  1e-52
+ 71-  3:	W_mirabilis_23920	W_mirabilis_18710	  4e-37
+ 71-  4:	W_mirabilis_23916	W_mirabilis_17788	 5e-142
+ 71-  5:	W_mirabilis_14138	W_mirabilis_12330	  3e-15
+## Alignment 72: score=204.0 e_value=7.9e-07 N=5 wel_Chr05&wel_Chr18 minus
+ 72-  0:	W_mirabilis_20557	W_mirabilis_26325	 4e-183
+ 72-  1:	W_mirabilis_13920	W_mirabilis_15512	 2e-122
+ 72-  2:	W_mirabilis_20918	W_mirabilis_15514	 3e-201
+ 72-  3:	W_mirabilis_11168	W_mirabilis_11162	 3e-142
+ 72-  4:	W_mirabilis_11171	W_mirabilis_13365	  4e-49
+## Alignment 73: score=168.0 e_value=1.4e-08 N=6 wel_Chr05&wel_Chr18 minus
+ 73-  0:	W_mirabilis_00529	W_mirabilis_06442	  2e-14
+ 73-  1:	W_mirabilis_24310	W_mirabilis_23656	  5e-25
+ 73-  2:	W_mirabilis_07701	W_mirabilis_00649	 2e-249
+ 73-  3:	W_mirabilis_07121	W_mirabilis_05570	 8e-131
+ 73-  4:	W_mirabilis_21169	W_mirabilis_19636	 3e-240
+ 73-  5:	W_mirabilis_07449	W_mirabilis_15401	  8e-85
+## Alignment 74: score=150.0 e_value=0.00088 N=3 wel_Chr05&wel_Chr18 minus
+ 74-  0:	W_mirabilis_11166	W_mirabilis_10492	  8e-07
+ 74-  1:	W_mirabilis_11167	W_mirabilis_10491	  9e-21
+ 74-  2:	W_mirabilis_11168	W_mirabilis_10490	  6e-76
+## Alignment 75: score=166.0 e_value=1.4e-07 N=5 wel_Chr05&wel_Chr19 minus
+ 75-  0:	W_mirabilis_00377	W_mirabilis_16903	  2e-22
+ 75-  1:	W_mirabilis_00380	W_mirabilis_09903	  2e-37
+ 75-  2:	W_mirabilis_00381	W_mirabilis_09904	 9e-200
+ 75-  3:	W_mirabilis_01864	W_mirabilis_13879	 2e-124
+ 75-  4:	W_mirabilis_09213	W_mirabilis_14620	 3e-202
+## Alignment 76: score=320.0 e_value=3e-14 N=8 wel_Chr06&wel_Chr09 minus
+ 76-  0:	W_mirabilis_03241	W_mirabilis_05160	 4e-199
+ 76-  1:	W_mirabilis_03236	W_mirabilis_14024	 6e-227
+ 76-  2:	W_mirabilis_17056	W_mirabilis_09683	  5e-06
+ 76-  3:	W_mirabilis_07435	W_mirabilis_06124	  1e-07
+ 76-  4:	W_mirabilis_16958	W_mirabilis_26876	  1e-22
+ 76-  5:	W_mirabilis_08014	W_mirabilis_21305	 6e-289
+ 76-  6:	W_mirabilis_24754	W_mirabilis_17482	  4e-56
+ 76-  7:	W_mirabilis_17207	W_mirabilis_15276	      0
+## Alignment 77: score=190.0 e_value=0.00073 N=4 wel_Chr06&wel_Chr10 minus
+ 77-  0:	W_mirabilis_02845	W_mirabilis_24810	  3e-43
+ 77-  1:	W_mirabilis_02846	W_mirabilis_24805	 4e-172
+ 77-  2:	W_mirabilis_02847	W_mirabilis_24802	 3e-105
+ 77-  3:	W_mirabilis_10516	W_mirabilis_24798	  3e-17
+## Alignment 78: score=162.0 e_value=7.3e-06 N=4 wel_Chr06&wel_Chr10 minus
+ 78-  0:	W_mirabilis_16624	W_mirabilis_18007	      0
+ 78-  1:	W_mirabilis_16629	W_mirabilis_18004	 2e-143
+ 78-  2:	W_mirabilis_16630	W_mirabilis_18000	  2e-42
+ 78-  3:	W_mirabilis_14518	W_mirabilis_12823	  9e-17
+## Alignment 79: score=185.0 e_value=1.5e-06 N=5 wel_Chr06&wel_Chr14 plus
+ 79-  0:	W_mirabilis_14068	W_mirabilis_24714	  9e-45
+ 79-  1:	W_mirabilis_06144	W_mirabilis_24721	 4e-219
+ 79-  2:	W_mirabilis_24905	W_mirabilis_17216	  6e-27
+ 79-  3:	W_mirabilis_24910	W_mirabilis_17215	 1e-127
+ 79-  4:	W_mirabilis_05648	W_mirabilis_08959	 7e-175
+## Alignment 80: score=171.0 e_value=1.1e-07 N=4 wel_Chr06&wel_Chr14 plus
+ 80-  0:	W_mirabilis_24371	W_mirabilis_02048	  8e-43
+ 80-  1:	W_mirabilis_24374	W_mirabilis_21195	  2e-47
+ 80-  2:	W_mirabilis_24382	W_mirabilis_13175	  7e-20
+ 80-  3:	W_mirabilis_24384	W_mirabilis_13176	  2e-06
+## Alignment 81: score=154.0 e_value=2.8e-10 N=4 wel_Chr06&wel_Chr15 minus
+ 81-  0:	W_mirabilis_12764	W_mirabilis_13323	  2e-48
+ 81-  1:	W_mirabilis_12765	W_mirabilis_13321	  4e-36
+ 81-  2:	W_mirabilis_12766	W_mirabilis_13320	  5e-43
+ 81-  3:	W_mirabilis_21294	W_mirabilis_12795	  2e-63
+## Alignment 82: score=333.0 e_value=8.4e-27 N=10 wel_Chr06&wel_Chr16 plus
+ 82-  0:	W_mirabilis_25838	W_mirabilis_04199	  9e-18
+ 82-  1:	W_mirabilis_25837	W_mirabilis_26469	  3e-40
+ 82-  2:	W_mirabilis_14431	W_mirabilis_18153	  1e-89
+ 82-  3:	W_mirabilis_14430	W_mirabilis_03144	  4e-95
+ 82-  4:	W_mirabilis_14776	W_mirabilis_03143	  4e-48
+ 82-  5:	W_mirabilis_13828	W_mirabilis_08516	  2e-25
+ 82-  6:	W_mirabilis_13822	W_mirabilis_08511	 4e-167
+ 82-  7:	W_mirabilis_13821	W_mirabilis_08509	  6e-40
+ 82-  8:	W_mirabilis_11279	W_mirabilis_23977	  3e-38
+ 82-  9:	W_mirabilis_02230	W_mirabilis_10390	  3e-47
+## Alignment 83: score=158.0 e_value=5.6e-09 N=6 wel_Chr06&wel_Chr16 plus
+ 83-  0:	W_mirabilis_15883	W_mirabilis_10300	  2e-15
+ 83-  1:	W_mirabilis_18124	W_mirabilis_18013	  5e-20
+ 83-  2:	W_mirabilis_19579	W_mirabilis_11708	  5e-85
+ 83-  3:	W_mirabilis_01893	W_mirabilis_23695	  5e-21
+ 83-  4:	W_mirabilis_22499	W_mirabilis_15273	  5e-20
+ 83-  5:	W_mirabilis_02216	W_mirabilis_02637	  3e-36
+## Alignment 84: score=291.0 e_value=1.8e-15 N=8 wel_Chr06&wel_Chr16 minus
+ 84-  0:	W_mirabilis_10254	W_mirabilis_08511	  4e-22
+ 84-  1:	W_mirabilis_25904	W_mirabilis_01644	      0
+ 84-  2:	W_mirabilis_10434	W_mirabilis_01641	  6e-51
+ 84-  3:	W_mirabilis_20328	W_mirabilis_08428	 2e-154
+ 84-  4:	W_mirabilis_06015	W_mirabilis_12600	 7e-100
+ 84-  5:	W_mirabilis_14048	W_mirabilis_12601	  2e-12
+ 84-  6:	W_mirabilis_25838	W_mirabilis_22618	  2e-36
+ 84-  7:	W_mirabilis_09839	W_mirabilis_08843	 6e-182
+## Alignment 85: score=189.0 e_value=0.00051 N=4 wel_Chr06&wel_Chr16 minus
+ 85-  0:	W_mirabilis_09555	W_mirabilis_14774	  8e-22
+ 85-  1:	W_mirabilis_16084	W_mirabilis_14295	 1e-123
+ 85-  2:	W_mirabilis_16085	W_mirabilis_14294	  1e-43
+ 85-  3:	W_mirabilis_18617	W_mirabilis_14293	 1e-208
+## Alignment 86: score=482.0 e_value=5.2e-26 N=11 wel_Chr06&wel_Chr17 plus
+ 86-  0:	W_mirabilis_23863	W_mirabilis_01527	 9e-161
+ 86-  1:	W_mirabilis_23866	W_mirabilis_01526	  1e-11
+ 86-  2:	W_mirabilis_23867	W_mirabilis_01524	  8e-71
+ 86-  3:	W_mirabilis_23869	W_mirabilis_01522	 3e-270
+ 86-  4:	W_mirabilis_06549	W_mirabilis_15701	  2e-74
+ 86-  5:	W_mirabilis_22647	W_mirabilis_15711	  2e-21
+ 86-  6:	W_mirabilis_22193	W_mirabilis_11851	 2e-240
+ 86-  7:	W_mirabilis_22183	W_mirabilis_24270	  1e-13
+ 86-  8:	W_mirabilis_22179	W_mirabilis_24276	 4e-297
+ 86-  9:	W_mirabilis_22178	W_mirabilis_06344	  3e-99
+ 86- 10:	W_mirabilis_10137	W_mirabilis_08266	  8e-95
+## Alignment 87: score=228.0 e_value=2.6e-08 N=5 wel_Chr06&wel_Chr17 plus
+ 87-  0:	W_mirabilis_12749	W_mirabilis_00251	  3e-88
+ 87-  1:	W_mirabilis_12752	W_mirabilis_22961	  5e-37
+ 87-  2:	W_mirabilis_12761	W_mirabilis_22962	  5e-81
+ 87-  3:	W_mirabilis_12762	W_mirabilis_22964	  1e-52
+ 87-  4:	W_mirabilis_12767	W_mirabilis_21649	 4e-190
+## Alignment 88: score=207.0 e_value=3.7e-10 N=6 wel_Chr06&wel_Chr17 plus
+ 88-  0:	W_mirabilis_23845	W_mirabilis_01527	 1e-217
+ 88-  1:	W_mirabilis_23846	W_mirabilis_01519	 3e-125
+ 88-  2:	W_mirabilis_16203	W_mirabilis_15704	 4e-111
+ 88-  3:	W_mirabilis_22644	W_mirabilis_15708	 7e-236
+ 88-  4:	W_mirabilis_22194	W_mirabilis_24269	 2e-100
+ 88-  5:	W_mirabilis_10139	W_mirabilis_06348	  3e-31
+## Alignment 89: score=202.0 e_value=3e-10 N=5 wel_Chr06&wel_Chr17 plus
+ 89-  0:	W_mirabilis_00231	W_mirabilis_01583	 1e-145
+ 89-  1:	W_mirabilis_00235	W_mirabilis_01585	  3e-74
+ 89-  2:	W_mirabilis_00236	W_mirabilis_00258	  1e-38
+ 89-  3:	W_mirabilis_00238	W_mirabilis_00255	  1e-64
+ 89-  4:	W_mirabilis_05317	W_mirabilis_21668	  3e-31
+## Alignment 90: score=173.0 e_value=3e-05 N=4 wel_Chr06&wel_Chr17 plus
+ 90-  0:	W_mirabilis_18310	W_mirabilis_12142	  2e-42
+ 90-  1:	W_mirabilis_23847	W_mirabilis_14410	 2e-106
+ 90-  2:	W_mirabilis_23855	W_mirabilis_14411	 2e-232
+ 90-  3:	W_mirabilis_23858	W_mirabilis_14414	 5e-211
+## Alignment 91: score=242.0 e_value=1.2e-12 N=7 wel_Chr06&wel_Chr17 minus
+ 91-  0:	W_mirabilis_08306	W_mirabilis_07897	  1e-22
+ 91-  1:	W_mirabilis_18134	W_mirabilis_05522	 3e-169
+ 91-  2:	W_mirabilis_04519	W_mirabilis_20680	  3e-72
+ 91-  3:	W_mirabilis_04517	W_mirabilis_09029	  2e-53
+ 91-  4:	W_mirabilis_14319	W_mirabilis_09025	  8e-33
+ 91-  5:	W_mirabilis_07541	W_mirabilis_02449	  1e-41
+ 91-  6:	W_mirabilis_10252	W_mirabilis_25275	 2e-106
+## Alignment 92: score=188.0 e_value=3e-07 N=5 wel_Chr06&wel_Chr17 minus
+ 92-  0:	W_mirabilis_07849	W_mirabilis_16681	  2e-63
+ 92-  1:	W_mirabilis_09040	W_mirabilis_12144	 4e-173
+ 92-  2:	W_mirabilis_18310	W_mirabilis_12142	  2e-42
+ 92-  3:	W_mirabilis_23848	W_mirabilis_07649	  4e-35
+ 92-  4:	W_mirabilis_23860	W_mirabilis_07647	 3e-200
+## Alignment 93: score=187.0 e_value=3.9e-08 N=5 wel_Chr07&wel_Chr08 plus
+ 93-  0:	W_mirabilis_09976	W_mirabilis_26969	 1e-104
+ 93-  1:	W_mirabilis_09979	W_mirabilis_26967	 6e-141
+ 93-  2:	W_mirabilis_05851	W_mirabilis_26966	  6e-49
+ 93-  3:	W_mirabilis_05850	W_mirabilis_02435	      0
+ 93-  4:	W_mirabilis_05847	W_mirabilis_02396	  2e-44
+## Alignment 94: score=285.0 e_value=7.1e-08 N=6 wel_Chr07&wel_Chr08 minus
+ 94-  0:	W_mirabilis_23198	W_mirabilis_16018	 7e-142
+ 94-  1:	W_mirabilis_23201	W_mirabilis_19845	 1e-148
+ 94-  2:	W_mirabilis_23204	W_mirabilis_18366	 4e-140
+ 94-  3:	W_mirabilis_02721	W_mirabilis_23599	  3e-89
+ 94-  4:	W_mirabilis_05853	W_mirabilis_02434	 1e-203
+ 94-  5:	W_mirabilis_05850	W_mirabilis_02435	      0
+## Alignment 95: score=284.0 e_value=6.9e-13 N=7 wel_Chr07&wel_Chr08 minus
+ 95-  0:	W_mirabilis_05603	W_mirabilis_05208	  8e-16
+ 95-  1:	W_mirabilis_05604	W_mirabilis_21208	  5e-39
+ 95-  2:	W_mirabilis_05605	W_mirabilis_23948	  1e-86
+ 95-  3:	W_mirabilis_23407	W_mirabilis_10792	 1e-121
+ 95-  4:	W_mirabilis_23404	W_mirabilis_10803	  8e-32
+ 95-  5:	W_mirabilis_23392	W_mirabilis_24994	  1e-30
+ 95-  6:	W_mirabilis_12229	W_mirabilis_24993	 3e-201
+## Alignment 96: score=541.0 e_value=9.5e-36 N=13 wel_Chr07&wel_Chr09 plus
+ 96-  0:	W_mirabilis_00674	W_mirabilis_11197	  1e-36
+ 96-  1:	W_mirabilis_00682	W_mirabilis_21425	  5e-19
+ 96-  2:	W_mirabilis_00684	W_mirabilis_21424	  7e-21
+ 96-  3:	W_mirabilis_00686	W_mirabilis_13400	  8e-49
+ 96-  4:	W_mirabilis_00687	W_mirabilis_13401	 2e-101
+ 96-  5:	W_mirabilis_00693	W_mirabilis_19875	  5e-68
+ 96-  6:	W_mirabilis_00694	W_mirabilis_09133	 2e-135
+ 96-  7:	W_mirabilis_00695	W_mirabilis_16067	 9e-105
+ 96-  8:	W_mirabilis_00696	W_mirabilis_16065	  9e-99
+ 96-  9:	W_mirabilis_00932	W_mirabilis_13266	 1e-112
+ 96- 10:	W_mirabilis_00936	W_mirabilis_20837	 2e-190
+ 96- 11:	W_mirabilis_00939	W_mirabilis_04122	  1e-13
+ 96- 12:	W_mirabilis_06198	W_mirabilis_04119	      0
+## Alignment 97: score=167.0 e_value=0.00054 N=4 wel_Chr07&wel_Chr10 plus
+ 97-  0:	W_mirabilis_03412	W_mirabilis_25821	  7e-33
+ 97-  1:	W_mirabilis_11122	W_mirabilis_25827	  3e-37
+ 97-  2:	W_mirabilis_03470	W_mirabilis_06168	  3e-83
+ 97-  3:	W_mirabilis_03468	W_mirabilis_06171	  4e-81
+## Alignment 98: score=546.0 e_value=3.4e-47 N=17 wel_Chr07&wel_Chr13 plus
+ 98-  0:	W_mirabilis_15685	W_mirabilis_22459	 3e-225
+ 98-  1:	W_mirabilis_10672	W_mirabilis_19248	 8e-154
+ 98-  2:	W_mirabilis_10671	W_mirabilis_19252	  1e-98
+ 98-  3:	W_mirabilis_08664	W_mirabilis_19253	 1e-278
+ 98-  4:	W_mirabilis_20690	W_mirabilis_22835	  5e-21
+ 98-  5:	W_mirabilis_16468	W_mirabilis_11278	 1e-284
+ 98-  6:	W_mirabilis_14037	W_mirabilis_14934	 1e-111
+ 98-  7:	W_mirabilis_14099	W_mirabilis_20991	 1e-107
+ 98-  8:	W_mirabilis_09242	W_mirabilis_20992	      0
+ 98-  9:	W_mirabilis_09245	W_mirabilis_19748	  2e-78
+ 98- 10:	W_mirabilis_17583	W_mirabilis_16646	  8e-93
+ 98- 11:	W_mirabilis_17584	W_mirabilis_21467	  4e-42
+ 98- 12:	W_mirabilis_17354	W_mirabilis_16449	  1e-19
+ 98- 13:	W_mirabilis_03427	W_mirabilis_02419	  2e-47
+ 98- 14:	W_mirabilis_09967	W_mirabilis_06141	  7e-16
+ 98- 15:	W_mirabilis_21527	W_mirabilis_02036	  1e-15
+ 98- 16:	W_mirabilis_23765	W_mirabilis_17806	  4e-83
+## Alignment 99: score=218.0 e_value=5.2e-08 N=5 wel_Chr07&wel_Chr13 plus
+ 99-  0:	W_mirabilis_11301	W_mirabilis_11741	  1e-50
+ 99-  1:	W_mirabilis_11300	W_mirabilis_11743	 3e-223
+ 99-  2:	W_mirabilis_20110	W_mirabilis_24626	  5e-36
+ 99-  3:	W_mirabilis_17130	W_mirabilis_24628	  8e-60
+ 99-  4:	W_mirabilis_06061	W_mirabilis_24632	  1e-10
+## Alignment 100: score=157.0 e_value=1.7e-06 N=5 wel_Chr07&wel_Chr13 plus
+100-  0:	W_mirabilis_18495	W_mirabilis_02195	  8e-79
+100-  1:	W_mirabilis_24895	W_mirabilis_02201	 2e-106
+100-  2:	W_mirabilis_02796	W_mirabilis_12409	  2e-09
+100-  3:	W_mirabilis_18345	W_mirabilis_13711	  1e-66
+100-  4:	W_mirabilis_19137	W_mirabilis_13713	  8e-75
+## Alignment 101: score=162.0 e_value=6.2e-05 N=4 wel_Chr07&wel_Chr13 minus
+101-  0:	W_mirabilis_21317	W_mirabilis_21404	  1e-37
+101-  1:	W_mirabilis_19137	W_mirabilis_13713	  8e-75
+101-  2:	W_mirabilis_15333	W_mirabilis_06277	 8e-221
+101-  3:	W_mirabilis_15334	W_mirabilis_06271	  8e-75
+## Alignment 102: score=254.0 e_value=3.9e-09 N=6 wel_Chr07&wel_Chr14 minus
+102-  0:	W_mirabilis_04723	W_mirabilis_07939	 3e-103
+102-  1:	W_mirabilis_23609	W_mirabilis_00343	      0
+102-  2:	W_mirabilis_23607	W_mirabilis_00345	 5e-178
+102-  3:	W_mirabilis_23600	W_mirabilis_08402	 2e-139
+102-  4:	W_mirabilis_12238	W_mirabilis_05364	 3e-225
+102-  5:	W_mirabilis_20181	W_mirabilis_05366	  9e-45
+## Alignment 103: score=195.0 e_value=0.00021 N=4 wel_Chr07&wel_Chr14 minus
+103-  0:	W_mirabilis_05836	W_mirabilis_24737	 5e-158
+103-  1:	W_mirabilis_14868	W_mirabilis_14873	  3e-26
+103-  2:	W_mirabilis_14871	W_mirabilis_14875	 6e-258
+103-  3:	W_mirabilis_09934	W_mirabilis_14876	  6e-34
+## Alignment 104: score=276.0 e_value=1.7e-13 N=6 wel_Chr07&wel_Chr19 plus
+104-  0:	W_mirabilis_20545	W_mirabilis_04356	  9e-47
+104-  1:	W_mirabilis_20544	W_mirabilis_04357	  3e-09
+104-  2:	W_mirabilis_12445	W_mirabilis_18524	  6e-38
+104-  3:	W_mirabilis_12444	W_mirabilis_18521	  3e-09
+104-  4:	W_mirabilis_12440	W_mirabilis_18517	  9e-21
+104-  5:	W_mirabilis_12431	W_mirabilis_18508	  3e-61
+## Alignment 105: score=249.0 e_value=3.8e-12 N=6 wel_Chr07&wel_Chr19 plus
+105-  0:	W_mirabilis_23760	W_mirabilis_25153	  3e-43
+105-  1:	W_mirabilis_18481	W_mirabilis_18254	 2e-192
+105-  2:	W_mirabilis_18479	W_mirabilis_18253	  3e-37
+105-  3:	W_mirabilis_18473	W_mirabilis_07000	 1e-251
+105-  4:	W_mirabilis_18471	W_mirabilis_09457	  1e-77
+105-  5:	W_mirabilis_18463	W_mirabilis_14622	  7e-46
+## Alignment 106: score=155.0 e_value=5.5e-07 N=5 wel_Chr07&wel_Chr19 plus
+106-  0:	W_mirabilis_23770	W_mirabilis_10836	      0
+106-  1:	W_mirabilis_06307	W_mirabilis_12282	  5e-19
+106-  2:	W_mirabilis_19520	W_mirabilis_05080	 1e-119
+106-  3:	W_mirabilis_22552	W_mirabilis_05073	  7e-70
+106-  4:	W_mirabilis_22558	W_mirabilis_05071	  3e-26
+## Alignment 107: score=150.0 e_value=0.00058 N=4 wel_Chr07&wel_Chr19 minus
+107-  0:	W_mirabilis_19712	W_mirabilis_13875	  3e-47
+107-  1:	W_mirabilis_11950	W_mirabilis_13873	  9e-36
+107-  2:	W_mirabilis_06300	W_mirabilis_18961	      0
+107-  3:	W_mirabilis_18469	W_mirabilis_14622	  1e-24
+## Alignment 108: score=311.0 e_value=5.8e-14 N=8 wel_Chr07&wel_Chr21 minus
+108-  0:	W_mirabilis_24252	W_mirabilis_06663	 6e-128
+108-  1:	W_mirabilis_22731	W_mirabilis_06659	      0
+108-  2:	W_mirabilis_22733	W_mirabilis_16435	      0
+108-  3:	W_mirabilis_22735	W_mirabilis_11479	  1e-48
+108-  4:	W_mirabilis_04916	W_mirabilis_22716	  2e-93
+108-  5:	W_mirabilis_04922	W_mirabilis_22709	  5e-82
+108-  6:	W_mirabilis_05087	W_mirabilis_22692	  1e-40
+108-  7:	W_mirabilis_16130	W_mirabilis_21762	 2e-138
+## Alignment 109: score=305.0 e_value=4e-22 N=9 wel_Chr08&wel_Chr08 minus
+109-  0:	W_mirabilis_02210	W_mirabilis_17201	 2e-187
+109-  1:	W_mirabilis_02519	W_mirabilis_17200	  4e-15
+109-  2:	W_mirabilis_02523	W_mirabilis_14804	  1e-19
+109-  3:	W_mirabilis_03999	W_mirabilis_13338	  1e-28
+109-  4:	W_mirabilis_05333	W_mirabilis_11939	  1e-74
+109-  5:	W_mirabilis_05334	W_mirabilis_11938	  3e-83
+109-  6:	W_mirabilis_05341	W_mirabilis_10791	  5e-44
+109-  7:	W_mirabilis_06779	W_mirabilis_09868	  7e-19
+109-  8:	W_mirabilis_06868	W_mirabilis_08269	 1e-223
+## Alignment 110: score=158.0 e_value=7.1e-07 N=4 wel_Chr08&wel_Chr20 minus
+110-  0:	W_mirabilis_15402	W_mirabilis_22525	  6e-15
+110-  1:	W_mirabilis_19464	W_mirabilis_13561	  2e-32
+110-  2:	W_mirabilis_10628	W_mirabilis_13560	  8e-21
+110-  3:	W_mirabilis_05713	W_mirabilis_25223	  1e-54
+## Alignment 111: score=188.0 e_value=8.9e-09 N=4 wel_Chr08&wel_ContigUN plus
+111-  0:	W_mirabilis_05187	W_mirabilis_18911	 5e-114
+111-  1:	W_mirabilis_22399	W_mirabilis_18980	  7e-92
+111-  2:	W_mirabilis_01478	W_mirabilis_18981	  4e-51
+111-  3:	W_mirabilis_26518	W_mirabilis_18982	  3e-19
+## Alignment 112: score=152.0 e_value=3.3e-05 N=4 wel_Chr08&wel_ContigUN minus
+112-  0:	W_mirabilis_08269	W_mirabilis_18910	 5e-205
+112-  1:	W_mirabilis_09541	W_mirabilis_18773	  4e-14
+112-  2:	W_mirabilis_11938	W_mirabilis_18576	  6e-21
+112-  3:	W_mirabilis_11940	W_mirabilis_18573	  2e-63
+## Alignment 113: score=197.0 e_value=3.2e-14 N=7 wel_Chr10&wel_Chr10 plus
+113-  0:	W_mirabilis_24802	W_mirabilis_24298	  1e-12
+113-  1:	W_mirabilis_24809	W_mirabilis_25793	 3e-162
+113-  2:	W_mirabilis_16766	W_mirabilis_25803	  3e-25
+113-  3:	W_mirabilis_06167	W_mirabilis_02369	  7e-15
+113-  4:	W_mirabilis_06171	W_mirabilis_02370	  1e-52
+113-  5:	W_mirabilis_06172	W_mirabilis_04807	  3e-33
+113-  6:	W_mirabilis_12809	W_mirabilis_10014	  1e-45
+## Alignment 114: score=167.0 e_value=1.7e-06 N=5 wel_Chr10&wel_Chr12 plus
+114-  0:	W_mirabilis_19789	W_mirabilis_04914	  8e-34
+114-  1:	W_mirabilis_14468	W_mirabilis_17185	  4e-19
+114-  2:	W_mirabilis_04207	W_mirabilis_18784	  1e-60
+114-  3:	W_mirabilis_04204	W_mirabilis_21098	  8e-32
+114-  4:	W_mirabilis_16121	W_mirabilis_23665	 1e-100
+## Alignment 115: score=592.0 e_value=4e-31 N=13 wel_Chr10&wel_Chr15 plus
+115-  0:	W_mirabilis_09755	W_mirabilis_16214	  2e-48
+115-  1:	W_mirabilis_07588	W_mirabilis_25736	  2e-37
+115-  2:	W_mirabilis_19768	W_mirabilis_25738	 3e-163
+115-  3:	W_mirabilis_19773	W_mirabilis_25741	  2e-49
+115-  4:	W_mirabilis_19774	W_mirabilis_03584	  4e-23
+115-  5:	W_mirabilis_19775	W_mirabilis_20757	 1e-187
+115-  6:	W_mirabilis_19776	W_mirabilis_14556	  9e-08
+115-  7:	W_mirabilis_19779	W_mirabilis_08491	  3e-34
+115-  8:	W_mirabilis_19781	W_mirabilis_08494	  9e-69
+115-  9:	W_mirabilis_19785	W_mirabilis_15173	  3e-36
+115- 10:	W_mirabilis_19800	W_mirabilis_04144	  2e-72
+115- 11:	W_mirabilis_12130	W_mirabilis_13564	  1e-22
+115- 12:	W_mirabilis_14465	W_mirabilis_18273	  1e-28
+## Alignment 116: score=231.0 e_value=8.4e-07 N=5 wel_Chr10&wel_Chr15 plus
+116-  0:	W_mirabilis_06022	W_mirabilis_14995	  5e-99
+116-  1:	W_mirabilis_22573	W_mirabilis_19535	      0
+116-  2:	W_mirabilis_22572	W_mirabilis_19532	  5e-24
+116-  3:	W_mirabilis_22570	W_mirabilis_21353	  7e-85
+116-  4:	W_mirabilis_16720	W_mirabilis_00248	  2e-91
+## Alignment 117: score=173.0 e_value=6.4e-13 N=6 wel_Chr10&wel_ContigUN plus
+117-  0:	W_mirabilis_17123	W_mirabilis_13557	  2e-12
+117-  1:	W_mirabilis_17125	W_mirabilis_13558	  2e-09
+117-  2:	W_mirabilis_17126	W_mirabilis_14631	 1e-169
+117-  3:	W_mirabilis_20899	W_mirabilis_14707	 5e-116
+117-  4:	W_mirabilis_24301	W_mirabilis_14735	  2e-15
+117-  5:	W_mirabilis_25878	W_mirabilis_16040	  1e-13
+## Alignment 118: score=228.0 e_value=3.9e-07 N=5 wel_Chr11&wel_Chr14 plus
+118-  0:	W_mirabilis_00913	W_mirabilis_12205	 3e-100
+118-  1:	W_mirabilis_00912	W_mirabilis_09832	 4e-194
+118-  2:	W_mirabilis_00910	W_mirabilis_09828	  3e-45
+118-  3:	W_mirabilis_09747	W_mirabilis_00963	  5e-46
+118-  4:	W_mirabilis_09748	W_mirabilis_03756	 7e-185
+## Alignment 119: score=669.0 e_value=1.2e-39 N=15 wel_Chr11&wel_Chr14 minus
+119-  0:	W_mirabilis_23985	W_mirabilis_10116	  1e-23
+119-  1:	W_mirabilis_16576	W_mirabilis_10119	  3e-94
+119-  2:	W_mirabilis_16577	W_mirabilis_10125	  3e-30
+119-  3:	W_mirabilis_06928	W_mirabilis_23594	  1e-42
+119-  4:	W_mirabilis_06927	W_mirabilis_23593	 1e-211
+119-  5:	W_mirabilis_17075	W_mirabilis_23592	  4e-63
+119-  6:	W_mirabilis_17074	W_mirabilis_14399	  2e-38
+119-  7:	W_mirabilis_09742	W_mirabilis_12466	  7e-28
+119-  8:	W_mirabilis_09736	W_mirabilis_12467	  1e-75
+119-  9:	W_mirabilis_09734	W_mirabilis_17230	  2e-59
+119- 10:	W_mirabilis_00912	W_mirabilis_09832	 4e-194
+119- 11:	W_mirabilis_00911	W_mirabilis_12204	  7e-73
+119- 12:	W_mirabilis_09750	W_mirabilis_24892	  6e-58
+119- 13:	W_mirabilis_08616	W_mirabilis_11186	 1e-124
+119- 14:	W_mirabilis_08443	W_mirabilis_11188	  2e-38
+## Alignment 120: score=160.0 e_value=6.5e-13 N=6 wel_Chr11&wel_Chr17 plus
+120-  0:	W_mirabilis_13373	W_mirabilis_18219	  5e-35
+120-  1:	W_mirabilis_16855	W_mirabilis_18221	 8e-192
+120-  2:	W_mirabilis_10425	W_mirabilis_22470	 2e-188
+120-  3:	W_mirabilis_17179	W_mirabilis_22472	  3e-71
+120-  4:	W_mirabilis_21928	W_mirabilis_17192	  1e-26
+120-  5:	W_mirabilis_21927	W_mirabilis_26316	  8e-44
+## Alignment 121: score=156.0 e_value=0.00063 N=4 wel_Chr11&wel_Chr17 plus
+121-  0:	W_mirabilis_07907	W_mirabilis_11960	  2e-55
+121-  1:	W_mirabilis_16591	W_mirabilis_03214	 7e-122
+121-  2:	W_mirabilis_14288	W_mirabilis_03213	 3e-114
+121-  3:	W_mirabilis_15054	W_mirabilis_25948	  4e-89
+## Alignment 122: score=177.0 e_value=2.8e-09 N=6 wel_Chr12&wel_Chr19 minus
+122-  0:	W_mirabilis_01444	W_mirabilis_14983	 1e-242
+122-  1:	W_mirabilis_22408	W_mirabilis_13879	  1e-89
+122-  2:	W_mirabilis_13055	W_mirabilis_13878	  3e-55
+122-  3:	W_mirabilis_17750	W_mirabilis_05281	  4e-28
+122-  4:	W_mirabilis_12156	W_mirabilis_09462	  3e-12
+122-  5:	W_mirabilis_21971	W_mirabilis_07000	 2e-123
+## Alignment 123: score=344.0 e_value=2e-24 N=9 wel_Chr13&wel_Chr16 plus
+123-  0:	W_mirabilis_02827	W_mirabilis_26432	  4e-50
+123-  1:	W_mirabilis_02820	W_mirabilis_26429	  6e-24
+123-  2:	W_mirabilis_02817	W_mirabilis_26427	 4e-157
+123-  3:	W_mirabilis_02814	W_mirabilis_26424	 4e-229
+123-  4:	W_mirabilis_12390	W_mirabilis_26423	  2e-55
+123-  5:	W_mirabilis_19369	W_mirabilis_26422	 9e-175
+123-  6:	W_mirabilis_22244	W_mirabilis_26418	  3e-54
+123-  7:	W_mirabilis_21496	W_mirabilis_17549	  3e-05
+123-  8:	W_mirabilis_06312	W_mirabilis_10262	  2e-46
+## Alignment 124: score=195.0 e_value=0.00034 N=4 wel_Chr13&wel_Chr16 plus
+124-  0:	W_mirabilis_24631	W_mirabilis_11233	  3e-10
+124-  1:	W_mirabilis_24632	W_mirabilis_11234	 1e-225
+124-  2:	W_mirabilis_17738	W_mirabilis_11238	 7e-142
+124-  3:	W_mirabilis_17737	W_mirabilis_11241	  4e-31
+## Alignment 125: score=167.0 e_value=1.8e-06 N=4 wel_Chr13&wel_Chr16 plus
+125-  0:	W_mirabilis_22462	W_mirabilis_00833	  3e-21
+125-  1:	W_mirabilis_02911	W_mirabilis_00652	  1e-22
+125-  2:	W_mirabilis_06313	W_mirabilis_00654	  1e-25
+125-  3:	W_mirabilis_18626	W_mirabilis_00655	  2e-41
+## Alignment 126: score=173.0 e_value=1.3e-06 N=5 wel_Chr13&wel_Chr16 minus
+126-  0:	W_mirabilis_09725	W_mirabilis_18565	  6e-71
+126-  1:	W_mirabilis_13027	W_mirabilis_08462	  5e-25
+126-  2:	W_mirabilis_13030	W_mirabilis_00827	  8e-19
+126-  3:	W_mirabilis_13596	W_mirabilis_10782	  7e-43
+126-  4:	W_mirabilis_15471	W_mirabilis_12403	 4e-149
+## Alignment 127: score=163.0 e_value=0.00044 N=4 wel_Chr14&wel_Chr19 minus
+127-  0:	W_mirabilis_23932	W_mirabilis_19121	  3e-30
+127-  1:	W_mirabilis_24193	W_mirabilis_08033	  2e-21
+127-  2:	W_mirabilis_24202	W_mirabilis_07654	 6e-232
+127-  3:	W_mirabilis_24203	W_mirabilis_07653	  2e-63
+## Alignment 128: score=167.0 e_value=0.00096 N=4 wel_Chr14&wel_ContigUN minus
+128-  0:	W_mirabilis_15844	W_mirabilis_21896	  8e-19
+128-  1:	W_mirabilis_15850	W_mirabilis_21868	  1e-15
+128-  2:	W_mirabilis_20142	W_mirabilis_21780	  9e-22
+128-  3:	W_mirabilis_20145	W_mirabilis_21601	  5e-20
+## Alignment 129: score=197.0 e_value=2.3e-12 N=5 wel_Chr15&wel_ContigUN minus
+129-  0:	W_mirabilis_01878	W_mirabilis_17892	  3e-29
+129-  1:	W_mirabilis_04161	W_mirabilis_17854	  1e-20
+129-  2:	W_mirabilis_05747	W_mirabilis_17672	  7e-81
+129-  3:	W_mirabilis_05749	W_mirabilis_17671	  2e-60
+129-  4:	W_mirabilis_05750	W_mirabilis_17453	 3e-133
+## Alignment 130: score=156.0 e_value=2.6e-06 N=5 wel_Chr18&wel_ContigUN minus
+130-  0:	W_mirabilis_11896	W_mirabilis_26745	 2e-217
+130-  1:	W_mirabilis_14098	W_mirabilis_26676	  6e-34
+130-  2:	W_mirabilis_14290	W_mirabilis_26434	  8e-16
+130-  3:	W_mirabilis_15569	W_mirabilis_25983	  1e-22
+130-  4:	W_mirabilis_20276	W_mirabilis_25566	  2e-39
+## Alignment 131: score=201.0 e_value=7.5e-09 N=5 wel_Chr19&wel_Chr19 minus
+131-  0:	W_mirabilis_13988	W_mirabilis_23131	 3e-107
+131-  1:	W_mirabilis_13989	W_mirabilis_18217	  3e-94
+131-  2:	W_mirabilis_13517	W_mirabilis_21726	  5e-37
+131-  3:	W_mirabilis_08721	W_mirabilis_19839	 2e-133
+131-  4:	W_mirabilis_11888	W_mirabilis_19831	  7e-32
+## Alignment 132: score=150.0 e_value=3.5e-05 N=4 wel_Chr19&wel_Chr21 plus
+132-  0:	W_mirabilis_12843	W_mirabilis_01773	  1e-38
+132-  1:	W_mirabilis_19121	W_mirabilis_02997	 8e-108
+132-  2:	W_mirabilis_03785	W_mirabilis_05524	  2e-58
+132-  3:	W_mirabilis_03780	W_mirabilis_05526	 5e-232
+## Alignment 133: score=234.0 e_value=6.9e-15 N=8 wel_Chr19&wel_Chr21 minus
+133-  0:	W_mirabilis_02629	W_mirabilis_07480	  3e-54
+133-  1:	W_mirabilis_02626	W_mirabilis_05591	  3e-23
+133-  2:	W_mirabilis_03279	W_mirabilis_05526	 4e-162
+133-  3:	W_mirabilis_03785	W_mirabilis_05524	  2e-58
+133-  4:	W_mirabilis_10834	W_mirabilis_04368	  3e-15
+133-  5:	W_mirabilis_07415	W_mirabilis_01771	 5e-176
+133-  6:	W_mirabilis_24654	W_mirabilis_01314	  1e-22
+133-  7:	W_mirabilis_18584	W_mirabilis_21056	  1e-55
+## Alignment 134: score=332.0 e_value=1.4e-37 N=14 wel_ContigUN&wel_ContigUN plus
+134-  0:	W_mirabilis_20717	W_mirabilis_24447	  7e-67
+134-  1:	W_mirabilis_20964	W_mirabilis_24949	  7e-22
+134-  2:	W_mirabilis_21038	W_mirabilis_25286	  3e-25
+134-  3:	W_mirabilis_21062	W_mirabilis_25719	  1e-62
+134-  4:	W_mirabilis_21417	W_mirabilis_26028	  1e-22
+134-  5:	W_mirabilis_21453	W_mirabilis_26324	  5e-32
+134-  6:	W_mirabilis_21708	W_mirabilis_26369	  2e-15
+134-  7:	W_mirabilis_21729	W_mirabilis_26458	 9e-137
+134-  8:	W_mirabilis_21974	W_mirabilis_26987	  2e-08
+134-  9:	W_mirabilis_22055	W_mirabilis_00203	 1e-286
+134- 10:	W_mirabilis_22216	W_mirabilis_00506	  2e-44
+134- 11:	W_mirabilis_22463	W_mirabilis_01072	  1e-18
+134- 12:	W_mirabilis_22464	W_mirabilis_01073	  3e-21
+134- 13:	W_mirabilis_22514	W_mirabilis_01769	  4e-26
+## Alignment 135: score=194.0 e_value=1.5e-11 N=7 wel_ContigUN&wel_ContigUN plus
+135-  0:	W_mirabilis_20923	W_mirabilis_21786	  5e-29
+135-  1:	W_mirabilis_20964	W_mirabilis_21911	 6e-155
+135-  2:	W_mirabilis_21105	W_mirabilis_22173	  1e-15
+135-  3:	W_mirabilis_21234	W_mirabilis_22463	  2e-17
+135-  4:	W_mirabilis_21417	W_mirabilis_22468	  1e-47
+135-  5:	W_mirabilis_21683	W_mirabilis_22670	  6e-26
+135-  6:	W_mirabilis_21729	W_mirabilis_22826	  5e-47
+## Alignment 136: score=189.0 e_value=1.8e-06 N=5 wel_ContigUN&wel_ContigUN plus
+136-  0:	W_mirabilis_26447	W_mirabilis_02463	  1e-05
+136-  1:	W_mirabilis_26648	W_mirabilis_02959	  3e-06
+136-  2:	W_mirabilis_26677	W_mirabilis_03384	  2e-19
+136-  3:	W_mirabilis_26718	W_mirabilis_03414	  2e-43
+136-  4:	W_mirabilis_26760	W_mirabilis_04438	  2e-41
+## Alignment 137: score=174.0 e_value=2.4e-08 N=6 wel_ContigUN&wel_ContigUN plus
+137-  0:	W_mirabilis_23288	W_mirabilis_26009	  8e-33
+137-  1:	W_mirabilis_23557	W_mirabilis_26173	 1e-195
+137-  2:	W_mirabilis_24151	W_mirabilis_26324	 4e-117
+137-  3:	W_mirabilis_24191	W_mirabilis_26447	  2e-08
+137-  4:	W_mirabilis_24317	W_mirabilis_26760	  5e-93
+137-  5:	W_mirabilis_24468	W_mirabilis_26987	  4e-35
+## Alignment 138: score=165.0 e_value=2.9e-09 N=6 wel_ContigUN&wel_ContigUN plus
+138-  0:	W_mirabilis_22201	W_mirabilis_25301	  2e-33
+138-  1:	W_mirabilis_22235	W_mirabilis_25735	  2e-10
+138-  2:	W_mirabilis_22252	W_mirabilis_26086	  1e-38
+138-  3:	W_mirabilis_22427	W_mirabilis_26745	 2e-231
+138-  4:	W_mirabilis_22514	W_mirabilis_26760	 5e-113
+138-  5:	W_mirabilis_22768	W_mirabilis_26987	  1e-83
+## Alignment 139: score=167.0 e_value=1.1e-10 N=7 wel_ContigUN&wel_ContigUN minus
+139-  0:	W_mirabilis_21729	W_mirabilis_25097	 4e-137
+139-  1:	W_mirabilis_21761	W_mirabilis_24894	  2e-11
+139-  2:	W_mirabilis_21868	W_mirabilis_24468	  9e-37
+139-  3:	W_mirabilis_22173	W_mirabilis_24115	  6e-26
+139-  4:	W_mirabilis_22304	W_mirabilis_23820	  3e-16
+139-  5:	W_mirabilis_22426	W_mirabilis_23286	 2e-107
+139-  6:	W_mirabilis_22514	W_mirabilis_23142	  3e-20
