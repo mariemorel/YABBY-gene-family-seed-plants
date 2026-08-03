@@ -1,0 +1,3214 @@
+############### Parameters ###############
+# MATCH_SCORE: 50
+# GAP_PENALTY: -1
+# MATCH_SIZE: 3
+# OVERLAP_WINDOW: 5
+# E_VALUE: 0.001
+# MAX GAPS: 55
+############### Statistics ###############
+# Number of collinear genes: 5245, Percentage: 8.32
+# Number of all genes: 63059
+##########################################
+## Alignment 0: score=202.0 e_value=2.7e-06 N=5 Atr_1&seq_chr1 plus
+  0-  0:	atr_94492778	SEGI_29868	  7e-41
+  0-  1:	atr_94493645	SEGI_38455	  8e-57
+  0-  2:	atr_94496540	SEGI_37396	  1e-45
+  0-  3:	atr_94492564	SEGI_30235	  4e-30
+  0-  4:	atr_94495773	SEGI_37820	  8e-10
+## Alignment 1: score=197.0 e_value=2e-09 N=6 Atr_1&seq_chr1 plus
+  1-  0:	atr_94492698	SEGI_34413	  3e-21
+  1-  1:	atr_94496669	SEGI_13107	 2e-116
+  1-  2:	atr_94495491	SEGI_40515	  2e-64
+  1-  3:	atr_94492701	SEGI_02508	 1e-136
+  1-  4:	atr_94497363	SEGI_07775	  3e-54
+  1-  5:	atr_94492566	SEGI_07995	  4e-84
+## Alignment 2: score=173.0 e_value=1.7e-06 N=5 Atr_1&seq_chr1 plus
+  2-  0:	atr_94492304	SEGI_00989	  2e-61
+  2-  1:	atr_94495758	SEGI_06384	  7e-15
+  2-  2:	atr_94495599	SEGI_14529	  3e-42
+  2-  3:	atr_94493149	SEGI_12221	      0
+  2-  4:	atr_94495300	SEGI_17628	  8e-96
+## Alignment 3: score=168.0 e_value=1e-06 N=5 Atr_1&seq_chr1 plus
+  3-  0:	atr_94496864	SEGI_04096	  4e-56
+  3-  1:	atr_94496211	SEGI_16322	 5e-144
+  3-  2:	atr_94497344	SEGI_24950	  5e-87
+  3-  3:	atr_94496103	SEGI_23731	  5e-90
+  3-  4:	atr_94493762	SEGI_06144	 1e-132
+## Alignment 4: score=160.0 e_value=3e-08 N=6 Atr_1&seq_chr1 plus
+  4-  0:	atr_94494175	SEGI_32243	  1e-73
+  4-  1:	atr_94494978	SEGI_40426	  1e-79
+  4-  2:	atr_94496149	SEGI_20668	  1e-49
+  4-  3:	atr_94496077	SEGI_08193	  3e-57
+  4-  4:	atr_94497436	SEGI_19833	  1e-27
+  4-  5:	atr_94494027	SEGI_32648	 2e-148
+## Alignment 5: score=152.0 e_value=6e-07 N=5 Atr_1&seq_chr1 plus
+  5-  0:	atr_94492050	SEGI_10989	  4e-28
+  5-  1:	atr_94496188	SEGI_33877	  2e-17
+  5-  2:	atr_94494454	SEGI_39681	 7e-168
+  5-  3:	atr_94494349	SEGI_12634	 1e-223
+  5-  4:	atr_94497160	SEGI_01011	  2e-35
+## Alignment 6: score=152.0 e_value=2.5e-06 N=5 Atr_1&seq_chr1 plus
+  6-  0:	atr_94494047	SEGI_03665	  4e-25
+  6-  1:	atr_94494728	SEGI_34942	  1e-59
+  6-  2:	atr_94495411	SEGI_14873	  2e-59
+  6-  3:	atr_94493166	SEGI_08455	  2e-10
+  6-  4:	atr_94497151	SEGI_20510	  6e-35
+## Alignment 7: score=152.0 e_value=1.4e-05 N=4 Atr_1&seq_chr1 plus
+  7-  0:	atr_94496375	SEGI_19620	  5e-67
+  7-  1:	atr_94492848	SEGI_14068	  2e-60
+  7-  2:	atr_94492391	SEGI_34551	  8e-38
+  7-  3:	atr_94495393	SEGI_27923	  7e-79
+## Alignment 8: score=256.0 e_value=8.7e-11 N=7 Atr_1&seq_chr1 minus
+  8-  0:	atr_94493348	SEGI_01061	  2e-39
+  8-  1:	atr_94497064	SEGI_18596	  1e-23
+  8-  2:	atr_94496250	SEGI_30603	  3e-17
+  8-  3:	atr_94496698	SEGI_12336	  2e-33
+  8-  4:	atr_94493410	SEGI_16969	  4e-16
+  8-  5:	atr_94496155	SEGI_24197	  1e-10
+  8-  6:	atr_94494016	SEGI_28659	  1e-24
+## Alignment 9: score=204.0 e_value=5.3e-07 N=5 Atr_1&seq_chr1 minus
+  9-  0:	atr_94496188	SEGI_33527	  6e-09
+  9-  1:	atr_94494133	SEGI_04870	 7e-223
+  9-  2:	atr_94494454	SEGI_07559	 5e-151
+  9-  3:	atr_94497288	SEGI_30701	 4e-106
+  9-  4:	atr_94497455	SEGI_11810	  1e-24
+## Alignment 10: score=181.0 e_value=3.7e-07 N=5 Atr_1&seq_chr1 minus
+ 10-  0:	atr_94492698	SEGI_21579	  3e-27
+ 10-  1:	atr_94493000	SEGI_39132	  1e-15
+ 10-  2:	atr_94494728	SEGI_19610	  4e-61
+ 10-  3:	atr_94494714	SEGI_36382	  4e-26
+ 10-  4:	atr_94496693	SEGI_13915	  3e-59
+## Alignment 11: score=156.0 e_value=5.2e-07 N=5 Atr_1&seq_chr1 minus
+ 11-  0:	atr_94492770	SEGI_03960	 2e-149
+ 11-  1:	atr_94492253	SEGI_03560	 3e-207
+ 11-  2:	atr_94493201	SEGI_25631	  1e-35
+ 11-  3:	atr_94496077	SEGI_08193	  3e-57
+ 11-  4:	atr_94494531	SEGI_06419	  3e-92
+## Alignment 12: score=265.0 e_value=1.4e-14 N=8 Atr_1&seq_chr10 minus
+ 12-  0:	atr_94495868	SEGI_38981	 2e-152
+ 12-  1:	atr_94496563	SEGI_25228	  4e-23
+ 12-  2:	atr_94494334	SEGI_13558	  9e-99
+ 12-  3:	atr_94495471	SEGI_09406	 4e-289
+ 12-  4:	atr_94497172	SEGI_20687	  5e-15
+ 12-  5:	atr_94496441	SEGI_11939	 9e-148
+ 12-  6:	atr_94492455	SEGI_41510	 4e-163
+ 12-  7:	atr_94493460	SEGI_15765	  8e-40
+## Alignment 13: score=367.0 e_value=6.6e-14 N=8 Atr_1&seq_chr11 plus
+ 13-  0:	atr_94494437	SEGI_19441	  6e-40
+ 13-  1:	atr_94494579	SEGI_27160	 1e-118
+ 13-  2:	atr_94494492	SEGI_39686	 1e-131
+ 13-  3:	atr_94495865	SEGI_10507	 4e-190
+ 13-  4:	atr_94494749	SEGI_31551	 5e-102
+ 13-  5:	atr_94495360	SEGI_36771	 2e-148
+ 13-  6:	atr_94494861	SEGI_20425	  3e-26
+ 13-  7:	atr_94494051	SEGI_09445	  3e-69
+## Alignment 14: score=214.0 e_value=1.2e-05 N=5 Atr_1&seq_chr11 minus
+ 14-  0:	atr_94496165	SEGI_27669	 5e-142
+ 14-  1:	atr_94492915	SEGI_24624	 7e-129
+ 14-  2:	atr_94495231	SEGI_19357	  3e-30
+ 14-  3:	atr_94495303	SEGI_31480	 5e-261
+ 14-  4:	atr_94492240	SEGI_38632	  3e-54
+## Alignment 15: score=492.0 e_value=2.8e-31 N=13 Atr_1&seq_chr2 plus
+ 15-  0:	atr_94494650	SEGI_40207	  7e-41
+ 15-  1:	atr_94495681	SEGI_14698	 8e-150
+ 15-  2:	atr_94496632	SEGI_02621	  6e-70
+ 15-  3:	atr_94495911	SEGI_27763	  5e-76
+ 15-  4:	atr_94494510	SEGI_09236	  7e-63
+ 15-  5:	atr_94495103	SEGI_38280	  2e-63
+ 15-  6:	atr_94494022	SEGI_08116	  3e-76
+ 15-  7:	atr_94494010	SEGI_07470	  5e-81
+ 15-  8:	atr_94492037	SEGI_39345	  4e-36
+ 15-  9:	atr_94495076	SEGI_03729	  4e-57
+ 15- 10:	atr_94492482	SEGI_19769	 1e-224
+ 15- 11:	atr_94495166	SEGI_35400	  1e-73
+ 15- 12:	atr_94496013	SEGI_02516	  3e-92
+## Alignment 16: score=191.0 e_value=5e-08 N=5 Atr_1&seq_chr2 plus
+ 16-  0:	atr_94494197	SEGI_04905	  5e-53
+ 16-  1:	atr_94494255	SEGI_37442	  9e-42
+ 16-  2:	atr_94494676	SEGI_00059	  6e-38
+ 16-  3:	atr_94496120	SEGI_01115	 1e-145
+ 16-  4:	atr_94495044	SEGI_04579	 3e-121
+## Alignment 17: score=168.0 e_value=0.00071 N=4 Atr_1&seq_chr2 plus
+ 17-  0:	atr_94493092	SEGI_34036	 7e-167
+ 17-  1:	atr_94495594	SEGI_07586	  1e-51
+ 17-  2:	atr_94493807	SEGI_39462	 6e-233
+ 17-  3:	atr_94493862	SEGI_06433	 3e-191
+## Alignment 18: score=165.0 e_value=8.3e-07 N=5 Atr_1&seq_chr2 plus
+ 18-  0:	atr_94494549	SEGI_25082	  5e-41
+ 18-  1:	atr_94496002	SEGI_24663	  1e-30
+ 18-  2:	atr_94495416	SEGI_32896	  6e-15
+ 18-  3:	atr_94496107	SEGI_33728	  4e-52
+ 18-  4:	atr_94495944	SEGI_32817	  5e-46
+## Alignment 19: score=199.0 e_value=2.1e-07 N=5 Atr_1&seq_chr2 minus
+ 19-  0:	atr_94497495	SEGI_18220	 2e-127
+ 19-  1:	atr_94494310	SEGI_27194	 8e-158
+ 19-  2:	atr_94492016	SEGI_27241	  2e-40
+ 19-  3:	atr_94493253	SEGI_15051	  6e-81
+ 19-  4:	atr_94492575	SEGI_16333	 2e-177
+## Alignment 20: score=162.0 e_value=1.6e-06 N=5 Atr_1&seq_chr2 minus
+ 20-  0:	atr_94496111	SEGI_35169	  2e-65
+ 20-  1:	atr_94495565	SEGI_39121	  7e-66
+ 20-  2:	atr_94492207	SEGI_15298	  7e-62
+ 20-  3:	atr_94494504	SEGI_30192	  9e-62
+ 20-  4:	atr_94497086	SEGI_10345	  8e-53
+## Alignment 21: score=154.0 e_value=0.00014 N=4 Atr_1&seq_chr2 minus
+ 21-  0:	atr_94494046	SEGI_37522	  1e-59
+ 21-  1:	atr_94496393	SEGI_16413	  4e-66
+ 21-  2:	atr_94496309	SEGI_37030	  3e-72
+ 21-  3:	atr_94494406	SEGI_15251	  3e-70
+## Alignment 22: score=310.0 e_value=5.5e-36 N=13 Atr_1&seq_chr3 plus
+ 22-  0:	atr_94497010	SEGI_27742	 3e-129
+ 22-  1:	atr_94495592	SEGI_19394	 3e-107
+ 22-  2:	atr_94495139	SEGI_37019	  1e-25
+ 22-  3:	atr_94493309	SEGI_19203	  5e-39
+ 22-  4:	atr_94496181	SEGI_18737	      0
+ 22-  5:	atr_94493053	SEGI_11732	 2e-163
+ 22-  6:	atr_94493486	SEGI_41085	 4e-130
+ 22-  7:	atr_94496741	SEGI_18231	 3e-124
+ 22-  8:	atr_94494179	SEGI_23922	  2e-93
+ 22-  9:	atr_94494060	SEGI_05025	 8e-129
+ 22- 10:	atr_94497489	SEGI_20443	  5e-68
+ 22- 11:	atr_94493835	SEGI_37169	  8e-57
+ 22- 12:	atr_94493462	SEGI_19153	  5e-21
+## Alignment 23: score=229.0 e_value=4.6e-18 N=8 Atr_1&seq_chr3 plus
+ 23-  0:	atr_94497508	SEGI_34734	  2e-31
+ 23-  1:	atr_94496101	SEGI_23662	  4e-43
+ 23-  2:	atr_94496627	SEGI_37686	 3e-212
+ 23-  3:	atr_94495186	SEGI_01545	  8e-09
+ 23-  4:	atr_94495993	SEGI_28241	 6e-121
+ 23-  5:	atr_94492140	SEGI_38098	  8e-30
+ 23-  6:	atr_94493596	SEGI_06872	  3e-47
+ 23-  7:	atr_94495964	SEGI_32991	 1e-164
+## Alignment 24: score=251.0 e_value=3.6e-14 N=8 Atr_1&seq_chr3 minus
+ 24-  0:	atr_94496972	SEGI_16880	 5e-138
+ 24-  1:	atr_94494908	SEGI_22154	  2e-73
+ 24-  2:	atr_94496074	SEGI_15573	      0
+ 24-  3:	atr_94495829	SEGI_11888	 8e-181
+ 24-  4:	atr_94497005	SEGI_37318	  1e-36
+ 24-  5:	atr_94495183	SEGI_10287	 2e-295
+ 24-  6:	atr_94493046	SEGI_16907	 3e-117
+ 24-  7:	atr_94492281	SEGI_14221	  2e-36
+## Alignment 25: score=233.0 e_value=9.8e-14 N=7 Atr_1&seq_chr3 minus
+ 25-  0:	atr_94496689	SEGI_11883	 1e-130
+ 25-  1:	atr_94494503	SEGI_33824	  2e-16
+ 25-  2:	atr_94493470	SEGI_35539	  3e-10
+ 25-  3:	atr_94495446	SEGI_35065	  2e-47
+ 25-  4:	atr_94493676	SEGI_11984	  2e-57
+ 25-  5:	atr_94494778	SEGI_28417	 1e-106
+ 25-  6:	atr_94493327	SEGI_16821	 3e-181
+## Alignment 26: score=215.0 e_value=1.3e-09 N=6 Atr_1&seq_chr3 minus
+ 26-  0:	atr_94496613	SEGI_35893	  9e-77
+ 26-  1:	atr_94496429	SEGI_19777	 2e-149
+ 26-  2:	atr_94495415	SEGI_05409	 2e-149
+ 26-  3:	atr_94495519	SEGI_31359	 4e-150
+ 26-  4:	atr_94495851	SEGI_26890	  1e-76
+ 26-  5:	atr_94492538	SEGI_00111	  3e-07
+## Alignment 27: score=178.0 e_value=0.00065 N=4 Atr_1&seq_chr3 minus
+ 27-  0:	atr_94492931	SEGI_18499	  5e-31
+ 27-  1:	atr_94491907	SEGI_01523	 4e-227
+ 27-  2:	atr_94495094	SEGI_11316	 1e-144
+ 27-  3:	atr_94497405	SEGI_23777	  6e-32
+## Alignment 28: score=429.0 e_value=4.8e-28 N=12 Atr_1&seq_chr4 plus
+ 28-  0:	atr_94493032	SEGI_31150	  2e-73
+ 28-  1:	atr_94494645	SEGI_16291	  3e-41
+ 28-  2:	atr_94495984	SEGI_39604	 7e-226
+ 28-  3:	atr_94496658	SEGI_37495	  3e-99
+ 28-  4:	atr_94496936	SEGI_01377	  2e-59
+ 28-  5:	atr_94494875	SEGI_24559	  7e-12
+ 28-  6:	atr_94493832	SEGI_21844	  9e-92
+ 28-  7:	atr_94495540	SEGI_24717	  7e-23
+ 28-  8:	atr_94495330	SEGI_28382	  3e-21
+ 28-  9:	atr_94494252	SEGI_25782	  2e-75
+ 28- 10:	atr_94492146	SEGI_37801	 2e-164
+ 28- 11:	atr_94495626	SEGI_03575	  1e-18
+## Alignment 29: score=260.0 e_value=6.3e-12 N=7 Atr_1&seq_chr4 plus
+ 29-  0:	atr_94492680	SEGI_09830	 5e-233
+ 29-  1:	atr_94492187	SEGI_37479	 2e-104
+ 29-  2:	atr_94494979	SEGI_26432	  2e-46
+ 29-  3:	atr_94496561	SEGI_10084	  2e-43
+ 29-  4:	atr_94493474	SEGI_30877	 2e-123
+ 29-  5:	atr_94493801	SEGI_26877	 1e-145
+ 29-  6:	atr_94493998	SEGI_27550	  3e-23
+## Alignment 30: score=152.0 e_value=0.00026 N=4 Atr_1&seq_chr4 plus
+ 30-  0:	atr_94494806	SEGI_40993	 2e-146
+ 30-  1:	atr_94493973	SEGI_12065	  2e-24
+ 30-  2:	atr_94494195	SEGI_13175	  1e-47
+ 30-  3:	atr_94494626	SEGI_20704	  6e-92
+## Alignment 31: score=150.0 e_value=0.00018 N=4 Atr_1&seq_chr4 plus
+ 31-  0:	atr_94492888	SEGI_31073	  6e-28
+ 31-  1:	atr_94496366	SEGI_31902	 3e-116
+ 31-  2:	atr_94493240	SEGI_35551	  2e-50
+ 31-  3:	atr_94493957	SEGI_37412	 4e-159
+## Alignment 32: score=359.0 e_value=2e-14 N=8 Atr_1&seq_chr4 minus
+ 32-  0:	atr_94492593	SEGI_18049	 2e-130
+ 32-  1:	atr_94496614	SEGI_21174	  5e-74
+ 32-  2:	atr_94492101	SEGI_40428	  1e-90
+ 32-  3:	atr_94494839	SEGI_16172	  1e-44
+ 32-  4:	atr_94492445	SEGI_32597	  2e-83
+ 32-  5:	atr_94494551	SEGI_19030	  1e-36
+ 32-  6:	atr_94492817	SEGI_20998	      0
+ 32-  7:	atr_94495454	SEGI_35689	 1e-132
+## Alignment 33: score=283.0 e_value=4.1e-17 N=8 Atr_1&seq_chr4 minus
+ 33-  0:	atr_94497094	SEGI_21634	 3e-191
+ 33-  1:	atr_94492875	SEGI_31556	  1e-24
+ 33-  2:	atr_94494435	SEGI_01520	  4e-29
+ 33-  3:	atr_94493095	SEGI_29070	  1e-80
+ 33-  4:	atr_94496901	SEGI_25580	 2e-215
+ 33-  5:	atr_94492949	SEGI_04447	  2e-77
+ 33-  6:	atr_94496238	SEGI_02857	 2e-138
+ 33-  7:	atr_94493640	SEGI_23691	  2e-06
+## Alignment 34: score=222.0 e_value=8.2e-07 N=5 Atr_1&seq_chr4 minus
+ 34-  0:	atr_94497153	SEGI_15193	  3e-49
+ 34-  1:	atr_94493766	SEGI_28080	  3e-42
+ 34-  2:	atr_94492389	SEGI_26815	  3e-50
+ 34-  3:	atr_94496797	SEGI_09885	  5e-86
+ 34-  4:	atr_94494364	SEGI_38227	 1e-137
+## Alignment 35: score=222.0 e_value=2.8e-10 N=6 Atr_1&seq_chr4 minus
+ 35-  0:	atr_94493403	SEGI_09375	 1e-155
+ 35-  1:	atr_94494704	SEGI_37763	  3e-78
+ 35-  2:	atr_94495085	SEGI_24077	 2e-234
+ 35-  3:	atr_94496824	SEGI_32546	  8e-64
+ 35-  4:	atr_94496709	SEGI_08587	  2e-50
+ 35-  5:	atr_94497212	SEGI_28658	  2e-05
+## Alignment 36: score=199.0 e_value=1.6e-06 N=5 Atr_1&seq_chr4 minus
+ 36-  0:	atr_94496084	SEGI_04041	  4e-28
+ 36-  1:	atr_94494806	SEGI_40993	 2e-146
+ 36-  2:	atr_94493957	SEGI_37412	 4e-159
+ 36-  3:	atr_94495018	SEGI_22425	 2e-152
+ 36-  4:	atr_94496296	SEGI_19762	  1e-60
+## Alignment 37: score=159.0 e_value=0.00055 N=4 Atr_1&seq_chr4 minus
+ 37-  0:	atr_94495774	SEGI_18262	 4e-146
+ 37-  1:	atr_94496245	SEGI_00486	  7e-07
+ 37-  2:	atr_94497554	SEGI_05963	  2e-24
+ 37-  3:	atr_94494690	SEGI_07017	  4e-26
+## Alignment 38: score=210.0 e_value=3.4e-06 N=5 Atr_1&seq_chr5 plus
+ 38-  0:	atr_94497353	SEGI_22652	 6e-140
+ 38-  1:	atr_94494837	SEGI_34163	 4e-290
+ 38-  2:	atr_94492468	SEGI_33443	  2e-37
+ 38-  3:	atr_94493868	SEGI_34686	 3e-170
+ 38-  4:	atr_94493426	SEGI_33193	 8e-130
+## Alignment 39: score=229.0 e_value=8.9e-07 N=5 Atr_1&seq_chr8 minus
+ 39-  0:	atr_94497465	SEGI_17762	  5e-55
+ 39-  1:	atr_94496747	SEGI_04522	  1e-12
+ 39-  2:	atr_94492688	SEGI_01007	 7e-108
+ 39-  3:	atr_94493992	SEGI_40315	 7e-215
+ 39-  4:	atr_94493688	SEGI_30579	 2e-106
+## Alignment 40: score=233.0 e_value=3.3e-06 N=5 Atr_1&seq_chr9 minus
+ 40-  0:	atr_94494190	SEGI_11634	  1e-37
+ 40-  1:	atr_94493737	SEGI_00362	 2e-120
+ 40-  2:	atr_94497214	SEGI_07843	  6e-34
+ 40-  3:	atr_94495061	SEGI_37206	  5e-16
+ 40-  4:	atr_94492035	SEGI_13425	 3e-113
+## Alignment 41: score=180.0 e_value=0.00042 N=4 Atr_1&seq_chr9 minus
+ 41-  0:	atr_94495782	SEGI_19294	 2e-215
+ 41-  1:	atr_94493381	SEGI_31567	 3e-148
+ 41-  2:	atr_94495280	SEGI_26060	 4e-133
+ 41-  3:	atr_94495025	SEGI_23847	  1e-43
+## Alignment 42: score=164.0 e_value=4.1e-06 N=5 Atr_10&seq_chr1 minus
+ 42-  0:	atr_94488090	SEGI_16572	 3e-172
+ 42-  1:	atr_94488051	SEGI_10281	      0
+ 42-  2:	atr_94489003	SEGI_30628	 1e-124
+ 42-  3:	atr_94489598	SEGI_30977	  3e-79
+ 42-  4:	atr_94489120	SEGI_13141	      0
+## Alignment 43: score=157.0 e_value=4e-05 N=4 Atr_10&seq_chr10 plus
+ 43-  0:	atr_94489258	SEGI_15527	  2e-24
+ 43-  1:	atr_94491268	SEGI_30134	  6e-40
+ 43-  2:	atr_94491845	SEGI_24783	  2e-37
+ 43-  3:	atr_94491514	SEGI_22498	      0
+## Alignment 44: score=214.0 e_value=1.8e-13 N=7 Atr_10&seq_chr2 plus
+ 44-  0:	atr_94488731	SEGI_03359	 1e-199
+ 44-  1:	atr_94488614	SEGI_05803	 3e-156
+ 44-  2:	atr_94489439	SEGI_15743	 2e-160
+ 44-  3:	atr_94489816	SEGI_40799	 1e-116
+ 44-  4:	atr_94490580	SEGI_15075	 6e-120
+ 44-  5:	atr_94490793	SEGI_34030	  3e-25
+ 44-  6:	atr_94490517	SEGI_38874	  7e-23
+## Alignment 45: score=167.0 e_value=2.6e-06 N=4 Atr_10&seq_chr2 plus
+ 45-  0:	atr_94491181	SEGI_17550	  8e-39
+ 45-  1:	atr_94490177	SEGI_01528	  3e-89
+ 45-  2:	atr_94490411	SEGI_08473	  7e-95
+ 45-  3:	atr_94490731	SEGI_12102	  4e-94
+## Alignment 46: score=153.0 e_value=4.2e-05 N=4 Atr_10&seq_chr2 minus
+ 46-  0:	atr_94488829	SEGI_04200	 3e-119
+ 46-  1:	atr_94488073	SEGI_16381	 2e-104
+ 46-  2:	atr_94490252	SEGI_16656	  7e-91
+ 46-  3:	atr_94491313	SEGI_38053	  3e-78
+## Alignment 47: score=246.0 e_value=1.1e-12 N=6 Atr_10&seq_chr3 plus
+ 47-  0:	atr_94489485	SEGI_16859	 0.0003
+ 47-  1:	atr_94490779	SEGI_24397	  6e-16
+ 47-  2:	atr_94491033	SEGI_27879	  5e-87
+ 47-  3:	atr_94491214	SEGI_28191	  3e-50
+ 47-  4:	atr_94490559	SEGI_28807	  2e-28
+ 47-  5:	atr_94490757	SEGI_41437	  3e-53
+## Alignment 48: score=172.0 e_value=5.4e-10 N=6 Atr_10&seq_chr3 plus
+ 48-  0:	atr_94488129	SEGI_40352	      0
+ 48-  1:	atr_94490826	SEGI_06733	  8e-78
+ 48-  2:	atr_94489810	SEGI_37214	  6e-73
+ 48-  3:	atr_94491616	SEGI_36656	  1e-74
+ 48-  4:	atr_94489842	SEGI_18253	  1e-48
+ 48-  5:	atr_94490655	SEGI_25698	 2e-210
+## Alignment 49: score=155.0 e_value=1.4e-06 N=4 Atr_10&seq_chr3 plus
+ 49-  0:	atr_94488680	SEGI_16041	 3e-147
+ 49-  1:	atr_94491526	SEGI_25567	 9e-264
+ 49-  2:	atr_94491780	SEGI_36320	  3e-17
+ 49-  3:	atr_94488099	SEGI_05680	  1e-42
+## Alignment 50: score=311.0 e_value=1.4e-11 N=7 Atr_10&seq_chr3 minus
+ 50-  0:	atr_94491787	SEGI_02626	  1e-54
+ 50-  1:	atr_94491586	SEGI_14130	      0
+ 50-  2:	atr_94488296	SEGI_21095	  3e-32
+ 50-  3:	atr_94488673	SEGI_08867	 3e-178
+ 50-  4:	atr_94489831	SEGI_35034	  3e-13
+ 50-  5:	atr_94488588	SEGI_06610	  1e-10
+ 50-  6:	atr_94489864	SEGI_23146	  2e-52
+## Alignment 51: score=235.0 e_value=1.5e-06 N=5 Atr_10&seq_chr3 minus
+ 51-  0:	atr_94491245	SEGI_13327	 1e-163
+ 51-  1:	atr_94489365	SEGI_21977	  5e-34
+ 51-  2:	atr_94490930	SEGI_01906	 4e-183
+ 51-  3:	atr_94491336	SEGI_16968	  1e-38
+ 51-  4:	atr_94490767	SEGI_04030	 1e-123
+## Alignment 52: score=202.0 e_value=2.9e-06 N=5 Atr_10&seq_chr3 minus
+ 52-  0:	atr_94490876	SEGI_26109	 2e-274
+ 52-  1:	atr_94491749	SEGI_08865	 7e-141
+ 52-  2:	atr_94488334	SEGI_28297	  2e-93
+ 52-  3:	atr_94489957	SEGI_19824	  1e-53
+ 52-  4:	atr_94491514	SEGI_25116	  7e-13
+## Alignment 53: score=159.0 e_value=2.2e-05 N=4 Atr_10&seq_chr3 minus
+ 53-  0:	atr_94489535	SEGI_18127	 2e-137
+ 53-  1:	atr_94491082	SEGI_33208	 4e-145
+ 53-  2:	atr_94490733	SEGI_01836	 5e-202
+ 53-  3:	atr_94488398	SEGI_13310	  4e-72
+## Alignment 54: score=254.0 e_value=2.3e-15 N=8 Atr_10&seq_chr4 plus
+ 54-  0:	atr_94491645	SEGI_19960	 7e-120
+ 54-  1:	atr_94488421	SEGI_14161	 5e-105
+ 54-  2:	atr_94488067	SEGI_33574	  2e-61
+ 54-  3:	atr_94489655	SEGI_32158	 2e-106
+ 54-  4:	atr_94489762	SEGI_29029	 4e-174
+ 54-  5:	atr_94490175	SEGI_33416	  5e-63
+ 54-  6:	atr_94488443	SEGI_38606	      0
+ 54-  7:	atr_94490560	SEGI_28522	  9e-74
+## Alignment 55: score=182.0 e_value=1.4e-05 N=4 Atr_10&seq_chr4 minus
+ 55-  0:	atr_94488559	SEGI_15344	  1e-71
+ 55-  1:	atr_94490915	SEGI_04668	  5e-74
+ 55-  2:	atr_94491748	SEGI_25268	  3e-07
+ 55-  3:	atr_94489752	SEGI_31518	  9e-61
+## Alignment 56: score=370.0 e_value=4.3e-14 N=8 Atr_10&seq_chr5 plus
+ 56-  0:	atr_94490983	SEGI_04815	  2e-07
+ 56-  1:	atr_94490700	SEGI_24048	  4e-55
+ 56-  2:	atr_94490445	SEGI_13695	 9e-252
+ 56-  3:	atr_94490633	SEGI_14575	  6e-47
+ 56-  4:	atr_94488007	SEGI_09394	 1e-239
+ 56-  5:	atr_94488223	SEGI_02059	 8e-210
+ 56-  6:	atr_94488646	SEGI_09584	      0
+ 56-  7:	atr_94490200	SEGI_02916	 1e-142
+## Alignment 57: score=207.0 e_value=3.3e-09 N=6 Atr_10&seq_chr5 plus
+ 57-  0:	atr_94490583	SEGI_01009	  1e-53
+ 57-  1:	atr_94490628	SEGI_06670	 5e-213
+ 57-  2:	atr_94490314	SEGI_04491	  2e-06
+ 57-  3:	atr_94489657	SEGI_14116	  2e-39
+ 57-  4:	atr_94489501	SEGI_05638	  1e-48
+ 57-  5:	atr_94489247	SEGI_27266	 2e-156
+## Alignment 58: score=217.0 e_value=8.5e-09 N=5 Atr_10&seq_chr5 minus
+ 58-  0:	atr_94490833	SEGI_20366	  3e-58
+ 58-  1:	atr_94489952	SEGI_35593	  7e-23
+ 58-  2:	atr_94491004	SEGI_41419	  3e-92
+ 58-  3:	atr_94488478	SEGI_35053	      0
+ 58-  4:	atr_94490038	SEGI_19175	  2e-17
+## Alignment 59: score=323.0 e_value=1.7e-12 N=7 Atr_10&seq_chr7 plus
+ 59-  0:	atr_94490248	SEGI_03462	  5e-76
+ 59-  1:	atr_94491662	SEGI_33015	  9e-94
+ 59-  2:	atr_94488560	SEGI_24780	 2e-146
+ 59-  3:	atr_94491127	SEGI_02535	  1e-12
+ 59-  4:	atr_94489417	SEGI_26186	  1e-47
+ 59-  5:	atr_94489307	SEGI_15605	 2e-158
+ 59-  6:	atr_94488688	SEGI_09466	 2e-189
+## Alignment 60: score=207.0 e_value=3.7e-09 N=6 Atr_10&seq_chr7 plus
+ 60-  0:	atr_94488806	SEGI_32549	  2e-23
+ 60-  1:	atr_94490596	SEGI_14020	  3e-18
+ 60-  2:	atr_94489562	SEGI_31992	 3e-100
+ 60-  3:	atr_94488682	SEGI_07688	 1e-218
+ 60-  4:	atr_94490825	SEGI_04215	 2e-165
+ 60-  5:	atr_94491727	SEGI_28158	 6e-223
+## Alignment 61: score=311.0 e_value=1.7e-16 N=8 Atr_10&seq_chr7 minus
+ 61-  0:	atr_94490244	SEGI_16503	  8e-24
+ 61-  1:	atr_94491572	SEGI_41212	 1e-263
+ 61-  2:	atr_94488599	SEGI_39931	  2e-29
+ 61-  3:	atr_94488307	SEGI_24757	 2e-119
+ 61-  4:	atr_94491538	SEGI_39160	  2e-32
+ 61-  5:	atr_94488533	SEGI_06923	  6e-57
+ 61-  6:	atr_94489155	SEGI_37729	  2e-96
+ 61-  7:	atr_94489676	SEGI_36773	 4e-163
+## Alignment 62: score=172.0 e_value=0.00011 N=4 Atr_10&seq_chr7 minus
+ 62-  0:	atr_94490984	SEGI_36995	  3e-53
+ 62-  1:	atr_94488160	SEGI_32387	  9e-56
+ 62-  2:	atr_94488972	SEGI_28158	 2e-226
+ 62-  3:	atr_94491727	SEGI_31728	 2e-195
+## Alignment 63: score=292.0 e_value=2.5e-13 N=7 Atr_11&seq_HRSCAF_1 plus
+ 63-  0:	atr_94466585	SEGI_00104	 4e-241
+ 63-  1:	atr_94467954	SEGI_01544	  3e-62
+ 63-  2:	atr_94467468	SEGI_29469	 2e-107
+ 63-  3:	atr_94467033	SEGI_32747	  4e-59
+ 63-  4:	atr_94466456	SEGI_16493	  1e-20
+ 63-  5:	atr_94468585	SEGI_38392	  5e-80
+ 63-  6:	atr_94468529	SEGI_21860	  1e-15
+## Alignment 64: score=230.0 e_value=1e-14 N=7 Atr_11&seq_HRSCAF_1 plus
+ 64-  0:	atr_94468529	SEGI_27164	  2e-11
+ 64-  1:	atr_94468229	SEGI_38346	  6e-25
+ 64-  2:	atr_94465731	SEGI_07809	 2e-133
+ 64-  3:	atr_94466932	SEGI_32859	  2e-47
+ 64-  4:	atr_94466973	SEGI_03803	  6e-87
+ 64-  5:	atr_94467176	SEGI_19484	  2e-07
+ 64-  6:	atr_94466425	SEGI_21557	  2e-12
+## Alignment 65: score=160.0 e_value=2.8e-05 N=4 Atr_11&seq_HRSCAF_1 plus
+ 65-  0:	atr_94466503	SEGI_01544	  3e-12
+ 65-  1:	atr_94465532	SEGI_18807	 4e-106
+ 65-  2:	atr_94468529	SEGI_12981	  2e-18
+ 65-  3:	atr_94465484	SEGI_27539	  2e-17
+## Alignment 66: score=151.0 e_value=9.9e-07 N=5 Atr_11&seq_HRSCAF_1 plus
+ 66-  0:	atr_94465492	SEGI_19879	  9e-21
+ 66-  1:	atr_94468547	SEGI_01191	 2e-111
+ 66-  2:	atr_94465108	SEGI_21396	 2e-111
+ 66-  3:	atr_94468817	SEGI_32200	 2e-170
+ 66-  4:	atr_94467663	SEGI_03830	      0
+## Alignment 67: score=244.0 e_value=2e-13 N=7 Atr_11&seq_HRSCAF_1 minus
+ 67-  0:	atr_94467982	SEGI_32570	 1e-104
+ 67-  1:	atr_94465087	SEGI_27539	  1e-18
+ 67-  2:	atr_94467347	SEGI_39892	 1e-113
+ 67-  3:	atr_94466032	SEGI_06701	 3e-269
+ 67-  4:	atr_94465910	SEGI_09568	  2e-46
+ 67-  5:	atr_94468529	SEGI_12981	  2e-18
+ 67-  6:	atr_94465391	SEGI_20453	  1e-40
+## Alignment 68: score=215.0 e_value=2.8e-09 N=6 Atr_11&seq_chr10 plus
+ 68-  0:	atr_94468172	SEGI_14098	  5e-38
+ 68-  1:	atr_94465631	SEGI_08868	  2e-49
+ 68-  2:	atr_94466200	SEGI_09164	 1e-132
+ 68-  3:	atr_94467355	SEGI_23547	  2e-35
+ 68-  4:	atr_94465114	SEGI_07543	  3e-73
+ 68-  5:	atr_94466165	SEGI_31478	  5e-88
+## Alignment 69: score=184.0 e_value=2.5e-08 N=6 Atr_11&seq_chr10 minus
+ 69-  0:	atr_94466014	SEGI_26189	  3e-64
+ 69-  1:	atr_94465654	SEGI_17242	  5e-30
+ 69-  2:	atr_94466085	SEGI_01022	  1e-34
+ 69-  3:	atr_94466598	SEGI_18218	  6e-34
+ 69-  4:	atr_94467586	SEGI_18773	 0.0006
+ 69-  5:	atr_94466182	SEGI_06300	 5e-199
+## Alignment 70: score=345.0 e_value=1.7e-35 N=13 Atr_11&seq_chr3 plus
+ 70-  0:	atr_94466952	SEGI_31178	  9e-67
+ 70-  1:	atr_94465659	SEGI_19215	 2e-123
+ 70-  2:	atr_94468506	SEGI_28755	 3e-113
+ 70-  3:	atr_94468366	SEGI_30778	  3e-27
+ 70-  4:	atr_94464994	SEGI_36030	  3e-39
+ 70-  5:	atr_94466002	SEGI_21755	  3e-21
+ 70-  6:	atr_94466571	SEGI_28416	  3e-87
+ 70-  7:	atr_94467933	SEGI_28614	  7e-17
+ 70-  8:	atr_94466463	SEGI_12170	  6e-14
+ 70-  9:	atr_94466986	SEGI_06051	  2e-20
+ 70- 10:	atr_94468381	SEGI_33673	  1e-50
+ 70- 11:	atr_94467182	SEGI_04883	  2e-40
+ 70- 12:	atr_94468459	SEGI_00845	  3e-95
+## Alignment 71: score=256.0 e_value=6e-10 N=6 Atr_11&seq_chr3 plus
+ 71-  0:	atr_94466182	SEGI_25465	 1e-172
+ 71-  1:	atr_94465956	SEGI_18670	  1e-27
+ 71-  2:	atr_94468147	SEGI_19768	  2e-39
+ 71-  3:	atr_94468157	SEGI_03695	  2e-76
+ 71-  4:	atr_94467567	SEGI_01277	  2e-08
+ 71-  5:	atr_94468170	SEGI_39309	  3e-97
+## Alignment 72: score=191.0 e_value=1.9e-11 N=7 Atr_11&seq_chr3 plus
+ 72-  0:	atr_94466939	SEGI_16715	 2e-309
+ 72-  1:	atr_94466707	SEGI_40259	 6e-173
+ 72-  2:	atr_94465097	SEGI_36607	  8e-21
+ 72-  3:	atr_94465289	SEGI_08334	  1e-65
+ 72-  4:	atr_94464990	SEGI_39090	  1e-45
+ 72-  5:	atr_94468004	SEGI_34420	  8e-07
+ 72-  6:	atr_94468157	SEGI_07716	  8e-79
+## Alignment 73: score=265.0 e_value=1.2e-08 N=6 Atr_11&seq_chr3 minus
+ 73-  0:	atr_94465825	SEGI_38432	  1e-46
+ 73-  1:	atr_94465114	SEGI_19777	  3e-71
+ 73-  2:	atr_94466792	SEGI_40744	  2e-90
+ 73-  3:	atr_94466165	SEGI_31359	 8e-154
+ 73-  4:	atr_94467581	SEGI_31918	  1e-19
+ 73-  5:	atr_94465225	SEGI_06351	  1e-36
+## Alignment 74: score=240.0 e_value=1.1e-12 N=7 Atr_11&seq_chr3 minus
+ 74-  0:	atr_94467870	SEGI_08260	  7e-42
+ 74-  1:	atr_94467656	SEGI_24452	  7e-53
+ 74-  2:	atr_94467901	SEGI_35790	 5e-135
+ 74-  3:	atr_94466200	SEGI_19726	 2e-139
+ 74-  4:	atr_94466403	SEGI_40158	  2e-57
+ 74-  5:	atr_94468393	SEGI_14845	 2e-236
+ 74-  6:	atr_94465534	SEGI_33958	 2e-188
+## Alignment 75: score=216.0 e_value=1.1e-11 N=6 Atr_11&seq_chr3 minus
+ 75-  0:	atr_94466628	SEGI_14634	  1e-22
+ 75-  1:	atr_94468025	SEGI_40963	  2e-81
+ 75-  2:	atr_94466686	SEGI_01401	 1e-125
+ 75-  3:	atr_94467757	SEGI_29179	 5e-206
+ 75-  4:	atr_94466673	SEGI_35985	  5e-71
+ 75-  5:	atr_94466846	SEGI_30664	  3e-19
+## Alignment 76: score=175.0 e_value=1.7e-07 N=5 Atr_11&seq_chr3 minus
+ 76-  0:	atr_94467046	SEGI_30443	  7e-08
+ 76-  1:	atr_94466762	SEGI_07636	  2e-94
+ 76-  2:	atr_94467254	SEGI_10663	 1e-100
+ 76-  3:	atr_94468100	SEGI_13151	 2e-103
+ 76-  4:	atr_94465499	SEGI_25490	  2e-37
+## Alignment 77: score=159.0 e_value=1.4e-05 N=5 Atr_11&seq_chr3 minus
+ 77-  0:	atr_94467026	SEGI_21466	 8e-200
+ 77-  1:	atr_94465687	SEGI_25225	  7e-48
+ 77-  2:	atr_94468736	SEGI_18750	 8e-160
+ 77-  3:	atr_94468348	SEGI_15929	  3e-20
+ 77-  4:	atr_94467991	SEGI_27222	  9e-83
+## Alignment 78: score=217.0 e_value=2.7e-06 N=5 Atr_11&seq_chr5 minus
+ 78-  0:	atr_94467576	SEGI_07449	 9e-200
+ 78-  1:	atr_94467040	SEGI_00443	 1e-199
+ 78-  2:	atr_94466591	SEGI_35221	  2e-11
+ 78-  3:	atr_94466913	SEGI_17229	      0
+ 78-  4:	atr_94466948	SEGI_16384	  3e-78
+## Alignment 79: score=305.0 e_value=5.6e-18 N=9 Atr_11&seq_chr8 plus
+ 79-  0:	atr_94467854	SEGI_15440	 6e-147
+ 79-  1:	atr_94466629	SEGI_37198	  5e-34
+ 79-  2:	atr_94467080	SEGI_08129	  5e-44
+ 79-  3:	atr_94468167	SEGI_21538	  5e-43
+ 79-  4:	atr_94465023	SEGI_04599	 2e-190
+ 79-  5:	atr_94467362	SEGI_16826	 1e-107
+ 79-  6:	atr_94468037	SEGI_32242	  7e-30
+ 79-  7:	atr_94466143	SEGI_02190	  4e-10
+ 79-  8:	atr_94468790	SEGI_27018	 4e-128
+## Alignment 80: score=256.0 e_value=1.3e-11 N=7 Atr_11&seq_chr8 plus
+ 80-  0:	atr_94467510	SEGI_13629	  1e-12
+ 80-  1:	atr_94466783	SEGI_02582	  3e-59
+ 80-  2:	atr_94466334	SEGI_20279	 4e-116
+ 80-  3:	atr_94466212	SEGI_39875	  2e-99
+ 80-  4:	atr_94466271	SEGI_19592	  6e-62
+ 80-  5:	atr_94465167	SEGI_15867	  1e-40
+ 80-  6:	atr_94466830	SEGI_40271	  9e-92
+## Alignment 81: score=225.0 e_value=3e-06 N=5 Atr_11&seq_chr8 plus
+ 81-  0:	atr_94468199	SEGI_31823	  1e-52
+ 81-  1:	atr_94466801	SEGI_29325	 5e-121
+ 81-  2:	atr_94465711	SEGI_32450	 1e-135
+ 81-  3:	atr_94468252	SEGI_35195	  8e-51
+ 81-  4:	atr_94465750	SEGI_09611	 9e-114
+## Alignment 82: score=185.0 e_value=2.7e-06 N=5 Atr_11&seq_chr8 plus
+ 82-  0:	atr_94466241	SEGI_21795	  2e-48
+ 82-  1:	atr_94465348	SEGI_14202	 8e-157
+ 82-  2:	atr_94467786	SEGI_20060	  9e-25
+ 82-  3:	atr_94465906	SEGI_33073	 1e-125
+ 82-  4:	atr_94467605	SEGI_39051	 1e-114
+## Alignment 83: score=160.0 e_value=3.5e-07 N=5 Atr_11&seq_chr8 plus
+ 83-  0:	atr_94465461	SEGI_23886	 4e-187
+ 83-  1:	atr_94466088	SEGI_34058	 3e-134
+ 83-  2:	atr_94468424	SEGI_29250	 8e-171
+ 83-  3:	atr_94466954	SEGI_16217	  1e-31
+ 83-  4:	atr_94465004	SEGI_23721	  2e-94
+## Alignment 84: score=157.0 e_value=0.0004 N=4 Atr_11&seq_chr8 plus
+ 84-  0:	atr_94466276	SEGI_22453	 4e-116
+ 84-  1:	atr_94467215	SEGI_24114	  1e-17
+ 84-  2:	atr_94465566	SEGI_12669	  6e-17
+ 84-  3:	atr_94466199	SEGI_26650	  1e-39
+## Alignment 85: score=230.0 e_value=4e-09 N=6 Atr_11&seq_chr8 minus
+ 85-  0:	atr_94468499	SEGI_25576	 2e-113
+ 85-  1:	atr_94466808	SEGI_29992	  3e-34
+ 85-  2:	atr_94465960	SEGI_33772	 2e-152
+ 85-  3:	atr_94467956	SEGI_22905	 3e-151
+ 85-  4:	atr_94466788	SEGI_25884	 1e-289
+ 85-  5:	atr_94466828	SEGI_14796	  5e-51
+## Alignment 86: score=195.0 e_value=6.1e-06 N=5 Atr_11&seq_chr8 minus
+ 86-  0:	atr_94467682	SEGI_40541	 2e-160
+ 86-  1:	atr_94467285	SEGI_16113	 5e-290
+ 86-  2:	atr_94466843	SEGI_32782	  1e-31
+ 86-  3:	atr_94466295	SEGI_18852	  3e-20
+ 86-  4:	atr_94467326	SEGI_23628	 1e-138
+## Alignment 87: score=166.0 e_value=0.00023 N=4 Atr_11&seq_chr8 minus
+ 87-  0:	atr_94465574	SEGI_04724	  7e-21
+ 87-  1:	atr_94466492	SEGI_13672	  5e-29
+ 87-  2:	atr_94467188	SEGI_32267	  1e-31
+ 87-  3:	atr_94466962	SEGI_33849	      0
+## Alignment 88: score=155.0 e_value=0.00022 N=4 Atr_11&seq_chr8 minus
+ 88-  0:	atr_94468045	SEGI_34182	  5e-26
+ 88-  1:	atr_94466751	SEGI_39378	  2e-15
+ 88-  2:	atr_94468204	SEGI_34645	 1e-292
+ 88-  3:	atr_94467081	SEGI_28336	  4e-82
+## Alignment 89: score=226.0 e_value=4.9e-09 N=6 Atr_11&seq_chr9 minus
+ 89-  0:	atr_94467227	SEGI_13550	  3e-37
+ 89-  1:	atr_94466934	SEGI_18567	  2e-22
+ 89-  2:	atr_94466244	SEGI_18962	 0.0002
+ 89-  3:	atr_94465883	SEGI_25554	  9e-43
+ 89-  4:	atr_94466306	SEGI_06860	      0
+ 89-  5:	atr_94466624	SEGI_20850	  5e-25
+## Alignment 90: score=291.0 e_value=7.6e-09 N=6 Atr_12&seq_chr1 plus
+ 90-  0:	atr_94511786	SEGI_17780	 5e-191
+ 90-  1:	atr_94510560	SEGI_03968	 6e-127
+ 90-  2:	atr_94511632	SEGI_27901	  7e-65
+ 90-  3:	atr_94510253	SEGI_13173	  3e-22
+ 90-  4:	atr_94509490	SEGI_07860	  5e-55
+ 90-  5:	atr_94511512	SEGI_38472	  2e-47
+## Alignment 91: score=432.0 e_value=2.1e-24 N=10 Atr_12&seq_chr11 plus
+ 91-  0:	atr_94509280	SEGI_29276	  3e-20
+ 91-  1:	atr_94510757	SEGI_09910	  3e-09
+ 91-  2:	atr_94511288	SEGI_07672	  1e-44
+ 91-  3:	atr_94509393	SEGI_25339	  1e-10
+ 91-  4:	atr_94510274	SEGI_13524	 3e-219
+ 91-  5:	atr_94511563	SEGI_23467	 6e-149
+ 91-  6:	atr_94511093	SEGI_35802	  1e-30
+ 91-  7:	atr_94511815	SEGI_29388	 2e-182
+ 91-  8:	atr_94511515	SEGI_05256	  2e-06
+ 91-  9:	atr_94510172	SEGI_00929	      0
+## Alignment 92: score=234.0 e_value=1.7e-07 N=5 Atr_12&seq_chr11 plus
+ 92-  0:	atr_94510759	SEGI_41035	      0
+ 92-  1:	atr_94511038	SEGI_20657	  9e-38
+ 92-  2:	atr_94510068	SEGI_32174	  5e-41
+ 92-  3:	atr_94510656	SEGI_15112	  2e-56
+ 92-  4:	atr_94512096	SEGI_35309	  1e-59
+## Alignment 93: score=216.0 e_value=3.6e-06 N=5 Atr_12&seq_chr11 plus
+ 93-  0:	atr_94510407	SEGI_28488	  1e-78
+ 93-  1:	atr_94509574	SEGI_18732	  3e-16
+ 93-  2:	atr_94508689	SEGI_32321	  4e-87
+ 93-  3:	atr_94511457	SEGI_35833	  4e-11
+ 93-  4:	atr_94509256	SEGI_18216	 1e-178
+## Alignment 94: score=213.0 e_value=1.1e-09 N=6 Atr_12&seq_chr11 plus
+ 94-  0:	atr_94511398	SEGI_18120	 4e-133
+ 94-  1:	atr_94510170	SEGI_22609	  3e-66
+ 94-  2:	atr_94509902	SEGI_00891	  3e-34
+ 94-  3:	atr_94508446	SEGI_04733	  7e-94
+ 94-  4:	atr_94510933	SEGI_11199	 4e-187
+ 94-  5:	atr_94509263	SEGI_34758	  2e-63
+## Alignment 95: score=192.0 e_value=0.00061 N=4 Atr_12&seq_chr11 plus
+ 95-  0:	atr_94508833	SEGI_38746	  9e-68
+ 95-  1:	atr_94510403	SEGI_25033	 8e-143
+ 95-  2:	atr_94510658	SEGI_35431	 4e-225
+ 95-  3:	atr_94510789	SEGI_00935	  5e-26
+## Alignment 96: score=185.0 e_value=0.00093 N=4 Atr_12&seq_chr11 plus
+ 96-  0:	atr_94510710	SEGI_24678	 4e-127
+ 96-  1:	atr_94512094	SEGI_34628	  4e-19
+ 96-  2:	atr_94509807	SEGI_14018	 2e-149
+ 96-  3:	atr_94511778	SEGI_33680	  7e-13
+## Alignment 97: score=178.0 e_value=9.9e-06 N=5 Atr_12&seq_chr11 plus
+ 97-  0:	atr_94508586	SEGI_00197	 7e-295
+ 97-  1:	atr_94509346	SEGI_16835	  5e-60
+ 97-  2:	atr_94508438	SEGI_04422	  1e-63
+ 97-  3:	atr_94510464	SEGI_19591	 4e-162
+ 97-  4:	atr_94511043	SEGI_39452	  2e-56
+## Alignment 98: score=173.0 e_value=1.2e-11 N=6 Atr_12&seq_chr11 plus
+ 98-  0:	atr_94512012	SEGI_17158	  2e-97
+ 98-  1:	atr_94510254	SEGI_18071	  1e-49
+ 98-  2:	atr_94512022	SEGI_12482	 2e-208
+ 98-  3:	atr_94509985	SEGI_31224	  2e-44
+ 98-  4:	atr_94508783	SEGI_23465	 2e-107
+ 98-  5:	atr_94508438	SEGI_23497	  4e-70
+## Alignment 99: score=486.0 e_value=2.9e-28 N=12 Atr_12&seq_chr11 minus
+ 99-  0:	atr_94511891	SEGI_10124	  2e-51
+ 99-  1:	atr_94511182	SEGI_39293	  7e-29
+ 99-  2:	atr_94508753	SEGI_34770	 8e-292
+ 99-  3:	atr_94511215	SEGI_36343	  2e-29
+ 99-  4:	atr_94510306	SEGI_38696	  2e-24
+ 99-  5:	atr_94509277	SEGI_01506	  1e-38
+ 99-  6:	atr_94511675	SEGI_27367	  1e-92
+ 99-  7:	atr_94511637	SEGI_38331	 9e-204
+ 99-  8:	atr_94511121	SEGI_23465	 1e-145
+ 99-  9:	atr_94512084	SEGI_00793	  9e-51
+ 99- 10:	atr_94511808	SEGI_16726	 3e-135
+ 99- 11:	atr_94511975	SEGI_04357	  1e-85
+## Alignment 100: score=249.0 e_value=2.2e-09 N=6 Atr_12&seq_chr11 minus
+100-  0:	atr_94510883	SEGI_04045	 2e-141
+100-  1:	atr_94511577	SEGI_00197	  5e-20
+100-  2:	atr_94511262	SEGI_03252	 1e-161
+100-  3:	atr_94509706	SEGI_11719	      0
+100-  4:	atr_94512101	SEGI_09059	 6e-122
+100-  5:	atr_94510993	SEGI_32818	 4e-253
+## Alignment 101: score=248.0 e_value=1.1e-11 N=7 Atr_12&seq_chr11 minus
+101-  0:	atr_94508597	SEGI_32804	  4e-14
+101-  1:	atr_94512128	SEGI_09866	 5e-141
+101-  2:	atr_94510070	SEGI_25928	 2e-244
+101-  3:	atr_94509948	SEGI_01536	 0.0001
+101-  4:	atr_94508914	SEGI_06295	 1e-134
+101-  5:	atr_94508414	SEGI_28488	  4e-90
+101-  6:	atr_94509371	SEGI_18413	 0.0001
+## Alignment 102: score=181.0 e_value=0.0002 N=4 Atr_12&seq_chr11 minus
+102-  0:	atr_94510794	SEGI_27367	 9e-112
+102-  1:	atr_94510280	SEGI_27344	  3e-29
+102-  2:	atr_94511047	SEGI_27638	  3e-40
+102-  3:	atr_94509607	SEGI_19816	  1e-08
+## Alignment 103: score=178.0 e_value=2.2e-07 N=5 Atr_12&seq_chr11 minus
+103-  0:	atr_94508480	SEGI_38791	  4e-10
+103-  1:	atr_94508438	SEGI_07646	 4e-141
+103-  2:	atr_94510105	SEGI_04850	 2e-167
+103-  3:	atr_94511878	SEGI_15516	  3e-31
+103-  4:	atr_94509463	SEGI_32711	  5e-18
+## Alignment 104: score=208.0 e_value=1.2e-11 N=6 Atr_12&seq_chr2 plus
+104-  0:	atr_94511212	SEGI_13576	  7e-91
+104-  1:	atr_94509741	SEGI_32121	 2e-143
+104-  2:	atr_94511347	SEGI_08782	  1e-66
+104-  3:	atr_94511472	SEGI_36776	 1e-111
+104-  4:	atr_94508584	SEGI_37238	 4e-177
+104-  5:	atr_94508799	SEGI_22308	  2e-13
+## Alignment 105: score=225.0 e_value=2e-08 N=5 Atr_12&seq_chr2 minus
+105-  0:	atr_94509285	SEGI_01592	 2e-166
+105-  1:	atr_94512076	SEGI_16720	  6e-29
+105-  2:	atr_94508617	SEGI_35723	  6e-24
+105-  3:	atr_94511099	SEGI_39572	  8e-67
+105-  4:	atr_94509686	SEGI_41266	  3e-30
+## Alignment 106: score=165.0 e_value=0.00012 N=4 Atr_12&seq_chr2 minus
+106-  0:	atr_94509768	SEGI_13735	  7e-23
+106-  1:	atr_94509932	SEGI_37546	      0
+106-  2:	atr_94508431	SEGI_37280	 8e-194
+106-  3:	atr_94509871	SEGI_29061	  1e-72
+## Alignment 107: score=217.0 e_value=3e-06 N=5 Atr_12&seq_chr3 plus
+107-  0:	atr_94509207	SEGI_08827	  3e-77
+107-  1:	atr_94509577	SEGI_05240	  2e-43
+107-  2:	atr_94511474	SEGI_24071	  2e-79
+107-  3:	atr_94509086	SEGI_35449	 7e-172
+107-  4:	atr_94510613	SEGI_08739	  3e-32
+## Alignment 108: score=177.0 e_value=2.7e-07 N=5 Atr_12&seq_chr3 minus
+108-  0:	atr_94508773	SEGI_18174	 1e-130
+108-  1:	atr_94510327	SEGI_27437	 5e-180
+108-  2:	atr_94510690	SEGI_15045	  3e-36
+108-  3:	atr_94509300	SEGI_00240	  2e-18
+108-  4:	atr_94511607	SEGI_13137	  6e-25
+## Alignment 109: score=158.0 e_value=1.1e-06 N=5 Atr_12&seq_chr3 minus
+109-  0:	atr_94511472	SEGI_10679	  4e-61
+109-  1:	atr_94510077	SEGI_28818	  1e-86
+109-  2:	atr_94509195	SEGI_35840	 5e-138
+109-  3:	atr_94511278	SEGI_06192	  8e-47
+109-  4:	atr_94510943	SEGI_19282	 6e-130
+## Alignment 110: score=793.0 e_value=1.2e-58 N=21 Atr_12&seq_chr4 plus
+110-  0:	atr_94509067	SEGI_22722	 9e-183
+110-  1:	atr_94510056	SEGI_03558	 2e-151
+110-  2:	atr_94510169	SEGI_31857	 2e-211
+110-  3:	atr_94508630	SEGI_14779	  4e-12
+110-  4:	atr_94508712	SEGI_04447	  4e-74
+110-  5:	atr_94509174	SEGI_01520	  5e-25
+110-  6:	atr_94511152	SEGI_29528	 4e-215
+110-  7:	atr_94509779	SEGI_27682	 1e-110
+110-  8:	atr_94511123	SEGI_26469	  9e-26
+110-  9:	atr_94510336	SEGI_21634	 5e-232
+110- 10:	atr_94510129	SEGI_39604	 4e-234
+110- 11:	atr_94511234	SEGI_04298	  3e-14
+110- 12:	atr_94509261	SEGI_41591	 3e-204
+110- 13:	atr_94512119	SEGI_12213	  7e-74
+110- 14:	atr_94511050	SEGI_21476	  6e-70
+110- 15:	atr_94511224	SEGI_17764	 3e-189
+110- 16:	atr_94509787	SEGI_25708	 2e-229
+110- 17:	atr_94508940	SEGI_28382	  2e-10
+110- 18:	atr_94510524	SEGI_04285	      0
+110- 19:	atr_94509632	SEGI_13597	 2e-152
+110- 20:	atr_94509383	SEGI_03096	  1e-54
+## Alignment 111: score=214.0 e_value=2.1e-05 N=5 Atr_12&seq_chr4 plus
+111-  0:	atr_94509153	SEGI_31971	  1e-43
+111-  1:	atr_94509013	SEGI_40993	 9e-146
+111-  2:	atr_94510497	SEGI_21205	 2e-105
+111-  3:	atr_94509654	SEGI_19491	      0
+111-  4:	atr_94510824	SEGI_26877	  1e-17
+## Alignment 112: score=274.0 e_value=1e-11 N=7 Atr_12&seq_chr4 minus
+112-  0:	atr_94508542	SEGI_12051	  2e-75
+112-  1:	atr_94510866	SEGI_05455	  1e-48
+112-  2:	atr_94510862	SEGI_08118	 3e-169
+112-  3:	atr_94511443	SEGI_17649	 2e-306
+112-  4:	atr_94508986	SEGI_24403	  6e-50
+112-  5:	atr_94509209	SEGI_19395	  1e-33
+112-  6:	atr_94509769	SEGI_28382	  1e-29
+## Alignment 113: score=193.0 e_value=9e-08 N=5 Atr_12&seq_chr4 minus
+113-  0:	atr_94511265	SEGI_25426	  6e-20
+113-  1:	atr_94509004	SEGI_12065	  2e-23
+113-  2:	atr_94509097	SEGI_26432	  8e-29
+113-  3:	atr_94509847	SEGI_25079	  2e-22
+113-  4:	atr_94510187	SEGI_22425	 1e-157
+## Alignment 114: score=177.0 e_value=0.00021 N=4 Atr_12&seq_chr4 minus
+114-  0:	atr_94511332	SEGI_36536	  6e-88
+114-  1:	atr_94508514	SEGI_03715	  9e-86
+114-  2:	atr_94509738	SEGI_07584	  8e-42
+114-  3:	atr_94509946	SEGI_30208	  3e-20
+## Alignment 115: score=448.0 e_value=2.1e-27 N=11 Atr_12&seq_chr5 plus
+115-  0:	atr_94511418	SEGI_34270	 3e-204
+115-  1:	atr_94510636	SEGI_18329	 2e-154
+115-  2:	atr_94510326	SEGI_33265	  1e-24
+115-  3:	atr_94510712	SEGI_29951	  3e-33
+115-  4:	atr_94511654	SEGI_04434	  6e-15
+115-  5:	atr_94509199	SEGI_35905	  1e-87
+115-  6:	atr_94510856	SEGI_27209	  1e-05
+115-  7:	atr_94511884	SEGI_26692	  4e-20
+115-  8:	atr_94509498	SEGI_01700	  7e-92
+115-  9:	atr_94511682	SEGI_19682	 2e-259
+115- 10:	atr_94509148	SEGI_06180	  2e-60
+## Alignment 116: score=291.0 e_value=2.2e-18 N=8 Atr_12&seq_chr5 plus
+116-  0:	atr_94509107	SEGI_04420	 1e-123
+116-  1:	atr_94511900	SEGI_17966	  5e-43
+116-  2:	atr_94509736	SEGI_00638	  2e-25
+116-  3:	atr_94509091	SEGI_26334	  1e-22
+116-  4:	atr_94508842	SEGI_30551	  3e-28
+116-  5:	atr_94509842	SEGI_24048	  4e-75
+116-  6:	atr_94510382	SEGI_02916	 3e-147
+116-  7:	atr_94508590	SEGI_15270	  4e-31
+## Alignment 117: score=197.0 e_value=8.7e-07 N=5 Atr_12&seq_chr5 plus
+117-  0:	atr_94511326	SEGI_38953	  3e-61
+117-  1:	atr_94510074	SEGI_25583	  3e-52
+117-  2:	atr_94509412	SEGI_33901	  1e-88
+117-  3:	atr_94511396	SEGI_07175	  2e-13
+117-  4:	atr_94509246	SEGI_30445	 1e-195
+## Alignment 118: score=169.0 e_value=0.00033 N=4 Atr_12&seq_chr5 plus
+118-  0:	atr_94510388	SEGI_04227	  8e-96
+118-  1:	atr_94511421	SEGI_09223	  2e-51
+118-  2:	atr_94511247	SEGI_26960	 5e-104
+118-  3:	atr_94511183	SEGI_28469	 3e-120
+## Alignment 119: score=162.0 e_value=4.7e-07 N=5 Atr_12&seq_chr5 plus
+119-  0:	atr_94511911	SEGI_17935	 2e-167
+119-  1:	atr_94509201	SEGI_21312	 4e-186
+119-  2:	atr_94510611	SEGI_37527	  4e-70
+119-  3:	atr_94511607	SEGI_19175	  6e-63
+119-  4:	atr_94510424	SEGI_10173	  6e-38
+## Alignment 120: score=291.0 e_value=1.7e-13 N=8 Atr_12&seq_chr5 minus
+120-  0:	atr_94509235	SEGI_27048	 3e-100
+120-  1:	atr_94509733	SEGI_23172	 9e-220
+120-  2:	atr_94508387	SEGI_28369	 1e-155
+120-  3:	atr_94510292	SEGI_12356	  1e-37
+120-  4:	atr_94511936	SEGI_15046	 1e-216
+120-  5:	atr_94509469	SEGI_21199	  5e-40
+120-  6:	atr_94511952	SEGI_04617	  2e-56
+120-  7:	atr_94510549	SEGI_09005	 1e-121
+## Alignment 121: score=219.0 e_value=1.3e-06 N=5 Atr_12&seq_chr5 minus
+121-  0:	atr_94509883	SEGI_39005	  4e-28
+121-  1:	atr_94508824	SEGI_10296	  1e-13
+121-  2:	atr_94510018	SEGI_36716	 1e-114
+121-  3:	atr_94508795	SEGI_15188	 9e-152
+121-  4:	atr_94510817	SEGI_09252	 5e-217
+## Alignment 122: score=196.0 e_value=1.9e-08 N=5 Atr_12&seq_chr5 minus
+122-  0:	atr_94510513	SEGI_04363	 8e-101
+122-  1:	atr_94511785	SEGI_04032	  5e-81
+122-  2:	atr_94509603	SEGI_36667	 1e-144
+122-  3:	atr_94510050	SEGI_33552	  5e-39
+122-  4:	atr_94510180	SEGI_01730	  3e-97
+## Alignment 123: score=169.0 e_value=2.6e-09 N=6 Atr_12&seq_chr5 minus
+123-  0:	atr_94509940	SEGI_03594	  7e-11
+123-  1:	atr_94510999	SEGI_33506	  1e-26
+123-  2:	atr_94510084	SEGI_34082	  0.001
+123-  3:	atr_94508581	SEGI_07500	 2e-115
+123-  4:	atr_94509011	SEGI_26952	  1e-27
+123-  5:	atr_94510118	SEGI_25409	  8e-30
+## Alignment 124: score=159.0 e_value=8.7e-06 N=5 Atr_12&seq_chr5 minus
+124-  0:	atr_94512131	SEGI_40181	  3e-97
+124-  1:	atr_94511984	SEGI_29375	  4e-42
+124-  2:	atr_94508473	SEGI_28609	  1e-46
+124-  3:	atr_94510031	SEGI_21404	  2e-46
+124-  4:	atr_94511174	SEGI_15657	  1e-43
+## Alignment 125: score=254.0 e_value=8.9e-10 N=6 Atr_12&seq_chr7 plus
+125-  0:	atr_94510558	SEGI_22062	  3e-60
+125-  1:	atr_94511730	SEGI_01378	  1e-51
+125-  2:	atr_94509023	SEGI_02078	  5e-60
+125-  3:	atr_94510317	SEGI_01977	 2e-191
+125-  4:	atr_94509925	SEGI_11863	  3e-79
+125-  5:	atr_94509117	SEGI_02638	 6e-115
+## Alignment 126: score=157.0 e_value=0.00016 N=4 Atr_12&seq_chr7 plus
+126-  0:	atr_94509471	SEGI_40620	  9e-42
+126-  1:	atr_94509228	SEGI_13194	  8e-18
+126-  2:	atr_94508398	SEGI_08598	  2e-41
+126-  3:	atr_94509048	SEGI_33596	 5e-159
+## Alignment 127: score=162.0 e_value=0.00059 N=4 Atr_13&seq_chr1 plus
+127-  0:	atr_94471676	SEGI_20643	  5e-67
+127-  1:	atr_94469962	SEGI_20592	  4e-88
+127-  2:	atr_94472484	SEGI_19897	  1e-40
+127-  3:	atr_94471483	SEGI_28168	 4e-108
+## Alignment 128: score=167.0 e_value=6.9e-08 N=5 Atr_13&seq_chr1 minus
+128-  0:	atr_94472621	SEGI_01242	  4e-83
+128-  1:	atr_94470713	SEGI_24157	  2e-30
+128-  2:	atr_94468981	SEGI_12461	  2e-43
+128-  3:	atr_94472170	SEGI_34010	  6e-21
+128-  4:	atr_94470552	SEGI_13794	  6e-72
+## Alignment 129: score=154.0 e_value=0.00035 N=4 Atr_13&seq_chr1 minus
+129-  0:	atr_94468966	SEGI_13709	 6e-262
+129-  1:	atr_94472311	SEGI_25477	  2e-68
+129-  2:	atr_94469962	SEGI_20592	  4e-88
+129-  3:	atr_94473344	SEGI_01526	      0
+## Alignment 130: score=559.0 e_value=2.5e-30 N=13 Atr_13&seq_chr10 plus
+130-  0:	atr_94470694	SEGI_22278	 2e-105
+130-  1:	atr_94471703	SEGI_28357	 7e-136
+130-  2:	atr_94472751	SEGI_30214	 5e-176
+130-  3:	atr_94473183	SEGI_08608	  2e-49
+130-  4:	atr_94469870	SEGI_09508	 3e-183
+130-  5:	atr_94469896	SEGI_14389	  1e-95
+130-  6:	atr_94471701	SEGI_24549	  6e-85
+130-  7:	atr_94469238	SEGI_09164	 2e-163
+130-  8:	atr_94470547	SEGI_16491	  4e-16
+130-  9:	atr_94469990	SEGI_12088	  7e-35
+130- 10:	atr_94471512	SEGI_33152	 4e-135
+130- 11:	atr_94472933	SEGI_12659	  2e-12
+130- 12:	atr_94470567	SEGI_40333	  8e-36
+## Alignment 131: score=252.0 e_value=6.3e-10 N=6 Atr_13&seq_chr10 plus
+131-  0:	atr_94469910	SEGI_28112	 2e-148
+131-  1:	atr_94472407	SEGI_09930	 2e-168
+131-  2:	atr_94471575	SEGI_11040	  1e-13
+131-  3:	atr_94470946	SEGI_17218	 2e-167
+131-  4:	atr_94470126	SEGI_08437	 1e-101
+131-  5:	atr_94472172	SEGI_16743	  4e-66
+## Alignment 132: score=220.0 e_value=4.6e-06 N=5 Atr_13&seq_chr10 plus
+132-  0:	atr_94471489	SEGI_31478	 4e-158
+132-  1:	atr_94473073	SEGI_02682	 5e-111
+132-  2:	atr_94471976	SEGI_16424	  2e-37
+132-  3:	atr_94470272	SEGI_20751	  3e-47
+132-  4:	atr_94469148	SEGI_13514	  5e-64
+## Alignment 133: score=171.0 e_value=0.00016 N=4 Atr_13&seq_chr10 plus
+133-  0:	atr_94471050	SEGI_38161	  5e-60
+133-  1:	atr_94470980	SEGI_36647	  7e-23
+133-  2:	atr_94470014	SEGI_27952	 4e-215
+133-  3:	atr_94468937	SEGI_37571	  1e-70
+## Alignment 134: score=281.0 e_value=8.9e-15 N=7 Atr_13&seq_chr10 minus
+134-  0:	atr_94471505	SEGI_26049	 3e-103
+134-  1:	atr_94470978	SEGI_30733	  1e-46
+134-  2:	atr_94471745	SEGI_01894	  1e-19
+134-  3:	atr_94472669	SEGI_14449	      0
+134-  4:	atr_94470747	SEGI_38487	  2e-52
+134-  5:	atr_94470976	SEGI_24415	 1e-120
+134-  6:	atr_94469088	SEGI_09430	  7e-20
+## Alignment 135: score=252.0 e_value=1.5e-09 N=6 Atr_13&seq_chr10 minus
+135-  0:	atr_94472823	SEGI_37484	  2e-94
+135-  1:	atr_94473256	SEGI_17285	 2e-122
+135-  2:	atr_94471986	SEGI_37557	  6e-93
+135-  3:	atr_94472016	SEGI_01663	 1e-106
+135-  4:	atr_94470711	SEGI_03807	  1e-23
+135-  5:	atr_94470728	SEGI_13895	  8e-39
+## Alignment 136: score=222.0 e_value=1.9e-06 N=5 Atr_13&seq_chr10 minus
+136-  0:	atr_94473039	SEGI_06169	  2e-36
+136-  1:	atr_94469195	SEGI_22646	  1e-40
+136-  2:	atr_94470460	SEGI_05355	 1e-153
+136-  3:	atr_94469714	SEGI_37883	 1e-148
+136-  4:	atr_94472829	SEGI_11834	  3e-54
+## Alignment 137: score=214.0 e_value=2.9e-07 N=5 Atr_13&seq_chr10 minus
+137-  0:	atr_94471340	SEGI_12710	 4e-223
+137-  1:	atr_94473221	SEGI_22072	  5e-56
+137-  2:	atr_94469097	SEGI_16031	  7e-77
+137-  3:	atr_94470440	SEGI_10955	 7e-157
+137-  4:	atr_94469892	SEGI_22030	 4e-103
+## Alignment 138: score=203.0 e_value=9.5e-09 N=6 Atr_13&seq_chr10 minus
+138-  0:	atr_94469870	SEGI_31478	  7e-95
+138-  1:	atr_94469896	SEGI_11580	  2e-96
+138-  2:	atr_94472806	SEGI_31449	  2e-12
+138-  3:	atr_94472112	SEGI_05747	 4e-149
+138-  4:	atr_94471662	SEGI_19681	 4e-123
+138-  5:	atr_94469434	SEGI_35164	  2e-14
+## Alignment 139: score=154.0 e_value=0.00059 N=4 Atr_13&seq_chr10 minus
+139-  0:	atr_94471339	SEGI_29172	  4e-97
+139-  1:	atr_94472715	SEGI_23406	  2e-24
+139-  2:	atr_94473262	SEGI_24430	 2e-297
+139-  3:	atr_94469977	SEGI_18559	 2e-104
+## Alignment 140: score=162.0 e_value=0.0006 N=4 Atr_13&seq_chr11 plus
+140-  0:	atr_94468932	SEGI_04866	 3e-190
+140-  1:	atr_94472611	SEGI_17476	  4e-67
+140-  2:	atr_94469607	SEGI_05121	 2e-101
+140-  3:	atr_94472865	SEGI_18533	  7e-18
+## Alignment 141: score=267.0 e_value=1.3e-13 N=7 Atr_13&seq_chr3 plus
+141-  0:	atr_94473248	SEGI_12791	  5e-36
+141-  1:	atr_94469796	SEGI_14730	 5e-107
+141-  2:	atr_94471054	SEGI_18549	  6e-49
+141-  3:	atr_94472492	SEGI_34858	 6e-183
+141-  4:	atr_94470875	SEGI_26358	  3e-64
+141-  5:	atr_94469343	SEGI_22297	 1e-130
+141-  6:	atr_94471655	SEGI_27023	 2e-165
+## Alignment 142: score=169.0 e_value=0.00029 N=4 Atr_13&seq_chr3 plus
+142-  0:	atr_94469571	SEGI_40174	  3e-50
+142-  1:	atr_94472613	SEGI_24864	  1e-08
+142-  2:	atr_94471223	SEGI_35201	 4e-143
+142-  3:	atr_94470511	SEGI_26403	  1e-07
+## Alignment 143: score=153.0 e_value=7.7e-05 N=4 Atr_13&seq_chr3 minus
+143-  0:	atr_94470945	SEGI_08262	  1e-44
+143-  1:	atr_94469446	SEGI_02724	 1e-119
+143-  2:	atr_94470257	SEGI_39864	 7e-100
+143-  3:	atr_94471671	SEGI_40351	  6e-09
+## Alignment 144: score=427.0 e_value=1.8e-45 N=16 Atr_13&seq_chr4 plus
+144-  0:	atr_94469668	SEGI_30109	 1e-108
+144-  1:	atr_94469021	SEGI_15149	 4e-127
+144-  2:	atr_94470878	SEGI_05796	  8e-42
+144-  3:	atr_94471325	SEGI_21946	  6e-80
+144-  4:	atr_94472836	SEGI_28906	  4e-51
+144-  5:	atr_94469641	SEGI_37435	 2e-122
+144-  6:	atr_94473315	SEGI_07637	  1e-53
+144-  7:	atr_94470089	SEGI_03715	 4e-104
+144-  8:	atr_94471436	SEGI_12788	 5e-109
+144-  9:	atr_94470968	SEGI_18215	  4e-74
+144- 10:	atr_94469372	SEGI_35277	  1e-21
+144- 11:	atr_94472740	SEGI_11458	  7e-20
+144- 12:	atr_94471918	SEGI_00854	  1e-60
+144- 13:	atr_94472213	SEGI_09744	 1e-163
+144- 14:	atr_94469533	SEGI_30096	 1e-101
+144- 15:	atr_94472682	SEGI_33194	  6e-05
+## Alignment 145: score=368.0 e_value=2.2e-14 N=8 Atr_13&seq_chr4 plus
+145-  0:	atr_94470396	SEGI_11508	 9e-260
+145-  1:	atr_94470426	SEGI_15898	  9e-12
+145-  2:	atr_94470095	SEGI_27135	  9e-05
+145-  3:	atr_94471013	SEGI_06567	  8e-43
+145-  4:	atr_94473214	SEGI_27924	  1e-14
+145-  5:	atr_94472554	SEGI_33792	  1e-39
+145-  6:	atr_94471137	SEGI_31727	 1e-188
+145-  7:	atr_94470629	SEGI_12042	  2e-44
+## Alignment 146: score=250.0 e_value=9.4e-12 N=7 Atr_13&seq_chr4 plus
+146-  0:	atr_94471770	SEGI_32600	  5e-29
+146-  1:	atr_94470677	SEGI_09128	  3e-67
+146-  2:	atr_94471351	SEGI_13283	      0
+146-  3:	atr_94469688	SEGI_21911	  2e-06
+146-  4:	atr_94473310	SEGI_07045	  4e-63
+146-  5:	atr_94472363	SEGI_34031	  9e-64
+146-  6:	atr_94471118	SEGI_01535	 1e-134
+## Alignment 147: score=249.0 e_value=3.2e-16 N=8 Atr_13&seq_chr4 plus
+147-  0:	atr_94469575	SEGI_26296	 5e-252
+147-  1:	atr_94471032	SEGI_21232	 4e-103
+147-  2:	atr_94471774	SEGI_18825	 2e-223
+147-  3:	atr_94469021	SEGI_34745	 2e-134
+147-  4:	atr_94472788	SEGI_03587	 5e-132
+147-  5:	atr_94469361	SEGI_12054	 2e-187
+147-  6:	atr_94473217	SEGI_40119	  4e-14
+147-  7:	atr_94470286	SEGI_21661	  3e-43
+## Alignment 148: score=217.0 e_value=8.7e-08 N=5 Atr_13&seq_chr4 plus
+148-  0:	atr_94469467	SEGI_16112	 7e-109
+148-  1:	atr_94470634	SEGI_08947	  1e-54
+148-  2:	atr_94469439	SEGI_17915	  1e-58
+148-  3:	atr_94471436	SEGI_07584	 1e-108
+148-  4:	atr_94471842	SEGI_05949	 7e-143
+## Alignment 149: score=402.0 e_value=2.6e-20 N=10 Atr_13&seq_chr4 minus
+149-  0:	atr_94469172	SEGI_14268	      0
+149-  1:	atr_94471173	SEGI_35987	 5e-252
+149-  2:	atr_94469584	SEGI_04667	 4e-151
+149-  3:	atr_94472511	SEGI_30316	  9e-32
+149-  4:	atr_94472386	SEGI_24113	  3e-08
+149-  5:	atr_94469474	SEGI_15203	  2e-20
+149-  6:	atr_94470491	SEGI_00893	      0
+149-  7:	atr_94469239	SEGI_01582	  4e-09
+149-  8:	atr_94470501	SEGI_36040	  3e-55
+149-  9:	atr_94472050	SEGI_32653	  5e-91
+## Alignment 150: score=296.0 e_value=1.8e-17 N=9 Atr_13&seq_chr4 minus
+150-  0:	atr_94473310	SEGI_13086	  2e-62
+150-  1:	atr_94471811	SEGI_34356	  9e-22
+150-  2:	atr_94473293	SEGI_28453	 5e-185
+150-  3:	atr_94471897	SEGI_18275	 3e-153
+150-  4:	atr_94471360	SEGI_03439	 6e-111
+150-  5:	atr_94472320	SEGI_15445	 4e-128
+150-  6:	atr_94471681	SEGI_36459	  3e-27
+150-  7:	atr_94469130	SEGI_10494	  1e-18
+150-  8:	atr_94469784	SEGI_30172	  4e-37
+## Alignment 151: score=274.0 e_value=1.3e-08 N=6 Atr_13&seq_chr4 minus
+151-  0:	atr_94469983	SEGI_06662	 4e-131
+151-  1:	atr_94470662	SEGI_21337	  7e-76
+151-  2:	atr_94470964	SEGI_16172	  3e-52
+151-  3:	atr_94470897	SEGI_29102	  9e-72
+151-  4:	atr_94472047	SEGI_01620	  5e-20
+151-  5:	atr_94473159	SEGI_17696	  9e-47
+## Alignment 152: score=274.0 e_value=3.6e-11 N=7 Atr_13&seq_chr4 minus
+152-  0:	atr_94469799	SEGI_36536	 7e-114
+152-  1:	atr_94470089	SEGI_07584	 2e-104
+152-  2:	atr_94469756	SEGI_08947	  5e-56
+152-  3:	atr_94471436	SEGI_32442	 9e-109
+152-  4:	atr_94471086	SEGI_20984	 8e-114
+152-  5:	atr_94473168	SEGI_40694	  9e-52
+152-  6:	atr_94470196	SEGI_33805	 7e-212
+## Alignment 153: score=186.0 e_value=6.3e-07 N=5 Atr_13&seq_chr4 minus
+153-  0:	atr_94471464	SEGI_38726	  7e-58
+153-  1:	atr_94470605	SEGI_27832	 1e-163
+153-  2:	atr_94471103	SEGI_29739	  6e-20
+153-  3:	atr_94473309	SEGI_22583	  3e-88
+153-  4:	atr_94471068	SEGI_37768	  8e-66
+## Alignment 154: score=154.0 e_value=1.9e-07 N=5 Atr_13&seq_chr4 minus
+154-  0:	atr_94470885	SEGI_06318	 6e-104
+154-  1:	atr_94469058	SEGI_22433	 6e-157
+154-  2:	atr_94472312	SEGI_32435	 5e-134
+154-  3:	atr_94470786	SEGI_18137	 1e-102
+154-  4:	atr_94470800	SEGI_13625	  1e-10
+## Alignment 155: score=174.0 e_value=0.0002 N=4 Atr_13&seq_chr5 plus
+155-  0:	atr_94469978	SEGI_41373	  9e-06
+155-  1:	atr_94469247	SEGI_32713	  2e-37
+155-  2:	atr_94470259	SEGI_12702	  6e-41
+155-  3:	atr_94472905	SEGI_34738	  7e-62
+## Alignment 156: score=169.0 e_value=0.00048 N=4 Atr_13&seq_chr5 plus
+156-  0:	atr_94470850	SEGI_14008	 3e-202
+156-  1:	atr_94471565	SEGI_04306	  1e-98
+156-  2:	atr_94470618	SEGI_21142	 9e-100
+156-  3:	atr_94472332	SEGI_39009	  2e-23
+## Alignment 157: score=164.0 e_value=5.2e-08 N=5 Atr_13&seq_chr5 plus
+157-  0:	atr_94470691	SEGI_19009	  1e-57
+157-  1:	atr_94471945	SEGI_23909	  2e-60
+157-  2:	atr_94470770	SEGI_06294	 3e-219
+157-  3:	atr_94471631	SEGI_08859	 2e-157
+157-  4:	atr_94469692	SEGI_09412	 1e-100
+## Alignment 158: score=601.0 e_value=6e-45 N=16 Atr_13&seq_chr6 plus
+158-  0:	atr_94472551	SEGI_41444	 4e-125
+158-  1:	atr_94472851	SEGI_22846	  5e-15
+158-  2:	atr_94469118	SEGI_01006	  2e-29
+158-  3:	atr_94471331	SEGI_38620	  5e-37
+158-  4:	atr_94470140	SEGI_35081	  8e-88
+158-  5:	atr_94472693	SEGI_20246	 3e-107
+158-  6:	atr_94469032	SEGI_03855	  3e-22
+158-  7:	atr_94469031	SEGI_29527	  8e-58
+158-  8:	atr_94473291	SEGI_20233	  6e-78
+158-  9:	atr_94471416	SEGI_04933	 3e-179
+158- 10:	atr_94471857	SEGI_30892	 1e-182
+158- 11:	atr_94471875	SEGI_07648	  2e-70
+158- 12:	atr_94470361	SEGI_16287	 1e-183
+158- 13:	atr_94470778	SEGI_04451	  1e-65
+158- 14:	atr_94473207	SEGI_08195	  4e-87
+158- 15:	atr_94469111	SEGI_00751	  7e-94
+## Alignment 159: score=246.0 e_value=5.3e-14 N=7 Atr_13&seq_chr6 plus
+159-  0:	atr_94470160	SEGI_11276	  2e-58
+159-  1:	atr_94473144	SEGI_26577	 2e-184
+159-  2:	atr_94473034	SEGI_18519	  4e-40
+159-  3:	atr_94469911	SEGI_38094	  1e-65
+159-  4:	atr_94473110	SEGI_08276	 1e-111
+159-  5:	atr_94471568	SEGI_02141	  3e-51
+159-  6:	atr_94471242	SEGI_35659	      0
+## Alignment 160: score=199.0 e_value=4e-07 N=5 Atr_13&seq_chr6 plus
+160-  0:	atr_94470276	SEGI_06612	 1e-242
+160-  1:	atr_94470356	SEGI_32301	 2e-150
+160-  2:	atr_94472195	SEGI_15190	  6e-70
+160-  3:	atr_94471421	SEGI_20047	  4e-29
+160-  4:	atr_94469639	SEGI_38344	  1e-15
+## Alignment 161: score=172.0 e_value=2.6e-09 N=6 Atr_13&seq_chr6 plus
+161-  0:	atr_94469424	SEGI_30062	  3e-36
+161-  1:	atr_94471942	SEGI_14403	  6e-26
+161-  2:	atr_94469986	SEGI_22959	  4e-78
+161-  3:	atr_94469642	SEGI_23979	  6e-60
+161-  4:	atr_94470660	SEGI_27815	  8e-75
+161-  5:	atr_94469200	SEGI_36377	  3e-26
+## Alignment 162: score=318.0 e_value=2.3e-18 N=9 Atr_13&seq_chr6 minus
+162-  0:	atr_94473157	SEGI_08025	  3e-68
+162-  1:	atr_94469424	SEGI_30062	  3e-36
+162-  2:	atr_94469553	SEGI_15738	  7e-19
+162-  3:	atr_94473370	SEGI_28273	  3e-41
+162-  4:	atr_94469060	SEGI_27965	  7e-54
+162-  5:	atr_94472877	SEGI_19347	  6e-34
+162-  6:	atr_94469513	SEGI_17564	  1e-70
+162-  7:	atr_94469009	SEGI_09138	 2e-219
+162-  8:	atr_94471761	SEGI_29950	 8e-156
+## Alignment 163: score=246.0 e_value=3.8e-17 N=9 Atr_2&seq_chr1 plus
+163-  0:	atr_94486124	SEGI_28017	  1e-94
+163-  1:	atr_94486725	SEGI_03029	 3e-123
+163-  2:	atr_94482265	SEGI_27377	  5e-20
+163-  3:	atr_94487229	SEGI_25579	 2e-114
+163-  4:	atr_94485722	SEGI_02426	 8e-307
+163-  5:	atr_94485472	SEGI_20154	 5e-113
+163-  6:	atr_94487539	SEGI_13804	 6e-215
+163-  7:	atr_94486722	SEGI_11671	  9e-11
+163-  8:	atr_94487401	SEGI_05600	 5e-100
+## Alignment 164: score=308.0 e_value=5.6e-18 N=9 Atr_2&seq_chr10 plus
+164-  0:	atr_94484776	SEGI_26488	  4e-33
+164-  1:	atr_94486793	SEGI_27771	 2e-273
+164-  2:	atr_94485701	SEGI_33200	  7e-39
+164-  3:	atr_94483450	SEGI_36127	  6e-39
+164-  4:	atr_94487621	SEGI_12373	  1e-17
+164-  5:	atr_94487144	SEGI_11085	  3e-48
+164-  6:	atr_94484405	SEGI_14801	  4e-72
+164-  7:	atr_94484338	SEGI_35269	  2e-16
+164-  8:	atr_94482592	SEGI_27649	  1e-62
+## Alignment 165: score=288.0 e_value=3.1e-11 N=7 Atr_2&seq_chr10 plus
+165-  0:	atr_94485107	SEGI_05637	  2e-16
+165-  1:	atr_94486268	SEGI_35047	 3e-232
+165-  2:	atr_94483359	SEGI_23564	  4e-39
+165-  3:	atr_94482011	SEGI_40346	  7e-35
+165-  4:	atr_94487433	SEGI_22868	  1e-13
+165-  5:	atr_94484309	SEGI_20624	      0
+165-  6:	atr_94487851	SEGI_03909	  7e-20
+## Alignment 166: score=173.0 e_value=6.9e-05 N=4 Atr_2&seq_chr10 plus
+166-  0:	atr_94486924	SEGI_31171	 5e-110
+166-  1:	atr_94483334	SEGI_24274	 3e-169
+166-  2:	atr_94483391	SEGI_25789	 6e-211
+166-  3:	atr_94485676	SEGI_11780	  1e-97
+## Alignment 167: score=264.0 e_value=1.3e-12 N=7 Atr_2&seq_chr10 minus
+167-  0:	atr_94484046	SEGI_34322	  5e-42
+167-  1:	atr_94486140	SEGI_33307	 3e-100
+167-  2:	atr_94486105	SEGI_25054	  5e-34
+167-  3:	atr_94484665	SEGI_35633	  1e-80
+167-  4:	atr_94485062	SEGI_27365	  3e-77
+167-  5:	atr_94484429	SEGI_03078	  7e-08
+167-  6:	atr_94485086	SEGI_41007	 2e-100
+## Alignment 168: score=187.0 e_value=0.00019 N=4 Atr_2&seq_chr10 minus
+168-  0:	atr_94482206	SEGI_19055	 8e-132
+168-  1:	atr_94483711	SEGI_30800	 7e-128
+168-  2:	atr_94485410	SEGI_03602	 3e-130
+168-  3:	atr_94484905	SEGI_18452	 1e-117
+## Alignment 169: score=179.0 e_value=1.2e-08 N=5 Atr_2&seq_chr10 minus
+169-  0:	atr_94484257	SEGI_26346	  8e-60
+169-  1:	atr_94484034	SEGI_01274	  1e-72
+169-  2:	atr_94482920	SEGI_05778	  2e-46
+169-  3:	atr_94484279	SEGI_30514	  3e-91
+169-  4:	atr_94483720	SEGI_10277	  1e-57
+## Alignment 170: score=155.0 e_value=0.0005 N=4 Atr_2&seq_chr11 plus
+170-  0:	atr_94484326	SEGI_29472	  1e-32
+170-  1:	atr_94485117	SEGI_00150	  6e-73
+170-  2:	atr_94484405	SEGI_30459	  3e-68
+170-  3:	atr_94482592	SEGI_14708	  2e-75
+## Alignment 171: score=330.0 e_value=8.3e-16 N=8 Atr_2&seq_chr4 plus
+171-  0:	atr_94483350	SEGI_03781	  9e-23
+171-  1:	atr_94485517	SEGI_33805	 2e-158
+171-  2:	atr_94484745	SEGI_13114	 7e-123
+171-  3:	atr_94487524	SEGI_07116	 7e-303
+171-  4:	atr_94484424	SEGI_40694	  4e-49
+171-  5:	atr_94483285	SEGI_34081	  3e-66
+171-  6:	atr_94485207	SEGI_01802	  2e-36
+171-  7:	atr_94487096	SEGI_02896	  2e-52
+## Alignment 172: score=329.0 e_value=1.1e-13 N=8 Atr_2&seq_chr4 plus
+172-  0:	atr_94484048	SEGI_15903	 4e-245
+172-  1:	atr_94483064	SEGI_30316	  1e-27
+172-  2:	atr_94484976	SEGI_38001	  7e-27
+172-  3:	atr_94482762	SEGI_16893	  1e-49
+172-  4:	atr_94484190	SEGI_25850	  4e-70
+172-  5:	atr_94487752	SEGI_19836	  5e-34
+172-  6:	atr_94483368	SEGI_32872	  1e-31
+172-  7:	atr_94486697	SEGI_13300	 8e-220
+## Alignment 173: score=319.0 e_value=3.5e-13 N=8 Atr_2&seq_chr4 plus
+173-  0:	atr_94486710	SEGI_15537	  6e-70
+173-  1:	atr_94487720	SEGI_31757	  2e-36
+173-  2:	atr_94485882	SEGI_40671	  6e-10
+173-  3:	atr_94487976	SEGI_10040	  2e-47
+173-  4:	atr_94487927	SEGI_02911	  5e-49
+173-  5:	atr_94482356	SEGI_38055	  8e-88
+173-  6:	atr_94485964	SEGI_33194	  5e-14
+173-  7:	atr_94486766	SEGI_34619	 2e-164
+## Alignment 174: score=285.0 e_value=1.4e-16 N=8 Atr_2&seq_chr4 plus
+174-  0:	atr_94485729	SEGI_25462	  6e-73
+174-  1:	atr_94483613	SEGI_31360	  4e-12
+174-  2:	atr_94482875	SEGI_06653	      0
+174-  3:	atr_94483793	SEGI_13555	  3e-19
+174-  4:	atr_94482792	SEGI_03791	 7e-240
+174-  5:	atr_94485321	SEGI_27212	 3e-210
+174-  6:	atr_94483185	SEGI_27380	  9e-75
+174-  7:	atr_94485830	SEGI_12311	  2e-34
+## Alignment 175: score=231.0 e_value=2.4e-06 N=5 Atr_2&seq_chr4 plus
+175-  0:	atr_94483185	SEGI_40474	  3e-45
+175-  1:	atr_94484446	SEGI_28746	  5e-60
+175-  2:	atr_94483233	SEGI_10261	  2e-30
+175-  3:	atr_94484384	SEGI_23204	 3e-136
+175-  4:	atr_94486481	SEGI_25292	  2e-57
+## Alignment 176: score=192.0 e_value=0.00074 N=4 Atr_2&seq_chr4 plus
+176-  0:	atr_94486074	SEGI_07040	 5e-101
+176-  1:	atr_94482589	SEGI_31974	 9e-213
+176-  2:	atr_94483592	SEGI_27644	      0
+176-  3:	atr_94484878	SEGI_37435	 5e-139
+## Alignment 177: score=188.0 e_value=2e-06 N=5 Atr_2&seq_chr4 plus
+177-  0:	atr_94484494	SEGI_34813	      0
+177-  1:	atr_94482286	SEGI_36341	 2e-199
+177-  2:	atr_94482845	SEGI_22052	  3e-43
+177-  3:	atr_94483702	SEGI_01932	 7e-109
+177-  4:	atr_94484387	SEGI_03126	  4e-13
+## Alignment 178: score=179.0 e_value=0.00052 N=4 Atr_2&seq_chr4 plus
+178-  0:	atr_94484562	SEGI_17137	  4e-27
+178-  1:	atr_94487683	SEGI_35298	 1e-115
+178-  2:	atr_94487743	SEGI_15090	 1e-296
+178-  3:	atr_94487257	SEGI_18497	  2e-08
+## Alignment 179: score=178.0 e_value=2.7e-07 N=5 Atr_2&seq_chr4 plus
+179-  0:	atr_94484384	SEGI_18783	 2e-111
+179-  1:	atr_94485279	SEGI_39194	 1e-305
+179-  2:	atr_94484268	SEGI_23057	 1e-183
+179-  3:	atr_94484852	SEGI_30531	  5e-74
+179-  4:	atr_94484792	SEGI_17856	  2e-52
+## Alignment 180: score=172.0 e_value=5.4e-05 N=4 Atr_2&seq_chr4 plus
+180-  0:	atr_94484664	SEGI_10169	  9e-81
+180-  1:	atr_94482228	SEGI_01247	  2e-23
+180-  2:	atr_94482068	SEGI_26833	  5e-28
+180-  3:	atr_94487866	SEGI_32600	  1e-48
+## Alignment 181: score=169.0 e_value=6.3e-06 N=5 Atr_2&seq_chr4 plus
+181-  0:	atr_94487330	SEGI_18440	  3e-98
+181-  1:	atr_94483867	SEGI_08689	  8e-58
+181-  2:	atr_94482991	SEGI_23102	  6e-40
+181-  3:	atr_94482035	SEGI_15450	  2e-33
+181-  4:	atr_94482089	SEGI_37784	 2e-201
+## Alignment 182: score=158.0 e_value=7.8e-07 N=5 Atr_2&seq_chr4 plus
+182-  0:	atr_94487514	SEGI_21251	  9e-52
+182-  1:	atr_94487483	SEGI_15151	 6e-142
+182-  2:	atr_94487245	SEGI_18845	  1e-24
+182-  3:	atr_94487135	SEGI_04677	  4e-10
+182-  4:	atr_94487889	SEGI_24449	  1e-57
+## Alignment 183: score=150.0 e_value=6.9e-06 N=4 Atr_2&seq_chr4 plus
+183-  0:	atr_94483101	SEGI_17818	  1e-41
+183-  1:	atr_94482191	SEGI_28220	  1e-35
+183-  2:	atr_94484875	SEGI_28786	  1e-33
+183-  3:	atr_94484935	SEGI_11239	  1e-25
+## Alignment 184: score=544.0 e_value=2.2e-31 N=13 Atr_2&seq_chr4 minus
+184-  0:	atr_94482458	SEGI_37835	 4e-148
+184-  1:	atr_94486816	SEGI_00573	      0
+184-  2:	atr_94483173	SEGI_11441	  6e-28
+184-  3:	atr_94486937	SEGI_06948	  3e-28
+184-  4:	atr_94482069	SEGI_05330	  9e-33
+184-  5:	atr_94484591	SEGI_40707	  6e-61
+184-  6:	atr_94483645	SEGI_34526	  4e-24
+184-  7:	atr_94482651	SEGI_28768	 1e-120
+184-  8:	atr_94485407	SEGI_39210	  9e-28
+184-  9:	atr_94486480	SEGI_02994	  2e-40
+184- 10:	atr_94483163	SEGI_13553	 4e-163
+184- 11:	atr_94483807	SEGI_29021	 6e-100
+184- 12:	atr_94485089	SEGI_07739	  4e-98
+## Alignment 185: score=371.0 e_value=1.6e-18 N=9 Atr_2&seq_chr4 minus
+185-  0:	atr_94484933	SEGI_38891	  2e-94
+185-  1:	atr_94484807	SEGI_19890	 7e-235
+185-  2:	atr_94484910	SEGI_29489	 1e-309
+185-  3:	atr_94484614	SEGI_29731	 8e-132
+185-  4:	atr_94484502	SEGI_18199	  3e-16
+185-  5:	atr_94483920	SEGI_05878	  4e-76
+185-  6:	atr_94485511	SEGI_09078	 3e-161
+185-  7:	atr_94482212	SEGI_31666	  1e-28
+185-  8:	atr_94482755	SEGI_21843	  5e-34
+## Alignment 186: score=165.0 e_value=1.6e-09 N=6 Atr_2&seq_chr4 minus
+186-  0:	atr_94486766	SEGI_13420	  6e-15
+186-  1:	atr_94485639	SEGI_04901	  1e-58
+186-  2:	atr_94486207	SEGI_28810	  5e-39
+186-  3:	atr_94483477	SEGI_26373	  4e-96
+186-  4:	atr_94487766	SEGI_16227	  3e-26
+186-  5:	atr_94483396	SEGI_18558	 3e-127
+## Alignment 187: score=163.0 e_value=1.1e-06 N=5 Atr_2&seq_chr4 minus
+187-  0:	atr_94484494	SEGI_34813	      0
+187-  1:	atr_94482647	SEGI_32769	  2e-51
+187-  2:	atr_94483931	SEGI_14618	  8e-93
+187-  3:	atr_94482776	SEGI_14995	 6e-162
+187-  4:	atr_94486207	SEGI_03304	  7e-80
+## Alignment 188: score=162.0 e_value=3e-08 N=6 Atr_2&seq_chr4 minus
+188-  0:	atr_94487511	SEGI_41106	 5e-237
+188-  1:	atr_94484387	SEGI_01961	  8e-43
+188-  2:	atr_94482134	SEGI_34204	 2e-233
+188-  3:	atr_94486736	SEGI_22259	 1e-161
+188-  4:	atr_94483825	SEGI_12385	 1e-147
+188-  5:	atr_94487899	SEGI_20295	 2e-155
+## Alignment 189: score=161.0 e_value=0.00031 N=4 Atr_2&seq_chr4 minus
+189-  0:	atr_94485394	SEGI_03964	  1e-16
+189-  1:	atr_94486600	SEGI_36599	  3e-46
+189-  2:	atr_94487257	SEGI_18497	  2e-08
+189-  3:	atr_94486001	SEGI_21562	  4e-35
+## Alignment 190: score=182.0 e_value=0.00068 N=4 Atr_2&seq_chr6 plus
+190-  0:	atr_94483373	SEGI_40739	  4e-94
+190-  1:	atr_94483153	SEGI_40054	      0
+190-  2:	atr_94484090	SEGI_41138	 7e-135
+190-  3:	atr_94487578	SEGI_19144	  2e-60
+## Alignment 191: score=163.0 e_value=0.00036 N=4 Atr_2&seq_chr6 plus
+191-  0:	atr_94487428	SEGI_24101	  1e-48
+191-  1:	atr_94483137	SEGI_22790	 2e-102
+191-  2:	atr_94486518	SEGI_27366	  1e-81
+191-  3:	atr_94487874	SEGI_11685	 6e-118
+## Alignment 192: score=163.0 e_value=0.00052 N=4 Atr_2&seq_chr6 plus
+192-  0:	atr_94483891	SEGI_23791	      0
+192-  1:	atr_94487903	SEGI_31674	  5e-66
+192-  2:	atr_94485096	SEGI_38810	      0
+192-  3:	atr_94487212	SEGI_29168	  6e-39
+## Alignment 193: score=161.0 e_value=7.1e-05 N=4 Atr_2&seq_chr6 plus
+193-  0:	atr_94484708	SEGI_13855	 5e-141
+193-  1:	atr_94484568	SEGI_10708	  1e-96
+193-  2:	atr_94482708	SEGI_41130	  9e-66
+193-  3:	atr_94484763	SEGI_09764	  5e-62
+## Alignment 194: score=387.0 e_value=5.3e-20 N=10 Atr_2&seq_chr6 minus
+194-  0:	atr_94482719	SEGI_26227	 7e-184
+194-  1:	atr_94487029	SEGI_16058	  5e-43
+194-  2:	atr_94482150	SEGI_29468	  3e-08
+194-  3:	atr_94482086	SEGI_16263	  6e-63
+194-  4:	atr_94486209	SEGI_40588	  7e-25
+194-  5:	atr_94486002	SEGI_10299	 3e-143
+194-  6:	atr_94483998	SEGI_29149	 6e-101
+194-  7:	atr_94482464	SEGI_14532	 2e-216
+194-  8:	atr_94483563	SEGI_11532	 2e-151
+194-  9:	atr_94483538	SEGI_33686	  7e-68
+## Alignment 195: score=203.0 e_value=8.3e-07 N=5 Atr_2&seq_chr6 minus
+195-  0:	atr_94484211	SEGI_00157	 3e-115
+195-  1:	atr_94482382	SEGI_26069	  2e-16
+195-  2:	atr_94485558	SEGI_19174	  2e-67
+195-  3:	atr_94484938	SEGI_01317	  5e-15
+195-  4:	atr_94482767	SEGI_39912	  2e-83
+## Alignment 196: score=183.0 e_value=9.5e-11 N=6 Atr_2&seq_chr6 minus
+196-  0:	atr_94486551	SEGI_29168	  2e-36
+196-  1:	atr_94486887	SEGI_07403	  2e-91
+196-  2:	atr_94486965	SEGI_19544	  6e-49
+196-  3:	atr_94482297	SEGI_27047	 4e-189
+196-  4:	atr_94487103	SEGI_10526	  9e-62
+196-  5:	atr_94484750	SEGI_38569	  7e-71
+## Alignment 197: score=164.0 e_value=5e-05 N=4 Atr_2&seq_chr6 minus
+197-  0:	atr_94486593	SEGI_02028	 4e-115
+197-  1:	atr_94487428	SEGI_32607	  5e-52
+197-  2:	atr_94486518	SEGI_27366	  1e-81
+197-  3:	atr_94485587	SEGI_06608	  4e-51
+## Alignment 198: score=242.0 e_value=1.8e-05 N=5 Atr_2&seq_chr7 minus
+198-  0:	atr_94484752	SEGI_30486	 3e-186
+198-  1:	atr_94482484	SEGI_16449	 7e-164
+198-  2:	atr_94485702	SEGI_27627	  2e-83
+198-  3:	atr_94483197	SEGI_07518	  5e-47
+198-  4:	atr_94484586	SEGI_01696	      0
+## Alignment 199: score=186.0 e_value=1.6e-14 N=8 Atr_2&seq_chr8 plus
+199-  0:	atr_94481998	SEGI_41479	  2e-68
+199-  1:	atr_94486172	SEGI_10579	  4e-61
+199-  2:	atr_94482704	SEGI_24789	  3e-43
+199-  3:	atr_94486754	SEGI_22092	  2e-21
+199-  4:	atr_94482158	SEGI_10488	  6e-41
+199-  5:	atr_94486476	SEGI_40770	  3e-09
+199-  6:	atr_94484463	SEGI_31357	  2e-48
+199-  7:	atr_94487646	SEGI_41204	 3e-153
+## Alignment 200: score=183.0 e_value=5.6e-10 N=6 Atr_2&seq_chr8 plus
+200-  0:	atr_94487232	SEGI_36559	 6e-124
+200-  1:	atr_94483411	SEGI_10764	 4e-230
+200-  2:	atr_94485980	SEGI_01782	 5e-278
+200-  3:	atr_94483826	SEGI_27912	  6e-44
+200-  4:	atr_94487583	SEGI_28315	  6e-43
+200-  5:	atr_94483480	SEGI_01405	  1e-30
+## Alignment 201: score=170.0 e_value=2.9e-07 N=5 Atr_2&seq_chr8 plus
+201-  0:	atr_94485570	SEGI_17777	  9e-76
+201-  1:	atr_94487480	SEGI_31662	 2e-133
+201-  2:	atr_94482492	SEGI_20213	  3e-80
+201-  3:	atr_94482518	SEGI_10060	 2e-150
+201-  4:	atr_94482704	SEGI_37679	  4e-11
+## Alignment 202: score=168.0 e_value=1.8e-07 N=5 Atr_2&seq_chr8 plus
+202-  0:	atr_94483141	SEGI_33545	 2e-187
+202-  1:	atr_94487055	SEGI_15305	 4e-280
+202-  2:	atr_94483885	SEGI_25129	 3e-225
+202-  3:	atr_94486335	SEGI_22079	 1e-161
+202-  4:	atr_94487480	SEGI_17801	      0
+## Alignment 203: score=154.0 e_value=8.4e-08 N=5 Atr_2&seq_chr8 plus
+203-  0:	atr_94483076	SEGI_00536	  5e-46
+203-  1:	atr_94483253	SEGI_01763	 2e-189
+203-  2:	atr_94487148	SEGI_19390	  2e-60
+203-  3:	atr_94486490	SEGI_39545	  9e-81
+203-  4:	atr_94482204	SEGI_10904	 5e-106
+## Alignment 204: score=168.0 e_value=2e-05 N=4 Atr_2&seq_chr8 minus
+204-  0:	atr_94482981	SEGI_25762	 1e-230
+204-  1:	atr_94484355	SEGI_28504	 9e-156
+204-  2:	atr_94486385	SEGI_20539	  1e-36
+204-  3:	atr_94487208	SEGI_16370	 1e-120
+## Alignment 205: score=150.0 e_value=0.00061 N=4 Atr_2&seq_chr8 minus
+205-  0:	atr_94483638	SEGI_01487	  6e-59
+205-  1:	atr_94486304	SEGI_21486	  1e-29
+205-  2:	atr_94482452	SEGI_07659	  1e-49
+205-  3:	atr_94485542	SEGI_25129	  1e-65
+## Alignment 206: score=224.0 e_value=7.4e-10 N=6 Atr_2&seq_chr9 plus
+206-  0:	atr_94483688	SEGI_22392	 2e-221
+206-  1:	atr_94482066	SEGI_39487	  3e-21
+206-  2:	atr_94482020	SEGI_07609	 7e-105
+206-  3:	atr_94486472	SEGI_40598	  3e-31
+206-  4:	atr_94483268	SEGI_31142	  1e-74
+206-  5:	atr_94487580	SEGI_02016	 3e-197
+## Alignment 207: score=166.0 e_value=1.3e-05 N=4 Atr_2&seq_chr9 plus
+207-  0:	atr_94482556	SEGI_40803	  2e-15
+207-  1:	atr_94486982	SEGI_11896	 2e-134
+207-  2:	atr_94483863	SEGI_27942	      0
+207-  3:	atr_94483790	SEGI_12330	  1e-43
+## Alignment 208: score=161.0 e_value=0.00026 N=4 Atr_2&seq_chr9 plus
+208-  0:	atr_94486392	SEGI_38825	 6e-191
+208-  1:	atr_94485679	SEGI_03728	 5e-202
+208-  2:	atr_94483237	SEGI_28395	  6e-18
+208-  3:	atr_94484086	SEGI_33867	  1e-39
+## Alignment 209: score=162.0 e_value=0.00011 N=4 Atr_3&seq_chr1 minus
+209-  0:	atr_94503360	SEGI_11695	 1e-114
+209-  1:	atr_94502424	SEGI_39895	 1e-119
+209-  2:	atr_94503489	SEGI_14740	 7e-114
+209-  3:	atr_94508041	SEGI_38448	 2e-114
+## Alignment 210: score=477.0 e_value=8.3e-23 N=11 Atr_3&seq_chr10 minus
+210-  0:	atr_94507205	SEGI_40011	  5e-44
+210-  1:	atr_94502579	SEGI_26716	 8e-108
+210-  2:	atr_94504713	SEGI_38132	  3e-09
+210-  3:	atr_94502406	SEGI_35253	  2e-80
+210-  4:	atr_94503633	SEGI_22476	  1e-41
+210-  5:	atr_94505471	SEGI_06407	  1e-58
+210-  6:	atr_94502435	SEGI_19574	  6e-60
+210-  7:	atr_94506842	SEGI_22233	  3e-15
+210-  8:	atr_94506036	SEGI_07936	 7e-229
+210-  9:	atr_94507759	SEGI_36612	  4e-82
+210- 10:	atr_94505981	SEGI_34538	  3e-23
+## Alignment 211: score=262.0 e_value=8e-16 N=8 Atr_3&seq_chr10 minus
+211-  0:	atr_94505329	SEGI_06651	  2e-53
+211-  1:	atr_94507924	SEGI_11112	 1e-271
+211-  2:	atr_94502796	SEGI_25106	  4e-40
+211-  3:	atr_94508370	SEGI_10602	  2e-80
+211-  4:	atr_94506914	SEGI_34455	  8e-34
+211-  5:	atr_94506868	SEGI_24441	 5e-126
+211-  6:	atr_94508025	SEGI_05685	  6e-22
+211-  7:	atr_94504549	SEGI_15655	 1e-139
+## Alignment 212: score=262.0 e_value=3.4e-09 N=6 Atr_3&seq_chr10 minus
+212-  0:	atr_94506145	SEGI_04676	 3e-127
+212-  1:	atr_94508326	SEGI_11011	  3e-20
+212-  2:	atr_94503871	SEGI_30682	 4e-109
+212-  3:	atr_94503620	SEGI_20362	 5e-134
+212-  4:	atr_94507809	SEGI_22459	  4e-51
+212-  5:	atr_94506849	SEGI_07962	  5e-27
+## Alignment 213: score=330.0 e_value=5.7e-16 N=8 Atr_3&seq_chr11 plus
+213-  0:	atr_94503138	SEGI_03145	 3e-159
+213-  1:	atr_94502430	SEGI_00405	 2e-103
+213-  2:	atr_94506504	SEGI_36653	 1e-129
+213-  3:	atr_94504009	SEGI_38351	  2e-27
+213-  4:	atr_94503573	SEGI_31772	  1e-85
+213-  5:	atr_94503072	SEGI_27818	 1e-246
+213-  6:	atr_94506605	SEGI_06006	  1e-37
+213-  7:	atr_94503035	SEGI_21573	 1e-188
+## Alignment 214: score=200.0 e_value=9.8e-09 N=6 Atr_3&seq_chr11 plus
+214-  0:	atr_94505271	SEGI_32228	 2e-150
+214-  1:	atr_94505071	SEGI_30809	 4e-110
+214-  2:	atr_94503447	SEGI_00648	 2e-113
+214-  3:	atr_94503569	SEGI_06764	  2e-33
+214-  4:	atr_94503115	SEGI_40062	  5e-58
+214-  5:	atr_94506950	SEGI_13716	 7e-278
+## Alignment 215: score=188.0 e_value=1.4e-07 N=5 Atr_3&seq_chr11 plus
+215-  0:	atr_94508241	SEGI_33450	  4e-68
+215-  1:	atr_94505560	SEGI_33190	 2e-219
+215-  2:	atr_94503354	SEGI_20314	 3e-106
+215-  3:	atr_94505595	SEGI_34316	  5e-69
+215-  4:	atr_94506879	SEGI_22808	  1e-94
+## Alignment 216: score=163.0 e_value=0.00065 N=4 Atr_3&seq_chr11 plus
+216-  0:	atr_94504363	SEGI_00632	 2e-130
+216-  1:	atr_94506374	SEGI_20980	 1e-152
+216-  2:	atr_94503437	SEGI_05517	 6e-115
+216-  3:	atr_94505376	SEGI_16856	 4e-132
+## Alignment 217: score=151.0 e_value=0.00051 N=4 Atr_3&seq_chr11 plus
+217-  0:	atr_94504624	SEGI_18323	 2e-140
+217-  1:	atr_94507117	SEGI_04428	  2e-36
+217-  2:	atr_94506727	SEGI_34893	  2e-65
+217-  3:	atr_94505528	SEGI_24335	 1e-155
+## Alignment 218: score=273.0 e_value=2.3e-18 N=9 Atr_3&seq_chr11 minus
+218-  0:	atr_94503793	SEGI_38459	 2e-113
+218-  1:	atr_94506485	SEGI_03443	 1e-173
+218-  2:	atr_94506303	SEGI_00495	  9e-75
+218-  3:	atr_94504986	SEGI_32156	 3e-220
+218-  4:	atr_94502743	SEGI_26324	 8e-108
+218-  5:	atr_94505071	SEGI_17013	 3e-137
+218-  6:	atr_94504757	SEGI_10648	 4e-203
+218-  7:	atr_94507968	SEGI_37761	  1e-27
+218-  8:	atr_94505076	SEGI_14041	  2e-27
+## Alignment 219: score=210.0 e_value=3.9e-09 N=6 Atr_3&seq_chr11 minus
+219-  0:	atr_94507254	SEGI_25839	  3e-71
+219-  1:	atr_94507523	SEGI_40490	 5e-118
+219-  2:	atr_94503093	SEGI_20887	  1e-12
+219-  3:	atr_94503410	SEGI_24242	  4e-51
+219-  4:	atr_94507710	SEGI_08726	 2e-215
+219-  5:	atr_94502870	SEGI_24977	  3e-34
+## Alignment 220: score=202.0 e_value=1e-09 N=6 Atr_3&seq_chr11 minus
+220-  0:	atr_94502707	SEGI_03192	 2e-146
+220-  1:	atr_94506462	SEGI_04433	      0
+220-  2:	atr_94505181	SEGI_15380	  9e-82
+220-  3:	atr_94504217	SEGI_38266	 7e-131
+220-  4:	atr_94507640	SEGI_41464	 5e-276
+220-  5:	atr_94504037	SEGI_41475	  1e-65
+## Alignment 221: score=158.0 e_value=1.7e-05 N=4 Atr_3&seq_chr11 minus
+221-  0:	atr_94502516	SEGI_22171	  3e-36
+221-  1:	atr_94504575	SEGI_14560	 5e-102
+221-  2:	atr_94506443	SEGI_40732	  6e-89
+221-  3:	atr_94506905	SEGI_04284	  6e-31
+## Alignment 222: score=150.0 e_value=4e-07 N=5 Atr_3&seq_chr11 minus
+222-  0:	atr_94506972	SEGI_41424	  2e-54
+222-  1:	atr_94503198	SEGI_27843	  2e-08
+222-  2:	atr_94506233	SEGI_39606	  1e-73
+222-  3:	atr_94503424	SEGI_34571	  1e-40
+222-  4:	atr_94505528	SEGI_24335	 1e-155
+## Alignment 223: score=251.0 e_value=3.2e-13 N=7 Atr_3&seq_chr2 plus
+223-  0:	atr_94504183	SEGI_08721	  3e-35
+223-  1:	atr_94505833	SEGI_28901	 3e-145
+223-  2:	atr_94503829	SEGI_22143	  7e-88
+223-  3:	atr_94507211	SEGI_20203	  5e-89
+223-  4:	atr_94505189	SEGI_00705	 1e-186
+223-  5:	atr_94502806	SEGI_19247	  5e-43
+223-  6:	atr_94504168	SEGI_37248	  7e-77
+## Alignment 224: score=245.0 e_value=6e-11 N=6 Atr_3&seq_chr2 plus
+224-  0:	atr_94505585	SEGI_09899	 6e-104
+224-  1:	atr_94508214	SEGI_34692	      0
+224-  2:	atr_94505619	SEGI_23799	 3e-147
+224-  3:	atr_94505111	SEGI_17370	  2e-53
+224-  4:	atr_94506596	SEGI_28569	  7e-27
+224-  5:	atr_94503826	SEGI_02928	  3e-20
+## Alignment 225: score=176.0 e_value=4.3e-05 N=4 Atr_3&seq_chr2 plus
+225-  0:	atr_94505447	SEGI_35493	 2e-125
+225-  1:	atr_94506842	SEGI_14550	  2e-20
+225-  2:	atr_94506036	SEGI_29448	 2e-113
+225-  3:	atr_94506661	SEGI_22166	 3e-177
+## Alignment 226: score=157.0 e_value=8.3e-06 N=4 Atr_3&seq_chr2 plus
+226-  0:	atr_94507513	SEGI_28353	 5e-259
+226-  1:	atr_94506415	SEGI_11762	  4e-87
+226-  2:	atr_94506877	SEGI_24044	  2e-26
+226-  3:	atr_94504326	SEGI_04846	  2e-31
+## Alignment 227: score=215.0 e_value=7.2e-06 N=5 Atr_3&seq_chr2 minus
+227-  0:	atr_94505687	SEGI_40324	 3e-166
+227-  1:	atr_94505902	SEGI_20599	 3e-292
+227-  2:	atr_94502701	SEGI_41615	 3e-104
+227-  3:	atr_94506624	SEGI_29111	  1e-08
+227-  4:	atr_94503851	SEGI_27009	  1e-61
+## Alignment 228: score=163.0 e_value=1.3e-06 N=5 Atr_3&seq_chr2 minus
+228-  0:	atr_94502825	SEGI_34704	  6e-26
+228-  1:	atr_94506344	SEGI_19766	 2e-183
+228-  2:	atr_94503267	SEGI_34506	  2e-10
+228-  3:	atr_94505985	SEGI_00268	  8e-89
+228-  4:	atr_94507944	SEGI_10460	  8e-33
+## Alignment 229: score=237.0 e_value=4.1e-17 N=8 Atr_3&seq_chr3 plus
+229-  0:	atr_94507757	SEGI_40549	 2e-191
+229-  1:	atr_94505088	SEGI_22797	  2e-28
+229-  2:	atr_94504849	SEGI_41115	  7e-41
+229-  3:	atr_94505366	SEGI_24973	  1e-34
+229-  4:	atr_94506391	SEGI_10012	  2e-71
+229-  5:	atr_94503729	SEGI_24099	  1e-90
+229-  6:	atr_94506682	SEGI_01031	  6e-39
+229-  7:	atr_94503819	SEGI_04101	  4e-11
+## Alignment 230: score=224.0 e_value=1.5e-10 N=6 Atr_3&seq_chr3 plus
+230-  0:	atr_94504900	SEGI_36650	  3e-23
+230-  1:	atr_94503003	SEGI_19369	  1e-67
+230-  2:	atr_94505889	SEGI_12350	  4e-86
+230-  3:	atr_94504658	SEGI_22601	 6e-171
+230-  4:	atr_94506448	SEGI_15902	  2e-22
+230-  5:	atr_94507924	SEGI_17189	 7e-167
+## Alignment 231: score=181.0 e_value=0.00011 N=4 Atr_3&seq_chr3 minus
+231-  0:	atr_94503044	SEGI_08115	  2e-29
+231-  1:	atr_94505180	SEGI_09207	  2e-38
+231-  2:	atr_94505658	SEGI_33084	  2e-40
+231-  3:	atr_94504852	SEGI_40558	  3e-74
+## Alignment 232: score=150.0 e_value=2.1e-05 N=4 Atr_3&seq_chr4 plus
+232-  0:	atr_94502629	SEGI_10561	  4e-30
+232-  1:	atr_94503083	SEGI_13420	 7e-140
+232-  2:	atr_94503874	SEGI_38830	 3e-216
+232-  3:	atr_94506421	SEGI_09849	  1e-08
+## Alignment 233: score=170.0 e_value=1.7e-05 N=4 Atr_3&seq_chr4 minus
+233-  0:	atr_94506245	SEGI_29291	  1e-10
+233-  1:	atr_94504934	SEGI_35622	  4e-87
+233-  2:	atr_94506857	SEGI_07685	  7e-57
+233-  3:	atr_94506970	SEGI_17025	 7e-121
+## Alignment 234: score=305.0 e_value=1.9e-10 N=7 Atr_3&seq_chr5 minus
+234-  0:	atr_94506709	SEGI_26764	  1e-41
+234-  1:	atr_94505008	SEGI_22487	  4e-75
+234-  2:	atr_94505653	SEGI_30139	 4e-196
+234-  3:	atr_94503029	SEGI_12943	  3e-23
+234-  4:	atr_94506243	SEGI_09515	 4e-197
+234-  5:	atr_94506797	SEGI_15438	 7e-129
+234-  6:	atr_94505244	SEGI_29789	 4e-141
+## Alignment 235: score=714.0 e_value=4.9e-51 N=18 Atr_3&seq_chr6 plus
+235-  0:	atr_94507313	SEGI_06462	 4e-179
+235-  1:	atr_94503000	SEGI_20471	  1e-44
+235-  2:	atr_94503323	SEGI_12873	  2e-37
+235-  3:	atr_94505120	SEGI_25436	 2e-116
+235-  4:	atr_94504079	SEGI_07269	  3e-45
+235-  5:	atr_94502390	SEGI_01130	 7e-178
+235-  6:	atr_94506245	SEGI_08002	  1e-05
+235-  7:	atr_94504934	SEGI_16440	  6e-84
+235-  8:	atr_94506857	SEGI_08249	  1e-59
+235-  9:	atr_94503642	SEGI_11683	  2e-08
+235- 10:	atr_94503268	SEGI_37436	  8e-77
+235- 11:	atr_94507816	SEGI_09431	 2e-187
+235- 12:	atr_94506970	SEGI_19442	 3e-131
+235- 13:	atr_94505436	SEGI_02367	  4e-44
+235- 14:	atr_94502475	SEGI_00607	  9e-12
+235- 15:	atr_94504212	SEGI_24417	 2e-154
+235- 16:	atr_94507285	SEGI_00353	  1e-27
+235- 17:	atr_94504683	SEGI_16813	 2e-145
+## Alignment 236: score=707.0 e_value=5.5e-47 N=17 Atr_3&seq_chr6 plus
+236-  0:	atr_94504248	SEGI_37552	      0
+236-  1:	atr_94503482	SEGI_20233	  2e-38
+236-  2:	atr_94503045	SEGI_21773	  4e-23
+236-  3:	atr_94502511	SEGI_40156	  1e-55
+236-  4:	atr_94506004	SEGI_23826	  5e-29
+236-  5:	atr_94504706	SEGI_12532	 3e-115
+236-  6:	atr_94506580	SEGI_04349	 1e-154
+236-  7:	atr_94505057	SEGI_33402	      0
+236-  8:	atr_94506318	SEGI_34531	  4e-39
+236-  9:	atr_94502351	SEGI_36229	 4e-143
+236- 10:	atr_94504463	SEGI_14648	 5e-226
+236- 11:	atr_94506889	SEGI_39509	  1e-82
+236- 12:	atr_94503967	SEGI_31219	  9e-17
+236- 13:	atr_94504808	SEGI_22855	 4e-115
+236- 14:	atr_94505603	SEGI_01680	  4e-25
+236- 15:	atr_94504956	SEGI_06658	 2e-107
+236- 16:	atr_94505470	SEGI_34405	  7e-11
+## Alignment 237: score=382.0 e_value=1.1e-25 N=11 Atr_3&seq_chr6 plus
+237-  0:	atr_94504106	SEGI_03010	  2e-15
+237-  1:	atr_94503108	SEGI_35609	  7e-90
+237-  2:	atr_94504056	SEGI_03764	  2e-88
+237-  3:	atr_94503328	SEGI_01920	  1e-42
+237-  4:	atr_94502955	SEGI_13442	  6e-11
+237-  5:	atr_94505103	SEGI_25244	 1e-148
+237-  6:	atr_94505513	SEGI_10951	 2e-182
+237-  7:	atr_94507195	SEGI_28170	  2e-25
+237-  8:	atr_94503133	SEGI_22378	 1e-312
+237-  9:	atr_94505862	SEGI_38754	 1e-161
+237- 10:	atr_94502492	SEGI_38017	 5e-109
+## Alignment 238: score=356.0 e_value=1.3e-23 N=10 Atr_3&seq_chr6 plus
+238-  0:	atr_94502238	SEGI_17922	 5e-116
+238-  1:	atr_94507082	SEGI_21614	  5e-90
+238-  2:	atr_94504042	SEGI_14835	  7e-76
+238-  3:	atr_94504647	SEGI_29161	 4e-122
+238-  4:	atr_94504892	SEGI_35488	 6e-223
+238-  5:	atr_94508144	SEGI_14478	  5e-08
+238-  6:	atr_94504172	SEGI_06830	  2e-38
+238-  7:	atr_94503225	SEGI_39566	 2e-101
+238-  8:	atr_94505396	SEGI_14542	 8e-171
+238-  9:	atr_94503746	SEGI_14812	  2e-45
+## Alignment 239: score=329.0 e_value=4.2e-19 N=9 Atr_3&seq_chr6 plus
+239-  0:	atr_94503161	SEGI_01996	 9e-133
+239-  1:	atr_94507017	SEGI_36621	  5e-56
+239-  2:	atr_94505371	SEGI_23957	 2e-142
+239-  3:	atr_94505180	SEGI_09997	  8e-38
+239-  4:	atr_94503697	SEGI_17423	  7e-74
+239-  5:	atr_94502914	SEGI_34852	      0
+239-  6:	atr_94506938	SEGI_04280	  4e-37
+239-  7:	atr_94506164	SEGI_11766	  1e-31
+239-  8:	atr_94502472	SEGI_15190	  3e-71
+## Alignment 240: score=253.0 e_value=5.8e-09 N=6 Atr_3&seq_chr6 plus
+240-  0:	atr_94506408	SEGI_12605	 2e-147
+240-  1:	atr_94505713	SEGI_16813	 3e-170
+240-  2:	atr_94505519	SEGI_12647	  6e-07
+240-  3:	atr_94506729	SEGI_36339	  1e-25
+240-  4:	atr_94507455	SEGI_23329	      0
+240-  5:	atr_94506107	SEGI_34585	 2e-233
+## Alignment 241: score=229.0 e_value=2.5e-11 N=7 Atr_3&seq_chr6 plus
+241-  0:	atr_94507653	SEGI_19312	  9e-38
+241-  1:	atr_94504871	SEGI_14532	 2e-230
+241-  2:	atr_94504637	SEGI_10299	 5e-140
+241-  3:	atr_94502426	SEGI_06706	 1e-108
+241-  4:	atr_94506127	SEGI_23444	 1e-114
+241-  5:	atr_94503050	SEGI_10640	  3e-64
+241-  6:	atr_94507841	SEGI_10335	  1e-78
+## Alignment 242: score=224.0 e_value=6.3e-06 N=5 Atr_3&seq_chr6 plus
+242-  0:	atr_94507056	SEGI_10095	  1e-80
+242-  1:	atr_94504946	SEGI_08210	 8e-113
+242-  2:	atr_94504529	SEGI_08274	  1e-70
+242-  3:	atr_94505090	SEGI_32234	  1e-68
+242-  4:	atr_94507065	SEGI_30813	  1e-53
+## Alignment 243: score=195.0 e_value=5.8e-09 N=6 Atr_3&seq_chr6 plus
+243-  0:	atr_94506811	SEGI_20259	  5e-08
+243-  1:	atr_94504620	SEGI_06931	 1e-160
+243-  2:	atr_94505617	SEGI_24467	  1e-19
+243-  3:	atr_94502999	SEGI_11516	  1e-51
+243-  4:	atr_94507719	SEGI_26117	 1e-165
+243-  5:	atr_94504509	SEGI_37443	  7e-09
+## Alignment 244: score=193.0 e_value=1e-08 N=6 Atr_3&seq_chr6 plus
+244-  0:	atr_94506402	SEGI_18002	  2e-42
+244-  1:	atr_94506028	SEGI_31462	 3e-256
+244-  2:	atr_94503918	SEGI_25422	 3e-184
+244-  3:	atr_94504365	SEGI_16400	  4e-93
+244-  4:	atr_94507356	SEGI_09484	  3e-41
+244-  5:	atr_94502536	SEGI_17912	  2e-39
+## Alignment 245: score=162.0 e_value=1.6e-06 N=5 Atr_3&seq_chr6 plus
+245-  0:	atr_94504945	SEGI_38528	  3e-10
+245-  1:	atr_94506998	SEGI_31070	  2e-69
+245-  2:	atr_94505488	SEGI_19646	  1e-47
+245-  3:	atr_94502403	SEGI_28426	  8e-13
+245-  4:	atr_94506888	SEGI_01870	 3e-116
+## Alignment 246: score=159.0 e_value=0.00017 N=4 Atr_3&seq_chr6 plus
+246-  0:	atr_94504589	SEGI_22378	 1e-207
+246-  1:	atr_94502942	SEGI_38150	 2e-198
+246-  2:	atr_94502723	SEGI_06744	  1e-36
+246-  3:	atr_94503186	SEGI_00940	 3e-140
+## Alignment 247: score=359.0 e_value=1.2e-21 N=9 Atr_3&seq_chr6 minus
+247-  0:	atr_94505875	SEGI_31613	 6e-104
+247-  1:	atr_94505672	SEGI_07410	  4e-72
+247-  2:	atr_94504320	SEGI_28125	  1e-42
+247-  3:	atr_94506335	SEGI_22846	  3e-14
+247-  4:	atr_94508097	SEGI_20456	  4e-25
+247-  5:	atr_94504786	SEGI_14150	  5e-74
+247-  6:	atr_94506788	SEGI_10594	  3e-97
+247-  7:	atr_94507029	SEGI_18001	 6e-164
+247-  8:	atr_94507466	SEGI_38934	  1e-65
+## Alignment 248: score=249.0 e_value=9.5e-10 N=6 Atr_3&seq_chr6 minus
+248-  0:	atr_94507290	SEGI_14380	 1e-148
+248-  1:	atr_94505680	SEGI_09892	  9e-90
+248-  2:	atr_94506357	SEGI_21594	 2e-137
+248-  3:	atr_94506829	SEGI_28560	  1e-78
+248-  4:	atr_94503135	SEGI_27578	  5e-71
+248-  5:	atr_94505565	SEGI_22128	  1e-48
+## Alignment 249: score=212.0 e_value=4.4e-12 N=7 Atr_3&seq_chr6 minus
+249-  0:	atr_94504291	SEGI_41391	 5e-152
+249-  1:	atr_94505457	SEGI_18623	 1e-171
+249-  2:	atr_94505449	SEGI_23711	  1e-37
+249-  3:	atr_94505856	SEGI_34319	  3e-73
+249-  4:	atr_94504821	SEGI_38712	  4e-99
+249-  5:	atr_94506888	SEGI_01870	 3e-116
+249-  6:	atr_94506280	SEGI_07361	  2e-38
+## Alignment 250: score=185.0 e_value=3.3e-05 N=4 Atr_3&seq_chr6 minus
+250-  0:	atr_94502606	SEGI_10814	  7e-54
+250-  1:	atr_94508135	SEGI_28000	 1e-107
+250-  2:	atr_94503692	SEGI_18313	  3e-08
+250-  3:	atr_94504333	SEGI_34502	  7e-40
+## Alignment 251: score=174.0 e_value=1.2e-12 N=7 Atr_3&seq_chr6 minus
+251-  0:	atr_94504515	SEGI_23362	 8e-101
+251-  1:	atr_94505396	SEGI_30197	  3e-17
+251-  2:	atr_94503384	SEGI_30632	  2e-14
+251-  3:	atr_94506740	SEGI_13094	 1e-102
+251-  4:	atr_94503138	SEGI_09734	 2e-121
+251-  5:	atr_94504319	SEGI_34022	 6e-165
+251-  6:	atr_94503216	SEGI_00296	  8e-56
+## Alignment 252: score=158.0 e_value=0.00025 N=4 Atr_3&seq_chr6 minus
+252-  0:	atr_94507908	SEGI_38104	 3e-184
+252-  1:	atr_94505047	SEGI_18103	 7e-284
+252-  2:	atr_94502591	SEGI_07837	 9e-108
+252-  3:	atr_94506231	SEGI_08744	  1e-46
+## Alignment 253: score=154.0 e_value=7.3e-05 N=4 Atr_3&seq_chr6 minus
+253-  0:	atr_94503894	SEGI_35846	 3e-142
+253-  1:	atr_94505974	SEGI_25463	  7e-76
+253-  2:	atr_94508243	SEGI_33118	  7e-35
+253-  3:	atr_94504411	SEGI_06193	  6e-75
+## Alignment 254: score=173.0 e_value=5e-06 N=4 Atr_3&seq_chr7 plus
+254-  0:	atr_94503130	SEGI_28669	  2e-59
+254-  1:	atr_94505700	SEGI_14567	  2e-65
+254-  2:	atr_94505030	SEGI_22121	 3e-100
+254-  3:	atr_94503082	SEGI_38265	  5e-94
+## Alignment 255: score=158.0 e_value=3.9e-07 N=5 Atr_3&seq_chr7 plus
+255-  0:	atr_94506907	SEGI_41154	 2e-148
+255-  1:	atr_94507010	SEGI_00483	 5e-262
+255-  2:	atr_94502668	SEGI_31783	  3e-27
+255-  3:	atr_94504555	SEGI_25960	  1e-76
+255-  4:	atr_94506724	SEGI_18608	 6e-150
+## Alignment 256: score=287.0 e_value=2.9e-20 N=9 Atr_3&seq_chr7 minus
+256-  0:	atr_94505651	SEGI_09778	  5e-08
+256-  1:	atr_94505101	SEGI_33534	 1e-213
+256-  2:	atr_94504182	SEGI_33938	 5e-162
+256-  3:	atr_94504278	SEGI_02860	  9e-60
+256-  4:	atr_94505252	SEGI_15590	 5e-141
+256-  5:	atr_94505970	SEGI_09560	  2e-07
+256-  6:	atr_94507589	SEGI_12149	 7e-183
+256-  7:	atr_94503103	SEGI_19721	 2e-179
+256-  8:	atr_94505479	SEGI_23705	  7e-20
+## Alignment 257: score=238.0 e_value=2.5e-09 N=6 Atr_3&seq_chr7 minus
+257-  0:	atr_94506762	SEGI_32230	  7e-73
+257-  1:	atr_94504677	SEGI_36663	  1e-14
+257-  2:	atr_94507598	SEGI_29966	  2e-71
+257-  3:	atr_94503840	SEGI_26448	 3e-139
+257-  4:	atr_94507125	SEGI_20252	  1e-94
+257-  5:	atr_94505046	SEGI_12761	  4e-93
+## Alignment 258: score=219.0 e_value=5.8e-12 N=7 Atr_3&seq_chr7 minus
+258-  0:	atr_94502898	SEGI_00892	  4e-82
+258-  1:	atr_94502489	SEGI_27888	      0
+258-  2:	atr_94506115	SEGI_00288	 9e-104
+258-  3:	atr_94508004	SEGI_12567	  1e-87
+258-  4:	atr_94502620	SEGI_26092	 3e-100
+258-  5:	atr_94505503	SEGI_21526	  2e-65
+258-  6:	atr_94504067	SEGI_29397	 5e-206
+## Alignment 259: score=178.0 e_value=1.6e-10 N=6 Atr_3&seq_chr9 minus
+259-  0:	atr_94502345	SEGI_21432	  1e-33
+259-  1:	atr_94505382	SEGI_29978	 8e-134
+259-  2:	atr_94505415	SEGI_02841	  2e-11
+259-  3:	atr_94504047	SEGI_28886	  2e-29
+259-  4:	atr_94504947	SEGI_38129	  2e-05
+259-  5:	atr_94507378	SEGI_26060	  5e-22
+## Alignment 260: score=191.0 e_value=2.9e-06 N=5 Atr_4&seq_chr1 plus
+260-  0:	atr_94478133	SEGI_34603	  4e-53
+260-  1:	atr_94479491	SEGI_32229	  1e-48
+260-  2:	atr_94477992	SEGI_16171	  3e-37
+260-  3:	atr_94480711	SEGI_00798	 9e-165
+260-  4:	atr_94477575	SEGI_18309	  1e-05
+## Alignment 261: score=159.0 e_value=0.00012 N=4 Atr_4&seq_chr1 minus
+261-  0:	atr_94480258	SEGI_21990	  1e-19
+261-  1:	atr_94479173	SEGI_31136	 6e-162
+261-  2:	atr_94478206	SEGI_08424	 5e-213
+261-  3:	atr_94479360	SEGI_22088	 3e-120
+## Alignment 262: score=326.0 e_value=2e-22 N=10 Atr_4&seq_chr11 plus
+262-  0:	atr_94480121	SEGI_03240	  5e-33
+262-  1:	atr_94477792	SEGI_39988	 4e-192
+262-  2:	atr_94478991	SEGI_40484	 3e-139
+262-  3:	atr_94479101	SEGI_34556	  3e-93
+262-  4:	atr_94480961	SEGI_30254	 4e-160
+262-  5:	atr_94481563	SEGI_01702	  7e-11
+262-  6:	atr_94479912	SEGI_04600	  2e-80
+262-  7:	atr_94479909	SEGI_30459	  2e-72
+262-  8:	atr_94480759	SEGI_04826	 5e-115
+262-  9:	atr_94480533	SEGI_32393	 5e-119
+## Alignment 263: score=264.0 e_value=7.4e-08 N=6 Atr_4&seq_chr11 plus
+263-  0:	atr_94480465	SEGI_33450	  2e-74
+263-  1:	atr_94480824	SEGI_01672	 1e-198
+263-  2:	atr_94478129	SEGI_18861	  4e-67
+263-  3:	atr_94481745	SEGI_27386	  3e-49
+263-  4:	atr_94478845	SEGI_16264	  7e-25
+263-  5:	atr_94479765	SEGI_35575	  1e-35
+## Alignment 264: score=259.0 e_value=5.9e-11 N=6 Atr_4&seq_chr11 plus
+264-  0:	atr_94480409	SEGI_00632	  3e-90
+264-  1:	atr_94479166	SEGI_07369	  2e-60
+264-  2:	atr_94480146	SEGI_28222	  3e-39
+264-  3:	atr_94481319	SEGI_15441	 3e-174
+264-  4:	atr_94481789	SEGI_16856	 2e-142
+264-  5:	atr_94479587	SEGI_13199	 1e-264
+## Alignment 265: score=254.0 e_value=4.1e-10 N=6 Atr_4&seq_chr11 plus
+265-  0:	atr_94480820	SEGI_23475	  4e-68
+265-  1:	atr_94478444	SEGI_37822	  6e-39
+265-  2:	atr_94481093	SEGI_30102	  4e-63
+265-  3:	atr_94479971	SEGI_00918	  1e-54
+265-  4:	atr_94478119	SEGI_31093	  2e-68
+265-  5:	atr_94480084	SEGI_30451	 4e-167
+## Alignment 266: score=254.0 e_value=1.5e-11 N=7 Atr_4&seq_chr11 plus
+266-  0:	atr_94481360	SEGI_25644	 4e-133
+266-  1:	atr_94481332	SEGI_16037	  1e-48
+266-  2:	atr_94481666	SEGI_23264	  9e-31
+266-  3:	atr_94480398	SEGI_36608	 2e-248
+266-  4:	atr_94481325	SEGI_13802	 3e-221
+266-  5:	atr_94481440	SEGI_10648	  5e-68
+266-  6:	atr_94477458	SEGI_21309	 3e-112
+## Alignment 267: score=234.0 e_value=4.1e-11 N=6 Atr_4&seq_chr11 plus
+267-  0:	atr_94477388	SEGI_40732	 9e-118
+267-  1:	atr_94481008	SEGI_22171	  1e-49
+267-  2:	atr_94481768	SEGI_19910	 8e-104
+267-  3:	atr_94479409	SEGI_26303	  1e-51
+267-  4:	atr_94481401	SEGI_01999	 8e-182
+267-  5:	atr_94478299	SEGI_04920	  6e-95
+## Alignment 268: score=193.0 e_value=2e-10 N=6 Atr_4&seq_chr11 plus
+268-  0:	atr_94481662	SEGI_21686	  2e-74
+268-  1:	atr_94478274	SEGI_18919	  1e-28
+268-  2:	atr_94479479	SEGI_27102	      0
+268-  3:	atr_94479943	SEGI_27964	  6e-13
+268-  4:	atr_94480146	SEGI_41504	  3e-22
+268-  5:	atr_94477676	SEGI_10417	 1e-189
+## Alignment 269: score=171.0 e_value=0.00014 N=4 Atr_4&seq_chr11 plus
+269-  0:	atr_94481367	SEGI_23217	  9e-85
+269-  1:	atr_94478879	SEGI_17033	  2e-96
+269-  2:	atr_94481208	SEGI_09445	  4e-84
+269-  3:	atr_94479842	SEGI_16140	  2e-20
+## Alignment 270: score=152.0 e_value=0.00041 N=4 Atr_4&seq_chr11 plus
+270-  0:	atr_94479228	SEGI_20980	 5e-118
+270-  1:	atr_94480475	SEGI_22509	 1e-233
+270-  2:	atr_94479358	SEGI_27037	 5e-108
+270-  3:	atr_94480143	SEGI_23548	      0
+## Alignment 271: score=340.0 e_value=9.8e-16 N=8 Atr_4&seq_chr11 minus
+271-  0:	atr_94479304	SEGI_33830	  5e-25
+271-  1:	atr_94479672	SEGI_33169	  5e-31
+271-  2:	atr_94478592	SEGI_35239	  4e-81
+271-  3:	atr_94481284	SEGI_27611	 3e-114
+271-  4:	atr_94479044	SEGI_12319	 6e-111
+271-  5:	atr_94479789	SEGI_01784	 3e-174
+271-  6:	atr_94477539	SEGI_33409	  1e-33
+271-  7:	atr_94480234	SEGI_11520	  9e-74
+## Alignment 272: score=326.0 e_value=7.9e-11 N=7 Atr_4&seq_chr11 minus
+272-  0:	atr_94478191	SEGI_24481	 2e-264
+272-  1:	atr_94481055	SEGI_31380	  6e-23
+272-  2:	atr_94478774	SEGI_39500	 1e-291
+272-  3:	atr_94479809	SEGI_27560	      0
+272-  4:	atr_94480798	SEGI_35412	  9e-64
+272-  5:	atr_94477653	SEGI_31480	 2e-231
+272-  6:	atr_94481846	SEGI_26862	  1e-20
+## Alignment 273: score=184.0 e_value=1.2e-06 N=5 Atr_4&seq_chr11 minus
+273-  0:	atr_94478265	SEGI_36108	 4e-116
+273-  1:	atr_94478159	SEGI_26733	 2e-217
+273-  2:	atr_94478612	SEGI_01955	  3e-97
+273-  3:	atr_94480013	SEGI_36444	  8e-26
+273-  4:	atr_94478012	SEGI_03103	  8e-71
+## Alignment 274: score=174.0 e_value=1.2e-08 N=5 Atr_4&seq_chr11 minus
+274-  0:	atr_94480331	SEGI_00498	 1e-270
+274-  1:	atr_94480452	SEGI_10409	      0
+274-  2:	atr_94481662	SEGI_05387	  2e-05
+274-  3:	atr_94478224	SEGI_24981	 6e-219
+274-  4:	atr_94477678	SEGI_35471	  4e-32
+## Alignment 275: score=168.0 e_value=3e-07 N=5 Atr_4&seq_chr11 minus
+275-  0:	atr_94479228	SEGI_20980	 5e-118
+275-  1:	atr_94478102	SEGI_03485	 2e-147
+275-  2:	atr_94480120	SEGI_33134	  2e-52
+275-  3:	atr_94479401	SEGI_04946	  2e-55
+275-  4:	atr_94478265	SEGI_26438	  2e-21
+## Alignment 276: score=373.0 e_value=4.3e-19 N=9 Atr_4&seq_chr2 plus
+276-  0:	atr_94480302	SEGI_33562	  3e-15
+276-  1:	atr_94478382	SEGI_13569	  1e-70
+276-  2:	atr_94477323	SEGI_04710	  6e-30
+276-  3:	atr_94479201	SEGI_26533	 1e-289
+276-  4:	atr_94478282	SEGI_00961	 7e-255
+276-  5:	atr_94477427	SEGI_18178	 7e-159
+276-  6:	atr_94478689	SEGI_11145	  7e-32
+276-  7:	atr_94481177	SEGI_31232	 6e-112
+276-  8:	atr_94478846	SEGI_21253	  6e-20
+## Alignment 277: score=345.0 e_value=1.2e-19 N=8 Atr_4&seq_chr2 plus
+277-  0:	atr_94479957	SEGI_24439	  5e-53
+277-  1:	atr_94480467	SEGI_39594	  1e-59
+277-  2:	atr_94479535	SEGI_30192	  4e-61
+277-  3:	atr_94480046	SEGI_12697	 3e-113
+277-  4:	atr_94480627	SEGI_39121	  5e-64
+277-  5:	atr_94480381	SEGI_39094	  8e-09
+277-  6:	atr_94477756	SEGI_29208	  4e-48
+277-  7:	atr_94478538	SEGI_32609	  1e-47
+## Alignment 278: score=336.0 e_value=1.6e-15 N=8 Atr_4&seq_chr2 plus
+278-  0:	atr_94481477	SEGI_15100	  2e-70
+278-  1:	atr_94481472	SEGI_28088	  5e-33
+278-  2:	atr_94480413	SEGI_09250	  4e-96
+278-  3:	atr_94478057	SEGI_27194	 8e-153
+278-  4:	atr_94477928	SEGI_35720	  6e-47
+278-  5:	atr_94478988	SEGI_33648	  3e-82
+278-  6:	atr_94479524	SEGI_25082	  9e-41
+278-  7:	atr_94481276	SEGI_10180	 4e-259
+## Alignment 279: score=256.0 e_value=3.9e-15 N=8 Atr_4&seq_chr2 plus
+279-  0:	atr_94479267	SEGI_41376	  4e-37
+279-  1:	atr_94481671	SEGI_30626	  5e-47
+279-  2:	atr_94480723	SEGI_30864	  2e-44
+279-  3:	atr_94479217	SEGI_22371	      0
+279-  4:	atr_94478554	SEGI_22824	 1e-192
+279-  5:	atr_94479266	SEGI_31864	 9e-124
+279-  6:	atr_94481281	SEGI_31151	  5e-26
+279-  7:	atr_94479866	SEGI_39272	  2e-26
+## Alignment 280: score=195.0 e_value=0.00027 N=4 Atr_4&seq_chr2 plus
+280-  0:	atr_94477510	SEGI_16168	  1e-25
+280-  1:	atr_94478307	SEGI_26441	  4e-34
+280-  2:	atr_94481864	SEGI_05378	  1e-83
+280-  3:	atr_94478663	SEGI_41423	  2e-30
+## Alignment 281: score=189.0 e_value=7.5e-07 N=5 Atr_4&seq_chr2 plus
+281-  0:	atr_94481058	SEGI_16709	  2e-23
+281-  1:	atr_94481483	SEGI_22813	 3e-259
+281-  2:	atr_94478446	SEGI_18104	  7e-65
+281-  3:	atr_94480441	SEGI_00299	  4e-09
+281-  4:	atr_94478604	SEGI_26394	  3e-20
+## Alignment 282: score=185.0 e_value=0.00063 N=4 Atr_4&seq_chr2 plus
+282-  0:	atr_94481475	SEGI_36318	  2e-67
+282-  1:	atr_94479688	SEGI_05806	 1e-107
+282-  2:	atr_94477586	SEGI_41395	  8e-80
+282-  3:	atr_94478272	SEGI_09271	 4e-124
+## Alignment 283: score=184.0 e_value=0.00033 N=4 Atr_4&seq_chr2 plus
+283-  0:	atr_94479876	SEGI_10366	 5e-118
+283-  1:	atr_94478428	SEGI_13838	  3e-70
+283-  2:	atr_94480025	SEGI_24825	 6e-108
+283-  3:	atr_94478953	SEGI_32017	 4e-127
+## Alignment 284: score=173.0 e_value=1.5e-05 N=4 Atr_4&seq_chr2 plus
+284-  0:	atr_94479440	SEGI_40875	  6e-72
+284-  1:	atr_94481786	SEGI_16506	 6e-253
+284-  2:	atr_94479897	SEGI_23698	  1e-84
+284-  3:	atr_94479139	SEGI_28730	  1e-48
+## Alignment 285: score=168.0 e_value=3.2e-06 N=5 Atr_4&seq_chr2 plus
+285-  0:	atr_94480415	SEGI_02330	      0
+285-  1:	atr_94481033	SEGI_20048	  2e-50
+285-  2:	atr_94478085	SEGI_36934	  4e-97
+285-  3:	atr_94478486	SEGI_38380	      0
+285-  4:	atr_94480637	SEGI_28005	  1e-53
+## Alignment 286: score=161.0 e_value=0.00039 N=4 Atr_4&seq_chr2 plus
+286-  0:	atr_94481005	SEGI_13186	  4e-70
+286-  1:	atr_94480899	SEGI_03637	 1e-113
+286-  2:	atr_94480808	SEGI_12395	  1e-75
+286-  3:	atr_94479172	SEGI_08256	  2e-10
+## Alignment 287: score=161.0 e_value=0.0006 N=4 Atr_4&seq_chr2 plus
+287-  0:	atr_94481143	SEGI_19471	  3e-13
+287-  1:	atr_94480947	SEGI_07959	  3e-24
+287-  2:	atr_94481383	SEGI_15876	 2e-112
+287-  3:	atr_94479025	SEGI_35280	  8e-79
+## Alignment 288: score=151.0 e_value=0.00086 N=4 Atr_4&seq_chr2 plus
+288-  0:	atr_94481318	SEGI_00858	  2e-10
+288-  1:	atr_94481017	SEGI_17846	 1e-200
+288-  2:	atr_94480131	SEGI_05906	  4e-14
+288-  3:	atr_94480200	SEGI_26524	 1e-117
+## Alignment 289: score=513.0 e_value=3.8e-42 N=16 Atr_4&seq_chr2 minus
+289-  0:	atr_94481030	SEGI_18258	 2e-203
+289-  1:	atr_94481338	SEGI_30224	 3e-213
+289-  2:	atr_94481757	SEGI_41476	  5e-47
+289-  3:	atr_94479918	SEGI_36631	      0
+289-  4:	atr_94479500	SEGI_11019	  6e-25
+289-  5:	atr_94477615	SEGI_35400	  9e-60
+289-  6:	atr_94477819	SEGI_07470	  3e-89
+289-  7:	atr_94481045	SEGI_20648	  2e-16
+289-  8:	atr_94477979	SEGI_36076	 9e-164
+289-  9:	atr_94479747	SEGI_00979	  2e-40
+289- 10:	atr_94477732	SEGI_02621	  4e-65
+289- 11:	atr_94480733	SEGI_04964	 1e-126
+289- 12:	atr_94480347	SEGI_29510	 4e-144
+289- 13:	atr_94480692	SEGI_37339	  4e-80
+289- 14:	atr_94480788	SEGI_08602	  5e-93
+289- 15:	atr_94480560	SEGI_37604	  2e-26
+## Alignment 290: score=373.0 e_value=3.1e-18 N=9 Atr_4&seq_chr2 minus
+290-  0:	atr_94480366	SEGI_34337	  3e-92
+290-  1:	atr_94479542	SEGI_29670	  4e-06
+290-  2:	atr_94481127	SEGI_37864	  2e-20
+290-  3:	atr_94479634	SEGI_39580	 2e-200
+290-  4:	atr_94481124	SEGI_33884	  8e-27
+290-  5:	atr_94481356	SEGI_34945	  1e-76
+290-  6:	atr_94481517	SEGI_26025	  5e-65
+290-  7:	atr_94479873	SEGI_13927	  6e-43
+290-  8:	atr_94477621	SEGI_34196	  1e-70
+## Alignment 291: score=290.0 e_value=4.5e-12 N=7 Atr_4&seq_chr2 minus
+291-  0:	atr_94479175	SEGI_04771	  1e-66
+291-  1:	atr_94481102	SEGI_24677	  1e-36
+291-  2:	atr_94481936	SEGI_04222	  5e-09
+291-  3:	atr_94478889	SEGI_00429	  4e-46
+291-  4:	atr_94477495	SEGI_13176	  2e-40
+291-  5:	atr_94481596	SEGI_32476	  2e-57
+291-  6:	atr_94479881	SEGI_14917	  2e-26
+## Alignment 292: score=211.0 e_value=3.4e-06 N=5 Atr_4&seq_chr2 minus
+292-  0:	atr_94478833	SEGI_29572	 4e-112
+292-  1:	atr_94477262	SEGI_29655	 3e-118
+292-  2:	atr_94481007	SEGI_06433	 2e-169
+292-  3:	atr_94478453	SEGI_24217	 4e-136
+292-  4:	atr_94480714	SEGI_28136	  3e-54
+## Alignment 293: score=199.0 e_value=2.6e-07 N=5 Atr_4&seq_chr2 minus
+293-  0:	atr_94479818	SEGI_00059	  1e-24
+293-  1:	atr_94480402	SEGI_09724	  7e-20
+293-  2:	atr_94479973	SEGI_04541	  3e-88
+293-  3:	atr_94478827	SEGI_05265	  3e-44
+293-  4:	atr_94481195	SEGI_38638	 6e-134
+## Alignment 294: score=199.0 e_value=1.1e-09 N=6 Atr_4&seq_chr2 minus
+294-  0:	atr_94480239	SEGI_01172	  5e-45
+294-  1:	atr_94478279	SEGI_06356	  1e-35
+294-  2:	atr_94479129	SEGI_20069	 3e-152
+294-  3:	atr_94477523	SEGI_35510	  2e-29
+294-  4:	atr_94481100	SEGI_01666	 4e-112
+294-  5:	atr_94480979	SEGI_25564	  2e-78
+## Alignment 295: score=183.0 e_value=7.7e-07 N=5 Atr_4&seq_chr2 minus
+295-  0:	atr_94478350	SEGI_33390	  2e-68
+295-  1:	atr_94480939	SEGI_13877	  3e-18
+295-  2:	atr_94478841	SEGI_37522	 3e-126
+295-  3:	atr_94479433	SEGI_20546	  2e-37
+295-  4:	atr_94481835	SEGI_26056	  1e-13
+## Alignment 296: score=165.0 e_value=0.00074 N=4 Atr_4&seq_chr2 minus
+296-  0:	atr_94481613	SEGI_30052	 7e-123
+296-  1:	atr_94481859	SEGI_19766	 2e-175
+296-  2:	atr_94478699	SEGI_05743	  4e-93
+296-  3:	atr_94481947	SEGI_27224	 4e-223
+## Alignment 297: score=158.0 e_value=0.0001 N=4 Atr_4&seq_chr2 minus
+297-  0:	atr_94479453	SEGI_04232	 1e-127
+297-  1:	atr_94477715	SEGI_24466	  3e-11
+297-  2:	atr_94481761	SEGI_08721	  1e-41
+297-  3:	atr_94477440	SEGI_40329	  1e-47
+## Alignment 298: score=153.0 e_value=2e-07 N=5 Atr_4&seq_chr2 minus
+298-  0:	atr_94479729	SEGI_37424	 1e-149
+298-  1:	atr_94477445	SEGI_11536	 4e-273
+298-  2:	atr_94481083	SEGI_06084	 2e-150
+298-  3:	atr_94479308	SEGI_30213	  3e-23
+298-  4:	atr_94480979	SEGI_25763	  4e-72
+## Alignment 299: score=156.0 e_value=1.6e-06 N=5 Atr_4&seq_chr7 plus
+299-  0:	atr_94478661	SEGI_37210	  3e-41
+299-  1:	atr_94478833	SEGI_39621	  3e-29
+299-  2:	atr_94479015	SEGI_10069	  1e-80
+299-  3:	atr_94478998	SEGI_06861	  2e-29
+299-  4:	atr_94479873	SEGI_09533	  3e-43
+## Alignment 300: score=213.0 e_value=5.5e-07 N=5 Atr_4&seq_chr9 plus
+300-  0:	atr_94478762	SEGI_41455	 1e-181
+300-  1:	atr_94480932	SEGI_21417	  2e-52
+300-  2:	atr_94477486	SEGI_08793	  3e-05
+300-  3:	atr_94479390	SEGI_09088	 4e-143
+300-  4:	atr_94480178	SEGI_11121	  1e-50
+## Alignment 301: score=176.0 e_value=6.5e-07 N=5 Atr_4&seq_chr9 plus
+301-  0:	atr_94478015	SEGI_21406	  1e-55
+301-  1:	atr_94477850	SEGI_28886	  1e-31
+301-  2:	atr_94478330	SEGI_36079	 7e-161
+301-  3:	atr_94478145	SEGI_21432	  1e-36
+301-  4:	atr_94481710	SEGI_33205	 4e-138
+## Alignment 302: score=174.0 e_value=3.5e-06 N=4 Atr_4&seq_chr9 plus
+302-  0:	atr_94481389	SEGI_23962	 3e-141
+302-  1:	atr_94481687	SEGI_16707	  5e-55
+302-  2:	atr_94478684	SEGI_38518	  3e-53
+302-  3:	atr_94477296	SEGI_22822	  4e-10
+## Alignment 303: score=333.0 e_value=6.2e-14 N=8 Atr_4&seq_chr9 minus
+303-  0:	atr_94477907	SEGI_13462	  1e-32
+303-  1:	atr_94481289	SEGI_17118	 5e-223
+303-  2:	atr_94479009	SEGI_18764	  1e-24
+303-  3:	atr_94478575	SEGI_05924	 3e-162
+303-  4:	atr_94479843	SEGI_34352	  5e-32
+303-  5:	atr_94478955	SEGI_25982	 3e-227
+303-  6:	atr_94478375	SEGI_28338	  5e-49
+303-  7:	atr_94480782	SEGI_04692	      0
+## Alignment 304: score=329.0 e_value=2.1e-20 N=9 Atr_4&seq_chr9 minus
+304-  0:	atr_94481077	SEGI_38068	  2e-69
+304-  1:	atr_94480691	SEGI_15716	  1e-48
+304-  2:	atr_94479895	SEGI_18059	 4e-120
+304-  3:	atr_94479037	SEGI_01063	  3e-62
+304-  4:	atr_94477611	SEGI_17459	  4e-60
+304-  5:	atr_94480850	SEGI_25373	  3e-33
+304-  6:	atr_94481130	SEGI_15821	 1e-146
+304-  7:	atr_94480979	SEGI_36432	  4e-96
+304-  8:	atr_94478556	SEGI_11467	  2e-27
+## Alignment 305: score=252.0 e_value=1.1e-08 N=6 Atr_4&seq_chr9 minus
+305-  0:	atr_94478267	SEGI_11559	  3e-44
+305-  1:	atr_94481778	SEGI_31755	  2e-65
+305-  2:	atr_94479790	SEGI_28224	  3e-47
+305-  3:	atr_94480866	SEGI_08712	  8e-32
+305-  4:	atr_94479530	SEGI_09514	  4e-16
+305-  5:	atr_94478524	SEGI_29645	 5e-198
+## Alignment 306: score=481.0 e_value=1.1e-35 N=14 Atr_5&seq_chr10 plus
+306-  0:	atr_94476114	SEGI_32936	  1e-84
+306-  1:	atr_94474805	SEGI_34712	 2e-105
+306-  2:	atr_94475270	SEGI_26713	  2e-65
+306-  3:	atr_94473956	SEGI_04098	  4e-13
+306-  4:	atr_94474484	SEGI_39894	  8e-67
+306-  5:	atr_94474529	SEGI_35164	  2e-12
+306-  6:	atr_94476232	SEGI_00986	 2e-166
+306-  7:	atr_94474495	SEGI_26537	 4e-197
+306-  8:	atr_94475689	SEGI_14098	 5e-135
+306-  9:	atr_94476867	SEGI_05747	 6e-137
+306- 10:	atr_94475963	SEGI_28729	 2e-161
+306- 11:	atr_94476721	SEGI_04071	  5e-23
+306- 12:	atr_94475987	SEGI_24846	 3e-235
+306- 13:	atr_94476615	SEGI_30214	 2e-127
+## Alignment 307: score=360.0 e_value=1.6e-20 N=9 Atr_5&seq_chr10 plus
+307-  0:	atr_94475166	SEGI_38626	 4e-172
+307-  1:	atr_94473931	SEGI_02430	  1e-29
+307-  2:	atr_94475148	SEGI_15157	 1e-157
+307-  3:	atr_94474436	SEGI_24050	  9e-20
+307-  4:	atr_94476788	SEGI_23498	  5e-13
+307-  5:	atr_94476626	SEGI_23260	  1e-18
+307-  6:	atr_94475053	SEGI_25578	 3e-132
+307-  7:	atr_94476229	SEGI_14745	  1e-52
+307-  8:	atr_94476020	SEGI_20945	  2e-16
+## Alignment 308: score=300.0 e_value=8.1e-14 N=7 Atr_5&seq_chr10 plus
+308-  0:	atr_94476675	SEGI_35536	 7e-122
+308-  1:	atr_94477198	SEGI_14799	  5e-95
+308-  2:	atr_94475761	SEGI_06263	  2e-74
+308-  3:	atr_94476624	SEGI_39713	 1e-199
+308-  4:	atr_94475843	SEGI_20570	 6e-159
+308-  5:	atr_94475543	SEGI_07643	  4e-19
+308-  6:	atr_94473574	SEGI_05158	 3e-236
+## Alignment 309: score=162.0 e_value=0.00012 N=4 Atr_5&seq_chr10 plus
+309-  0:	atr_94475762	SEGI_18456	  3e-44
+309-  1:	atr_94475539	SEGI_40616	  3e-38
+309-  2:	atr_94475259	SEGI_01232	 1e-179
+309-  3:	atr_94474608	SEGI_00472	  8e-73
+## Alignment 310: score=154.0 e_value=0.0009 N=4 Atr_5&seq_chr10 plus
+310-  0:	atr_94473911	SEGI_24549	  4e-85
+310-  1:	atr_94473809	SEGI_18130	  2e-74
+310-  2:	atr_94473663	SEGI_16491	  9e-13
+310-  3:	atr_94476185	SEGI_29817	 2e-215
+## Alignment 311: score=311.0 e_value=4.1e-19 N=9 Atr_5&seq_chr10 minus
+311-  0:	atr_94474837	SEGI_38144	  2e-28
+311-  1:	atr_94475067	SEGI_00526	      0
+311-  2:	atr_94474421	SEGI_07415	  1e-66
+311-  3:	atr_94475477	SEGI_31176	 1e-227
+311-  4:	atr_94473911	SEGI_24549	  4e-85
+311-  5:	atr_94473809	SEGI_09508	 4e-111
+311-  6:	atr_94477081	SEGI_26261	 1e-186
+311-  7:	atr_94473743	SEGI_38980	  1e-87
+311-  8:	atr_94473973	SEGI_36795	  7e-29
+## Alignment 312: score=289.0 e_value=3.7e-19 N=8 Atr_5&seq_chr10 minus
+312-  0:	atr_94476603	SEGI_01979	  4e-44
+312-  1:	atr_94474551	SEGI_27505	  6e-32
+312-  2:	atr_94473708	SEGI_02886	  3e-89
+312-  3:	atr_94475669	SEGI_07029	  2e-12
+312-  4:	atr_94474022	SEGI_10406	  3e-29
+312-  5:	atr_94475843	SEGI_33813	  7e-50
+312-  6:	atr_94474622	SEGI_26204	 6e-209
+312-  7:	atr_94476235	SEGI_14426	  2e-30
+## Alignment 313: score=278.0 e_value=4e-11 N=7 Atr_5&seq_chr10 minus
+313-  0:	atr_94473539	SEGI_12691	  2e-12
+313-  1:	atr_94473794	SEGI_13627	  5e-88
+313-  2:	atr_94474367	SEGI_33088	 4e-158
+313-  3:	atr_94474166	SEGI_18718	 4e-143
+313-  4:	atr_94474059	SEGI_40797	 8e-116
+313-  5:	atr_94475612	SEGI_09114	  2e-10
+313-  6:	atr_94474194	SEGI_05910	 4e-118
+## Alignment 314: score=273.0 e_value=2.4e-10 N=6 Atr_5&seq_chr10 minus
+314-  0:	atr_94477004	SEGI_10585	  1e-67
+314-  1:	atr_94474899	SEGI_39084	 2e-200
+314-  2:	atr_94473817	SEGI_35600	 7e-156
+314-  3:	atr_94474802	SEGI_32575	 4e-168
+314-  4:	atr_94476306	SEGI_01485	 7e-116
+314-  5:	atr_94475527	SEGI_41546	      0
+## Alignment 315: score=240.0 e_value=1.5e-11 N=6 Atr_5&seq_chr10 minus
+315-  0:	atr_94473545	SEGI_07096	 4e-115
+315-  1:	atr_94473851	SEGI_24937	  4e-16
+315-  2:	atr_94475315	SEGI_14235	 8e-131
+315-  3:	atr_94476356	SEGI_01041	 4e-117
+315-  4:	atr_94476556	SEGI_36836	  2e-20
+315-  5:	atr_94474702	SEGI_17058	  1e-37
+## Alignment 316: score=240.0 e_value=3.7e-11 N=6 Atr_5&seq_chr10 minus
+316-  0:	atr_94474290	SEGI_40491	  2e-37
+316-  1:	atr_94474761	SEGI_17697	 1e-210
+316-  2:	atr_94473865	SEGI_08653	  5e-37
+316-  3:	atr_94474859	SEGI_15171	 4e-143
+316-  4:	atr_94473879	SEGI_24636	  7e-70
+316-  5:	atr_94475802	SEGI_13895	  5e-66
+## Alignment 317: score=230.0 e_value=2.3e-06 N=5 Atr_5&seq_chr10 minus
+317-  0:	atr_94477162	SEGI_00611	  5e-84
+317-  1:	atr_94476929	SEGI_19583	 2e-236
+317-  2:	atr_94476999	SEGI_06169	  1e-35
+317-  3:	atr_94475824	SEGI_05355	 2e-158
+317-  4:	atr_94477111	SEGI_37883	 2e-128
+## Alignment 318: score=210.0 e_value=1.1e-05 N=5 Atr_5&seq_chr10 minus
+318-  0:	atr_94476469	SEGI_38996	  2e-55
+318-  1:	atr_94474912	SEGI_36646	  1e-82
+318-  2:	atr_94473732	SEGI_40060	 4e-136
+318-  3:	atr_94475971	SEGI_22476	  8e-32
+318-  4:	atr_94473924	SEGI_22233	  4e-20
+## Alignment 319: score=171.0 e_value=0.00099 N=4 Atr_5&seq_chr10 minus
+319-  0:	atr_94476224	SEGI_11261	  6e-88
+319-  1:	atr_94473561	SEGI_33441	  3e-36
+319-  2:	atr_94475038	SEGI_09304	  8e-31
+319-  3:	atr_94476434	SEGI_07691	  2e-78
+## Alignment 320: score=163.0 e_value=4.3e-07 N=5 Atr_5&seq_chr10 minus
+320-  0:	atr_94477017	SEGI_23406	  5e-14
+320-  1:	atr_94476283	SEGI_02550	 1e-118
+320-  2:	atr_94477025	SEGI_00717	  3e-13
+320-  3:	atr_94474312	SEGI_32132	  1e-47
+320-  4:	atr_94476603	SEGI_41358	  7e-05
+## Alignment 321: score=225.0 e_value=5.7e-09 N=6 Atr_5&seq_chr11 plus
+321-  0:	atr_94476480	SEGI_19497	  2e-82
+321-  1:	atr_94476590	SEGI_31149	 1e-149
+321-  2:	atr_94476170	SEGI_28149	  5e-79
+321-  3:	atr_94475358	SEGI_01033	  9e-74
+321-  4:	atr_94476703	SEGI_03192	  2e-78
+321-  5:	atr_94476031	SEGI_02510	  2e-56
+## Alignment 322: score=168.0 e_value=1.6e-05 N=4 Atr_5&seq_chr11 plus
+322-  0:	atr_94475438	SEGI_41302	  2e-45
+322-  1:	atr_94476459	SEGI_21492	 3e-107
+322-  2:	atr_94477058	SEGI_05060	  4e-68
+322-  3:	atr_94475221	SEGI_20596	 2e-119
+## Alignment 323: score=162.0 e_value=6.8e-05 N=4 Atr_5&seq_chr11 plus
+323-  0:	atr_94476429	SEGI_02945	 2e-237
+323-  1:	atr_94475233	SEGI_31297	  3e-57
+323-  2:	atr_94476623	SEGI_05590	  6e-99
+323-  3:	atr_94475388	SEGI_41575	 7e-112
+## Alignment 324: score=214.0 e_value=2.5e-11 N=6 Atr_5&seq_chr11 minus
+324-  0:	atr_94473970	SEGI_00789	  6e-20
+324-  1:	atr_94477116	SEGI_07265	  5e-69
+324-  2:	atr_94475057	SEGI_32071	  5e-23
+324-  3:	atr_94475174	SEGI_04433	      0
+324-  4:	atr_94474125	SEGI_06118	 1e-164
+324-  5:	atr_94475181	SEGI_10687	  5e-39
+## Alignment 325: score=316.0 e_value=1.9e-19 N=9 Atr_5&seq_chr6 minus
+325-  0:	atr_94476934	SEGI_19388	  5e-48
+325-  1:	atr_94475368	SEGI_05421	  3e-30
+325-  2:	atr_94473529	SEGI_18611	 3e-115
+325-  3:	atr_94474520	SEGI_00170	  5e-55
+325-  4:	atr_94477117	SEGI_24076	  1e-93
+325-  5:	atr_94473878	SEGI_10862	 2e-138
+325-  6:	atr_94475561	SEGI_10744	 8e-151
+325-  7:	atr_94475682	SEGI_28071	  5e-38
+325-  8:	atr_94474426	SEGI_27434	 2e-280
+## Alignment 326: score=222.0 e_value=6e-06 N=5 Atr_5&seq_chr7 minus
+326-  0:	atr_94475570	SEGI_36085	  2e-62
+326-  1:	atr_94475434	SEGI_32758	  2e-26
+326-  2:	atr_94473982	SEGI_04286	  3e-18
+326-  3:	atr_94474478	SEGI_33615	  1e-77
+326-  4:	atr_94476402	SEGI_18085	 2e-232
+## Alignment 327: score=165.0 e_value=2.1e-09 N=6 Atr_6&seq_chr1 minus
+327-  0:	atr_94500368	SEGI_35171	  4e-69
+327-  1:	atr_94501092	SEGI_13539	  3e-90
+327-  2:	atr_94500205	SEGI_39514	  1e-41
+327-  3:	atr_94500474	SEGI_35572	  2e-76
+327-  4:	atr_94497629	SEGI_37038	  2e-53
+327-  5:	atr_94501501	SEGI_32715	 3e-212
+## Alignment 328: score=155.0 e_value=2.2e-05 N=4 Atr_6&seq_chr10 minus
+328-  0:	atr_94498451	SEGI_25972	  4e-47
+328-  1:	atr_94500538	SEGI_16221	 1e-120
+328-  2:	atr_94502191	SEGI_13796	  1e-86
+328-  3:	atr_94499837	SEGI_04626	 3e-106
+## Alignment 329: score=215.0 e_value=5.9e-07 N=5 Atr_6&seq_chr2 plus
+329-  0:	atr_94501360	SEGI_35229	  2e-83
+329-  1:	atr_94501317	SEGI_31201	 3e-106
+329-  2:	atr_94498789	SEGI_03012	  1e-63
+329-  3:	atr_94501057	SEGI_10334	  6e-16
+329-  4:	atr_94500725	SEGI_20783	  7e-37
+## Alignment 330: score=225.0 e_value=1.9e-10 N=6 Atr_6&seq_chr2 minus
+330-  0:	atr_94501583	SEGI_20961	  3e-44
+330-  1:	atr_94501190	SEGI_40399	 3e-191
+330-  2:	atr_94501365	SEGI_12692	 1e-140
+330-  3:	atr_94498973	SEGI_14240	  2e-15
+330-  4:	atr_94498968	SEGI_24477	 5e-151
+330-  5:	atr_94501908	SEGI_34554	 5e-160
+## Alignment 331: score=238.0 e_value=1.6e-19 N=9 Atr_6&seq_chr3 plus
+331-  0:	atr_94499143	SEGI_04030	 1e-129
+331-  1:	atr_94497999	SEGI_35499	  3e-31
+331-  2:	atr_94499098	SEGI_33256	  1e-77
+331-  3:	atr_94498393	SEGI_41532	  1e-20
+331-  4:	atr_94499077	SEGI_20008	  2e-24
+331-  5:	atr_94500991	SEGI_33105	  4e-51
+331-  6:	atr_94501947	SEGI_24920	 8e-218
+331-  7:	atr_94501375	SEGI_34909	 4e-217
+331-  8:	atr_94498232	SEGI_29183	  3e-60
+## Alignment 332: score=179.0 e_value=9.6e-10 N=6 Atr_6&seq_chr3 minus
+332-  0:	atr_94497963	SEGI_40038	 4e-159
+332-  1:	atr_94499252	SEGI_07626	  1e-59
+332-  2:	atr_94499315	SEGI_28763	  2e-29
+332-  3:	atr_94501697	SEGI_37161	 1e-123
+332-  4:	atr_94499769	SEGI_12939	 4e-110
+332-  5:	atr_94499914	SEGI_27414	  4e-39
+## Alignment 333: score=518.0 e_value=2.4e-32 N=13 Atr_6&seq_chr4 plus
+333-  0:	atr_94500972	SEGI_07532	 6e-136
+333-  1:	atr_94498539	SEGI_40063	 3e-150
+333-  2:	atr_94501401	SEGI_39668	  4e-54
+333-  3:	atr_94498904	SEGI_16462	  9e-91
+333-  4:	atr_94500891	SEGI_40995	  1e-99
+333-  5:	atr_94499066	SEGI_33786	 5e-311
+333-  6:	atr_94499374	SEGI_00573	      0
+333-  7:	atr_94500041	SEGI_34552	  2e-38
+333-  8:	atr_94498482	SEGI_24633	  6e-46
+333-  9:	atr_94498551	SEGI_37835	 1e-153
+333- 10:	atr_94501967	SEGI_32670	  6e-38
+333- 11:	atr_94500342	SEGI_07514	  1e-11
+333- 12:	atr_94500819	SEGI_21186	  4e-86
+## Alignment 334: score=366.0 e_value=1.3e-25 N=11 Atr_6&seq_chr4 plus
+334-  0:	atr_94500361	SEGI_41371	 2e-232
+334-  1:	atr_94498371	SEGI_09939	 4e-234
+334-  2:	atr_94498314	SEGI_30338	  8e-25
+334-  3:	atr_94501148	SEGI_38345	  1e-40
+334-  4:	atr_94500483	SEGI_38604	      0
+334-  5:	atr_94501703	SEGI_01379	  3e-94
+334-  6:	atr_94502186	SEGI_35751	 7e-209
+334-  7:	atr_94498479	SEGI_26373	  1e-88
+334-  8:	atr_94501862	SEGI_25621	  7e-25
+334-  9:	atr_94501926	SEGI_24514	 2e-313
+334- 10:	atr_94498745	SEGI_34423	  1e-85
+## Alignment 335: score=250.0 e_value=1.4e-10 N=6 Atr_6&seq_chr4 plus
+335-  0:	atr_94501065	SEGI_35437	  5e-08
+335-  1:	atr_94497761	SEGI_10153	  3e-27
+335-  2:	atr_94498723	SEGI_13679	  2e-97
+335-  3:	atr_94497925	SEGI_22052	  6e-38
+335-  4:	atr_94501216	SEGI_41446	  6e-50
+335-  5:	atr_94499286	SEGI_00504	  3e-43
+## Alignment 336: score=217.0 e_value=3.2e-06 N=5 Atr_6&seq_chr4 plus
+336-  0:	atr_94499659	SEGI_14741	 3e-221
+336-  1:	atr_94501833	SEGI_06290	  2e-80
+336-  2:	atr_94498103	SEGI_23057	 1e-166
+336-  3:	atr_94499736	SEGI_41489	  5e-12
+336-  4:	atr_94501635	SEGI_14341	  3e-51
+## Alignment 337: score=173.0 e_value=0.00023 N=4 Atr_6&seq_chr4 plus
+337-  0:	atr_94501797	SEGI_28522	 6e-174
+337-  1:	atr_94499969	SEGI_25462	  2e-92
+337-  2:	atr_94500398	SEGI_36916	  2e-25
+337-  3:	atr_94500509	SEGI_04951	  6e-07
+## Alignment 338: score=169.0 e_value=0.00068 N=4 Atr_6&seq_chr4 plus
+338-  0:	atr_94501751	SEGI_13568	  5e-36
+338-  1:	atr_94501473	SEGI_05629	  6e-86
+338-  2:	atr_94497934	SEGI_40741	  5e-77
+338-  3:	atr_94498534	SEGI_29728	 8e-119
+## Alignment 339: score=512.0 e_value=3.4e-27 N=12 Atr_6&seq_chr4 minus
+339-  0:	atr_94498328	SEGI_17996	  8e-88
+339-  1:	atr_94500139	SEGI_34710	 9e-131
+339-  2:	atr_94499126	SEGI_18038	  7e-72
+339-  3:	atr_94500313	SEGI_03743	 3e-106
+339-  4:	atr_94497915	SEGI_07632	 3e-166
+339-  5:	atr_94501729	SEGI_41282	  1e-55
+339-  6:	atr_94498057	SEGI_36930	  2e-26
+339-  7:	atr_94498288	SEGI_27408	  7e-17
+339-  8:	atr_94498695	SEGI_22295	 4e-121
+339-  9:	atr_94500332	SEGI_33574	  2e-34
+339- 10:	atr_94501318	SEGI_34276	  7e-96
+339- 11:	atr_94498640	SEGI_04902	 4e-172
+## Alignment 340: score=405.0 e_value=1.9e-26 N=11 Atr_6&seq_chr4 minus
+340-  0:	atr_94499899	SEGI_41566	 7e-241
+340-  1:	atr_94501874	SEGI_17725	      0
+340-  2:	atr_94497703	SEGI_07378	 5e-165
+340-  3:	atr_94497819	SEGI_23118	 9e-133
+340-  4:	atr_94501344	SEGI_29610	  2e-26
+340-  5:	atr_94499497	SEGI_14800	  8e-23
+340-  6:	atr_94500770	SEGI_21299	 2e-246
+340-  7:	atr_94498461	SEGI_18440	 4e-106
+340-  8:	atr_94500728	SEGI_03791	 8e-231
+340-  9:	atr_94498949	SEGI_04180	  1e-90
+340- 10:	atr_94499249	SEGI_25387	 4e-129
+## Alignment 341: score=205.0 e_value=1.8e-10 N=6 Atr_6&seq_chr4 minus
+341-  0:	atr_94501140	SEGI_38415	  1e-54
+341-  1:	atr_94502143	SEGI_07739	  3e-81
+341-  2:	atr_94497650	SEGI_21160	  1e-25
+341-  3:	atr_94501553	SEGI_15713	  2e-39
+341-  4:	atr_94498209	SEGI_35194	  1e-21
+341-  5:	atr_94501967	SEGI_24801	  1e-40
+## Alignment 342: score=191.0 e_value=4.9e-06 N=5 Atr_6&seq_chr4 minus
+342-  0:	atr_94498292	SEGI_04370	 4e-101
+342-  1:	atr_94497693	SEGI_35931	 8e-160
+342-  2:	atr_94500167	SEGI_28141	  4e-28
+342-  3:	atr_94497866	SEGI_21001	  5e-31
+342-  4:	atr_94501422	SEGI_20867	  1e-15
+## Alignment 343: score=184.0 e_value=0.00061 N=4 Atr_6&seq_chr4 minus
+343-  0:	atr_94500664	SEGI_16901	  6e-86
+343-  1:	atr_94499295	SEGI_22503	 8e-200
+343-  2:	atr_94500825	SEGI_06802	  5e-39
+343-  3:	atr_94502068	SEGI_17449	 4e-213
+## Alignment 344: score=177.0 e_value=1.3e-09 N=6 Atr_6&seq_chr4 minus
+344-  0:	atr_94502133	SEGI_18631	 6e-129
+344-  1:	atr_94501870	SEGI_31016	 6e-171
+344-  2:	atr_94500333	SEGI_25515	  8e-60
+344-  3:	atr_94500791	SEGI_21710	 9e-211
+344-  4:	atr_94500105	SEGI_07563	  2e-17
+344-  5:	atr_94499358	SEGI_24077	  3e-25
+## Alignment 345: score=173.0 e_value=8.1e-09 N=5 Atr_6&seq_chr4 minus
+345-  0:	atr_94501904	SEGI_01932	  4e-62
+345-  1:	atr_94500834	SEGI_23511	 2e-139
+345-  2:	atr_94499650	SEGI_16062	 2e-224
+345-  3:	atr_94499121	SEGI_31132	  1e-22
+345-  4:	atr_94497909	SEGI_23050	  6e-88
+## Alignment 346: score=186.0 e_value=0.00048 N=4 Atr_6&seq_chr5 plus
+346-  0:	atr_94497935	SEGI_19291	 2e-112
+346-  1:	atr_94501095	SEGI_27266	 3e-267
+346-  2:	atr_94501232	SEGI_03201	 6e-291
+346-  3:	atr_94500141	SEGI_12158	 1e-238
+## Alignment 347: score=259.0 e_value=8.1e-12 N=7 Atr_6&seq_chr5 minus
+347-  0:	atr_94501144	SEGI_37393	 4e-119
+347-  1:	atr_94501777	SEGI_12064	 4e-209
+347-  2:	atr_94501412	SEGI_02501	  1e-22
+347-  3:	atr_94497797	SEGI_38274	  5e-44
+347-  4:	atr_94499877	SEGI_11568	 8e-256
+347-  5:	atr_94498861	SEGI_06670	 8e-182
+347-  6:	atr_94501739	SEGI_29879	      0
+## Alignment 348: score=223.0 e_value=1.5e-08 N=5 Atr_6&seq_chr6 plus
+348-  0:	atr_94500623	SEGI_26272	  7e-64
+348-  1:	atr_94500456	SEGI_24467	  2e-20
+348-  2:	atr_94499349	SEGI_02129	 6e-173
+348-  3:	atr_94500094	SEGI_12729	  4e-65
+348-  4:	atr_94498519	SEGI_26117	 3e-209
+## Alignment 349: score=154.0 e_value=0.00044 N=4 Atr_6&seq_chr6 minus
+349-  0:	atr_94500257	SEGI_24743	  9e-54
+349-  1:	atr_94501473	SEGI_00246	  1e-86
+349-  2:	atr_94499300	SEGI_40218	  1e-90
+349-  3:	atr_94499696	SEGI_09058	 1e-119
+## Alignment 350: score=234.0 e_value=1.5e-06 N=5 Atr_6&seq_chr7 plus
+350-  0:	atr_94500466	SEGI_32063	  1e-30
+350-  1:	atr_94498317	SEGI_37205	  3e-44
+350-  2:	atr_94499988	SEGI_27833	  2e-67
+350-  3:	atr_94499777	SEGI_19754	 7e-115
+350-  4:	atr_94502020	SEGI_28116	  1e-68
+## Alignment 351: score=234.0 e_value=4.3e-09 N=6 Atr_6&seq_chr7 plus
+351-  0:	atr_94500405	SEGI_22838	  2e-14
+351-  1:	atr_94498335	SEGI_36878	 6e-226
+351-  2:	atr_94499646	SEGI_24367	  2e-89
+351-  3:	atr_94498740	SEGI_29790	 4e-269
+351-  4:	atr_94499765	SEGI_34735	  3e-59
+351-  5:	atr_94497969	SEGI_23865	  2e-19
+## Alignment 352: score=174.0 e_value=3.4e-11 N=7 Atr_6&seq_chr7 plus
+352-  0:	atr_94501153	SEGI_39602	  2e-79
+352-  1:	atr_94499664	SEGI_21039	  2e-34
+352-  2:	atr_94502113	SEGI_25499	  3e-20
+352-  3:	atr_94499518	SEGI_11980	 8e-178
+352-  4:	atr_94501169	SEGI_06834	  1e-36
+352-  5:	atr_94498495	SEGI_38311	 1e-216
+352-  6:	atr_94500542	SEGI_20446	 2e-109
+## Alignment 353: score=168.0 e_value=2.7e-08 N=5 Atr_6&seq_chr7 plus
+353-  0:	atr_94497721	SEGI_07688	 6e-206
+353-  1:	atr_94500383	SEGI_05831	  4e-26
+353-  2:	atr_94499668	SEGI_23169	 9e-243
+353-  3:	atr_94500751	SEGI_38904	  3e-19
+353-  4:	atr_94498198	SEGI_32387	  8e-19
+## Alignment 354: score=201.0 e_value=2.6e-11 N=6 Atr_6&seq_chr7 minus
+354-  0:	atr_94498263	SEGI_34655	  3e-60
+354-  1:	atr_94500542	SEGI_09251	 3e-117
+354-  2:	atr_94500232	SEGI_15605	 1e-168
+354-  3:	atr_94497584	SEGI_21106	 5e-173
+354-  4:	atr_94498512	SEGI_00185	 3e-257
+354-  5:	atr_94501208	SEGI_02641	 4e-148
+## Alignment 355: score=179.0 e_value=8.5e-10 N=6 Atr_6&seq_chr7 minus
+355-  0:	atr_94500383	SEGI_05831	  4e-26
+355-  1:	atr_94500117	SEGI_18687	 5e-138
+355-  2:	atr_94501448	SEGI_19877	 7e-186
+355-  3:	atr_94498831	SEGI_21694	  2e-63
+355-  4:	atr_94499963	SEGI_32629	  3e-23
+355-  5:	atr_94501767	SEGI_16766	 1e-125
+## Alignment 356: score=169.0 e_value=5.2e-07 N=5 Atr_6&seq_chr8 minus
+356-  0:	atr_94501533	SEGI_41164	  1e-65
+356-  1:	atr_94499390	SEGI_02102	  2e-50
+356-  2:	atr_94498066	SEGI_37727	 2e-115
+356-  3:	atr_94501347	SEGI_34152	  7e-19
+356-  4:	atr_94499410	SEGI_17346	  6e-77
+## Alignment 357: score=203.0 e_value=1e-06 N=5 Atr_7&seq_HRSCAF_1 plus
+357-  0:	atr_94519185	SEGI_35303	  6e-86
+357-  1:	atr_94517491	SEGI_21046	 2e-198
+357-  2:	atr_94519381	SEGI_04783	 6e-121
+357-  3:	atr_94519323	SEGI_28604	 1e-240
+357-  4:	atr_94519805	SEGI_35702	 1e-182
+## Alignment 358: score=170.0 e_value=4.9e-05 N=4 Atr_7&seq_chr3 plus
+358-  0:	atr_94518693	SEGI_00545	  6e-67
+358-  1:	atr_94518554	SEGI_28775	  9e-69
+358-  2:	atr_94518832	SEGI_03793	  2e-71
+358-  3:	atr_94516804	SEGI_20267	  2e-32
+## Alignment 359: score=199.0 e_value=6.8e-07 N=5 Atr_7&seq_chr6 minus
+359-  0:	atr_94517047	SEGI_37773	 2e-146
+359-  1:	atr_94517386	SEGI_22101	 5e-127
+359-  2:	atr_94516993	SEGI_18264	  4e-38
+359-  3:	atr_94519837	SEGI_24623	 9e-170
+359-  4:	atr_94519758	SEGI_11447	  5e-22
+## Alignment 360: score=211.0 e_value=5.3e-10 N=6 Atr_7&seq_chr7 plus
+360-  0:	atr_94519730	SEGI_18645	 5e-109
+360-  1:	atr_94517322	SEGI_09379	 1e-235
+360-  2:	atr_94517606	SEGI_14076	  3e-59
+360-  3:	atr_94518420	SEGI_38641	  4e-25
+360-  4:	atr_94517895	SEGI_01524	  1e-21
+360-  5:	atr_94516430	SEGI_35146	  2e-35
+## Alignment 361: score=206.0 e_value=2.1e-06 N=5 Atr_7&seq_chr7 minus
+361-  0:	atr_94516661	SEGI_32844	  3e-42
+361-  1:	atr_94519309	SEGI_23771	 2e-154
+361-  2:	atr_94516876	SEGI_23238	  2e-41
+361-  3:	atr_94518461	SEGI_15457	  9e-85
+361-  4:	atr_94517045	SEGI_08231	 7e-124
+## Alignment 362: score=199.0 e_value=4e-09 N=6 Atr_7&seq_chr7 minus
+362-  0:	atr_94517807	SEGI_26460	  2e-87
+362-  1:	atr_94517610	SEGI_02290	  8e-29
+362-  2:	atr_94516396	SEGI_38080	  2e-55
+362-  3:	atr_94519098	SEGI_24462	  7e-23
+362-  4:	atr_94517449	SEGI_12818	 8e-162
+362-  5:	atr_94517898	SEGI_04257	  2e-14
+## Alignment 363: score=158.0 e_value=6.5e-16 N=8 Atr_7&seq_chr7 minus
+363-  0:	atr_94518945	SEGI_02257	 5e-142
+363-  1:	atr_94517405	SEGI_35661	  6e-56
+363-  2:	atr_94517495	SEGI_26791	  1e-14
+363-  3:	atr_94519625	SEGI_23157	 4e-117
+363-  4:	atr_94518852	SEGI_07649	  5e-24
+363-  5:	atr_94519211	SEGI_38158	  2e-38
+363-  6:	atr_94517514	SEGI_04359	  4e-38
+363-  7:	atr_94518660	SEGI_33600	  9e-51
+## Alignment 364: score=244.0 e_value=1.5e-08 N=6 Atr_7&seq_chr8 plus
+364-  0:	atr_94519401	SEGI_02124	  2e-27
+364-  1:	atr_94518949	SEGI_25129	 9e-216
+364-  2:	atr_94519884	SEGI_12862	  8e-48
+364-  3:	atr_94517466	SEGI_04235	 2e-134
+364-  4:	atr_94517301	SEGI_26400	 2e-124
+364-  5:	atr_94517104	SEGI_37521	  3e-65
+## Alignment 365: score=183.0 e_value=3.9e-07 N=5 Atr_7&seq_chr8 plus
+365-  0:	atr_94518932	SEGI_38051	 6e-258
+365-  1:	atr_94518339	SEGI_21275	 2e-155
+365-  2:	atr_94516677	SEGI_26062	  8e-68
+365-  3:	atr_94517690	SEGI_09266	  2e-49
+365-  4:	atr_94518810	SEGI_11814	  6e-50
+## Alignment 366: score=153.0 e_value=0.00042 N=4 Atr_7&seq_chr8 plus
+366-  0:	atr_94517685	SEGI_24136	 2e-229
+366-  1:	atr_94517277	SEGI_27912	  4e-44
+366-  2:	atr_94519659	SEGI_16143	  3e-92
+366-  3:	atr_94517108	SEGI_29082	      0
+## Alignment 367: score=284.0 e_value=3.8e-13 N=7 Atr_7&seq_chr8 minus
+367-  0:	atr_94517185	SEGI_28504	 3e-108
+367-  1:	atr_94517067	SEGI_00012	  2e-81
+367-  2:	atr_94517833	SEGI_14689	 7e-175
+367-  3:	atr_94516500	SEGI_25964	 1e-119
+367-  4:	atr_94517814	SEGI_28547	 7e-106
+367-  5:	atr_94519105	SEGI_21065	  2e-17
+367-  6:	atr_94518836	SEGI_06063	  2e-77
+## Alignment 368: score=236.0 e_value=2.6e-06 N=5 Atr_7&seq_chr8 minus
+368-  0:	atr_94516687	SEGI_17836	  4e-60
+368-  1:	atr_94518111	SEGI_08888	  2e-76
+368-  2:	atr_94516756	SEGI_08720	  2e-40
+368-  3:	atr_94516768	SEGI_10488	  8e-21
+368-  4:	atr_94519941	SEGI_06509	  5e-78
+## Alignment 369: score=236.0 e_value=3.9e-09 N=6 Atr_7&seq_chr8 minus
+369-  0:	atr_94519517	SEGI_11178	      0
+369-  1:	atr_94518662	SEGI_25084	  1e-89
+369-  2:	atr_94517451	SEGI_02403	 1e-110
+369-  3:	atr_94519774	SEGI_30113	  1e-62
+369-  4:	atr_94519708	SEGI_17972	 5e-167
+369-  5:	atr_94516878	SEGI_39545	 5e-111
+## Alignment 370: score=230.0 e_value=3.5e-15 N=8 Atr_7&seq_chr8 minus
+370-  0:	atr_94517277	SEGI_27912	  4e-44
+370-  1:	atr_94519843	SEGI_26742	  9e-99
+370-  2:	atr_94519232	SEGI_36559	 4e-125
+370-  3:	atr_94519710	SEGI_19121	 2e-128
+370-  4:	atr_94517213	SEGI_17813	  4e-20
+370-  5:	atr_94517741	SEGI_31662	 1e-127
+370-  6:	atr_94519160	SEGI_36751	  2e-66
+370-  7:	atr_94518987	SEGI_14334	  1e-79
+## Alignment 371: score=257.0 e_value=8.3e-11 N=6 Atr_7&seq_chr9 plus
+371-  0:	atr_94518439	SEGI_32499	  1e-35
+371-  1:	atr_94519635	SEGI_25051	 1e-164
+371-  2:	atr_94518200	SEGI_04343	 2e-134
+371-  3:	atr_94518974	SEGI_14169	 4e-105
+371-  4:	atr_94519831	SEGI_15873	  8e-78
+371-  5:	atr_94516591	SEGI_15021	  8e-77
+## Alignment 372: score=215.0 e_value=7.5e-07 N=5 Atr_7&seq_chr9 plus
+372-  0:	atr_94517892	SEGI_23293	  3e-69
+372-  1:	atr_94517623	SEGI_29065	  6e-10
+372-  2:	atr_94519038	SEGI_29751	  1e-50
+372-  3:	atr_94517385	SEGI_17834	  3e-68
+372-  4:	atr_94516725	SEGI_36521	  1e-85
+## Alignment 373: score=195.0 e_value=1.5e-08 N=6 Atr_7&seq_chr9 plus
+373-  0:	atr_94518958	SEGI_03178	 7e-145
+373-  1:	atr_94519594	SEGI_32043	 5e-159
+373-  2:	atr_94518953	SEGI_23889	  9e-23
+373-  3:	atr_94519089	SEGI_08622	 2e-116
+373-  4:	atr_94518748	SEGI_25335	 2e-141
+373-  5:	atr_94518808	SEGI_23974	 7e-112
+## Alignment 374: score=171.0 e_value=1.3e-07 N=5 Atr_7&seq_chr9 plus
+374-  0:	atr_94517084	SEGI_03159	  3e-07
+374-  1:	atr_94517614	SEGI_29477	  3e-05
+374-  2:	atr_94519541	SEGI_09793	  2e-08
+374-  3:	atr_94519684	SEGI_03958	  5e-79
+374-  4:	atr_94519166	SEGI_06216	  3e-50
+## Alignment 375: score=164.0 e_value=0.00055 N=4 Atr_7&seq_chr9 plus
+375-  0:	atr_94518870	SEGI_27852	  7e-46
+375-  1:	atr_94519420	SEGI_20652	  4e-90
+375-  2:	atr_94518256	SEGI_09343	 1e-135
+375-  3:	atr_94518771	SEGI_25573	 8e-168
+## Alignment 376: score=247.0 e_value=2e-12 N=7 Atr_7&seq_chr9 minus
+376-  0:	atr_94516511	SEGI_10054	  8e-92
+376-  1:	atr_94516714	SEGI_04841	  6e-37
+376-  2:	atr_94519539	SEGI_22534	 1e-127
+376-  3:	atr_94516817	SEGI_09659	 1e-136
+376-  4:	atr_94518401	SEGI_13273	  4e-68
+376-  5:	atr_94516724	SEGI_34705	  1e-94
+376-  6:	atr_94518118	SEGI_33325	      0
+## Alignment 377: score=240.0 e_value=1.8e-12 N=6 Atr_7&seq_chr9 minus
+377-  0:	atr_94516409	SEGI_41171	  2e-59
+377-  1:	atr_94519405	SEGI_13694	 3e-204
+377-  2:	atr_94517675	SEGI_06430	  3e-27
+377-  3:	atr_94519328	SEGI_21942	 5e-117
+377-  4:	atr_94519623	SEGI_07602	  1e-13
+377-  5:	atr_94517800	SEGI_38523	  5e-97
+## Alignment 378: score=191.0 e_value=5.6e-08 N=5 Atr_7&seq_chr9 minus
+378-  0:	atr_94517133	SEGI_16532	  5e-46
+378-  1:	atr_94519226	SEGI_18479	 2e-111
+378-  2:	atr_94518742	SEGI_09083	  1e-33
+378-  3:	atr_94518486	SEGI_00247	 3e-156
+378-  4:	atr_94518857	SEGI_02235	 3e-245
+## Alignment 379: score=181.0 e_value=5.1e-08 N=5 Atr_7&seq_chr9 minus
+379-  0:	atr_94518094	SEGI_31800	 2e-128
+379-  1:	atr_94518358	SEGI_31894	  8e-41
+379-  2:	atr_94516694	SEGI_00207	 1e-108
+379-  3:	atr_94518581	SEGI_07796	  1e-56
+379-  4:	atr_94518064	SEGI_25478	  1e-59
+## Alignment 380: score=160.0 e_value=7.7e-09 N=6 Atr_7&seq_chr9 minus
+380-  0:	atr_94517627	SEGI_24870	  1e-30
+380-  1:	atr_94519953	SEGI_29516	  5e-87
+380-  2:	atr_94519503	SEGI_39437	 1e-142
+380-  3:	atr_94519894	SEGI_25678	  1e-27
+380-  4:	atr_94519771	SEGI_34234	      0
+380-  5:	atr_94519904	SEGI_41008	 5e-145
+## Alignment 381: score=422.0 e_value=2.6e-18 N=10 Atr_8&seq_chr1 plus
+381-  0:	atr_94513215	SEGI_25679	 6e-226
+381-  1:	atr_94514586	SEGI_08373	 2e-149
+381-  2:	atr_94512890	SEGI_06068	 2e-282
+381-  3:	atr_94514777	SEGI_04245	  4e-36
+381-  4:	atr_94512382	SEGI_37344	 1e-114
+381-  5:	atr_94515941	SEGI_38858	 8e-140
+381-  6:	atr_94513040	SEGI_33787	  3e-54
+381-  7:	atr_94514235	SEGI_36500	 7e-125
+381-  8:	atr_94513991	SEGI_40844	  7e-79
+381-  9:	atr_94515931	SEGI_06807	  3e-64
+## Alignment 382: score=371.0 e_value=5.7e-26 N=10 Atr_8&seq_chr1 plus
+382-  0:	atr_94515703	SEGI_17931	  5e-14
+382-  1:	atr_94515545	SEGI_03244	  9e-36
+382-  2:	atr_94513783	SEGI_24474	 4e-104
+382-  3:	atr_94516153	SEGI_34663	  1e-85
+382-  4:	atr_94516221	SEGI_32243	  3e-77
+382-  5:	atr_94513058	SEGI_06142	  8e-28
+382-  6:	atr_94516031	SEGI_29225	 2e-106
+382-  7:	atr_94514331	SEGI_26861	  3e-63
+382-  8:	atr_94513422	SEGI_30576	  4e-88
+382-  9:	atr_94514473	SEGI_37042	  2e-34
+## Alignment 383: score=309.0 e_value=1.5e-18 N=8 Atr_8&seq_chr1 plus
+383-  0:	atr_94514847	SEGI_22119	  1e-74
+383-  1:	atr_94514519	SEGI_09602	      0
+383-  2:	atr_94513959	SEGI_02690	  3e-74
+383-  3:	atr_94514792	SEGI_41242	 9e-143
+383-  4:	atr_94513355	SEGI_26789	  6e-59
+383-  5:	atr_94514030	SEGI_39431	  7e-27
+383-  6:	atr_94515383	SEGI_14198	  1e-42
+383-  7:	atr_94515471	SEGI_17344	  2e-07
+## Alignment 384: score=280.0 e_value=1.9e-22 N=10 Atr_8&seq_chr1 plus
+384-  0:	atr_94514380	SEGI_11999	  8e-19
+384-  1:	atr_94515984	SEGI_27761	  1e-22
+384-  2:	atr_94513206	SEGI_14997	  1e-16
+384-  3:	atr_94513089	SEGI_39170	 1e-146
+384-  4:	atr_94513196	SEGI_23058	 9e-146
+384-  5:	atr_94515177	SEGI_04575	  6e-87
+384-  6:	atr_94516081	SEGI_39915	  3e-96
+384-  7:	atr_94513773	SEGI_13349	  3e-41
+384-  8:	atr_94512300	SEGI_09306	  3e-46
+384-  9:	atr_94514364	SEGI_18884	  2e-12
+## Alignment 385: score=215.0 e_value=5.8e-09 N=6 Atr_8&seq_chr1 plus
+385-  0:	atr_94513126	SEGI_11810	  3e-22
+385-  1:	atr_94515052	SEGI_03476	 9e-126
+385-  2:	atr_94512963	SEGI_34413	  1e-23
+385-  3:	atr_94512659	SEGI_16448	 5e-188
+385-  4:	atr_94513494	SEGI_39154	 2e-217
+385-  5:	atr_94513147	SEGI_10703	  4e-19
+## Alignment 386: score=207.0 e_value=3.3e-12 N=7 Atr_8&seq_chr1 plus
+386-  0:	atr_94514453	SEGI_27167	  2e-89
+386-  1:	atr_94515358	SEGI_05711	 2e-147
+386-  2:	atr_94513346	SEGI_23739	  2e-91
+386-  3:	atr_94515105	SEGI_08193	  2e-59
+386-  4:	atr_94515279	SEGI_22273	 1e-282
+386-  5:	atr_94514668	SEGI_03560	 2e-104
+386-  6:	atr_94513993	SEGI_19702	      0
+## Alignment 387: score=195.0 e_value=6.5e-06 N=5 Atr_8&seq_chr1 plus
+387-  0:	atr_94513210	SEGI_10901	  8e-17
+387-  1:	atr_94514586	SEGI_15142	 8e-140
+387-  2:	atr_94514451	SEGI_09135	  5e-20
+387-  3:	atr_94512917	SEGI_15068	 1e-166
+387-  4:	atr_94514216	SEGI_38532	  1e-32
+## Alignment 388: score=298.0 e_value=2e-14 N=8 Atr_8&seq_chr1 minus
+388-  0:	atr_94512928	SEGI_10171	  6e-47
+388-  1:	atr_94513481	SEGI_14061	  1e-17
+388-  2:	atr_94515289	SEGI_07850	 2e-155
+388-  3:	atr_94516102	SEGI_03337	 7e-191
+388-  4:	atr_94514252	SEGI_02885	  4e-24
+388-  5:	atr_94513888	SEGI_27923	  3e-75
+388-  6:	atr_94514746	SEGI_07330	  2e-14
+388-  7:	atr_94515472	SEGI_40666	  1e-08
+## Alignment 389: score=239.0 e_value=2.3e-09 N=6 Atr_8&seq_chr1 minus
+389-  0:	atr_94514269	SEGI_33654	 2e-229
+389-  1:	atr_94513924	SEGI_33599	  9e-41
+389-  2:	atr_94514592	SEGI_20192	  1e-75
+389-  3:	atr_94514491	SEGI_40201	  4e-58
+389-  4:	atr_94512907	SEGI_14803	  6e-87
+389-  5:	atr_94514800	SEGI_17510	 2e-175
+## Alignment 390: score=227.0 e_value=2.1e-08 N=6 Atr_8&seq_chr1 minus
+390-  0:	atr_94513815	SEGI_12694	  9e-95
+390-  1:	atr_94515195	SEGI_27848	 5e-135
+390-  2:	atr_94513919	SEGI_36322	  6e-14
+390-  3:	atr_94516233	SEGI_07307	  4e-60
+390-  4:	atr_94512176	SEGI_18153	  5e-27
+390-  5:	atr_94514598	SEGI_23934	 7e-126
+## Alignment 391: score=219.0 e_value=2.1e-12 N=6 Atr_8&seq_chr1 minus
+391-  0:	atr_94515056	SEGI_21113	  8e-99
+391-  1:	atr_94515441	SEGI_31563	  4e-47
+391-  2:	atr_94515223	SEGI_35745	 2e-111
+391-  3:	atr_94512744	SEGI_28724	  2e-56
+391-  4:	atr_94514167	SEGI_04376	 2e-222
+391-  5:	atr_94513825	SEGI_40492	  8e-53
+## Alignment 392: score=172.0 e_value=5.5e-05 N=4 Atr_8&seq_chr1 minus
+392-  0:	atr_94514410	SEGI_19562	  2e-84
+392-  1:	atr_94515364	SEGI_35671	 3e-113
+392-  2:	atr_94516174	SEGI_32781	 2e-113
+392-  3:	atr_94515932	SEGI_37975	 1e-238
+## Alignment 393: score=155.0 e_value=1.9e-05 N=5 Atr_8&seq_chr1 minus
+393-  0:	atr_94513801	SEGI_40729	  7e-05
+393-  1:	atr_94513105	SEGI_31427	 2e-122
+393-  2:	atr_94514434	SEGI_31145	 4e-210
+393-  3:	atr_94514657	SEGI_29488	 1e-124
+393-  4:	atr_94512497	SEGI_14968	  4e-17
+## Alignment 394: score=379.0 e_value=1.1e-25 N=11 Atr_8&seq_chr3 plus
+394-  0:	atr_94513399	SEGI_16436	  5e-90
+394-  1:	atr_94513076	SEGI_16117	 1e-103
+394-  2:	atr_94515972	SEGI_16715	  9e-28
+394-  3:	atr_94514677	SEGI_10308	 2e-141
+394-  4:	atr_94513404	SEGI_06466	  4e-39
+394-  5:	atr_94512533	SEGI_16712	      0
+394-  6:	atr_94513229	SEGI_16529	  1e-28
+394-  7:	atr_94513872	SEGI_29349	 1e-120
+394-  8:	atr_94516109	SEGI_22112	  5e-47
+394-  9:	atr_94514827	SEGI_36489	 4e-168
+394- 10:	atr_94512477	SEGI_03208	 2e-169
+## Alignment 395: score=311.0 e_value=7.5e-13 N=7 Atr_8&seq_chr3 plus
+395-  0:	atr_94513884	SEGI_30149	 2e-114
+395-  1:	atr_94512739	SEGI_22001	 5e-105
+395-  2:	atr_94513666	SEGI_37462	  4e-84
+395-  3:	atr_94512313	SEGI_11946	  2e-84
+395-  4:	atr_94515953	SEGI_13297	 3e-104
+395-  5:	atr_94513909	SEGI_24889	 2e-104
+395-  6:	atr_94513715	SEGI_06217	  8e-57
+## Alignment 396: score=198.0 e_value=4.3e-06 N=5 Atr_8&seq_chr3 plus
+396-  0:	atr_94512760	SEGI_16529	  1e-07
+396-  1:	atr_94514101	SEGI_12475	 1e-143
+396-  2:	atr_94512675	SEGI_39090	  3e-44
+396-  3:	atr_94512392	SEGI_37769	 1e-136
+396-  4:	atr_94514121	SEGI_30035	  8e-16
+## Alignment 397: score=394.0 e_value=1.2e-16 N=9 Atr_8&seq_chr3 minus
+397-  0:	atr_94515401	SEGI_17269	 3e-169
+397-  1:	atr_94512628	SEGI_29607	 6e-131
+397-  2:	atr_94513748	SEGI_16401	 5e-121
+397-  3:	atr_94512470	SEGI_29618	 3e-211
+397-  4:	atr_94512739	SEGI_16040	 2e-105
+397-  5:	atr_94513666	SEGI_32394	  2e-81
+397-  6:	atr_94515953	SEGI_05125	 4e-105
+397-  7:	atr_94515874	SEGI_37462	  1e-96
+397-  8:	atr_94513182	SEGI_33479	 6e-106
+## Alignment 398: score=319.0 e_value=2.1e-14 N=7 Atr_8&seq_chr4 plus
+398-  0:	atr_94514912	SEGI_07400	 1e-180
+398-  1:	atr_94514773	SEGI_11714	  5e-71
+398-  2:	atr_94513598	SEGI_06672	  5e-55
+398-  3:	atr_94512647	SEGI_08727	 3e-118
+398-  4:	atr_94514454	SEGI_32602	  4e-28
+398-  5:	atr_94516150	SEGI_20264	  1e-09
+398-  6:	atr_94515062	SEGI_36302	  3e-19
+## Alignment 399: score=177.0 e_value=2.6e-09 N=5 Atr_8&seq_chr4 plus
+399-  0:	atr_94513625	SEGI_08925	  1e-35
+399-  1:	atr_94512177	SEGI_22566	  6e-22
+399-  2:	atr_94512317	SEGI_33651	 1e-286
+399-  3:	atr_94512237	SEGI_04398	  9e-21
+399-  4:	atr_94514976	SEGI_26709	  6e-23
+## Alignment 400: score=169.0 e_value=6e-07 N=5 Atr_8&seq_chr4 minus
+400-  0:	atr_94515950	SEGI_30344	  8e-07
+400-  1:	atr_94514912	SEGI_07400	 1e-180
+400-  2:	atr_94513341	SEGI_28951	  3e-65
+400-  3:	atr_94513852	SEGI_39426	  2e-15
+400-  4:	atr_94515556	SEGI_25118	  5e-51
+## Alignment 401: score=179.0 e_value=2.4e-06 N=4 Atr_8&seq_chr5 plus
+401-  0:	atr_94515172	SEGI_37591	 1e-192
+401-  1:	atr_94514682	SEGI_36006	 2e-100
+401-  2:	atr_94513747	SEGI_17760	  8e-79
+401-  3:	atr_94516150	SEGI_32854	  4e-08
+## Alignment 402: score=260.0 e_value=1.5e-08 N=6 Atr_8&seq_chr5 minus
+402-  0:	atr_94514033	SEGI_35561	  2e-49
+402-  1:	atr_94512554	SEGI_33136	 6e-156
+402-  2:	atr_94515537	SEGI_21619	  4e-99
+402-  3:	atr_94515950	SEGI_32854	  6e-82
+402-  4:	atr_94513747	SEGI_17760	  8e-79
+402-  5:	atr_94512805	SEGI_37591	 7e-107
+## Alignment 403: score=213.0 e_value=3.8e-11 N=7 Atr_8&seq_chr7 plus
+403-  0:	atr_94513932	SEGI_32547	 1e-198
+403-  1:	atr_94513705	SEGI_28557	  2e-90
+403-  2:	atr_94515947	SEGI_35124	  4e-27
+403-  3:	atr_94515218	SEGI_32388	  2e-17
+403-  4:	atr_94516164	SEGI_27570	  8e-57
+403-  5:	atr_94512673	SEGI_04989	  3e-53
+403-  6:	atr_94513399	SEGI_38468	 7e-117
+## Alignment 404: score=162.0 e_value=0.00015 N=4 Atr_8&seq_chr7 plus
+404-  0:	atr_94512412	SEGI_00539	 4e-203
+404-  1:	atr_94514149	SEGI_00484	  3e-80
+404-  2:	atr_94514855	SEGI_12680	  1e-25
+404-  3:	atr_94512347	SEGI_34241	 5e-104
+## Alignment 405: score=256.0 e_value=3.3e-12 N=7 Atr_8&seq_chr7 minus
+405-  0:	atr_94512428	SEGI_11263	  1e-22
+405-  1:	atr_94514118	SEGI_29805	  3e-07
+405-  2:	atr_94514122	SEGI_06532	  2e-14
+405-  3:	atr_94516024	SEGI_05191	  5e-19
+405-  4:	atr_94515100	SEGI_06516	 8e-133
+405-  5:	atr_94512853	SEGI_08877	  1e-41
+405-  6:	atr_94516331	SEGI_14164	  9e-19
+## Alignment 406: score=189.0 e_value=7.9e-07 N=5 Atr_8&seq_chr7 minus
+406-  0:	atr_94513705	SEGI_35120	 3e-105
+406-  1:	atr_94516272	SEGI_39711	 7e-113
+406-  2:	atr_94513982	SEGI_18645	  3e-09
+406-  3:	atr_94514332	SEGI_12034	 2e-203
+406-  4:	atr_94516159	SEGI_33379	      0
+## Alignment 407: score=152.0 e_value=7.9e-05 N=4 Atr_8&seq_chr7 minus
+407-  0:	atr_94514213	SEGI_26197	      0
+407-  1:	atr_94514449	SEGI_01532	      0
+407-  2:	atr_94513036	SEGI_33598	  2e-39
+407-  3:	atr_94513367	SEGI_23695	 3e-216
+## Alignment 408: score=265.0 e_value=2.6e-09 N=6 Atr_8&seq_chr9 plus
+408-  0:	atr_94513458	SEGI_30090	 1e-239
+408-  1:	atr_94513964	SEGI_05272	 2e-128
+408-  2:	atr_94513617	SEGI_12207	  3e-51
+408-  3:	atr_94513050	SEGI_21181	 7e-115
+408-  4:	atr_94512699	SEGI_10665	      0
+408-  5:	atr_94514503	SEGI_41301	  6e-65
+## Alignment 409: score=220.0 e_value=1.2e-06 N=5 Atr_8&seq_chr9 plus
+409-  0:	atr_94512869	SEGI_33832	  6e-20
+409-  1:	atr_94515958	SEGI_02308	 2e-129
+409-  2:	atr_94512339	SEGI_13273	  2e-67
+409-  3:	atr_94515432	SEGI_12829	  6e-53
+409-  4:	atr_94513577	SEGI_09659	  2e-88
+## Alignment 410: score=209.0 e_value=2.8e-14 N=7 Atr_8&seq_chr9 plus
+410-  0:	atr_94512995	SEGI_16431	  7e-83
+410-  1:	atr_94513067	SEGI_11650	 2e-126
+410-  2:	atr_94516342	SEGI_09103	  1e-66
+410-  3:	atr_94513170	SEGI_26822	  1e-23
+410-  4:	atr_94514426	SEGI_00743	  4e-94
+410-  5:	atr_94514903	SEGI_25369	  2e-53
+410-  6:	atr_94512519	SEGI_28056	 1e-243
+## Alignment 411: score=286.0 e_value=2.1e-25 N=11 Atr_8&seq_chr9 minus
+411-  0:	atr_94514719	SEGI_13728	  3e-16
+411-  1:	atr_94515523	SEGI_03332	 7e-178
+411-  2:	atr_94513677	SEGI_16115	 2e-191
+411-  3:	atr_94515511	SEGI_40383	 3e-191
+411-  4:	atr_94515644	SEGI_15873	  2e-75
+411-  5:	atr_94516210	SEGI_15940	  2e-67
+411-  6:	atr_94512825	SEGI_04343	 1e-184
+411-  7:	atr_94512575	SEGI_09864	  2e-38
+411-  8:	atr_94513347	SEGI_02306	 7e-214
+411-  9:	atr_94516287	SEGI_28595	 1e-171
+411- 10:	atr_94513731	SEGI_35766	 4e-177
+## Alignment 412: score=191.0 e_value=0.00034 N=4 Atr_8&seq_chr9 minus
+412-  0:	atr_94512191	SEGI_10987	  2e-52
+412-  1:	atr_94514402	SEGI_36926	 5e-138
+412-  2:	atr_94516225	SEGI_28854	  2e-53
+412-  3:	atr_94515377	SEGI_29814	  5e-85
+## Alignment 413: score=173.0 e_value=0.00015 N=4 Atr_8&seq_chr9 minus
+413-  0:	atr_94514061	SEGI_05728	 1e-161
+413-  1:	atr_94513997	SEGI_22941	 1e-143
+413-  2:	atr_94516094	SEGI_11735	 2e-190
+413-  3:	atr_94513911	SEGI_28323	  3e-92
+## Alignment 414: score=162.0 e_value=0.0007 N=4 Atr_8&seq_chr9 minus
+414-  0:	atr_94514731	SEGI_25834	  7e-12
+414-  1:	atr_94513563	SEGI_11088	  3e-14
+414-  2:	atr_94515131	SEGI_29516	  1e-94
+414-  3:	atr_94512569	SEGI_30970	 3e-111
+## Alignment 415: score=340.0 e_value=1.9e-18 N=9 Atr_9&seq_HRSCAF_1 plus
+415-  0:	atr_94522088	SEGI_37242	  3e-67
+415-  1:	atr_94523698	SEGI_27164	  5e-17
+415-  2:	atr_94522177	SEGI_25125	 8e-152
+415-  3:	atr_94521935	SEGI_37303	  6e-10
+415-  4:	atr_94524690	SEGI_08967	  2e-51
+415-  5:	atr_94523268	SEGI_26467	 1e-104
+415-  6:	atr_94522007	SEGI_17732	  1e-32
+415-  7:	atr_94522081	SEGI_09605	 1e-157
+415-  8:	atr_94521523	SEGI_26675	 1e-100
+## Alignment 416: score=285.0 e_value=5.9e-12 N=7 Atr_9&seq_HRSCAF_1 minus
+416-  0:	atr_94524840	SEGI_30284	 2e-204
+416-  1:	atr_94521259	SEGI_10436	 8e-207
+416-  2:	atr_94522394	SEGI_05177	  3e-14
+416-  3:	atr_94525114	SEGI_09054	 8e-143
+416-  4:	atr_94522568	SEGI_34188	  5e-31
+416-  5:	atr_94523122	SEGI_23205	  2e-96
+416-  6:	atr_94524627	SEGI_40339	  2e-58
+## Alignment 417: score=215.0 e_value=8.6e-07 N=5 Atr_9&seq_HRSCAF_1 minus
+417-  0:	atr_94523014	SEGI_25768	 4e-160
+417-  1:	atr_94522174	SEGI_30631	  1e-15
+417-  2:	atr_94524433	SEGI_19064	 5e-114
+417-  3:	atr_94521621	SEGI_23426	  5e-42
+417-  4:	atr_94521652	SEGI_28828	      0
+## Alignment 418: score=191.0 e_value=2.1e-05 N=4 Atr_9&seq_HRSCAF_1 minus
+418-  0:	atr_94523520	SEGI_41133	 5e-134
+418-  1:	atr_94521534	SEGI_33168	 3e-102
+418-  2:	atr_94523192	SEGI_30363	  8e-54
+418-  3:	atr_94524115	SEGI_32722	 2e-168
+## Alignment 419: score=177.0 e_value=4.2e-05 N=4 Atr_9&seq_chr1 plus
+419-  0:	atr_94520070	SEGI_30588	 2e-106
+419-  1:	atr_94525003	SEGI_09465	 2e-161
+419-  2:	atr_94522965	SEGI_11411	  1e-87
+419-  3:	atr_94522051	SEGI_28687	  1e-22
+## Alignment 420: score=228.0 e_value=7.7e-06 N=5 Atr_9&seq_chr10 plus
+420-  0:	atr_94524161	SEGI_21927	 6e-141
+420-  1:	atr_94520476	SEGI_15103	 3e-194
+420-  2:	atr_94524307	SEGI_30726	  1e-61
+420-  3:	atr_94521196	SEGI_37651	  1e-30
+420-  4:	atr_94522977	SEGI_28796	  4e-16
+## Alignment 421: score=179.0 e_value=4.3e-07 N=5 Atr_9&seq_chr10 plus
+421-  0:	atr_94521261	SEGI_37812	  1e-94
+421-  1:	atr_94520681	SEGI_06671	 7e-195
+421-  2:	atr_94521829	SEGI_04962	  1e-81
+421-  3:	atr_94524993	SEGI_33200	  2e-31
+421-  4:	atr_94520513	SEGI_38899	 6e-153
+## Alignment 422: score=179.0 e_value=9e-08 N=5 Atr_9&seq_chr10 plus
+422-  0:	atr_94522400	SEGI_04482	  1e-47
+422-  1:	atr_94522263	SEGI_29240	 4e-192
+422-  2:	atr_94521106	SEGI_17375	  1e-24
+422-  3:	atr_94522442	SEGI_27749	  5e-22
+422-  4:	atr_94522979	SEGI_28603	 2e-140
+## Alignment 423: score=220.0 e_value=1.4e-06 N=5 Atr_9&seq_chr10 minus
+423-  0:	atr_94521802	SEGI_34816	  1e-35
+423-  1:	atr_94522221	SEGI_23700	  5e-69
+423-  2:	atr_94520996	SEGI_10176	  1e-25
+423-  3:	atr_94522434	SEGI_13495	  7e-30
+423-  4:	atr_94520927	SEGI_31171	  9e-81
+## Alignment 424: score=194.0 e_value=8.4e-06 N=5 Atr_9&seq_chr10 minus
+424-  0:	atr_94523254	SEGI_24206	  1e-43
+424-  1:	atr_94521774	SEGI_24482	  1e-27
+424-  2:	atr_94522902	SEGI_20680	 5e-131
+424-  3:	atr_94525253	SEGI_38095	  5e-42
+424-  4:	atr_94522021	SEGI_17362	  6e-16
+## Alignment 425: score=171.0 e_value=1.7e-07 N=5 Atr_9&seq_chr10 minus
+425-  0:	atr_94520374	SEGI_16734	  1e-64
+425-  1:	atr_94520026	SEGI_10884	  8e-89
+425-  2:	atr_94520653	SEGI_04055	  1e-95
+425-  3:	atr_94522591	SEGI_26090	      0
+425-  4:	atr_94522843	SEGI_26845	  4e-87
+## Alignment 426: score=285.0 e_value=5.6e-08 N=6 Atr_9&seq_chr3 plus
+426-  0:	atr_94520580	SEGI_30149	  2e-84
+426-  1:	atr_94520231	SEGI_37462	  1e-45
+426-  2:	atr_94520034	SEGI_05125	 1e-107
+426-  3:	atr_94520995	SEGI_40656	 1e-104
+426-  4:	atr_94523198	SEGI_32394	 1e-100
+426-  5:	atr_94522718	SEGI_14324	  5e-60
+## Alignment 427: score=173.0 e_value=0.00017 N=4 Atr_9&seq_chr4 plus
+427-  0:	atr_94520561	SEGI_15597	  8e-13
+427-  1:	atr_94521466	SEGI_07050	  2e-27
+427-  2:	atr_94522141	SEGI_07293	 1e-160
+427-  3:	atr_94520843	SEGI_26546	 1e-291
+## Alignment 428: score=163.0 e_value=4.5e-06 N=5 Atr_9&seq_chr4 minus
+428-  0:	atr_94523885	SEGI_12225	  2e-95
+428-  1:	atr_94520412	SEGI_19922	  9e-35
+428-  2:	atr_94521052	SEGI_10827	  4e-77
+428-  3:	atr_94523805	SEGI_05447	  4e-31
+428-  4:	atr_94520376	SEGI_11381	  5e-71
+## Alignment 429: score=422.0 e_value=6.3e-28 N=11 Atr_9&seq_chr5 plus
+429-  0:	atr_94523129	SEGI_40440	 4e-185
+429-  1:	atr_94520165	SEGI_39083	 7e-152
+429-  2:	atr_94523212	SEGI_35511	  1e-21
+429-  3:	atr_94521207	SEGI_07876	      0
+429-  4:	atr_94524851	SEGI_24300	 3e-165
+429-  5:	atr_94522544	SEGI_32640	  3e-57
+429-  6:	atr_94520880	SEGI_14918	 8e-242
+429-  7:	atr_94520509	SEGI_25472	 2e-206
+429-  8:	atr_94524504	SEGI_15131	  2e-09
+429-  9:	atr_94524281	SEGI_17745	  2e-58
+429- 10:	atr_94522753	SEGI_38999	 1e-176
+## Alignment 430: score=188.0 e_value=1.2e-06 N=4 Atr_9&seq_chr6 minus
+430-  0:	atr_94525163	SEGI_14812	  4e-33
+430-  1:	atr_94523899	SEGI_24047	  6e-77
+430-  2:	atr_94520931	SEGI_39659	  9e-38
+430-  3:	atr_94522841	SEGI_39025	  8e-16
+## Alignment 431: score=161.0 e_value=7.9e-05 N=4 Atr_9&seq_chr7 minus
+431-  0:	atr_94524633	SEGI_04649	 8e-120
+431-  1:	atr_94523047	SEGI_00967	  1e-82
+431-  2:	atr_94524513	SEGI_08343	 2e-192
+431-  3:	atr_94520498	SEGI_06530	  2e-27
+## Alignment 432: score=160.0 e_value=8.1e-06 N=4 Atr_9&seq_chr7 minus
+432-  0:	atr_94522959	SEGI_14923	 8e-169
+432-  1:	atr_94524186	SEGI_02272	  4e-50
+432-  2:	atr_94520169	SEGI_04763	 2e-134
+432-  3:	atr_94520912	SEGI_08448	 5e-100
+## Alignment 433: score=153.0 e_value=0.00018 N=4 Atr_9&seq_chr7 minus
+433-  0:	atr_94521766	SEGI_03325	  2e-13
+433-  1:	atr_94524960	SEGI_14258	 2e-223
+433-  2:	atr_94524191	SEGI_15235	  2e-38
+433-  3:	atr_94521042	SEGI_00852	  4e-80
+## Alignment 434: score=303.0 e_value=3.7e-13 N=7 Atr_9&seq_chr8 plus
+434-  0:	atr_94523082	SEGI_34783	 2e-101
+434-  1:	atr_94523689	SEGI_01865	  9e-79
+434-  2:	atr_94524168	SEGI_29325	 2e-169
+434-  3:	atr_94524264	SEGI_18369	  1e-21
+434-  4:	atr_94520659	SEGI_04487	 3e-110
+434-  5:	atr_94525046	SEGI_32450	 6e-144
+434-  6:	atr_94520283	SEGI_34093	  4e-50
+## Alignment 435: score=237.0 e_value=1.6e-08 N=6 Atr_9&seq_chr8 plus
+435-  0:	atr_94523053	SEGI_19190	 3e-212
+435-  1:	atr_94523552	SEGI_14276	  9e-47
+435-  2:	atr_94522054	SEGI_12165	 3e-172
+435-  3:	atr_94523045	SEGI_23628	  6e-94
+435-  4:	atr_94523373	SEGI_39478	  2e-19
+435-  5:	atr_94523056	SEGI_23240	 1e-283
+## Alignment 436: score=227.0 e_value=3.2e-09 N=6 Atr_9&seq_chr8 plus
+436-  0:	atr_94523494	SEGI_06709	  1e-39
+436-  1:	atr_94522532	SEGI_38224	  2e-51
+436-  2:	atr_94522942	SEGI_26200	  7e-37
+436-  3:	atr_94521245	SEGI_36794	 1e-146
+436-  4:	atr_94521642	SEGI_34532	  5e-65
+436-  5:	atr_94521921	SEGI_31589	  1e-50
+## Alignment 437: score=190.0 e_value=1.1e-05 N=5 Atr_9&seq_chr8 plus
+437-  0:	atr_94522158	SEGI_37736	  6e-21
+437-  1:	atr_94521603	SEGI_22635	      0
+437-  2:	atr_94522759	SEGI_27760	  6e-12
+437-  3:	atr_94522587	SEGI_30154	  1e-89
+437-  4:	atr_94521927	SEGI_20528	  3e-35
+## Alignment 438: score=159.0 e_value=0.00035 N=4 Atr_9&seq_chr8 plus
+438-  0:	atr_94523436	SEGI_26374	 8e-162
+438-  1:	atr_94520434	SEGI_01081	  2e-71
+438-  2:	atr_94523770	SEGI_36789	 2e-218
+438-  3:	atr_94522733	SEGI_41599	  2e-54
+## Alignment 439: score=156.0 e_value=0.00029 N=4 Atr_9&seq_chr8 plus
+439-  0:	atr_94521957	SEGI_29958	  8e-60
+439-  1:	atr_94523375	SEGI_06461	  2e-95
+439-  2:	atr_94520832	SEGI_00346	 9e-130
+439-  3:	atr_94524279	SEGI_06427	      0
+## Alignment 440: score=413.0 e_value=1.2e-21 N=9 Atr_9&seq_chr8 minus
+440-  0:	atr_94524165	SEGI_12121	  3e-56
+440-  1:	atr_94522048	SEGI_01077	  7e-28
+440-  2:	atr_94522269	SEGI_25550	 0.0001
+440-  3:	atr_94521279	SEGI_00799	  4e-13
+440-  4:	atr_94525101	SEGI_39071	  3e-14
+440-  5:	atr_94524462	SEGI_13405	  2e-74
+440-  6:	atr_94523399	SEGI_18367	  1e-14
+440-  7:	atr_94520829	SEGI_40721	 1e-112
+440-  8:	atr_94523309	SEGI_00911	 4e-226
+## Alignment 441: score=412.0 e_value=2.1e-25 N=11 Atr_9&seq_chr8 minus
+441-  0:	atr_94524475	SEGI_21315	  3e-67
+441-  1:	atr_94520557	SEGI_37049	  3e-24
+441-  2:	atr_94520416	SEGI_31787	  6e-49
+441-  3:	atr_94522472	SEGI_03430	 4e-140
+441-  4:	atr_94523697	SEGI_40396	  5e-05
+441-  5:	atr_94523437	SEGI_30493	 1e-105
+441-  6:	atr_94525026	SEGI_13835	  9e-34
+441-  7:	atr_94520434	SEGI_24711	  4e-57
+441-  8:	atr_94523770	SEGI_36789	 2e-218
+441-  9:	atr_94520243	SEGI_30680	 2e-177
+441- 10:	atr_94522297	SEGI_35241	  4e-79
+## Alignment 442: score=357.0 e_value=3.9e-19 N=9 Atr_9&seq_chr8 minus
+442-  0:	atr_94523619	SEGI_40530	  1e-21
+442-  1:	atr_94521957	SEGI_29958	  8e-60
+442-  2:	atr_94523091	SEGI_10200	  2e-34
+442-  3:	atr_94521167	SEGI_26650	  4e-39
+442-  4:	atr_94522063	SEGI_00615	  2e-19
+442-  5:	atr_94524347	SEGI_14375	  6e-05
+442-  6:	atr_94520535	SEGI_29366	  1e-38
+442-  7:	atr_94524501	SEGI_30656	  2e-90
+442-  8:	atr_94523570	SEGI_19290	  3e-73
+## Alignment 443: score=311.0 e_value=2e-24 N=11 Atr_9&seq_chr8 minus
+443-  0:	atr_94522115	SEGI_27018	  2e-74
+443-  1:	atr_94521213	SEGI_34801	  2e-13
+443-  2:	atr_94520429	SEGI_31086	  8e-51
+443-  3:	atr_94522262	SEGI_00014	  1e-21
+443-  4:	atr_94524179	SEGI_38450	 5e-139
+443-  5:	atr_94523250	SEGI_09392	  2e-41
+443-  6:	atr_94523846	SEGI_21538	  3e-42
+443-  7:	atr_94522407	SEGI_34677	 7e-110
+443-  8:	atr_94523121	SEGI_17162	  4e-24
+443-  9:	atr_94524388	SEGI_15440	  6e-80
+443- 10:	atr_94524366	SEGI_23119	 5e-107
+## Alignment 444: score=223.0 e_value=2e-07 N=5 Atr_9&seq_chr8 minus
+444-  0:	atr_94521914	SEGI_37609	 4e-245
+444-  1:	atr_94524439	SEGI_18304	 5e-148
+444-  2:	atr_94522624	SEGI_26576	  1e-11
+444-  3:	atr_94524764	SEGI_14549	  6e-39
+444-  4:	atr_94523604	SEGI_18314	  2e-07
+## Alignment 445: score=176.0 e_value=6.1e-11 N=7 Atr_9&seq_chr8 minus
+445-  0:	atr_94525211	SEGI_04724	  1e-69
+445-  1:	atr_94520897	SEGI_24316	 6e-163
+445-  2:	atr_94522531	SEGI_11231	 1e-135
+445-  3:	atr_94521896	SEGI_25776	  2e-08
+445-  4:	atr_94522767	SEGI_12811	 7e-121
+445-  5:	atr_94520609	SEGI_18929	  5e-81
+445-  6:	atr_94524320	SEGI_19412	  4e-21
+## Alignment 446: score=173.0 e_value=2e-10 N=6 Atr_9&seq_chr8 minus
+446-  0:	atr_94523028	SEGI_20886	 6e-158
+446-  1:	atr_94525080	SEGI_13335	  3e-83
+446-  2:	atr_94522347	SEGI_25837	 1e-180
+446-  3:	atr_94524903	SEGI_20167	 4e-146
+446-  4:	atr_94522105	SEGI_27970	  7e-54
+446-  5:	atr_94523546	SEGI_04724	  1e-05
+## Alignment 447: score=205.0 e_value=1.6e-09 N=6 Atr_9&seq_chr9 plus
+447-  0:	atr_94524585	SEGI_09491	  9e-70
+447-  1:	atr_94520406	SEGI_34462	 4e-104
+447-  2:	atr_94523168	SEGI_14579	 1e-145
+447-  3:	atr_94524100	SEGI_19976	  1e-29
+447-  4:	atr_94524189	SEGI_19717	  8e-41
+447-  5:	atr_94523991	SEGI_29927	 2e-121
+## Alignment 448: score=152.0 e_value=4.7e-05 N=4 Atr_9&seq_chr9 plus
+448-  0:	atr_94524712	SEGI_19228	  2e-76
+448-  1:	atr_94522904	SEGI_06652	 4e-217
+448-  2:	atr_94522608	SEGI_17888	  1e-70
+448-  3:	atr_94521138	SEGI_16039	 1e-170
+## Alignment 449: score=246.0 e_value=8.7e-13 N=7 Atr_9&seq_chr9 minus
+449-  0:	atr_94522588	SEGI_28413	  1e-75
+449-  1:	atr_94520839	SEGI_07069	  2e-96
+449-  2:	atr_94520715	SEGI_25574	  1e-63
+449-  3:	atr_94523100	SEGI_16251	  2e-05
+449-  4:	atr_94522326	SEGI_13138	  1e-88
+449-  5:	atr_94522355	SEGI_27803	  5e-65
+449-  6:	atr_94521138	SEGI_16039	 1e-170
+## Alignment 450: score=237.0 e_value=3.6e-12 N=7 Atr_9&seq_chr9 minus
+450-  0:	atr_94524074	SEGI_09680	      0
+450-  1:	atr_94520549	SEGI_27997	  2e-27
+450-  2:	atr_94521804	SEGI_25790	 5e-186
+450-  3:	atr_94525032	SEGI_34771	 2e-158
+450-  4:	atr_94522387	SEGI_26708	  9e-66
+450-  5:	atr_94522340	SEGI_32757	 9e-126
+450-  6:	atr_94523088	SEGI_39865	 2e-139

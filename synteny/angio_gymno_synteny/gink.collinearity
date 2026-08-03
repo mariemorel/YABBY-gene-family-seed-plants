@@ -1,0 +1,2924 @@
+############### Parameters ###############
+# MATCH_SCORE: 50
+# GAP_PENALTY: -1
+# MATCH_SIZE: 3
+# OVERLAP_WINDOW: 5
+# E_VALUE: 0.001
+# MAX GAPS: 55
+############### Statistics ###############
+# Number of collinear genes: 4152, Percentage: 14.92
+# Number of all genes: 27836
+##########################################
+## Alignment 0: score=420.0 e_value=3.2e-24 N=11 gin_chr1&gin_chr1 plus
+  0-  0:	evm_model_chr1_772	evm_model_chr1_1834	  1e-37
+  0-  1:	evm_model_chr1_779	evm_model_chr1_1845	 2e-145
+  0-  2:	evm_model_chr1_787	evm_model_chr1_1849	  4e-44
+  0-  3:	evm_model_chr1_804	evm_model_chr1_1860	 7e-215
+  0-  4:	evm_model_chr1_808	evm_model_chr1_1869	 3e-108
+  0-  5:	evm_model_chr1_823	evm_model_chr1_1887	  1e-11
+  0-  6:	evm_model_chr1_825	evm_model_chr1_1890	  8e-43
+  0-  7:	evm_model_chr1_851	evm_model_chr1_1910	 7e-200
+  0-  8:	evm_model_chr1_884	evm_model_chr1_1927	 3e-187
+  0-  9:	evm_model_chr1_894	evm_model_chr1_1930	  1e-71
+  0- 10:	evm_model_chr1_895	evm_model_chr1_1935	  3e-44
+## Alignment 1: score=160.0 e_value=3e-10 N=6 gin_chr1&gin_chr1 plus
+  1-  0:	evm_model_chr1_985	evm_model_chr1_1987	  2e-21
+  1-  1:	evm_model_chr1_988	evm_model_chr1_1991	      0
+  1-  2:	evm_model_chr1_1038	evm_model_chr1_2044	 1e-141
+  1-  3:	evm_model_chr1_1079	evm_model_chr1_2063	  2e-17
+  1-  4:	evm_model_chr1_1080	evm_model_chr1_2066	 9e-146
+  1-  5:	evm_model_chr1_1099	evm_model_chr1_2110	 3e-175
+## Alignment 2: score=153.0 e_value=3.5e-09 N=6 gin_chr1&gin_chr1 plus
+  2-  0:	evm_model_chr1_758	evm_model_chr1_1836	  1e-67
+  2-  1:	evm_model_chr1_785	evm_model_chr1_1851	 4e-105
+  2-  2:	evm_model_chr1_815	evm_model_chr1_1855	  4e-80
+  2-  3:	evm_model_chr1_858	evm_model_chr1_1886	  7e-84
+  2-  4:	evm_model_chr1_905	evm_model_chr1_1901	  4e-16
+  2-  5:	evm_model_chr1_910	evm_model_chr1_1903	  8e-78
+## Alignment 3: score=251.0 e_value=2.8e-10 N=7 gin_chr1&gin_chr1 minus
+  3-  0:	evm_model_chr1_918	evm_model_chr1_2016	 4e-186
+  3-  1:	evm_model_chr1_927	evm_model_chr1_2011	 3e-270
+  3-  2:	evm_model_chr1_942	evm_model_chr1_2007	  4e-64
+  3-  3:	evm_model_chr1_958	evm_model_chr1_2001	 7e-102
+  3-  4:	evm_model_chr1_987	evm_model_chr1_1992	      0
+  3-  5:	evm_model_chr1_1011	evm_model_chr1_1979	 2e-142
+  3-  6:	evm_model_chr1_1021	evm_model_chr1_1967	 6e-153
+## Alignment 4: score=220.0 e_value=1.8e-06 N=5 gin_chr1&gin_chr1 minus
+  4-  0:	evm_model_chr1_1863	evm_model_chr1_3070	 4e-136
+  4-  1:	evm_model_chr1_1866	evm_model_chr1_3060	  3e-30
+  4-  2:	evm_model_chr1_1870	evm_model_chr1_3059	 1e-306
+  4-  3:	evm_model_chr1_1883	evm_model_chr1_3052	 5e-202
+  4-  4:	evm_model_chr1_1885	evm_model_chr1_3045	 8e-248
+## Alignment 5: score=218.0 e_value=1.5e-07 N=5 gin_chr1&gin_chr1 minus
+  5-  0:	evm_model_chr1_825	evm_model_chr1_3050	  3e-21
+  5-  1:	evm_model_chr1_826	evm_model_chr1_3046	  2e-92
+  5-  2:	evm_model_chr1_832	evm_model_chr1_3034	 1e-166
+  5-  3:	evm_model_chr1_850	evm_model_chr1_3016	 8e-172
+  5-  4:	evm_model_chr1_852	evm_model_chr1_3015	  7e-49
+## Alignment 6: score=204.0 e_value=8.4e-06 N=5 gin_chr1&gin_chr1 minus
+  6-  0:	evm_model_chr1_810	evm_model_chr1_1980	  2e-12
+  6-  1:	evm_model_chr1_842	evm_model_chr1_1960	      0
+  6-  2:	evm_model_chr1_850	evm_model_chr1_1952	  8e-96
+  6-  3:	evm_model_chr1_852	evm_model_chr1_1949	  3e-47
+  6-  4:	evm_model_chr1_859	evm_model_chr1_1943	 3e-115
+## Alignment 7: score=323.0 e_value=4.6e-22 N=10 gin_chr1&gin_chr10 plus
+  7-  0:	evm_model_chr1_2903	evm_model_chr10_1346	 2e-240
+  7-  1:	evm_model_chr1_2933	evm_model_chr10_1387	 4e-160
+  7-  2:	evm_model_chr1_2942	evm_model_chr10_1411	  5e-50
+  7-  3:	evm_model_chr1_2945	evm_model_chr10_1417	 4e-196
+  7-  4:	evm_model_chr1_2963	evm_model_chr10_1430	  3e-31
+  7-  5:	evm_model_chr1_2967	evm_model_chr10_1438	 2e-146
+  7-  6:	evm_model_chr1_2978	evm_model_chr10_1468	 3e-106
+  7-  7:	evm_model_chr1_2992	evm_model_chr10_1519	 4e-116
+  7-  8:	evm_model_chr1_2993	evm_model_chr10_1520	 1e-183
+  7-  9:	evm_model_chr1_2997	evm_model_chr10_1525	 6e-175
+## Alignment 8: score=278.0 e_value=7.5e-12 N=7 gin_chr1&gin_chr10 plus
+  8-  0:	evm_model_chr1_621	evm_model_chr10_142	 3e-109
+  8-  1:	evm_model_chr1_629	evm_model_chr10_143	 5e-120
+  8-  2:	evm_model_chr1_632	evm_model_chr10_158	 6e-208
+  8-  3:	evm_model_chr1_636	evm_model_chr10_187	  3e-19
+  8-  4:	evm_model_chr1_638	evm_model_chr10_193	 1e-301
+  8-  5:	evm_model_chr1_645	evm_model_chr10_208	  2e-33
+  8-  6:	evm_model_chr1_647	evm_model_chr10_213	 2e-217
+## Alignment 9: score=199.0 e_value=3.2e-12 N=7 gin_chr1&gin_chr10 plus
+  9-  0:	evm_model_chr1_2021	evm_model_chr10_13	 3e-190
+  9-  1:	evm_model_chr1_2024	evm_model_chr10_18	      0
+  9-  2:	evm_model_chr1_2045	evm_model_chr10_19	      0
+  9-  3:	evm_model_chr1_2054	evm_model_chr10_42	 9e-264
+  9-  4:	evm_model_chr1_2058	evm_model_chr10_98	  1e-42
+  9-  5:	evm_model_chr1_2090	evm_model_chr10_107	  5e-73
+  9-  6:	evm_model_chr1_2110	evm_model_chr10_121	 2e-172
+## Alignment 10: score=192.0 e_value=1.2e-05 N=5 gin_chr1&gin_chr10 plus
+ 10-  0:	evm_model_chr1_616	evm_model_chr10_146	  3e-67
+ 10-  1:	evm_model_chr1_629	evm_model_chr10_175	 3e-196
+ 10-  2:	evm_model_chr1_634	evm_model_chr10_191	 3e-201
+ 10-  3:	evm_model_chr1_637	evm_model_chr10_198	 6e-118
+ 10-  4:	evm_model_chr1_647	evm_model_chr10_207	      0
+## Alignment 11: score=182.0 e_value=6.4e-07 N=4 gin_chr1&gin_chr10 plus
+ 11-  0:	evm_model_chr1_1789	evm_model_chr10_1255	      0
+ 11-  1:	evm_model_chr1_1790	evm_model_chr10_1257	  7e-48
+ 11-  2:	evm_model_chr1_1792	evm_model_chr10_1275	  2e-76
+ 11-  3:	evm_model_chr1_1793	evm_model_chr10_1276	  7e-77
+## Alignment 12: score=200.0 e_value=1.1e-05 N=5 gin_chr1&gin_chr10 minus
+ 12-  0:	evm_model_chr1_1688	evm_model_chr10_1827	  3e-20
+ 12-  1:	evm_model_chr1_1696	evm_model_chr10_1817	  3e-08
+ 12-  2:	evm_model_chr1_1708	evm_model_chr10_1809	 7e-145
+ 12-  3:	evm_model_chr1_1722	evm_model_chr10_1805	 2e-107
+ 12-  4:	evm_model_chr1_1740	evm_model_chr10_1790	 5e-148
+## Alignment 13: score=198.0 e_value=2.3e-12 N=7 gin_chr1&gin_chr10 minus
+ 13-  0:	evm_model_chr1_1918	evm_model_chr10_98	  6e-64
+ 13-  1:	evm_model_chr1_1948	evm_model_chr10_86	  1e-18
+ 13-  2:	evm_model_chr1_1952	evm_model_chr10_84	  8e-93
+ 13-  3:	evm_model_chr1_1984	evm_model_chr10_57	      0
+ 13-  4:	evm_model_chr1_2026	evm_model_chr10_49	  1e-12
+ 13-  5:	evm_model_chr1_2069	evm_model_chr10_41	  6e-60
+ 13-  6:	evm_model_chr1_2070	evm_model_chr10_34	 3e-162
+## Alignment 14: score=187.0 e_value=4.7e-05 N=4 gin_chr1&gin_chr10 minus
+ 14-  0:	evm_model_chr1_3004	evm_model_chr10_96	 2e-114
+ 14-  1:	evm_model_chr1_3016	evm_model_chr10_84	 7e-124
+ 14-  2:	evm_model_chr1_3018	evm_model_chr10_83	  8e-29
+ 14-  3:	evm_model_chr1_3020	evm_model_chr10_82	 3e-228
+## Alignment 15: score=157.0 e_value=0.00026 N=4 gin_chr1&gin_chr10 minus
+ 15-  0:	evm_model_chr1_2854	evm_model_chr10_1880	 1e-124
+ 15-  1:	evm_model_chr1_2856	evm_model_chr10_1871	 2e-216
+ 15-  2:	evm_model_chr1_2877	evm_model_chr10_1845	  2e-40
+ 15-  3:	evm_model_chr1_2878	evm_model_chr10_1834	  5e-43
+## Alignment 16: score=297.0 e_value=3.1e-11 N=7 gin_chr1&gin_chr11 plus
+ 16-  0:	evm_model_chr1_86	evm_model_chr11_1773	 2e-215
+ 16-  1:	evm_model_chr1_96	evm_model_chr11_1776	 5e-147
+ 16-  2:	evm_model_chr1_113	evm_model_chr11_1783	 6e-106
+ 16-  3:	evm_model_chr1_124	evm_model_chr11_1792	  1e-48
+ 16-  4:	evm_model_chr1_131	evm_model_chr11_1797	 3e-134
+ 16-  5:	evm_model_chr1_141	evm_model_chr11_1807	 4e-118
+ 16-  6:	evm_model_chr1_145	evm_model_chr11_1808	  2e-34
+## Alignment 17: score=234.0 e_value=1.1e-06 N=5 gin_chr1&gin_chr11 plus
+ 17-  0:	evm_model_chr1_507	evm_model_chr11_1546	  4e-55
+ 17-  1:	evm_model_chr1_509	evm_model_chr11_1547	  2e-74
+ 17-  2:	evm_model_chr1_510	evm_model_chr11_1552	  1e-18
+ 17-  3:	evm_model_chr1_511	evm_model_chr11_1556	  9e-14
+ 17-  4:	evm_model_chr1_520	evm_model_chr11_1562	  2e-52
+## Alignment 18: score=169.0 e_value=0.00027 N=4 gin_chr1&gin_chr11 plus
+ 18-  0:	evm_model_chr1_552	evm_model_chr11_1447	  4e-16
+ 18-  1:	evm_model_chr1_568	evm_model_chr11_1458	 2e-231
+ 18-  2:	evm_model_chr1_570	evm_model_chr11_1461	  7e-60
+ 18-  3:	evm_model_chr1_585	evm_model_chr11_1469	 6e-167
+## Alignment 19: score=365.0 e_value=2.5e-22 N=10 gin_chr1&gin_chr11 minus
+ 19-  0:	evm_model_chr1_426	evm_model_chr11_1606	  4e-15
+ 19-  1:	evm_model_chr1_434	evm_model_chr11_1605	  1e-34
+ 19-  2:	evm_model_chr1_441	evm_model_chr11_1602	  9e-97
+ 19-  3:	evm_model_chr1_457	evm_model_chr11_1596	  2e-40
+ 19-  4:	evm_model_chr1_467	evm_model_chr11_1590	  1e-65
+ 19-  5:	evm_model_chr1_468	evm_model_chr11_1588	  2e-49
+ 19-  6:	evm_model_chr1_494	evm_model_chr11_1586	      0
+ 19-  7:	evm_model_chr1_511	evm_model_chr11_1556	  9e-14
+ 19-  8:	evm_model_chr1_513	evm_model_chr11_1551	  3e-17
+ 19-  9:	evm_model_chr1_553	evm_model_chr11_1528	 1e-252
+## Alignment 20: score=276.0 e_value=1.5e-11 N=7 gin_chr1&gin_chr11 minus
+ 20-  0:	evm_model_chr1_195	evm_model_chr11_1790	  9e-26
+ 20-  1:	evm_model_chr1_209	evm_model_chr11_1777	 3e-123
+ 20-  2:	evm_model_chr1_222	evm_model_chr11_1769	 1e-148
+ 20-  3:	evm_model_chr1_225	evm_model_chr11_1766	  1e-30
+ 20-  4:	evm_model_chr1_235	evm_model_chr11_1762	  8e-66
+ 20-  5:	evm_model_chr1_245	evm_model_chr11_1726	  6e-11
+ 20-  6:	evm_model_chr1_249	evm_model_chr11_1722	  3e-92
+## Alignment 21: score=236.0 e_value=2.5e-13 N=8 gin_chr1&gin_chr11 minus
+ 21-  0:	evm_model_chr1_552	evm_model_chr11_1485	  4e-42
+ 21-  1:	evm_model_chr1_585	evm_model_chr11_1469	 6e-167
+ 21-  2:	evm_model_chr1_634	evm_model_chr11_1451	 4e-117
+ 21-  3:	evm_model_chr1_642	evm_model_chr11_1430	  3e-32
+ 21-  4:	evm_model_chr1_645	evm_model_chr11_1429	  8e-36
+ 21-  5:	evm_model_chr1_651	evm_model_chr11_1426	 2e-104
+ 21-  6:	evm_model_chr1_686	evm_model_chr11_1399	  1e-89
+ 21-  7:	evm_model_chr1_710	evm_model_chr11_1385	  5e-24
+## Alignment 22: score=224.0 e_value=2.4e-12 N=7 gin_chr1&gin_chr11 minus
+ 22-  0:	evm_model_chr1_2221	evm_model_chr11_1418	  3e-73
+ 22-  1:	evm_model_chr1_2245	evm_model_chr11_1385	  3e-24
+ 22-  2:	evm_model_chr1_2286	evm_model_chr11_1353	  3e-20
+ 22-  3:	evm_model_chr1_2315	evm_model_chr11_1346	  1e-64
+ 22-  4:	evm_model_chr1_2330	evm_model_chr11_1343	 3e-219
+ 22-  5:	evm_model_chr1_2334	evm_model_chr11_1333	  2e-96
+ 22-  6:	evm_model_chr1_2337	evm_model_chr11_1329	 4e-223
+## Alignment 23: score=378.0 e_value=9.3e-17 N=8 gin_chr1&gin_chr12 plus
+ 23-  0:	evm_model_chr1_1433	evm_model_chr12_8	  7e-15
+ 23-  1:	evm_model_chr1_1444	evm_model_chr12_14	  4e-37
+ 23-  2:	evm_model_chr1_1446	evm_model_chr12_15	  5e-69
+ 23-  3:	evm_model_chr1_1447	evm_model_chr12_20	  5e-66
+ 23-  4:	evm_model_chr1_1448	evm_model_chr12_21	 7e-222
+ 23-  5:	evm_model_chr1_1454	evm_model_chr12_27	  2e-15
+ 23-  6:	evm_model_chr1_1456	evm_model_chr12_28	  7e-76
+ 23-  7:	evm_model_chr1_1458	evm_model_chr12_29	 1e-196
+## Alignment 24: score=156.0 e_value=3.5e-07 N=5 gin_chr1&gin_chr12 plus
+ 24-  0:	evm_model_chr1_2916	evm_model_chr12_1363	  4e-50
+ 24-  1:	evm_model_chr1_2941	evm_model_chr12_1374	      0
+ 24-  2:	evm_model_chr1_2974	evm_model_chr12_1381	  1e-80
+ 24-  3:	evm_model_chr1_2976	evm_model_chr12_1382	  1e-47
+ 24-  4:	evm_model_chr1_3014	evm_model_chr12_1394	  3e-99
+## Alignment 25: score=237.0 e_value=1.4e-13 N=7 gin_chr1&gin_chr12 minus
+ 25-  0:	evm_model_chr1_3173	evm_model_chr12_1661	  3e-77
+ 25-  1:	evm_model_chr1_3174	evm_model_chr12_1659	  7e-53
+ 25-  2:	evm_model_chr1_3185	evm_model_chr12_1649	  2e-35
+ 25-  3:	evm_model_chr1_3230	evm_model_chr12_1607	 4e-114
+ 25-  4:	evm_model_chr1_3233	evm_model_chr12_1606	  6e-26
+ 25-  5:	evm_model_chr1_3242	evm_model_chr12_1585	  2e-53
+ 25-  6:	evm_model_chr1_3268	evm_model_chr12_1548	  1e-17
+## Alignment 26: score=155.0 e_value=1.9e-06 N=4 gin_chr1&gin_chr12 minus
+ 26-  0:	evm_model_chr1_2895	evm_model_chr12_326	  2e-51
+ 26-  1:	evm_model_chr1_2906	evm_model_chr12_322	  1e-06
+ 26-  2:	evm_model_chr1_2907	evm_model_chr12_320	  2e-63
+ 26-  3:	evm_model_chr1_2942	evm_model_chr12_304	  3e-18
+## Alignment 27: score=516.0 e_value=2.2e-33 N=14 gin_chr1&gin_chr2 plus
+ 27-  0:	evm_model_chr1_1228	evm_model_chr2_320	  9e-61
+ 27-  1:	evm_model_chr1_1234	evm_model_chr2_328	  2e-37
+ 27-  2:	evm_model_chr1_1241	evm_model_chr2_330	 1e-184
+ 27-  3:	evm_model_chr1_1245	evm_model_chr2_331	 9e-269
+ 27-  4:	evm_model_chr1_1248	evm_model_chr2_339	 2e-197
+ 27-  5:	evm_model_chr1_1255	evm_model_chr2_347	 1e-265
+ 27-  6:	evm_model_chr1_1260	evm_model_chr2_354	 2e-126
+ 27-  7:	evm_model_chr1_1264	evm_model_chr2_359	 4e-106
+ 27-  8:	evm_model_chr1_1280	evm_model_chr2_405	 1e-236
+ 27-  9:	evm_model_chr1_1285	evm_model_chr2_445	  6e-10
+ 27- 10:	evm_model_chr1_1305	evm_model_chr2_463	 1e-252
+ 27- 11:	evm_model_chr1_1308	evm_model_chr2_485	  3e-64
+ 27- 12:	evm_model_chr1_1315	evm_model_chr2_488	  7e-77
+ 27- 13:	evm_model_chr1_1330	evm_model_chr2_497	 3e-102
+## Alignment 28: score=334.0 e_value=2.5e-18 N=9 gin_chr1&gin_chr2 plus
+ 28-  0:	evm_model_chr1_40	evm_model_chr2_1525	  5e-38
+ 28-  1:	evm_model_chr1_83	evm_model_chr2_1526	 5e-171
+ 28-  2:	evm_model_chr1_96	evm_model_chr2_1527	 3e-213
+ 28-  3:	evm_model_chr1_113	evm_model_chr2_1533	 5e-101
+ 28-  4:	evm_model_chr1_135	evm_model_chr2_1553	      0
+ 28-  5:	evm_model_chr1_141	evm_model_chr2_1559	 3e-120
+ 28-  6:	evm_model_chr1_153	evm_model_chr2_1562	 3e-105
+ 28-  7:	evm_model_chr1_154	evm_model_chr2_1564	  6e-93
+ 28-  8:	evm_model_chr1_158	evm_model_chr2_1573	  7e-62
+## Alignment 29: score=301.0 e_value=4.8e-14 N=7 gin_chr1&gin_chr2 plus
+ 29-  0:	evm_model_chr1_1351	evm_model_chr2_2186	  3e-61
+ 29-  1:	evm_model_chr1_1355	evm_model_chr2_2197	 5e-305
+ 29-  2:	evm_model_chr1_1356	evm_model_chr2_2198	 9e-118
+ 29-  3:	evm_model_chr1_1386	evm_model_chr2_2203	 9e-210
+ 29-  4:	evm_model_chr1_1391	evm_model_chr2_2207	  7e-34
+ 29-  5:	evm_model_chr1_1394	evm_model_chr2_2211	 9e-163
+ 29-  6:	evm_model_chr1_1396	evm_model_chr2_2215	  2e-55
+## Alignment 30: score=225.0 e_value=2.9e-07 N=5 gin_chr1&gin_chr2 plus
+ 30-  0:	evm_model_chr1_1308	evm_model_chr2_974	  7e-80
+ 30-  1:	evm_model_chr1_1312	evm_model_chr2_978	 1e-184
+ 30-  2:	evm_model_chr1_1315	evm_model_chr2_982	  4e-61
+ 30-  3:	evm_model_chr1_1316	evm_model_chr2_983	  6e-65
+ 30-  4:	evm_model_chr1_1326	evm_model_chr2_1003	 1e-152
+## Alignment 31: score=217.0 e_value=9.6e-07 N=5 gin_chr1&gin_chr2 plus
+ 31-  0:	evm_model_chr1_385	evm_model_chr2_2005	  2e-71
+ 31-  1:	evm_model_chr1_391	evm_model_chr2_2009	 8e-143
+ 31-  2:	evm_model_chr1_397	evm_model_chr2_2011	 1e-265
+ 31-  3:	evm_model_chr1_411	evm_model_chr2_2034	 5e-141
+ 31-  4:	evm_model_chr1_413	evm_model_chr2_2035	  1e-38
+## Alignment 32: score=181.0 e_value=0.00023 N=4 gin_chr1&gin_chr2 plus
+ 32-  0:	evm_model_chr1_1778	evm_model_chr2_1332	 4e-102
+ 32-  1:	evm_model_chr1_1789	evm_model_chr2_1335	      0
+ 32-  2:	evm_model_chr1_1791	evm_model_chr2_1343	  3e-44
+ 32-  3:	evm_model_chr1_1792	evm_model_chr2_1346	  5e-46
+## Alignment 33: score=171.0 e_value=0.00013 N=4 gin_chr1&gin_chr2 plus
+ 33-  0:	evm_model_chr1_1774	evm_model_chr2_642	 1e-256
+ 33-  1:	evm_model_chr1_1775	evm_model_chr2_643	  3e-50
+ 33-  2:	evm_model_chr1_1788	evm_model_chr2_655	  2e-35
+ 33-  3:	evm_model_chr1_1802	evm_model_chr2_673	  3e-67
+## Alignment 34: score=215.0 e_value=2.7e-07 N=5 gin_chr1&gin_chr2 minus
+ 34-  0:	evm_model_chr1_1599	evm_model_chr2_300	  6e-55
+ 34-  1:	evm_model_chr1_1607	evm_model_chr2_298	  2e-47
+ 34-  2:	evm_model_chr1_1616	evm_model_chr2_293	  2e-43
+ 34-  3:	evm_model_chr1_1617	evm_model_chr2_290	 2e-249
+ 34-  4:	evm_model_chr1_1635	evm_model_chr2_271	 9e-161
+## Alignment 35: score=153.0 e_value=0.00016 N=4 gin_chr1&gin_chr2 minus
+ 35-  0:	evm_model_chr1_1759	evm_model_chr2_705	  2e-80
+ 35-  1:	evm_model_chr1_1761	evm_model_chr2_704	 3e-123
+ 35-  2:	evm_model_chr1_1779	evm_model_chr2_676	 2e-149
+ 35-  3:	evm_model_chr1_1784	evm_model_chr2_656	  2e-31
+## Alignment 36: score=343.0 e_value=4.6e-21 N=10 gin_chr1&gin_chr3 plus
+ 36-  0:	evm_model_chr1_1263	evm_model_chr3_372	 1e-113
+ 36-  1:	evm_model_chr1_1270	evm_model_chr3_382	 1e-313
+ 36-  2:	evm_model_chr1_1278	evm_model_chr3_390	 3e-126
+ 36-  3:	evm_model_chr1_1303	evm_model_chr3_405	  3e-42
+ 36-  4:	evm_model_chr1_1304	evm_model_chr3_435	  1e-61
+ 36-  5:	evm_model_chr1_1307	evm_model_chr3_442	  3e-87
+ 36-  6:	evm_model_chr1_1312	evm_model_chr3_443	 3e-189
+ 36-  7:	evm_model_chr1_1315	evm_model_chr3_445	  8e-84
+ 36-  8:	evm_model_chr1_1332	evm_model_chr3_475	  3e-99
+ 36-  9:	evm_model_chr1_1344	evm_model_chr3_523	 0.0004
+## Alignment 37: score=155.0 e_value=0.00098 N=4 gin_chr1&gin_chr3 plus
+ 37-  0:	evm_model_chr1_1490	evm_model_chr3_1364	  1e-45
+ 37-  1:	evm_model_chr1_1497	evm_model_chr3_1373	  6e-32
+ 37-  2:	evm_model_chr1_1514	evm_model_chr3_1397	  1e-69
+ 37-  3:	evm_model_chr1_1518	evm_model_chr3_1412	  5e-42
+## Alignment 38: score=155.0 e_value=5.9e-08 N=5 gin_chr1&gin_chr3 plus
+ 38-  0:	evm_model_chr1_163	evm_model_chr3_1118	 3e-221
+ 38-  1:	evm_model_chr1_205	evm_model_chr3_1125	  3e-52
+ 38-  2:	evm_model_chr1_255	evm_model_chr3_1153	 3e-242
+ 38-  3:	evm_model_chr1_256	evm_model_chr3_1157	 2e-131
+ 38-  4:	evm_model_chr1_258	evm_model_chr3_1160	  3e-24
+## Alignment 39: score=153.0 e_value=4.7e-08 N=5 gin_chr1&gin_chr3 plus
+ 39-  0:	evm_model_chr1_1262	evm_model_chr3_2299	  3e-13
+ 39-  1:	evm_model_chr1_1272	evm_model_chr3_2306	  8e-53
+ 39-  2:	evm_model_chr1_1323	evm_model_chr3_2356	 6e-270
+ 39-  3:	evm_model_chr1_1329	evm_model_chr3_2357	 6e-115
+ 39-  4:	evm_model_chr1_1335	evm_model_chr3_2391	  9e-42
+## Alignment 40: score=240.0 e_value=2.6e-14 N=8 gin_chr1&gin_chr3 minus
+ 40-  0:	evm_model_chr1_1176	evm_model_chr3_2407	  2e-13
+ 40-  1:	evm_model_chr1_1220	evm_model_chr3_2357	 4e-116
+ 40-  2:	evm_model_chr1_1232	evm_model_chr3_2329	 7e-101
+ 40-  3:	evm_model_chr1_1259	evm_model_chr3_2319	 2e-290
+ 40-  4:	evm_model_chr1_1263	evm_model_chr3_2311	 3e-123
+ 40-  5:	evm_model_chr1_1272	evm_model_chr3_2306	  8e-53
+ 40-  6:	evm_model_chr1_1311	evm_model_chr3_2282	  3e-60
+ 40-  7:	evm_model_chr1_1317	evm_model_chr3_2280	 4e-220
+## Alignment 41: score=179.0 e_value=1.2e-06 N=5 gin_chr1&gin_chr3 minus
+ 41-  0:	evm_model_chr1_1224	evm_model_chr3_1091	  8e-23
+ 41-  1:	evm_model_chr1_1244	evm_model_chr3_1090	  9e-11
+ 41-  2:	evm_model_chr1_1248	evm_model_chr3_1083	 2e-202
+ 41-  3:	evm_model_chr1_1256	evm_model_chr3_1076	 1e-165
+ 41-  4:	evm_model_chr1_1264	evm_model_chr3_1036	  8e-17
+## Alignment 42: score=258.0 e_value=5.4e-11 N=6 gin_chr1&gin_chr4 plus
+ 42-  0:	evm_model_chr1_2855	evm_model_chr4_2246	  7e-14
+ 42-  1:	evm_model_chr1_2856	evm_model_chr4_2267	 2e-216
+ 42-  2:	evm_model_chr1_2859	evm_model_chr4_2268	 7e-134
+ 42-  3:	evm_model_chr1_2877	evm_model_chr4_2271	  2e-49
+ 42-  4:	evm_model_chr1_2878	evm_model_chr4_2273	  2e-38
+ 42-  5:	evm_model_chr1_2879	evm_model_chr4_2276	  3e-48
+## Alignment 43: score=464.0 e_value=8.3e-30 N=12 gin_chr1&gin_chr4 minus
+ 43-  0:	evm_model_chr1_717	evm_model_chr4_1125	  4e-34
+ 43-  1:	evm_model_chr1_719	evm_model_chr4_1117	  3e-96
+ 43-  2:	evm_model_chr1_720	evm_model_chr4_1116	  1e-52
+ 43-  3:	evm_model_chr1_722	evm_model_chr4_1115	 2e-202
+ 43-  4:	evm_model_chr1_724	evm_model_chr4_1114	 5e-211
+ 43-  5:	evm_model_chr1_745	evm_model_chr4_1103	  4e-05
+ 43-  6:	evm_model_chr1_748	evm_model_chr4_1095	 2e-182
+ 43-  7:	evm_model_chr1_758	evm_model_chr4_1065	  2e-64
+ 43-  8:	evm_model_chr1_798	evm_model_chr4_1018	 7e-164
+ 43-  9:	evm_model_chr1_809	evm_model_chr4_1013	  4e-59
+ 43- 10:	evm_model_chr1_813	evm_model_chr4_1009	  4e-72
+ 43- 11:	evm_model_chr1_826	evm_model_chr4_996	  5e-86
+## Alignment 44: score=348.0 e_value=4.6e-16 N=8 gin_chr1&gin_chr4 minus
+ 44-  0:	evm_model_chr1_1692	evm_model_chr4_2171	 1e-169
+ 44-  1:	evm_model_chr1_1693	evm_model_chr4_2170	 1e-139
+ 44-  2:	evm_model_chr1_1708	evm_model_chr4_2161	 7e-155
+ 44-  3:	evm_model_chr1_1722	evm_model_chr4_2140	 8e-116
+ 44-  4:	evm_model_chr1_1723	evm_model_chr4_2139	 8e-113
+ 44-  5:	evm_model_chr1_1731	evm_model_chr4_2134	 2e-140
+ 44-  6:	evm_model_chr1_1735	evm_model_chr4_2132	  2e-47
+ 44-  7:	evm_model_chr1_1739	evm_model_chr4_2123	 5e-201
+## Alignment 45: score=291.0 e_value=1.1e-14 N=8 gin_chr1&gin_chr4 minus
+ 45-  0:	evm_model_chr1_1826	evm_model_chr4_1101	  3e-82
+ 45-  1:	evm_model_chr1_1833	evm_model_chr4_1093	  3e-59
+ 45-  2:	evm_model_chr1_1839	evm_model_chr4_1066	 2e-112
+ 45-  3:	evm_model_chr1_1855	evm_model_chr4_1018	  1e-79
+ 45-  4:	evm_model_chr1_1861	evm_model_chr4_1015	  1e-40
+ 45-  5:	evm_model_chr1_1869	evm_model_chr4_1012	  6e-23
+ 45-  6:	evm_model_chr1_1870	evm_model_chr4_1008	 1e-298
+ 45-  7:	evm_model_chr1_1885	evm_model_chr4_999	  1e-24
+## Alignment 46: score=189.0 e_value=1.5e-06 N=5 gin_chr1&gin_chr4 minus
+ 46-  0:	evm_model_chr1_1385	evm_model_chr4_1683	  1e-90
+ 46-  1:	evm_model_chr1_1390	evm_model_chr4_1676	  8e-72
+ 46-  2:	evm_model_chr1_1392	evm_model_chr4_1660	 3e-192
+ 46-  3:	evm_model_chr1_1400	evm_model_chr4_1655	  7e-62
+ 46-  4:	evm_model_chr1_1429	evm_model_chr4_1621	  2e-43
+## Alignment 47: score=162.0 e_value=0.00016 N=4 gin_chr1&gin_chr4 minus
+ 47-  0:	evm_model_chr1_526	evm_model_chr4_1197	  1e-54
+ 47-  1:	evm_model_chr1_527	evm_model_chr4_1192	  7e-55
+ 47-  2:	evm_model_chr1_560	evm_model_chr4_1188	 9e-173
+ 47-  3:	evm_model_chr1_561	evm_model_chr4_1185	 3e-280
+## Alignment 48: score=151.0 e_value=0.00032 N=4 gin_chr1&gin_chr4 minus
+ 48-  0:	evm_model_chr1_1497	evm_model_chr4_650	  4e-18
+ 48-  1:	evm_model_chr1_1499	evm_model_chr4_640	 7e-258
+ 48-  2:	evm_model_chr1_1514	evm_model_chr4_605	 6e-105
+ 48-  3:	evm_model_chr1_1518	evm_model_chr4_598	  3e-38
+## Alignment 49: score=207.0 e_value=2.1e-07 N=5 gin_chr1&gin_chr5 plus
+ 49-  0:	evm_model_chr1_247	evm_model_chr5_1117	 2e-136
+ 49-  1:	evm_model_chr1_250	evm_model_chr5_1123	  6e-48
+ 49-  2:	evm_model_chr1_251	evm_model_chr5_1124	 7e-225
+ 49-  3:	evm_model_chr1_258	evm_model_chr5_1126	  5e-19
+ 49-  4:	evm_model_chr1_272	evm_model_chr5_1159	      0
+## Alignment 50: score=202.0 e_value=2e-06 N=5 gin_chr1&gin_chr5 plus
+ 50-  0:	evm_model_chr1_843	evm_model_chr5_469	  3e-47
+ 50-  1:	evm_model_chr1_858	evm_model_chr5_482	 2e-252
+ 50-  2:	evm_model_chr1_869	evm_model_chr5_490	  1e-59
+ 50-  3:	evm_model_chr1_886	evm_model_chr5_497	  6e-98
+ 50-  4:	evm_model_chr1_895	evm_model_chr5_500	  2e-16
+## Alignment 51: score=175.0 e_value=0.00017 N=4 gin_chr1&gin_chr5 plus
+ 51-  0:	evm_model_chr1_284	evm_model_chr5_1027	  2e-45
+ 51-  1:	evm_model_chr1_286	evm_model_chr5_1032	 6e-238
+ 51-  2:	evm_model_chr1_295	evm_model_chr5_1033	  3e-07
+ 51-  3:	evm_model_chr1_309	evm_model_chr5_1042	  5e-78
+## Alignment 52: score=166.0 e_value=1.4e-10 N=6 gin_chr1&gin_chr5 plus
+ 52-  0:	evm_model_chr1_621	evm_model_chr5_881	 1e-125
+ 52-  1:	evm_model_chr1_623	evm_model_chr5_882	  2e-45
+ 52-  2:	evm_model_chr1_629	evm_model_chr5_900	 6e-159
+ 52-  3:	evm_model_chr1_685	evm_model_chr5_904	  3e-05
+ 52-  4:	evm_model_chr1_701	evm_model_chr5_925	  4e-34
+ 52-  5:	evm_model_chr1_742	evm_model_chr5_967	  3e-77
+## Alignment 53: score=156.0 e_value=0.00049 N=4 gin_chr1&gin_chr5 plus
+ 53-  0:	evm_model_chr1_663	evm_model_chr5_752	  3e-58
+ 53-  1:	evm_model_chr1_671	evm_model_chr5_757	 2e-198
+ 53-  2:	evm_model_chr1_672	evm_model_chr5_766	 1e-122
+ 53-  3:	evm_model_chr1_681	evm_model_chr5_796	  1e-72
+## Alignment 54: score=155.0 e_value=1.4e-05 N=5 gin_chr1&gin_chr5 plus
+ 54-  0:	evm_model_chr1_1855	evm_model_chr5_475	 2e-100
+ 54-  1:	evm_model_chr1_1886	evm_model_chr5_482	  3e-76
+ 54-  2:	evm_model_chr1_1909	evm_model_chr5_488	  2e-14
+ 54-  3:	evm_model_chr1_1935	evm_model_chr5_503	  6e-13
+ 54-  4:	evm_model_chr1_1945	evm_model_chr5_522	 2e-234
+## Alignment 55: score=566.0 e_value=5.6e-38 N=15 gin_chr1&gin_chr5 minus
+ 55-  0:	evm_model_chr1_521	evm_model_chr5_977	  7e-14
+ 55-  1:	evm_model_chr1_548	evm_model_chr5_927	  3e-20
+ 55-  2:	evm_model_chr1_568	evm_model_chr5_908	 3e-243
+ 55-  3:	evm_model_chr1_577	evm_model_chr5_899	  8e-24
+ 55-  4:	evm_model_chr1_585	evm_model_chr5_895	 4e-166
+ 55-  5:	evm_model_chr1_592	evm_model_chr5_890	 6e-130
+ 55-  6:	evm_model_chr1_597	evm_model_chr5_889	 1e-155
+ 55-  7:	evm_model_chr1_607	evm_model_chr5_888	 4e-172
+ 55-  8:	evm_model_chr1_613	evm_model_chr5_883	 4e-195
+ 55-  9:	evm_model_chr1_626	evm_model_chr5_877	 3e-283
+ 55- 10:	evm_model_chr1_637	evm_model_chr5_845	  1e-85
+ 55- 11:	evm_model_chr1_639	evm_model_chr5_843	 2e-103
+ 55- 12:	evm_model_chr1_643	evm_model_chr5_835	  3e-51
+ 55- 13:	evm_model_chr1_645	evm_model_chr5_832	  5e-34
+ 55- 14:	evm_model_chr1_654	evm_model_chr5_807	  1e-30
+## Alignment 56: score=455.0 e_value=6.2e-29 N=12 gin_chr1&gin_chr5 minus
+ 56-  0:	evm_model_chr1_1	evm_model_chr5_671	 3e-212
+ 56-  1:	evm_model_chr1_12	evm_model_chr5_658	 1e-100
+ 56-  2:	evm_model_chr1_14	evm_model_chr5_643	  1e-30
+ 56-  3:	evm_model_chr1_18	evm_model_chr5_620	  2e-08
+ 56-  4:	evm_model_chr1_25	evm_model_chr5_595	 2e-143
+ 56-  5:	evm_model_chr1_28	evm_model_chr5_586	 2e-161
+ 56-  6:	evm_model_chr1_32	evm_model_chr5_576	  1e-29
+ 56-  7:	evm_model_chr1_34	evm_model_chr5_562	 9e-234
+ 56-  8:	evm_model_chr1_35	evm_model_chr5_561	      0
+ 56-  9:	evm_model_chr1_59	evm_model_chr5_532	  8e-28
+ 56- 10:	evm_model_chr1_75	evm_model_chr5_531	  5e-79
+ 56- 11:	evm_model_chr1_76	evm_model_chr5_530	  3e-17
+## Alignment 57: score=189.0 e_value=2.1e-09 N=6 gin_chr1&gin_chr5 minus
+ 57-  0:	evm_model_chr1_548	evm_model_chr5_909	  4e-38
+ 57-  1:	evm_model_chr1_570	evm_model_chr5_898	 2e-125
+ 57-  2:	evm_model_chr1_602	evm_model_chr5_890	 3e-134
+ 57-  3:	evm_model_chr1_606	evm_model_chr5_887	 7e-179
+ 57-  4:	evm_model_chr1_642	evm_model_chr5_834	  2e-16
+ 57-  5:	evm_model_chr1_647	evm_model_chr5_833	      0
+## Alignment 58: score=157.0 e_value=5.7e-08 N=5 gin_chr1&gin_chr5 minus
+ 58-  0:	evm_model_chr1_526	evm_model_chr5_558	  1e-35
+ 58-  1:	evm_model_chr1_568	evm_model_chr5_526	 1e-225
+ 58-  2:	evm_model_chr1_580	evm_model_chr5_523	  2e-46
+ 58-  3:	evm_model_chr1_606	evm_model_chr5_522	 3e-165
+ 58-  4:	evm_model_chr1_623	evm_model_chr5_517	  2e-13
+## Alignment 59: score=155.0 e_value=0.00018 N=4 gin_chr1&gin_chr5 minus
+ 59-  0:	evm_model_chr1_111	evm_model_chr5_957	      0
+ 59-  1:	evm_model_chr1_145	evm_model_chr5_927	  3e-62
+ 59-  2:	evm_model_chr1_152	evm_model_chr5_923	  7e-51
+ 59-  3:	evm_model_chr1_158	evm_model_chr5_916	  3e-62
+## Alignment 60: score=263.0 e_value=6.5e-08 N=6 gin_chr1&gin_chr6 plus
+ 60-  0:	evm_model_chr1_1446	evm_model_chr6_39	  6e-54
+ 60-  1:	evm_model_chr1_1454	evm_model_chr6_46	  1e-36
+ 60-  2:	evm_model_chr1_1464	evm_model_chr6_53	 7e-230
+ 60-  3:	evm_model_chr1_1466	evm_model_chr6_55	  2e-27
+ 60-  4:	evm_model_chr1_1480	evm_model_chr6_59	 6e-168
+ 60-  5:	evm_model_chr1_1488	evm_model_chr6_64	  4e-40
+## Alignment 61: score=228.0 e_value=3.5e-09 N=6 gin_chr1&gin_chr6 plus
+ 61-  0:	evm_model_chr1_359	evm_model_chr6_804	  5e-37
+ 61-  1:	evm_model_chr1_370	evm_model_chr6_811	  7e-97
+ 61-  2:	evm_model_chr1_372	evm_model_chr6_821	  1e-14
+ 61-  3:	evm_model_chr1_393	evm_model_chr6_839	  4e-15
+ 61-  4:	evm_model_chr1_394	evm_model_chr6_850	      0
+ 61-  5:	evm_model_chr1_407	evm_model_chr6_873	      0
+## Alignment 62: score=217.0 e_value=5e-06 N=5 gin_chr1&gin_chr6 plus
+ 62-  0:	evm_model_chr1_3098	evm_model_chr6_772	  3e-63
+ 62-  1:	evm_model_chr1_3107	evm_model_chr6_779	  4e-62
+ 62-  2:	evm_model_chr1_3125	evm_model_chr6_786	 2e-114
+ 62-  3:	evm_model_chr1_3132	evm_model_chr6_790	      0
+ 62-  4:	evm_model_chr1_3133	evm_model_chr6_793	 3e-142
+## Alignment 63: score=150.0 e_value=2.9e-06 N=4 gin_chr1&gin_chr6 plus
+ 63-  0:	evm_model_chr1_3241	evm_model_chr6_704	  4e-65
+ 63-  1:	evm_model_chr1_3243	evm_model_chr6_706	  2e-17
+ 63-  2:	evm_model_chr1_3244	evm_model_chr6_707	  3e-83
+ 63-  3:	evm_model_chr1_3271	evm_model_chr6_757	  6e-48
+## Alignment 64: score=199.0 e_value=7.6e-08 N=5 gin_chr1&gin_chr6 minus
+ 64-  0:	evm_model_chr1_3087	evm_model_chr6_2078	  2e-91
+ 64-  1:	evm_model_chr1_3089	evm_model_chr6_2076	 2e-113
+ 64-  2:	evm_model_chr1_3091	evm_model_chr6_2073	 5e-142
+ 64-  3:	evm_model_chr1_3098	evm_model_chr6_2067	  2e-63
+ 64-  4:	evm_model_chr1_3141	evm_model_chr6_2062	  2e-11
+## Alignment 65: score=192.0 e_value=3.3e-05 N=4 gin_chr1&gin_chr6 minus
+ 65-  0:	evm_model_chr1_417	evm_model_chr6_1966	  4e-29
+ 65-  1:	evm_model_chr1_418	evm_model_chr6_1964	  2e-37
+ 65-  2:	evm_model_chr1_426	evm_model_chr6_1959	  5e-09
+ 65-  3:	evm_model_chr1_427	evm_model_chr6_1958	  1e-09
+## Alignment 66: score=283.0 e_value=5.8e-11 N=7 gin_chr1&gin_chr7 plus
+ 66-  0:	evm_model_chr1_247	evm_model_chr7_888	  4e-99
+ 66-  1:	evm_model_chr1_275	evm_model_chr7_898	  9e-08
+ 66-  2:	evm_model_chr1_277	evm_model_chr7_905	  3e-79
+ 66-  3:	evm_model_chr1_282	evm_model_chr7_910	  9e-75
+ 66-  4:	evm_model_chr1_302	evm_model_chr7_925	 3e-182
+ 66-  5:	evm_model_chr1_305	evm_model_chr7_932	  7e-10
+ 66-  6:	evm_model_chr1_311	evm_model_chr7_938	      0
+## Alignment 67: score=189.0 e_value=4.5e-06 N=5 gin_chr1&gin_chr7 plus
+ 67-  0:	evm_model_chr1_1401	evm_model_chr7_1662	  1e-45
+ 67-  1:	evm_model_chr1_1409	evm_model_chr7_1674	  9e-30
+ 67-  2:	evm_model_chr1_1413	evm_model_chr7_1680	  3e-51
+ 67-  3:	evm_model_chr1_1433	evm_model_chr7_1702	  2e-12
+ 67-  4:	evm_model_chr1_1439	evm_model_chr7_1727	  3e-29
+## Alignment 68: score=187.0 e_value=4.2e-06 N=5 gin_chr1&gin_chr7 plus
+ 68-  0:	evm_model_chr1_2643	evm_model_chr7_1062	  2e-38
+ 68-  1:	evm_model_chr1_2654	evm_model_chr7_1070	 1e-155
+ 68-  2:	evm_model_chr1_2658	evm_model_chr7_1081	  2e-99
+ 68-  3:	evm_model_chr1_2671	evm_model_chr7_1095	  5e-66
+ 68-  4:	evm_model_chr1_2702	evm_model_chr7_1110	 4e-156
+## Alignment 69: score=161.0 e_value=0.00018 N=4 gin_chr1&gin_chr7 plus
+ 69-  0:	evm_model_chr1_1534	evm_model_chr7_1434	 3e-139
+ 69-  1:	evm_model_chr1_1558	evm_model_chr7_1464	  1e-54
+ 69-  2:	evm_model_chr1_1560	evm_model_chr7_1470	  1e-80
+ 69-  3:	evm_model_chr1_1563	evm_model_chr7_1476	  3e-34
+## Alignment 70: score=244.0 e_value=6.1e-13 N=7 gin_chr1&gin_chr7 minus
+ 70-  0:	evm_model_chr1_1456	evm_model_chr7_1529	  2e-63
+ 70-  1:	evm_model_chr1_1458	evm_model_chr7_1528	 5e-191
+ 70-  2:	evm_model_chr1_1469	evm_model_chr7_1512	 1e-134
+ 70-  3:	evm_model_chr1_1482	evm_model_chr7_1501	  7e-70
+ 70-  4:	evm_model_chr1_1490	evm_model_chr7_1486	  3e-85
+ 70-  5:	evm_model_chr1_1534	evm_model_chr7_1434	 3e-139
+ 70-  6:	evm_model_chr1_1548	evm_model_chr7_1432	 7e-255
+## Alignment 71: score=177.0 e_value=4e-05 N=4 gin_chr1&gin_chr7 minus
+ 71-  0:	evm_model_chr1_1563	evm_model_chr7_1476	  3e-34
+ 71-  1:	evm_model_chr1_1575	evm_model_chr7_1469	 2e-108
+ 71-  2:	evm_model_chr1_1576	evm_model_chr7_1468	 5e-195
+ 71-  3:	evm_model_chr1_1578	evm_model_chr7_1455	  5e-81
+## Alignment 72: score=152.0 e_value=1.1e-05 N=5 gin_chr1&gin_chr7 minus
+ 72-  0:	evm_model_chr1_628	evm_model_chr7_1698	  2e-96
+ 72-  1:	evm_model_chr1_637	evm_model_chr7_1680	  3e-38
+ 72-  2:	evm_model_chr1_639	evm_model_chr7_1668	  3e-50
+ 72-  3:	evm_model_chr1_655	evm_model_chr7_1646	  5e-43
+ 72-  4:	evm_model_chr1_705	evm_model_chr7_1619	 5e-207
+## Alignment 73: score=421.0 e_value=6e-25 N=11 gin_chr1&gin_chr8 plus
+ 73-  0:	evm_model_chr1_2292	evm_model_chr8_1823	  3e-28
+ 73-  1:	evm_model_chr1_2293	evm_model_chr8_1825	 2e-259
+ 73-  2:	evm_model_chr1_2313	evm_model_chr8_1844	  2e-74
+ 73-  3:	evm_model_chr1_2315	evm_model_chr8_1876	  3e-82
+ 73-  4:	evm_model_chr1_2323	evm_model_chr8_1877	      0
+ 73-  5:	evm_model_chr1_2326	evm_model_chr8_1886	 1e-226
+ 73-  6:	evm_model_chr1_2334	evm_model_chr8_1894	 3e-232
+ 73-  7:	evm_model_chr1_2337	evm_model_chr8_1906	 6e-190
+ 73-  8:	evm_model_chr1_2338	evm_model_chr8_1913	  5e-91
+ 73-  9:	evm_model_chr1_2356	evm_model_chr8_1940	 2e-240
+ 73- 10:	evm_model_chr1_2364	evm_model_chr8_1954	  2e-41
+## Alignment 74: score=210.0 e_value=3.4e-06 N=5 gin_chr1&gin_chr8 plus
+ 74-  0:	evm_model_chr1_2892	evm_model_chr8_741	  1e-91
+ 74-  1:	evm_model_chr1_2894	evm_model_chr8_744	 2e-160
+ 74-  2:	evm_model_chr1_2911	evm_model_chr8_754	 7e-103
+ 74-  3:	evm_model_chr1_2927	evm_model_chr8_763	  9e-72
+ 74-  4:	evm_model_chr1_2935	evm_model_chr8_765	  4e-53
+## Alignment 75: score=198.0 e_value=1.6e-06 N=5 gin_chr1&gin_chr8 plus
+ 75-  0:	evm_model_chr1_1972	evm_model_chr8_1036	 6e-114
+ 75-  1:	evm_model_chr1_1977	evm_model_chr8_1038	 9e-216
+ 75-  2:	evm_model_chr1_1991	evm_model_chr8_1072	      0
+ 75-  3:	evm_model_chr1_1997	evm_model_chr8_1081	  6e-26
+ 75-  4:	evm_model_chr1_2005	evm_model_chr8_1086	  7e-37
+## Alignment 76: score=190.0 e_value=3.9e-10 N=6 gin_chr1&gin_chr8 plus
+ 76-  0:	evm_model_chr1_1384	evm_model_chr8_1168	 3e-117
+ 76-  1:	evm_model_chr1_1403	evm_model_chr8_1217	  2e-52
+ 76-  2:	evm_model_chr1_1412	evm_model_chr8_1219	 2e-205
+ 76-  3:	evm_model_chr1_1420	evm_model_chr8_1227	 3e-163
+ 76-  4:	evm_model_chr1_1425	evm_model_chr8_1228	  2e-91
+ 76-  5:	evm_model_chr1_1469	evm_model_chr8_1260	  2e-80
+## Alignment 77: score=165.0 e_value=0.00022 N=4 gin_chr1&gin_chr8 plus
+ 77-  0:	evm_model_chr1_756	evm_model_chr8_537	 2e-142
+ 77-  1:	evm_model_chr1_759	evm_model_chr8_539	 2e-215
+ 77-  2:	evm_model_chr1_760	evm_model_chr8_562	  2e-42
+ 77-  3:	evm_model_chr1_764	evm_model_chr8_574	  2e-59
+## Alignment 78: score=161.0 e_value=7.3e-05 N=4 gin_chr1&gin_chr8 plus
+ 78-  0:	evm_model_chr1_1464	evm_model_chr8_1159	 2e-219
+ 78-  1:	evm_model_chr1_1466	evm_model_chr8_1167	  1e-49
+ 78-  2:	evm_model_chr1_1467	evm_model_chr8_1168	 1e-151
+ 78-  3:	evm_model_chr1_1500	evm_model_chr8_1196	 7e-106
+## Alignment 79: score=160.0 e_value=0.00025 N=4 gin_chr1&gin_chr8 plus
+ 79-  0:	evm_model_chr1_1616	evm_model_chr8_93	  1e-19
+ 79-  1:	evm_model_chr1_1624	evm_model_chr8_130	  3e-05
+ 79-  2:	evm_model_chr1_1627	evm_model_chr8_135	  2e-25
+ 79-  3:	evm_model_chr1_1628	evm_model_chr8_136	  2e-90
+## Alignment 80: score=391.0 e_value=1.1e-30 N=12 gin_chr1&gin_chr8 minus
+ 80-  0:	evm_model_chr1_950	evm_model_chr8_1082	  1e-42
+ 80-  1:	evm_model_chr1_987	evm_model_chr8_1072	      0
+ 80-  2:	evm_model_chr1_991	evm_model_chr8_1069	  5e-48
+ 80-  3:	evm_model_chr1_1012	evm_model_chr8_1040	  5e-48
+ 80-  4:	evm_model_chr1_1013	evm_model_chr8_1039	 2e-220
+ 80-  5:	evm_model_chr1_1019	evm_model_chr8_1035	  5e-74
+ 80-  6:	evm_model_chr1_1060	evm_model_chr8_1021	      0
+ 80-  7:	evm_model_chr1_1061	evm_model_chr8_1015	 0.0002
+ 80-  8:	evm_model_chr1_1065	evm_model_chr8_1012	  9e-19
+ 80-  9:	evm_model_chr1_1076	evm_model_chr8_1010	  4e-40
+ 80- 10:	evm_model_chr1_1097	evm_model_chr8_976	 1e-217
+ 80- 11:	evm_model_chr1_1144	evm_model_chr8_944	  6e-78
+## Alignment 81: score=332.0 e_value=2.5e-16 N=8 gin_chr1&gin_chr8 minus
+ 81-  0:	evm_model_chr1_1822	evm_model_chr8_586	 9e-172
+ 81-  1:	evm_model_chr1_1825	evm_model_chr8_585	 3e-204
+ 81-  2:	evm_model_chr1_1831	evm_model_chr8_577	      0
+ 81-  3:	evm_model_chr1_1833	evm_model_chr8_569	  7e-46
+ 81-  4:	evm_model_chr1_1836	evm_model_chr8_567	  2e-57
+ 81-  5:	evm_model_chr1_1843	evm_model_chr8_544	      0
+ 81-  6:	evm_model_chr1_1844	evm_model_chr8_543	 8e-181
+ 81-  7:	evm_model_chr1_1873	evm_model_chr8_541	  9e-16
+## Alignment 82: score=271.0 e_value=6.3e-13 N=8 gin_chr1&gin_chr8 minus
+ 82-  0:	evm_model_chr1_1404	evm_model_chr8_1250	  1e-26
+ 82-  1:	evm_model_chr1_1425	evm_model_chr8_1228	  2e-91
+ 82-  2:	evm_model_chr1_1432	evm_model_chr8_1221	  2e-28
+ 82-  3:	evm_model_chr1_1444	evm_model_chr8_1198	  2e-48
+ 82-  4:	evm_model_chr1_1462	evm_model_chr8_1174	  2e-48
+ 82-  5:	evm_model_chr1_1467	evm_model_chr8_1168	 1e-151
+ 82-  6:	evm_model_chr1_1480	evm_model_chr8_1157	 8e-155
+ 82-  7:	evm_model_chr1_1490	evm_model_chr8_1116	  2e-68
+## Alignment 83: score=237.0 e_value=1e-11 N=7 gin_chr1&gin_chr8 minus
+ 83-  0:	evm_model_chr1_2640	evm_model_chr8_2145	  3e-09
+ 83-  1:	evm_model_chr1_2642	evm_model_chr8_2129	  4e-25
+ 83-  2:	evm_model_chr1_2649	evm_model_chr8_2109	 3e-128
+ 83-  3:	evm_model_chr1_2671	evm_model_chr8_2066	  3e-84
+ 83-  4:	evm_model_chr1_2678	evm_model_chr8_2056	  8e-66
+ 83-  5:	evm_model_chr1_2686	evm_model_chr8_2055	 2e-111
+ 83-  6:	evm_model_chr1_2691	evm_model_chr8_2033	 3e-142
+## Alignment 84: score=205.0 e_value=2.7e-09 N=5 gin_chr1&gin_chr8 minus
+ 84-  0:	evm_model_chr1_1675	evm_model_chr8_1396	  4e-24
+ 84-  1:	evm_model_chr1_1676	evm_model_chr8_1395	  5e-58
+ 84-  2:	evm_model_chr1_1677	evm_model_chr8_1394	  3e-44
+ 84-  3:	evm_model_chr1_1687	evm_model_chr8_1388	  7e-62
+ 84-  4:	evm_model_chr1_1724	evm_model_chr8_1385	  5e-06
+## Alignment 85: score=181.0 e_value=1.4e-05 N=4 gin_chr1&gin_chr8 minus
+ 85-  0:	evm_model_chr1_1967	evm_model_chr8_1054	 2e-125
+ 85-  1:	evm_model_chr1_1977	evm_model_chr8_1038	 9e-216
+ 85-  2:	evm_model_chr1_1978	evm_model_chr8_1033	 8e-230
+ 85-  3:	evm_model_chr1_1979	evm_model_chr8_1032	 2e-134
+## Alignment 86: score=177.0 e_value=4.7e-08 N=5 gin_chr1&gin_chr8 minus
+ 86-  0:	evm_model_chr1_1177	evm_model_chr8_1725	  3e-97
+ 86-  1:	evm_model_chr1_1179	evm_model_chr8_1724	  9e-41
+ 86-  2:	evm_model_chr1_1196	evm_model_chr8_1694	 1e-156
+ 86-  3:	evm_model_chr1_1209	evm_model_chr8_1693	 3e-196
+ 86-  4:	evm_model_chr1_1241	evm_model_chr8_1665	 4e-122
+## Alignment 87: score=277.0 e_value=1.6e-08 N=6 gin_chr1&gin_chr9 plus
+ 87-  0:	evm_model_chr1_894	evm_model_chr9_676	  3e-85
+ 87-  1:	evm_model_chr1_903	evm_model_chr9_679	  2e-82
+ 87-  2:	evm_model_chr1_906	evm_model_chr9_681	 6e-146
+ 87-  3:	evm_model_chr1_910	evm_model_chr9_682	 2e-106
+ 87-  4:	evm_model_chr1_918	evm_model_chr9_684	 9e-175
+ 87-  5:	evm_model_chr1_922	evm_model_chr9_685	 2e-102
+## Alignment 88: score=260.0 e_value=4e-10 N=6 gin_chr1&gin_chr9 plus
+ 88-  0:	evm_model_chr1_1700	evm_model_chr9_462	  7e-37
+ 88-  1:	evm_model_chr1_1722	evm_model_chr9_485	 2e-120
+ 88-  2:	evm_model_chr1_1727	evm_model_chr9_491	  8e-10
+ 88-  3:	evm_model_chr1_1730	evm_model_chr9_497	  1e-51
+ 88-  4:	evm_model_chr1_1732	evm_model_chr9_499	  5e-40
+ 88-  5:	evm_model_chr1_1735	evm_model_chr9_507	  2e-57
+## Alignment 89: score=257.0 e_value=1.7e-11 N=6 gin_chr1&gin_chr9 plus
+ 89-  0:	evm_model_chr1_637	evm_model_chr9_1005	  5e-99
+ 89-  1:	evm_model_chr1_658	evm_model_chr9_1020	  4e-50
+ 89-  2:	evm_model_chr1_667	evm_model_chr9_1040	 3e-237
+ 89-  3:	evm_model_chr1_668	evm_model_chr9_1041	  4e-79
+ 89-  4:	evm_model_chr1_672	evm_model_chr9_1046	 1e-159
+ 89-  5:	evm_model_chr1_673	evm_model_chr9_1047	 5e-132
+## Alignment 90: score=240.0 e_value=6.5e-14 N=7 gin_chr1&gin_chr9 plus
+ 90-  0:	evm_model_chr1_2835	evm_model_chr9_1784	 9e-102
+ 90-  1:	evm_model_chr1_2850	evm_model_chr9_1818	 1e-266
+ 90-  2:	evm_model_chr1_2853	evm_model_chr9_1821	 4e-105
+ 90-  3:	evm_model_chr1_2856	evm_model_chr9_1838	 1e-212
+ 90-  4:	evm_model_chr1_2857	evm_model_chr9_1839	 3e-139
+ 90-  5:	evm_model_chr1_2887	evm_model_chr9_1850	  3e-53
+ 90-  6:	evm_model_chr1_2888	evm_model_chr9_1881	  2e-23
+## Alignment 91: score=196.0 e_value=9.4e-06 N=5 gin_chr1&gin_chr9 plus
+ 91-  0:	evm_model_chr1_1401	evm_model_chr9_1115	  5e-39
+ 91-  1:	evm_model_chr1_1416	evm_model_chr9_1122	 1e-214
+ 91-  2:	evm_model_chr1_1417	evm_model_chr9_1137	 2e-227
+ 91-  3:	evm_model_chr1_1425	evm_model_chr9_1146	  1e-99
+ 91-  4:	evm_model_chr1_1429	evm_model_chr9_1165	  1e-49
+## Alignment 92: score=203.0 e_value=1.6e-12 N=7 gin_chr1&gin_chr9 minus
+ 92-  0:	evm_model_chr1_568	evm_model_chr9_1134	 4e-221
+ 92-  1:	evm_model_chr1_585	evm_model_chr9_1133	 1e-163
+ 92-  2:	evm_model_chr1_624	evm_model_chr9_1132	  8e-31
+ 92-  3:	evm_model_chr1_647	evm_model_chr9_1116	 3e-234
+ 92-  4:	evm_model_chr1_655	evm_model_chr9_1073	  1e-96
+ 92-  5:	evm_model_chr1_671	evm_model_chr9_1052	 1e-197
+ 92-  6:	evm_model_chr1_676	evm_model_chr9_1042	 1e-145
+## Alignment 93: score=178.0 e_value=8.9e-05 N=4 gin_chr1&gin_chr9 minus
+ 93-  0:	evm_model_chr1_950	evm_model_chr9_668	 5e-310
+ 93-  1:	evm_model_chr1_957	evm_model_chr9_664	  1e-81
+ 93-  2:	evm_model_chr1_958	evm_model_chr9_663	  7e-98
+ 93-  3:	evm_model_chr1_975	evm_model_chr9_648	 6e-276
+## Alignment 94: score=159.0 e_value=0.00019 N=4 gin_chr10&gin_chr10 minus
+ 94-  0:	evm_model_chr10_271	evm_model_chr10_352	  5e-34
+ 94-  1:	evm_model_chr10_296	evm_model_chr10_336	  2e-64
+ 94-  2:	evm_model_chr10_307	evm_model_chr10_321	 2e-159
+ 94-  3:	evm_model_chr10_311	evm_model_chr10_318	 0.0009
+## Alignment 95: score=228.0 e_value=2.2e-06 N=5 gin_chr10&gin_chr11 plus
+ 95-  0:	evm_model_chr10_760	evm_model_chr11_1777	 2e-173
+ 95-  1:	evm_model_chr10_766	evm_model_chr11_1787	  3e-84
+ 95-  2:	evm_model_chr10_769	evm_model_chr11_1789	 2e-103
+ 95-  3:	evm_model_chr10_775	evm_model_chr11_1799	  5e-71
+ 95-  4:	evm_model_chr10_778	evm_model_chr11_1801	  2e-80
+## Alignment 96: score=208.0 e_value=5e-11 N=7 gin_chr10&gin_chr11 plus
+ 96-  0:	evm_model_chr10_539	evm_model_chr11_1028	 2e-155
+ 96-  1:	evm_model_chr10_550	evm_model_chr11_1042	 2e-154
+ 96-  2:	evm_model_chr10_584	evm_model_chr11_1054	 1e-206
+ 96-  3:	evm_model_chr10_616	evm_model_chr11_1065	  3e-50
+ 96-  4:	evm_model_chr10_649	evm_model_chr11_1103	 2e-216
+ 96-  5:	evm_model_chr10_653	evm_model_chr11_1106	  2e-61
+ 96-  6:	evm_model_chr10_660	evm_model_chr11_1132	  5e-82
+## Alignment 97: score=156.0 e_value=0.00017 N=4 gin_chr10&gin_chr11 minus
+ 97-  0:	evm_model_chr10_292	evm_model_chr11_386	  1e-05
+ 97-  1:	evm_model_chr10_305	evm_model_chr11_372	 6e-145
+ 97-  2:	evm_model_chr10_312	evm_model_chr11_369	 2e-147
+ 97-  3:	evm_model_chr10_338	evm_model_chr11_350	 1e-155
+## Alignment 98: score=279.0 e_value=1.3e-14 N=7 gin_chr10&gin_chr2 plus
+ 98-  0:	evm_model_chr10_1662	evm_model_chr2_1911	 4e-126
+ 98-  1:	evm_model_chr10_1702	evm_model_chr2_1954	  1e-52
+ 98-  2:	evm_model_chr10_1705	evm_model_chr2_1956	  2e-35
+ 98-  3:	evm_model_chr10_1729	evm_model_chr2_1965	  6e-85
+ 98-  4:	evm_model_chr10_1734	evm_model_chr2_1966	  1e-97
+ 98-  5:	evm_model_chr10_1735	evm_model_chr2_1967	 2e-155
+ 98-  6:	evm_model_chr10_1736	evm_model_chr2_1968	 5e-180
+## Alignment 99: score=185.0 e_value=0.00064 N=4 gin_chr10&gin_chr2 plus
+ 99-  0:	evm_model_chr10_861	evm_model_chr2_445	 9e-193
+ 99-  1:	evm_model_chr10_864	evm_model_chr2_447	 3e-113
+ 99-  2:	evm_model_chr10_866	evm_model_chr2_450	 2e-146
+ 99-  3:	evm_model_chr10_878	evm_model_chr2_455	  5e-41
+## Alignment 100: score=175.0 e_value=0.00063 N=4 gin_chr10&gin_chr2 plus
+100-  0:	evm_model_chr10_517	evm_model_chr2_1281	 1e-127
+100-  1:	evm_model_chr10_520	evm_model_chr2_1292	 1e-164
+100-  2:	evm_model_chr10_531	evm_model_chr2_1295	 5e-269
+100-  3:	evm_model_chr10_535	evm_model_chr2_1301	 2e-241
+## Alignment 101: score=393.0 e_value=4.2e-18 N=9 gin_chr10&gin_chr2 minus
+101-  0:	evm_model_chr10_1626	evm_model_chr2_1932	 2e-103
+101-  1:	evm_model_chr10_1635	evm_model_chr2_1930	  1e-66
+101-  2:	evm_model_chr10_1643	evm_model_chr2_1927	 1e-238
+101-  3:	evm_model_chr10_1650	evm_model_chr2_1919	 4e-135
+101-  4:	evm_model_chr10_1652	evm_model_chr2_1918	 8e-226
+101-  5:	evm_model_chr10_1654	evm_model_chr2_1917	 9e-121
+101-  6:	evm_model_chr10_1655	evm_model_chr2_1916	 3e-100
+101-  7:	evm_model_chr10_1659	evm_model_chr2_1913	  6e-10
+101-  8:	evm_model_chr10_1690	evm_model_chr2_1886	 3e-143
+## Alignment 102: score=239.0 e_value=4.4e-12 N=7 gin_chr10&gin_chr2 minus
+102-  0:	evm_model_chr10_1179	evm_model_chr2_788	  4e-87
+102-  1:	evm_model_chr10_1182	evm_model_chr2_772	  4e-39
+102-  2:	evm_model_chr10_1191	evm_model_chr2_764	 1e-239
+102-  3:	evm_model_chr10_1224	evm_model_chr2_734	  4e-22
+102-  4:	evm_model_chr10_1230	evm_model_chr2_730	  2e-56
+102-  5:	evm_model_chr10_1232	evm_model_chr2_729	  5e-81
+102-  6:	evm_model_chr10_1283	evm_model_chr2_698	 1e-135
+## Alignment 103: score=216.0 e_value=2.1e-07 N=5 gin_chr10&gin_chr2 minus
+103-  0:	evm_model_chr10_1604	evm_model_chr2_2164	 0.0001
+103-  1:	evm_model_chr10_1605	evm_model_chr2_2142	 4e-129
+103-  2:	evm_model_chr10_1614	evm_model_chr2_2132	  2e-72
+103-  3:	evm_model_chr10_1618	evm_model_chr2_2128	  6e-94
+103-  4:	evm_model_chr10_1620	evm_model_chr2_2127	  2e-56
+## Alignment 104: score=225.0 e_value=2.1e-08 N=5 gin_chr10&gin_chr4 plus
+104-  0:	evm_model_chr10_1736	evm_model_chr4_1820	 3e-198
+104-  1:	evm_model_chr10_1738	evm_model_chr4_1829	 2e-120
+104-  2:	evm_model_chr10_1750	evm_model_chr4_1839	  1e-86
+104-  3:	evm_model_chr10_1751	evm_model_chr4_1843	 2e-108
+104-  4:	evm_model_chr10_1752	evm_model_chr4_1847	  9e-53
+## Alignment 105: score=190.0 e_value=6.9e-08 N=5 gin_chr10&gin_chr4 plus
+105-  0:	evm_model_chr10_1961	evm_model_chr4_1911	 3e-208
+105-  1:	evm_model_chr10_2009	evm_model_chr4_1956	  6e-84
+105-  2:	evm_model_chr10_2013	evm_model_chr4_1959	  6e-76
+105-  3:	evm_model_chr10_2014	evm_model_chr4_1964	  1e-09
+105-  4:	evm_model_chr10_2017	evm_model_chr4_1971	  8e-62
+## Alignment 106: score=167.0 e_value=0.00092 N=4 gin_chr10&gin_chr4 plus
+106-  0:	evm_model_chr10_1796	evm_model_chr4_2154	 5e-146
+106-  1:	evm_model_chr10_1809	evm_model_chr4_2160	  9e-08
+106-  2:	evm_model_chr10_1818	evm_model_chr4_2179	 8e-101
+106-  3:	evm_model_chr10_1822	evm_model_chr4_2182	  5e-24
+## Alignment 107: score=526.0 e_value=1.8e-32 N=13 gin_chr10&gin_chr4 minus
+107-  0:	evm_model_chr10_1653	evm_model_chr4_1907	 9e-172
+107-  1:	evm_model_chr10_1669	evm_model_chr4_1891	 1e-135
+107-  2:	evm_model_chr10_1677	evm_model_chr4_1886	  1e-10
+107-  3:	evm_model_chr10_1709	evm_model_chr4_1869	  1e-46
+107-  4:	evm_model_chr10_1717	evm_model_chr4_1863	  7e-91
+107-  5:	evm_model_chr10_1725	evm_model_chr4_1856	  2e-93
+107-  6:	evm_model_chr10_1726	evm_model_chr4_1851	  1e-33
+107-  7:	evm_model_chr10_1729	evm_model_chr4_1834	  9e-93
+107-  8:	evm_model_chr10_1738	evm_model_chr4_1818	 2e-224
+107-  9:	evm_model_chr10_1750	evm_model_chr4_1811	 5e-217
+107- 10:	evm_model_chr10_1755	evm_model_chr4_1808	  2e-25
+107- 11:	evm_model_chr10_1763	evm_model_chr4_1805	  2e-51
+107- 12:	evm_model_chr10_1764	evm_model_chr4_1804	  9e-45
+## Alignment 108: score=237.0 e_value=3.8e-06 N=5 gin_chr10&gin_chr4 minus
+108-  0:	evm_model_chr10_2038	evm_model_chr4_1927	  2e-62
+108-  1:	evm_model_chr10_2041	evm_model_chr4_1924	 3e-261
+108-  2:	evm_model_chr10_2043	evm_model_chr4_1922	 2e-290
+108-  3:	evm_model_chr10_2045	evm_model_chr4_1913	 7e-119
+108-  4:	evm_model_chr10_2046	evm_model_chr4_1910	  4e-15
+## Alignment 109: score=199.0 e_value=1.7e-09 N=6 gin_chr10&gin_chr4 minus
+109-  0:	evm_model_chr10_1167	evm_model_chr4_251	  1e-56
+109-  1:	evm_model_chr10_1173	evm_model_chr4_250	  5e-53
+109-  2:	evm_model_chr10_1182	evm_model_chr4_245	  1e-42
+109-  3:	evm_model_chr10_1219	evm_model_chr4_242	  6e-87
+109-  4:	evm_model_chr10_1246	evm_model_chr4_221	  7e-25
+109-  5:	evm_model_chr10_1273	evm_model_chr4_212	  3e-47
+## Alignment 110: score=173.0 e_value=8.3e-07 N=5 gin_chr10&gin_chr4 minus
+110-  0:	evm_model_chr10_1834	evm_model_chr4_2273	  1e-39
+110-  1:	evm_model_chr10_1845	evm_model_chr4_2271	  1e-42
+110-  2:	evm_model_chr10_1871	evm_model_chr4_2267	 2e-217
+110-  3:	evm_model_chr10_1887	evm_model_chr4_2234	  2e-28
+110-  4:	evm_model_chr10_1898	evm_model_chr4_2228	  1e-94
+## Alignment 111: score=205.0 e_value=1.1e-09 N=6 gin_chr10&gin_chr5 plus
+111-  0:	evm_model_chr10_239	evm_model_chr5_1468	  1e-27
+111-  1:	evm_model_chr10_252	evm_model_chr5_1469	 3e-226
+111-  2:	evm_model_chr10_284	evm_model_chr5_1477	  7e-10
+111-  3:	evm_model_chr10_290	evm_model_chr5_1480	 2e-101
+111-  4:	evm_model_chr10_331	evm_model_chr5_1497	 2e-145
+111-  5:	evm_model_chr10_339	evm_model_chr5_1498	  9e-67
+## Alignment 112: score=176.0 e_value=0.00077 N=4 gin_chr10&gin_chr5 plus
+112-  0:	evm_model_chr10_141	evm_model_chr5_878	 4e-154
+112-  1:	evm_model_chr10_142	evm_model_chr5_881	 3e-101
+112-  2:	evm_model_chr10_147	evm_model_chr5_885	 4e-152
+112-  3:	evm_model_chr10_154	evm_model_chr5_904	  1e-24
+## Alignment 113: score=276.0 e_value=1.4e-11 N=7 gin_chr10&gin_chr5 minus
+113-  0:	evm_model_chr10_143	evm_model_chr5_900	 1e-145
+113-  1:	evm_model_chr10_167	evm_model_chr5_872	 1e-217
+113-  2:	evm_model_chr10_174	evm_model_chr5_866	  2e-47
+113-  3:	evm_model_chr10_178	evm_model_chr5_854	 2e-308
+113-  4:	evm_model_chr10_198	evm_model_chr5_845	  1e-77
+113-  5:	evm_model_chr10_207	evm_model_chr5_833	      0
+113-  6:	evm_model_chr10_208	evm_model_chr5_832	  4e-39
+## Alignment 114: score=244.0 e_value=6.5e-11 N=6 gin_chr10&gin_chr5 minus
+114-  0:	evm_model_chr10_652	evm_model_chr5_1318	  2e-34
+114-  1:	evm_model_chr10_663	evm_model_chr5_1304	  1e-38
+114-  2:	evm_model_chr10_665	evm_model_chr5_1297	  2e-36
+114-  3:	evm_model_chr10_666	evm_model_chr5_1296	  8e-38
+114-  4:	evm_model_chr10_676	evm_model_chr5_1292	  5e-45
+114-  5:	evm_model_chr10_702	evm_model_chr5_1263	  6e-13
+## Alignment 115: score=223.0 e_value=3.3e-10 N=6 gin_chr10&gin_chr5 minus
+115-  0:	evm_model_chr10_231	evm_model_chr5_1560	  2e-91
+115-  1:	evm_model_chr10_236	evm_model_chr5_1554	 5e-185
+115-  2:	evm_model_chr10_264	evm_model_chr5_1518	  2e-37
+115-  3:	evm_model_chr10_279	evm_model_chr5_1485	  2e-35
+115-  4:	evm_model_chr10_280	evm_model_chr5_1482	 4e-110
+115-  5:	evm_model_chr10_283	evm_model_chr5_1478	 6e-265
+## Alignment 116: score=210.0 e_value=1.1e-07 N=5 gin_chr10&gin_chr5 minus
+116-  0:	evm_model_chr10_102	evm_model_chr5_1004	  4e-57
+116-  1:	evm_model_chr10_103	evm_model_chr5_997	  6e-79
+116-  2:	evm_model_chr10_104	evm_model_chr5_994	  2e-39
+116-  3:	evm_model_chr10_117	evm_model_chr5_981	 1e-199
+116-  4:	evm_model_chr10_138	evm_model_chr5_976	 5e-109
+## Alignment 117: score=364.0 e_value=2.6e-22 N=10 gin_chr10&gin_chr6 minus
+117-  0:	evm_model_chr10_1909	evm_model_chr6_1283	  4e-43
+117-  1:	evm_model_chr10_1911	evm_model_chr6_1240	 6e-212
+117-  2:	evm_model_chr10_1933	evm_model_chr6_1224	 2e-165
+117-  3:	evm_model_chr10_1939	evm_model_chr6_1223	  4e-93
+117-  4:	evm_model_chr10_1947	evm_model_chr6_1216	  2e-66
+117-  5:	evm_model_chr10_1950	evm_model_chr6_1215	  3e-76
+117-  6:	evm_model_chr10_1953	evm_model_chr6_1210	 2e-162
+117-  7:	evm_model_chr10_1964	evm_model_chr6_1188	  2e-80
+117-  8:	evm_model_chr10_1967	evm_model_chr6_1186	  4e-70
+117-  9:	evm_model_chr10_2000	evm_model_chr6_1154	  9e-21
+## Alignment 118: score=311.0 e_value=3.8e-16 N=8 gin_chr10&gin_chr6 minus
+118-  0:	evm_model_chr10_2040	evm_model_chr6_987	  3e-14
+118-  1:	evm_model_chr10_2044	evm_model_chr6_983	      0
+118-  2:	evm_model_chr10_2082	evm_model_chr6_948	  4e-34
+118-  3:	evm_model_chr10_2083	evm_model_chr6_941	  2e-64
+118-  4:	evm_model_chr10_2093	evm_model_chr6_939	 1e-212
+118-  5:	evm_model_chr10_2096	evm_model_chr6_933	  7e-34
+118-  6:	evm_model_chr10_2123	evm_model_chr6_907	  1e-20
+118-  7:	evm_model_chr10_2125	evm_model_chr6_903	 2e-156
+## Alignment 119: score=159.0 e_value=9.1e-08 N=5 gin_chr10&gin_chr6 minus
+119-  0:	evm_model_chr10_1921	evm_model_chr6_1137	  9e-73
+119-  1:	evm_model_chr10_1966	evm_model_chr6_1109	  3e-52
+119-  2:	evm_model_chr10_1979	evm_model_chr6_1067	 3e-214
+119-  3:	evm_model_chr10_1984	evm_model_chr6_1061	 1e-113
+119-  4:	evm_model_chr10_1986	evm_model_chr6_1059	 4e-101
+## Alignment 120: score=238.0 e_value=3.1e-06 N=5 gin_chr10&gin_chr7 plus
+120-  0:	evm_model_chr10_1091	evm_model_chr7_1628	  5e-48
+120-  1:	evm_model_chr10_1097	evm_model_chr7_1633	  6e-11
+120-  2:	evm_model_chr10_1098	evm_model_chr7_1634	 4e-165
+120-  3:	evm_model_chr10_1101	evm_model_chr7_1639	 2e-185
+120-  4:	evm_model_chr10_1103	evm_model_chr7_1643	  5e-48
+## Alignment 121: score=231.0 e_value=9.6e-06 N=5 gin_chr10&gin_chr7 plus
+121-  0:	evm_model_chr10_13	evm_model_chr7_925	 9e-185
+121-  1:	evm_model_chr10_14	evm_model_chr7_929	      0
+121-  2:	evm_model_chr10_18	evm_model_chr7_939	      0
+121-  3:	evm_model_chr10_22	evm_model_chr7_945	  8e-11
+121-  4:	evm_model_chr10_25	evm_model_chr7_948	  4e-05
+## Alignment 122: score=232.0 e_value=1.9e-10 N=6 gin_chr10&gin_chr7 minus
+122-  0:	evm_model_chr10_664	evm_model_chr7_305	  5e-14
+122-  1:	evm_model_chr10_666	evm_model_chr7_304	  1e-20
+122-  2:	evm_model_chr10_668	evm_model_chr7_293	  1e-89
+122-  3:	evm_model_chr10_676	evm_model_chr7_288	  7e-49
+122-  4:	evm_model_chr10_684	evm_model_chr7_279	 0.0005
+122-  5:	evm_model_chr10_725	evm_model_chr7_236	 3e-225
+## Alignment 123: score=177.0 e_value=0.00017 N=4 gin_chr10&gin_chr7 minus
+123-  0:	evm_model_chr10_155	evm_model_chr7_1383	  6e-76
+123-  1:	evm_model_chr10_166	evm_model_chr7_1373	  2e-30
+123-  2:	evm_model_chr10_167	evm_model_chr7_1361	 1e-215
+123-  3:	evm_model_chr10_170	evm_model_chr7_1360	  2e-71
+## Alignment 124: score=240.0 e_value=6.8e-11 N=6 gin_chr10&gin_chr8 plus
+124-  0:	evm_model_chr10_868	evm_model_chr8_164	 2e-145
+124-  1:	evm_model_chr10_871	evm_model_chr8_167	  2e-55
+124-  2:	evm_model_chr10_872	evm_model_chr8_169	      0
+124-  3:	evm_model_chr10_876	evm_model_chr8_175	 2e-183
+124-  4:	evm_model_chr10_891	evm_model_chr8_196	  1e-20
+124-  5:	evm_model_chr10_924	evm_model_chr8_199	  1e-13
+## Alignment 125: score=204.0 e_value=1.3e-06 N=5 gin_chr10&gin_chr8 plus
+125-  0:	evm_model_chr10_292	evm_model_chr8_456	  2e-06
+125-  1:	evm_model_chr10_319	evm_model_chr8_463	      0
+125-  2:	evm_model_chr10_326	evm_model_chr8_469	 3e-168
+125-  3:	evm_model_chr10_327	evm_model_chr8_482	  8e-57
+125-  4:	evm_model_chr10_330	evm_model_chr8_485	  5e-44
+## Alignment 126: score=178.0 e_value=1.1e-07 N=5 gin_chr10&gin_chr8 plus
+126-  0:	evm_model_chr10_244	evm_model_chr8_1406	 1e-115
+126-  1:	evm_model_chr10_263	evm_model_chr8_1450	 9e-298
+126-  2:	evm_model_chr10_264	evm_model_chr8_1452	  4e-85
+126-  3:	evm_model_chr10_292	evm_model_chr8_1453	  2e-22
+126-  4:	evm_model_chr10_293	evm_model_chr8_1455	  3e-07
+## Alignment 127: score=573.0 e_value=5.4e-41 N=16 gin_chr10&gin_chr9 plus
+127-  0:	evm_model_chr10_1903	evm_model_chr9_151	      0
+127-  1:	evm_model_chr10_1905	evm_model_chr9_163	 3e-236
+127-  2:	evm_model_chr10_1910	evm_model_chr9_174	 4e-125
+127-  3:	evm_model_chr10_1941	evm_model_chr9_219	 2e-112
+127-  4:	evm_model_chr10_1970	evm_model_chr9_270	  5e-77
+127-  5:	evm_model_chr10_1987	evm_model_chr9_281	  3e-33
+127-  6:	evm_model_chr10_1992	evm_model_chr9_282	 4e-314
+127-  7:	evm_model_chr10_2000	evm_model_chr9_297	 3e-144
+127-  8:	evm_model_chr10_2007	evm_model_chr9_304	 1e-191
+127-  9:	evm_model_chr10_2015	evm_model_chr9_338	 1e-208
+127- 10:	evm_model_chr10_2019	evm_model_chr9_341	 5e-243
+127- 11:	evm_model_chr10_2022	evm_model_chr9_342	 8e-243
+127- 12:	evm_model_chr10_2023	evm_model_chr9_353	  4e-62
+127- 13:	evm_model_chr10_2027	evm_model_chr9_357	 9e-233
+127- 14:	evm_model_chr10_2037	evm_model_chr9_372	 9e-116
+127- 15:	evm_model_chr10_2044	evm_model_chr9_380	      0
+## Alignment 128: score=332.0 e_value=2.4e-15 N=8 gin_chr10&gin_chr9 plus
+128-  0:	evm_model_chr10_1635	evm_model_chr9_532	  4e-70
+128-  1:	evm_model_chr10_1642	evm_model_chr9_537	  1e-21
+128-  2:	evm_model_chr10_1645	evm_model_chr9_541	  2e-63
+128-  3:	evm_model_chr10_1653	evm_model_chr9_546	 9e-134
+128-  4:	evm_model_chr10_1662	evm_model_chr9_549	 8e-159
+128-  5:	evm_model_chr10_1673	evm_model_chr9_550	 1e-131
+128-  6:	evm_model_chr10_1705	evm_model_chr9_551	  3e-16
+128-  7:	evm_model_chr10_1709	evm_model_chr9_552	  5e-56
+## Alignment 129: score=321.0 e_value=1.3e-20 N=10 gin_chr10&gin_chr9 plus
+129-  0:	evm_model_chr10_1788	evm_model_chr9_1766	  8e-72
+129-  1:	evm_model_chr10_1796	evm_model_chr9_1773	 4e-109
+129-  2:	evm_model_chr10_1816	evm_model_chr9_1776	 5e-210
+129-  3:	evm_model_chr10_1818	evm_model_chr9_1784	 2e-101
+129-  4:	evm_model_chr10_1862	evm_model_chr9_1827	  2e-60
+129-  5:	evm_model_chr10_1871	evm_model_chr9_1838	 4e-212
+129-  6:	evm_model_chr10_1909	evm_model_chr9_1855	  3e-36
+129-  7:	evm_model_chr10_1954	evm_model_chr9_1880	 4e-140
+129-  8:	evm_model_chr10_1959	evm_model_chr9_1886	  9e-69
+129-  9:	evm_model_chr10_1967	evm_model_chr9_1892	  2e-85
+## Alignment 130: score=775.0 e_value=7.1e-54 N=19 gin_chr10&gin_chr9 minus
+130-  0:	evm_model_chr10_1624	evm_model_chr9_1760	 2e-171
+130-  1:	evm_model_chr10_1653	evm_model_chr9_1752	 2e-105
+130-  2:	evm_model_chr10_1654	evm_model_chr9_1750	  2e-34
+130-  3:	evm_model_chr10_1662	evm_model_chr9_1748	 9e-131
+130-  4:	evm_model_chr10_1664	evm_model_chr9_1743	 6e-154
+130-  5:	evm_model_chr10_1672	evm_model_chr9_1730	  3e-57
+130-  6:	evm_model_chr10_1681	evm_model_chr9_1722	 2e-151
+130-  7:	evm_model_chr10_1683	evm_model_chr9_1713	 1e-196
+130-  8:	evm_model_chr10_1709	evm_model_chr9_1694	 5e-145
+130-  9:	evm_model_chr10_1712	evm_model_chr9_1691	 2e-224
+130- 10:	evm_model_chr10_1714	evm_model_chr9_1689	  7e-17
+130- 11:	evm_model_chr10_1725	evm_model_chr9_1678	  2e-80
+130- 12:	evm_model_chr10_1727	evm_model_chr9_1669	 2e-133
+130- 13:	evm_model_chr10_1734	evm_model_chr9_1665	  5e-80
+130- 14:	evm_model_chr10_1736	evm_model_chr9_1662	 1e-193
+130- 15:	evm_model_chr10_1749	evm_model_chr9_1661	 2e-144
+130- 16:	evm_model_chr10_1763	evm_model_chr9_1658	  4e-47
+130- 17:	evm_model_chr10_1764	evm_model_chr9_1657	  2e-39
+130- 18:	evm_model_chr10_1787	evm_model_chr9_1628	  1e-52
+## Alignment 131: score=297.0 e_value=1e-11 N=7 gin_chr10&gin_chr9 minus
+131-  0:	evm_model_chr10_2042	evm_model_chr9_105	 3e-114
+131-  1:	evm_model_chr10_2064	evm_model_chr9_104	  4e-78
+131-  2:	evm_model_chr10_2077	evm_model_chr9_92	  8e-25
+131-  3:	evm_model_chr10_2080	evm_model_chr9_86	  5e-41
+131-  4:	evm_model_chr10_2084	evm_model_chr9_82	 3e-140
+131-  5:	evm_model_chr10_2093	evm_model_chr9_78	 2e-229
+131-  6:	evm_model_chr10_2096	evm_model_chr9_73	  1e-32
+## Alignment 132: score=251.0 e_value=1e-13 N=8 gin_chr10&gin_chr9 minus
+132-  0:	evm_model_chr10_1944	evm_model_chr9_2127	 5e-143
+132-  1:	evm_model_chr10_1966	evm_model_chr9_2116	  3e-49
+132-  2:	evm_model_chr10_1976	evm_model_chr9_2095	 5e-262
+132-  3:	evm_model_chr10_2002	evm_model_chr9_2056	  2e-33
+132-  4:	evm_model_chr10_2007	evm_model_chr9_2041	 2e-209
+132-  5:	evm_model_chr10_2027	evm_model_chr9_2021	 3e-184
+132-  6:	evm_model_chr10_2039	evm_model_chr9_2017	 5e-212
+132-  7:	evm_model_chr10_2065	evm_model_chr9_1990	 1e-239
+## Alignment 133: score=226.0 e_value=4.5e-07 N=5 gin_chr10&gin_chr9 minus
+133-  0:	evm_model_chr10_663	evm_model_chr9_613	  1e-58
+133-  1:	evm_model_chr10_666	evm_model_chr9_609	  2e-26
+133-  2:	evm_model_chr10_676	evm_model_chr9_607	  7e-46
+133-  3:	evm_model_chr10_677	evm_model_chr9_606	  2e-73
+133-  4:	evm_model_chr10_684	evm_model_chr9_593	 0.0001
+## Alignment 134: score=213.0 e_value=2.7e-12 N=7 gin_chr10&gin_chr9 minus
+134-  0:	evm_model_chr10_1789	evm_model_chr9_503	 2e-105
+134-  1:	evm_model_chr10_1791	evm_model_chr9_500	  5e-23
+134-  2:	evm_model_chr10_1805	evm_model_chr9_485	 2e-110
+134-  3:	evm_model_chr10_1840	evm_model_chr9_472	 4e-252
+134-  4:	evm_model_chr10_1889	evm_model_chr9_426	 3e-281
+134-  5:	evm_model_chr10_1914	evm_model_chr9_407	  2e-45
+134-  6:	evm_model_chr10_1919	evm_model_chr9_391	  4e-35
+## Alignment 135: score=184.0 e_value=4.9e-06 N=5 gin_chr11&gin_chr12 plus
+135-  0:	evm_model_chr11_1143	evm_model_chr12_798	      0
+135-  1:	evm_model_chr11_1152	evm_model_chr12_804	 7e-102
+135-  2:	evm_model_chr11_1193	evm_model_chr12_829	 1e-102
+135-  3:	evm_model_chr11_1199	evm_model_chr12_840	 3e-148
+135-  4:	evm_model_chr11_1203	evm_model_chr12_849	 9e-107
+## Alignment 136: score=192.0 e_value=6.3e-07 N=5 gin_chr11&gin_chr12 minus
+136-  0:	evm_model_chr11_1174	evm_model_chr12_1263	 1e-138
+136-  1:	evm_model_chr11_1179	evm_model_chr12_1256	 9e-169
+136-  2:	evm_model_chr11_1180	evm_model_chr12_1232	 3e-187
+136-  3:	evm_model_chr11_1189	evm_model_chr12_1207	  5e-66
+136-  4:	evm_model_chr11_1192	evm_model_chr12_1201	 6e-101
+## Alignment 137: score=159.0 e_value=0.00048 N=4 gin_chr11&gin_chr12 minus
+137-  0:	evm_model_chr11_1027	evm_model_chr12_662	 8e-205
+137-  1:	evm_model_chr11_1047	evm_model_chr12_649	  1e-89
+137-  2:	evm_model_chr11_1065	evm_model_chr12_643	 5e-106
+137-  3:	evm_model_chr11_1067	evm_model_chr12_637	  1e-67
+## Alignment 138: score=160.0 e_value=1.6e-08 N=6 gin_chr11&gin_chr2 plus
+138-  0:	evm_model_chr11_906	evm_model_chr2_639	  7e-57
+138-  1:	evm_model_chr11_911	evm_model_chr2_655	  2e-21
+138-  2:	evm_model_chr11_960	evm_model_chr2_698	 1e-181
+138-  3:	evm_model_chr11_980	evm_model_chr2_716	 4e-173
+138-  4:	evm_model_chr11_987	evm_model_chr2_736	  8e-25
+138-  5:	evm_model_chr11_1015	evm_model_chr2_776	  2e-45
+## Alignment 139: score=154.0 e_value=2.9e-06 N=5 gin_chr11&gin_chr2 plus
+139-  0:	evm_model_chr11_1683	evm_model_chr2_2015	  9e-60
+139-  1:	evm_model_chr11_1691	evm_model_chr2_2017	  3e-06
+139-  2:	evm_model_chr11_1730	evm_model_chr2_2049	  5e-61
+139-  3:	evm_model_chr11_1756	evm_model_chr2_2085	      0
+139-  4:	evm_model_chr11_1773	evm_model_chr2_2096	 6e-149
+## Alignment 140: score=151.0 e_value=0.00047 N=4 gin_chr11&gin_chr2 plus
+140-  0:	evm_model_chr11_1776	evm_model_chr2_1527	 8e-166
+140-  1:	evm_model_chr11_1783	evm_model_chr2_1533	 5e-129
+140-  2:	evm_model_chr11_1817	evm_model_chr2_1542	  2e-18
+140-  3:	evm_model_chr11_1818	evm_model_chr2_1553	 1e-287
+## Alignment 141: score=201.0 e_value=1.5e-05 N=5 gin_chr11&gin_chr3 plus
+141-  0:	evm_model_chr11_146	evm_model_chr3_555	 0.0004
+141-  1:	evm_model_chr11_156	evm_model_chr3_572	 1e-228
+141-  2:	evm_model_chr11_170	evm_model_chr3_581	  2e-47
+141-  3:	evm_model_chr11_179	evm_model_chr3_593	  2e-35
+141-  4:	evm_model_chr11_182	evm_model_chr3_603	 5e-158
+## Alignment 142: score=161.0 e_value=1.4e-06 N=4 gin_chr11&gin_chr3 plus
+142-  0:	evm_model_chr11_859	evm_model_chr3_2019	  2e-92
+142-  1:	evm_model_chr11_863	evm_model_chr3_2020	  3e-06
+142-  2:	evm_model_chr11_864	evm_model_chr3_2021	  1e-46
+142-  3:	evm_model_chr11_901	evm_model_chr3_2029	 1e-110
+## Alignment 143: score=159.0 e_value=0.00032 N=4 gin_chr11&gin_chr3 plus
+143-  0:	evm_model_chr11_54	evm_model_chr3_783	 9e-184
+143-  1:	evm_model_chr11_56	evm_model_chr3_784	  7e-24
+143-  2:	evm_model_chr11_65	evm_model_chr3_804	  3e-11
+143-  3:	evm_model_chr11_87	evm_model_chr3_824	 9e-231
+## Alignment 144: score=348.0 e_value=3.3e-17 N=9 gin_chr11&gin_chr3 minus
+144-  0:	evm_model_chr11_23	evm_model_chr3_804	  3e-07
+144-  1:	evm_model_chr11_28	evm_model_chr3_801	  5e-24
+144-  2:	evm_model_chr11_37	evm_model_chr3_797	  3e-42
+144-  3:	evm_model_chr11_56	evm_model_chr3_784	  7e-24
+144-  4:	evm_model_chr11_59	evm_model_chr3_782	 7e-150
+144-  5:	evm_model_chr11_74	evm_model_chr3_780	 1e-210
+144-  6:	evm_model_chr11_103	evm_model_chr3_773	 2e-178
+144-  7:	evm_model_chr11_131	evm_model_chr3_761	  3e-25
+144-  8:	evm_model_chr11_133	evm_model_chr3_759	  1e-25
+## Alignment 145: score=158.0 e_value=7.7e-07 N=5 gin_chr11&gin_chr3 minus
+145-  0:	evm_model_chr11_199	evm_model_chr3_591	  7e-29
+145-  1:	evm_model_chr11_208	evm_model_chr3_584	  7e-24
+145-  2:	evm_model_chr11_212	evm_model_chr3_583	  1e-50
+145-  3:	evm_model_chr11_259	evm_model_chr3_572	  8e-34
+145-  4:	evm_model_chr11_295	evm_model_chr3_540	  1e-98
+## Alignment 146: score=171.0 e_value=1e-07 N=5 gin_chr11&gin_chr4 plus
+146-  0:	evm_model_chr11_1757	evm_model_chr4_562	  5e-33
+146-  1:	evm_model_chr11_1801	evm_model_chr4_591	  4e-72
+146-  2:	evm_model_chr11_1817	evm_model_chr4_593	  3e-06
+146-  3:	evm_model_chr11_1823	evm_model_chr4_607	  1e-26
+146-  4:	evm_model_chr11_1832	evm_model_chr4_608	  8e-15
+## Alignment 147: score=656.0 e_value=1.4e-39 N=16 gin_chr11&gin_chr5 plus
+147-  0:	evm_model_chr11_27	evm_model_chr5_26	 5e-223
+147-  1:	evm_model_chr11_32	evm_model_chr5_28	  2e-27
+147-  2:	evm_model_chr11_46	evm_model_chr5_37	 8e-123
+147-  3:	evm_model_chr11_60	evm_model_chr5_43	  3e-57
+147-  4:	evm_model_chr11_74	evm_model_chr5_44	 2e-184
+147-  5:	evm_model_chr11_77	evm_model_chr5_47	      0
+147-  6:	evm_model_chr11_95	evm_model_chr5_48	  4e-16
+147-  7:	evm_model_chr11_100	evm_model_chr5_51	 2e-110
+147-  8:	evm_model_chr11_106	evm_model_chr5_54	 4e-238
+147-  9:	evm_model_chr11_125	evm_model_chr5_67	  2e-85
+147- 10:	evm_model_chr11_134	evm_model_chr5_71	  1e-27
+147- 11:	evm_model_chr11_138	evm_model_chr5_79	      0
+147- 12:	evm_model_chr11_156	evm_model_chr5_83	 1e-227
+147- 13:	evm_model_chr11_169	evm_model_chr5_96	  5e-52
+147- 14:	evm_model_chr11_180	evm_model_chr5_103	 8e-134
+147- 15:	evm_model_chr11_182	evm_model_chr5_105	 3e-139
+## Alignment 148: score=453.0 e_value=4.7e-24 N=11 gin_chr11&gin_chr5 plus
+148-  0:	evm_model_chr11_1690	evm_model_chr5_1048	  2e-08
+148-  1:	evm_model_chr11_1709	evm_model_chr5_1070	  4e-41
+148-  2:	evm_model_chr11_1710	evm_model_chr5_1086	  3e-95
+148-  3:	evm_model_chr11_1715	evm_model_chr5_1096	 7e-151
+148-  4:	evm_model_chr11_1722	evm_model_chr5_1114	  2e-78
+148-  5:	evm_model_chr11_1727	evm_model_chr5_1118	 1e-155
+148-  6:	evm_model_chr11_1745	evm_model_chr5_1132	  1e-41
+148-  7:	evm_model_chr11_1751	evm_model_chr5_1135	 6e-138
+148-  8:	evm_model_chr11_1752	evm_model_chr5_1139	 2e-120
+148-  9:	evm_model_chr11_1756	evm_model_chr5_1140	 8e-265
+148- 10:	evm_model_chr11_1759	evm_model_chr5_1144	 3e-101
+## Alignment 149: score=366.0 e_value=3.1e-16 N=8 gin_chr11&gin_chr5 plus
+149-  0:	evm_model_chr11_581	evm_model_chr5_1278	 5e-235
+149-  1:	evm_model_chr11_591	evm_model_chr5_1285	 3e-212
+149-  2:	evm_model_chr11_592	evm_model_chr5_1286	 2e-115
+149-  3:	evm_model_chr11_596	evm_model_chr5_1297	  1e-22
+149-  4:	evm_model_chr11_604	evm_model_chr5_1303	  1e-37
+149-  5:	evm_model_chr11_609	evm_model_chr5_1308	  4e-88
+149-  6:	evm_model_chr11_614	evm_model_chr5_1309	 7e-101
+149-  7:	evm_model_chr11_615	evm_model_chr5_1310	  1e-26
+## Alignment 150: score=284.0 e_value=1.7e-14 N=8 gin_chr11&gin_chr5 plus
+150-  0:	evm_model_chr11_589	evm_model_chr5_116	  2e-29
+150-  1:	evm_model_chr11_639	evm_model_chr5_129	  4e-27
+150-  2:	evm_model_chr11_649	evm_model_chr5_152	  9e-32
+150-  3:	evm_model_chr11_656	evm_model_chr5_156	  2e-58
+150-  4:	evm_model_chr11_665	evm_model_chr5_163	  4e-38
+150-  5:	evm_model_chr11_668	evm_model_chr5_166	  5e-63
+150-  6:	evm_model_chr11_677	evm_model_chr5_181	  3e-77
+150-  7:	evm_model_chr11_693	evm_model_chr5_197	  9e-30
+## Alignment 151: score=232.0 e_value=6.4e-10 N=6 gin_chr11&gin_chr5 plus
+151-  0:	evm_model_chr11_1429	evm_model_chr5_832	  2e-37
+151-  1:	evm_model_chr11_1430	evm_model_chr5_834	  6e-17
+151-  2:	evm_model_chr11_1441	evm_model_chr5_842	  1e-41
+151-  3:	evm_model_chr11_1446	evm_model_chr5_846	  2e-46
+151-  4:	evm_model_chr11_1461	evm_model_chr5_898	  4e-64
+151-  5:	evm_model_chr11_1463	evm_model_chr5_901	  4e-38
+## Alignment 152: score=216.0 e_value=1.9e-10 N=6 gin_chr11&gin_chr5 minus
+152-  0:	evm_model_chr11_1627	evm_model_chr5_1040	 5e-183
+152-  1:	evm_model_chr11_1664	evm_model_chr5_991	  1e-44
+152-  2:	evm_model_chr11_1668	evm_model_chr5_985	 3e-153
+152-  3:	evm_model_chr11_1670	evm_model_chr5_982	  2e-13
+152-  4:	evm_model_chr11_1674	evm_model_chr5_981	 6e-207
+152-  5:	evm_model_chr11_1701	evm_model_chr5_975	  7e-82
+## Alignment 153: score=216.0 e_value=1.2e-09 N=6 gin_chr11&gin_chr5 minus
+153-  0:	evm_model_chr11_67	evm_model_chr5_1705	 6e-112
+153-  1:	evm_model_chr11_77	evm_model_chr5_1699	  2e-70
+153-  2:	evm_model_chr11_103	evm_model_chr5_1691	 6e-189
+153-  3:	evm_model_chr11_115	evm_model_chr5_1690	 1e-162
+153-  4:	evm_model_chr11_154	evm_model_chr5_1679	  1e-48
+153-  5:	evm_model_chr11_156	evm_model_chr5_1677	 3e-235
+## Alignment 154: score=208.0 e_value=1.6e-08 N=6 gin_chr11&gin_chr5 minus
+154-  0:	evm_model_chr11_18	evm_model_chr5_1853	  3e-41
+154-  1:	evm_model_chr11_32	evm_model_chr5_1846	  2e-41
+154-  2:	evm_model_chr11_59	evm_model_chr5_1840	 7e-177
+154-  3:	evm_model_chr11_78	evm_model_chr5_1839	 3e-195
+154-  4:	evm_model_chr11_88	evm_model_chr5_1832	  2e-80
+154-  5:	evm_model_chr11_115	evm_model_chr5_1814	 1e-126
+## Alignment 155: score=188.0 e_value=6.2e-05 N=4 gin_chr11&gin_chr5 minus
+155-  0:	evm_model_chr11_1458	evm_model_chr5_908	 2e-228
+155-  1:	evm_model_chr11_1459	evm_model_chr5_903	  3e-46
+155-  2:	evm_model_chr11_1460	evm_model_chr5_902	  1e-46
+155-  3:	evm_model_chr11_1469	evm_model_chr5_895	 6e-189
+## Alignment 156: score=259.0 e_value=6.9e-14 N=7 gin_chr11&gin_chr6 plus
+156-  0:	evm_model_chr11_712	evm_model_chr6_1486	      0
+156-  1:	evm_model_chr11_715	evm_model_chr6_1489	 4e-147
+156-  2:	evm_model_chr11_716	evm_model_chr6_1493	  3e-22
+156-  3:	evm_model_chr11_718	evm_model_chr6_1494	 3e-245
+156-  4:	evm_model_chr11_749	evm_model_chr6_1511	 4e-174
+156-  5:	evm_model_chr11_771	evm_model_chr6_1554	  8e-69
+156-  6:	evm_model_chr11_779	evm_model_chr6_1568	  5e-32
+## Alignment 157: score=173.0 e_value=0.00019 N=4 gin_chr11&gin_chr6 minus
+157-  0:	evm_model_chr11_1021	evm_model_chr6_137	  2e-65
+157-  1:	evm_model_chr11_1041	evm_model_chr6_122	  2e-63
+157-  2:	evm_model_chr11_1042	evm_model_chr6_116	 2e-154
+157-  3:	evm_model_chr11_1046	evm_model_chr6_115	  4e-83
+## Alignment 158: score=173.0 e_value=6.6e-06 N=5 gin_chr11&gin_chr7 plus
+158-  0:	evm_model_chr11_1620	evm_model_chr7_894	      0
+158-  1:	evm_model_chr11_1624	evm_model_chr7_909	 9e-247
+158-  2:	evm_model_chr11_1641	evm_model_chr7_931	 2e-304
+158-  3:	evm_model_chr11_1649	evm_model_chr7_956	 1e-274
+158-  4:	evm_model_chr11_1668	evm_model_chr7_961	 6e-149
+## Alignment 159: score=164.0 e_value=2.3e-08 N=6 gin_chr11&gin_chr7 plus
+159-  0:	evm_model_chr11_681	evm_model_chr7_28	  3e-35
+159-  1:	evm_model_chr11_712	evm_model_chr7_58	      0
+159-  2:	evm_model_chr11_716	evm_model_chr7_92	  7e-39
+159-  3:	evm_model_chr11_754	evm_model_chr7_103	  3e-18
+159-  4:	evm_model_chr11_779	evm_model_chr7_132	  6e-27
+159-  5:	evm_model_chr11_784	evm_model_chr7_141	 8e-159
+## Alignment 160: score=151.0 e_value=0.00062 N=4 gin_chr11&gin_chr7 plus
+160-  0:	evm_model_chr11_589	evm_model_chr7_276	  2e-33
+160-  1:	evm_model_chr11_606	evm_model_chr7_293	 2e-133
+160-  2:	evm_model_chr11_609	evm_model_chr7_323	  9e-97
+160-  3:	evm_model_chr11_614	evm_model_chr7_324	  8e-86
+## Alignment 161: score=165.0 e_value=4.5e-05 N=4 gin_chr11&gin_chr7 minus
+161-  0:	evm_model_chr11_720	evm_model_chr7_126	 4e-222
+161-  1:	evm_model_chr11_730	evm_model_chr7_121	  1e-30
+161-  2:	evm_model_chr11_754	evm_model_chr7_103	  3e-18
+161-  3:	evm_model_chr11_755	evm_model_chr7_99	  3e-23
+## Alignment 162: score=372.0 e_value=1.2e-21 N=10 gin_chr11&gin_chr8 minus
+162-  0:	evm_model_chr11_1245	evm_model_chr8_1964	  2e-43
+162-  1:	evm_model_chr11_1262	evm_model_chr8_1946	      0
+162-  2:	evm_model_chr11_1263	evm_model_chr8_1941	  5e-70
+162-  3:	evm_model_chr11_1318	evm_model_chr8_1922	  7e-23
+162-  4:	evm_model_chr11_1322	evm_model_chr8_1917	 3e-204
+162-  5:	evm_model_chr11_1329	evm_model_chr8_1906	 4e-180
+162-  6:	evm_model_chr11_1333	evm_model_chr8_1894	 2e-123
+162-  7:	evm_model_chr11_1346	evm_model_chr8_1876	  2e-47
+162-  8:	evm_model_chr11_1354	evm_model_chr8_1868	  2e-27
+162-  9:	evm_model_chr11_1359	evm_model_chr8_1865	  2e-26
+## Alignment 163: score=198.0 e_value=7e-09 N=6 gin_chr11&gin_chr9 plus
+163-  0:	evm_model_chr11_577	evm_model_chr9_531	 2e-129
+163-  1:	evm_model_chr11_583	evm_model_chr9_580	      0
+163-  2:	evm_model_chr11_589	evm_model_chr9_589	  4e-33
+163-  3:	evm_model_chr11_606	evm_model_chr9_597	 5e-104
+163-  4:	evm_model_chr11_608	evm_model_chr9_622	 1e-177
+163-  5:	evm_model_chr11_610	evm_model_chr9_629	  3e-53
+## Alignment 164: score=150.0 e_value=9.6e-05 N=4 gin_chr11&gin_chr9 minus
+164-  0:	evm_model_chr11_434	evm_model_chr9_1776	  6e-25
+164-  1:	evm_model_chr11_442	evm_model_chr9_1768	  3e-16
+164-  2:	evm_model_chr11_468	evm_model_chr9_1728	  2e-33
+164-  3:	evm_model_chr11_470	evm_model_chr9_1723	 2e-180
+## Alignment 165: score=214.0 e_value=2e-08 N=5 gin_chr12&gin_chr12 minus
+165-  0:	evm_model_chr12_1237	evm_model_chr12_1304	 1e-253
+165-  1:	evm_model_chr12_1242	evm_model_chr12_1287	  4e-29
+165-  2:	evm_model_chr12_1243	evm_model_chr12_1286	 4e-206
+165-  3:	evm_model_chr12_1246	evm_model_chr12_1285	 3e-206
+165-  4:	evm_model_chr12_1265	evm_model_chr12_1268	 6e-248
+## Alignment 166: score=205.0 e_value=4.8e-17 N=8 gin_chr12&gin_chr12 minus
+166-  0:	evm_model_chr12_819	evm_model_chr12_1198	 7e-107
+166-  1:	evm_model_chr12_820	evm_model_chr12_1196	 3e-238
+166-  2:	evm_model_chr12_852	evm_model_chr12_1174	      0
+166-  3:	evm_model_chr12_870	evm_model_chr12_1149	 4e-277
+166-  4:	evm_model_chr12_874	evm_model_chr12_1106	 2e-141
+166-  5:	evm_model_chr12_907	evm_model_chr12_1059	  3e-05
+166-  6:	evm_model_chr12_930	evm_model_chr12_1008	 6e-171
+166-  7:	evm_model_chr12_932	evm_model_chr12_1007	 2e-238
+## Alignment 167: score=186.0 e_value=0.0001 N=4 gin_chr12&gin_chr12 minus
+167-  0:	evm_model_chr12_1077	evm_model_chr12_1103	  6e-74
+167-  1:	evm_model_chr12_1079	evm_model_chr12_1101	  7e-76
+167-  2:	evm_model_chr12_1093	evm_model_chr12_1099	 1e-132
+167-  3:	evm_model_chr12_1094	evm_model_chr12_1098	  1e-44
+## Alignment 168: score=177.0 e_value=5e-10 N=6 gin_chr12&gin_chr12 minus
+168-  0:	evm_model_chr12_1109	evm_model_chr12_1304	 2e-236
+168-  1:	evm_model_chr12_1149	evm_model_chr12_1271	      0
+168-  2:	evm_model_chr12_1193	evm_model_chr12_1266	 1e-103
+168-  3:	evm_model_chr12_1231	evm_model_chr12_1246	 2e-203
+168-  4:	evm_model_chr12_1236	evm_model_chr12_1241	  4e-68
+168-  5:	evm_model_chr12_1237	evm_model_chr12_1240	 2e-256
+## Alignment 169: score=169.0 e_value=0.00023 N=4 gin_chr12&gin_chr2 plus
+169-  0:	evm_model_chr12_1742	evm_model_chr2_1280	 2e-275
+169-  1:	evm_model_chr12_1750	evm_model_chr2_1287	 5e-104
+169-  2:	evm_model_chr12_1752	evm_model_chr2_1288	  1e-61
+169-  3:	evm_model_chr12_1757	evm_model_chr2_1312	 2e-242
+## Alignment 170: score=158.0 e_value=4.4e-05 N=4 gin_chr12&gin_chr2 plus
+170-  0:	evm_model_chr12_1709	evm_model_chr2_82	 8e-106
+170-  1:	evm_model_chr12_1711	evm_model_chr2_93	  1e-12
+170-  2:	evm_model_chr12_1734	evm_model_chr2_122	  2e-25
+170-  3:	evm_model_chr12_1737	evm_model_chr2_123	  1e-11
+## Alignment 171: score=433.0 e_value=1.4e-34 N=14 gin_chr12&gin_chr3 plus
+171-  0:	evm_model_chr12_393	evm_model_chr3_1602	  6e-95
+171-  1:	evm_model_chr12_431	evm_model_chr3_1644	 8e-261
+171-  2:	evm_model_chr12_437	evm_model_chr3_1662	  2e-39
+171-  3:	evm_model_chr12_441	evm_model_chr3_1704	  4e-07
+171-  4:	evm_model_chr12_470	evm_model_chr3_1755	 4e-173
+171-  5:	evm_model_chr12_471	evm_model_chr3_1783	  2e-43
+171-  6:	evm_model_chr12_474	evm_model_chr3_1787	      0
+171-  7:	evm_model_chr12_476	evm_model_chr3_1788	  3e-98
+171-  8:	evm_model_chr12_482	evm_model_chr3_1790	 2e-272
+171-  9:	evm_model_chr12_489	evm_model_chr3_1793	 2e-126
+171- 10:	evm_model_chr12_490	evm_model_chr3_1797	  1e-22
+171- 11:	evm_model_chr12_500	evm_model_chr3_1812	 3e-148
+171- 12:	evm_model_chr12_528	evm_model_chr3_1838	  2e-39
+171- 13:	evm_model_chr12_561	evm_model_chr3_1851	  9e-28
+## Alignment 172: score=198.0 e_value=6.4e-07 N=5 gin_chr12&gin_chr3 plus
+172-  0:	evm_model_chr12_1683	evm_model_chr3_2359	  1e-92
+172-  1:	evm_model_chr12_1696	evm_model_chr3_2376	  3e-81
+172-  2:	evm_model_chr12_1701	evm_model_chr3_2404	 1e-123
+172-  3:	evm_model_chr12_1702	evm_model_chr3_2405	  9e-93
+172-  4:	evm_model_chr12_1707	evm_model_chr3_2415	 6e-184
+## Alignment 173: score=195.0 e_value=1.7e-08 N=6 gin_chr12&gin_chr3 plus
+173-  0:	evm_model_chr12_500	evm_model_chr3_1571	 4e-147
+173-  1:	evm_model_chr12_510	evm_model_chr3_1582	  4e-25
+173-  2:	evm_model_chr12_534	evm_model_chr3_1620	 1e-208
+173-  3:	evm_model_chr12_541	evm_model_chr3_1629	      0
+173-  4:	evm_model_chr12_555	evm_model_chr3_1636	  7e-18
+173-  5:	evm_model_chr12_593	evm_model_chr3_1663	  1e-80
+## Alignment 174: score=177.0 e_value=7.4e-08 N=5 gin_chr12&gin_chr3 plus
+174-  0:	evm_model_chr12_270	evm_model_chr3_1418	  9e-09
+174-  1:	evm_model_chr12_289	evm_model_chr3_1433	  7e-97
+174-  2:	evm_model_chr12_306	evm_model_chr3_1434	  2e-92
+174-  3:	evm_model_chr12_312	evm_model_chr3_1449	  4e-53
+174-  4:	evm_model_chr12_313	evm_model_chr3_1475	      0
+## Alignment 175: score=176.0 e_value=8.6e-06 N=5 gin_chr12&gin_chr3 plus
+175-  0:	evm_model_chr12_680	evm_model_chr3_1704	 2e-152
+175-  1:	evm_model_chr12_685	evm_model_chr3_1716	  3e-35
+175-  2:	evm_model_chr12_707	evm_model_chr3_1740	 5e-109
+175-  3:	evm_model_chr12_730	evm_model_chr3_1750	  2e-28
+175-  4:	evm_model_chr12_749	evm_model_chr3_1758	  3e-55
+## Alignment 176: score=171.0 e_value=3.8e-06 N=5 gin_chr12&gin_chr3 plus
+176-  0:	evm_model_chr12_687	evm_model_chr3_1673	  9e-18
+176-  1:	evm_model_chr12_696	evm_model_chr3_1697	 8e-148
+176-  2:	evm_model_chr12_721	evm_model_chr3_1716	  9e-59
+176-  3:	evm_model_chr12_732	evm_model_chr3_1718	 1e-143
+176-  4:	evm_model_chr12_755	evm_model_chr3_1730	  2e-23
+## Alignment 177: score=454.0 e_value=4.7e-23 N=11 gin_chr12&gin_chr3 minus
+177-  0:	evm_model_chr12_336	evm_model_chr3_1435	  2e-95
+177-  1:	evm_model_chr12_347	evm_model_chr3_1420	 2e-203
+177-  2:	evm_model_chr12_356	evm_model_chr3_1409	  5e-34
+177-  3:	evm_model_chr12_359	evm_model_chr3_1399	 3e-208
+177-  4:	evm_model_chr12_380	evm_model_chr3_1380	  1e-37
+177-  5:	evm_model_chr12_382	evm_model_chr3_1377	  2e-79
+177-  6:	evm_model_chr12_402	evm_model_chr3_1364	  1e-43
+177-  7:	evm_model_chr12_406	evm_model_chr3_1363	  2e-26
+177-  8:	evm_model_chr12_409	evm_model_chr3_1354	  1e-74
+177-  9:	evm_model_chr12_420	evm_model_chr3_1348	  2e-19
+177- 10:	evm_model_chr12_422	evm_model_chr3_1346	  2e-44
+## Alignment 178: score=278.0 e_value=5.9e-11 N=7 gin_chr12&gin_chr3 minus
+178-  0:	evm_model_chr12_530	evm_model_chr3_1536	 2e-213
+178-  1:	evm_model_chr12_534	evm_model_chr3_1531	 3e-202
+178-  2:	evm_model_chr12_540	evm_model_chr3_1523	  6e-47
+178-  3:	evm_model_chr12_546	evm_model_chr3_1507	  4e-15
+178-  4:	evm_model_chr12_562	evm_model_chr3_1487	  1e-22
+178-  5:	evm_model_chr12_575	evm_model_chr3_1482	 3e-108
+178-  6:	evm_model_chr12_584	evm_model_chr3_1466	  3e-61
+## Alignment 179: score=187.0 e_value=0.00012 N=4 gin_chr12&gin_chr3 minus
+179-  0:	evm_model_chr12_664	evm_model_chr3_836	  5e-39
+179-  1:	evm_model_chr12_666	evm_model_chr3_827	  2e-51
+179-  2:	evm_model_chr12_667	evm_model_chr3_825	 1e-275
+179-  3:	evm_model_chr12_672	evm_model_chr3_823	  3e-87
+## Alignment 180: score=178.0 e_value=1e-05 N=4 gin_chr12&gin_chr3 minus
+180-  0:	evm_model_chr12_443	evm_model_chr3_1683	 4e-169
+180-  1:	evm_model_chr12_447	evm_model_chr3_1680	 2e-175
+180-  2:	evm_model_chr12_455	evm_model_chr3_1660	  3e-09
+180-  3:	evm_model_chr12_456	evm_model_chr3_1659	  1e-69
+## Alignment 181: score=662.0 e_value=1.4e-42 N=16 gin_chr12&gin_chr4 plus
+181-  0:	evm_model_chr12_346	evm_model_chr4_592	  1e-25
+181-  1:	evm_model_chr12_352	evm_model_chr4_598	  5e-31
+181-  2:	evm_model_chr12_359	evm_model_chr4_601	  2e-49
+181-  3:	evm_model_chr12_361	evm_model_chr4_604	 9e-244
+181-  4:	evm_model_chr12_367	evm_model_chr4_608	  3e-55
+181-  5:	evm_model_chr12_385	evm_model_chr4_642	  6e-94
+181-  6:	evm_model_chr12_388	evm_model_chr4_652	  3e-79
+181-  7:	evm_model_chr12_406	evm_model_chr4_679	 4e-207
+181-  8:	evm_model_chr12_407	evm_model_chr4_683	      0
+181-  9:	evm_model_chr12_408	evm_model_chr4_684	  6e-18
+181- 10:	evm_model_chr12_415	evm_model_chr4_686	 4e-117
+181- 11:	evm_model_chr12_420	evm_model_chr4_699	  2e-12
+181- 12:	evm_model_chr12_426	evm_model_chr4_700	  2e-97
+181- 13:	evm_model_chr12_428	evm_model_chr4_705	 2e-214
+181- 14:	evm_model_chr12_434	evm_model_chr4_711	 2e-185
+181- 15:	evm_model_chr12_437	evm_model_chr4_729	  3e-99
+## Alignment 182: score=272.0 e_value=1.8e-14 N=7 gin_chr12&gin_chr4 plus
+182-  0:	evm_model_chr12_92	evm_model_chr4_362	  7e-20
+182-  1:	evm_model_chr12_113	evm_model_chr4_369	 7e-130
+182-  2:	evm_model_chr12_132	evm_model_chr4_409	  3e-91
+182-  3:	evm_model_chr12_133	evm_model_chr4_411	  6e-40
+182-  4:	evm_model_chr12_134	evm_model_chr4_416	  1e-91
+182-  5:	evm_model_chr12_138	evm_model_chr4_417	  3e-95
+182-  6:	evm_model_chr12_143	evm_model_chr4_429	 8e-228
+## Alignment 183: score=252.0 e_value=1.2e-08 N=6 gin_chr12&gin_chr4 plus
+183-  0:	evm_model_chr12_539	evm_model_chr4_846	 2e-152
+183-  1:	evm_model_chr12_550	evm_model_chr4_862	  1e-71
+183-  2:	evm_model_chr12_560	evm_model_chr4_871	  4e-68
+183-  3:	evm_model_chr12_567	evm_model_chr4_879	      0
+183-  4:	evm_model_chr12_568	evm_model_chr4_882	  5e-96
+183-  5:	evm_model_chr12_584	evm_model_chr4_892	  2e-85
+## Alignment 184: score=250.0 e_value=2.1e-14 N=7 gin_chr12&gin_chr4 plus
+184-  0:	evm_model_chr12_1758	evm_model_chr4_17	 7e-247
+184-  1:	evm_model_chr12_1770	evm_model_chr4_18	 2e-117
+184-  2:	evm_model_chr12_1774	evm_model_chr4_19	  5e-34
+184-  3:	evm_model_chr12_1786	evm_model_chr4_23	 3e-105
+184-  4:	evm_model_chr12_1787	evm_model_chr4_24	  2e-49
+184-  5:	evm_model_chr12_1837	evm_model_chr4_31	  4e-12
+184-  6:	evm_model_chr12_1864	evm_model_chr4_44	 1e-156
+## Alignment 185: score=217.0 e_value=1.1e-08 N=5 gin_chr12&gin_chr4 plus
+185-  0:	evm_model_chr12_576	evm_model_chr4_940	  1e-39
+185-  1:	evm_model_chr12_577	evm_model_chr4_941	 1e-160
+185-  2:	evm_model_chr12_587	evm_model_chr4_957	  4e-35
+185-  3:	evm_model_chr12_590	evm_model_chr4_972	  2e-82
+185-  4:	evm_model_chr12_594	evm_model_chr4_977	 3e-145
+## Alignment 186: score=797.0 e_value=2.9e-53 N=19 gin_chr12&gin_chr4 minus
+186-  0:	evm_model_chr12_445	evm_model_chr4_1439	 4e-203
+186-  1:	evm_model_chr12_446	evm_model_chr4_1415	  2e-86
+186-  2:	evm_model_chr12_452	evm_model_chr4_1407	  1e-05
+186-  3:	evm_model_chr12_463	evm_model_chr4_1403	 0.0004
+186-  4:	evm_model_chr12_468	evm_model_chr4_1400	  7e-73
+186-  5:	evm_model_chr12_474	evm_model_chr4_1390	 4e-204
+186-  6:	evm_model_chr12_479	evm_model_chr4_1381	 2e-158
+186-  7:	evm_model_chr12_489	evm_model_chr4_1377	 9e-147
+186-  8:	evm_model_chr12_490	evm_model_chr4_1376	  1e-16
+186-  9:	evm_model_chr12_493	evm_model_chr4_1352	 2e-214
+186- 10:	evm_model_chr12_507	evm_model_chr4_1351	  8e-79
+186- 11:	evm_model_chr12_509	evm_model_chr4_1344	  2e-84
+186- 12:	evm_model_chr12_510	evm_model_chr4_1340	  2e-09
+186- 13:	evm_model_chr12_515	evm_model_chr4_1338	 1e-158
+186- 14:	evm_model_chr12_520	evm_model_chr4_1333	  3e-17
+186- 15:	evm_model_chr12_521	evm_model_chr4_1330	 5e-170
+186- 16:	evm_model_chr12_527	evm_model_chr4_1323	  4e-31
+186- 17:	evm_model_chr12_530	evm_model_chr4_1312	 9e-195
+186- 18:	evm_model_chr12_539	evm_model_chr4_1299	  1e-75
+## Alignment 187: score=527.0 e_value=1e-27 N=12 gin_chr12&gin_chr4 minus
+187-  0:	evm_model_chr12_698	evm_model_chr4_1486	 7e-130
+187-  1:	evm_model_chr12_703	evm_model_chr4_1485	  4e-29
+187-  2:	evm_model_chr12_707	evm_model_chr4_1483	  1e-99
+187-  3:	evm_model_chr12_712	evm_model_chr4_1481	  8e-82
+187-  4:	evm_model_chr12_717	evm_model_chr4_1478	 9e-143
+187-  5:	evm_model_chr12_744	evm_model_chr4_1457	  9e-66
+187-  6:	evm_model_chr12_749	evm_model_chr4_1456	  7e-60
+187-  7:	evm_model_chr12_753	evm_model_chr4_1453	  2e-13
+187-  8:	evm_model_chr12_754	evm_model_chr4_1451	  2e-90
+187-  9:	evm_model_chr12_756	evm_model_chr4_1445	  9e-75
+187- 10:	evm_model_chr12_769	evm_model_chr4_1429	 4e-133
+187- 11:	evm_model_chr12_770	evm_model_chr4_1424	 2e-133
+## Alignment 188: score=185.0 e_value=3.9e-07 N=5 gin_chr12&gin_chr4 minus
+188-  0:	evm_model_chr12_422	evm_model_chr4_1260	  3e-55
+188-  1:	evm_model_chr12_429	evm_model_chr4_1257	  1e-19
+188-  2:	evm_model_chr12_433	evm_model_chr4_1235	  2e-38
+188-  3:	evm_model_chr12_437	evm_model_chr4_1234	  2e-60
+188-  4:	evm_model_chr12_473	evm_model_chr4_1219	 1e-110
+## Alignment 189: score=182.0 e_value=0.00057 N=4 gin_chr12&gin_chr4 minus
+189-  0:	evm_model_chr12_235	evm_model_chr4_474	 1e-209
+189-  1:	evm_model_chr12_243	evm_model_chr4_466	  5e-33
+189-  2:	evm_model_chr12_245	evm_model_chr4_461	  4e-61
+189-  3:	evm_model_chr12_250	evm_model_chr4_453	      0
+## Alignment 190: score=168.0 e_value=0.00063 N=4 gin_chr12&gin_chr4 minus
+190-  0:	evm_model_chr12_1722	evm_model_chr4_49	  4e-38
+190-  1:	evm_model_chr12_1741	evm_model_chr4_39	 1e-119
+190-  2:	evm_model_chr12_1744	evm_model_chr4_31	  2e-39
+190-  3:	evm_model_chr12_1752	evm_model_chr4_29	 2e-122
+## Alignment 191: score=178.0 e_value=0.00046 N=4 gin_chr12&gin_chr5 minus
+191-  0:	evm_model_chr12_255	evm_model_chr5_1435	 3e-101
+191-  1:	evm_model_chr12_256	evm_model_chr5_1431	 2e-127
+191-  2:	evm_model_chr12_271	evm_model_chr5_1427	  6e-44
+191-  3:	evm_model_chr12_277	evm_model_chr5_1424	  2e-56
+## Alignment 192: score=229.0 e_value=1.5e-09 N=5 gin_chr12&gin_chr6 plus
+192-  0:	evm_model_chr12_1042	evm_model_chr6_1519	 3e-295
+192-  1:	evm_model_chr12_1043	evm_model_chr6_1520	  8e-61
+192-  2:	evm_model_chr12_1044	evm_model_chr6_1521	 6e-180
+192-  3:	evm_model_chr12_1066	evm_model_chr6_1532	  2e-94
+192-  4:	evm_model_chr12_1067	evm_model_chr6_1533	  1e-14
+## Alignment 193: score=195.0 e_value=2.2e-08 N=5 gin_chr12&gin_chr6 plus
+193-  0:	evm_model_chr12_15	evm_model_chr6_39	  4e-52
+193-  1:	evm_model_chr12_22	evm_model_chr6_42	  7e-20
+193-  2:	evm_model_chr12_23	evm_model_chr6_44	  9e-51
+193-  3:	evm_model_chr12_27	evm_model_chr6_46	  4e-14
+193-  4:	evm_model_chr12_73	evm_model_chr6_69	  3e-72
+## Alignment 194: score=157.0 e_value=4.8e-08 N=4 gin_chr12&gin_chr6 plus
+194-  0:	evm_model_chr12_1557	evm_model_chr6_2029	  4e-19
+194-  1:	evm_model_chr12_1601	evm_model_chr6_2071	  3e-60
+194-  2:	evm_model_chr12_1602	evm_model_chr6_2072	 3e-115
+194-  3:	evm_model_chr12_1603	evm_model_chr6_2073	 1e-135
+## Alignment 195: score=264.0 e_value=2.1e-14 N=8 gin_chr12&gin_chr6 minus
+195-  0:	evm_model_chr12_1038	evm_model_chr6_2315	 2e-151
+195-  1:	evm_model_chr12_1057	evm_model_chr6_2303	 2e-216
+195-  2:	evm_model_chr12_1071	evm_model_chr6_2299	  2e-48
+195-  3:	evm_model_chr12_1080	evm_model_chr6_2293	  1e-40
+195-  4:	evm_model_chr12_1081	evm_model_chr6_2292	  1e-18
+195-  5:	evm_model_chr12_1130	evm_model_chr6_2289	      0
+195-  6:	evm_model_chr12_1147	evm_model_chr6_2279	 2e-101
+195-  7:	evm_model_chr12_1181	evm_model_chr6_2267	 5e-188
+## Alignment 196: score=192.0 e_value=3.8e-09 N=6 gin_chr12&gin_chr6 minus
+196-  0:	evm_model_chr12_1505	evm_model_chr6_791	  5e-16
+196-  1:	evm_model_chr12_1515	evm_model_chr6_787	 3e-134
+196-  2:	evm_model_chr12_1548	evm_model_chr6_764	  3e-17
+196-  3:	evm_model_chr12_1569	evm_model_chr6_754	 1e-187
+196-  4:	evm_model_chr12_1575	evm_model_chr6_751	      0
+196-  5:	evm_model_chr12_1591	evm_model_chr6_708	  2e-54
+## Alignment 197: score=650.0 e_value=2.3e-43 N=16 gin_chr12&gin_chr7 plus
+197-  0:	evm_model_chr12_422	evm_model_chr7_1842	  1e-30
+197-  1:	evm_model_chr12_468	evm_model_chr7_1887	  7e-72
+197-  2:	evm_model_chr12_471	evm_model_chr7_1888	  3e-37
+197-  3:	evm_model_chr12_479	evm_model_chr7_1901	 1e-164
+197-  4:	evm_model_chr12_480	evm_model_chr7_1905	 4e-255
+197-  5:	evm_model_chr12_482	evm_model_chr7_1907	 4e-228
+197-  6:	evm_model_chr12_487	evm_model_chr7_1908	 1e-122
+197-  7:	evm_model_chr12_489	evm_model_chr7_1910	 1e-143
+197-  8:	evm_model_chr12_500	evm_model_chr7_1929	 3e-139
+197-  9:	evm_model_chr12_508	evm_model_chr7_1932	 2e-120
+197- 10:	evm_model_chr12_511	evm_model_chr7_1936	 9e-123
+197- 11:	evm_model_chr12_516	evm_model_chr7_1939	  3e-31
+197- 12:	evm_model_chr12_557	evm_model_chr7_1971	 9e-267
+197- 13:	evm_model_chr12_560	evm_model_chr7_1974	  1e-43
+197- 14:	evm_model_chr12_567	evm_model_chr7_1978	 6e-298
+197- 15:	evm_model_chr12_568	evm_model_chr7_1981	 1e-102
+## Alignment 198: score=386.0 e_value=7.2e-17 N=9 gin_chr12&gin_chr7 plus
+198-  0:	evm_model_chr12_466	evm_model_chr7_675	 1e-183
+198-  1:	evm_model_chr12_470	evm_model_chr7_682	 1e-182
+198-  2:	evm_model_chr12_479	evm_model_chr7_692	 8e-154
+198-  3:	evm_model_chr12_490	evm_model_chr7_697	  4e-29
+198-  4:	evm_model_chr12_493	evm_model_chr7_699	 2e-173
+198-  5:	evm_model_chr12_508	evm_model_chr7_714	 2e-129
+198-  6:	evm_model_chr12_510	evm_model_chr7_732	  3e-05
+198-  7:	evm_model_chr12_514	evm_model_chr7_734	 1e-159
+198-  8:	evm_model_chr12_515	evm_model_chr7_737	 4e-174
+## Alignment 199: score=321.0 e_value=1.1e-14 N=8 gin_chr12&gin_chr7 plus
+199-  0:	evm_model_chr12_155	evm_model_chr7_1548	  1e-19
+199-  1:	evm_model_chr12_175	evm_model_chr7_1549	  7e-59
+199-  2:	evm_model_chr12_177	evm_model_chr7_1557	  1e-15
+199-  3:	evm_model_chr12_181	evm_model_chr7_1559	  3e-80
+199-  4:	evm_model_chr12_184	evm_model_chr7_1562	 9e-228
+199-  5:	evm_model_chr12_189	evm_model_chr7_1576	 6e-185
+199-  6:	evm_model_chr12_209	evm_model_chr7_1587	  1e-47
+199-  7:	evm_model_chr12_218	evm_model_chr7_1604	  9e-15
+## Alignment 200: score=256.0 e_value=1.3e-08 N=6 gin_chr12&gin_chr7 plus
+200-  0:	evm_model_chr12_53	evm_model_chr7_1421	  4e-40
+200-  1:	evm_model_chr12_58	evm_model_chr7_1434	  4e-92
+200-  2:	evm_model_chr12_59	evm_model_chr7_1436	 1e-277
+200-  3:	evm_model_chr12_67	evm_model_chr7_1446	 5e-109
+200-  4:	evm_model_chr12_71	evm_model_chr7_1456	 1e-190
+200-  5:	evm_model_chr12_73	evm_model_chr7_1470	  3e-61
+## Alignment 201: score=244.0 e_value=1.8e-13 N=7 gin_chr12&gin_chr7 plus
+201-  0:	evm_model_chr12_1121	evm_model_chr7_533	  7e-26
+201-  1:	evm_model_chr12_1147	evm_model_chr7_547	 7e-101
+201-  2:	evm_model_chr12_1155	evm_model_chr7_549	  7e-51
+201-  3:	evm_model_chr12_1156	evm_model_chr7_555	  6e-40
+201-  4:	evm_model_chr12_1170	evm_model_chr7_559	  6e-32
+201-  5:	evm_model_chr12_1178	evm_model_chr7_564	  6e-65
+201-  6:	evm_model_chr12_1199	evm_model_chr7_614	  1e-80
+## Alignment 202: score=158.0 e_value=0.00025 N=4 gin_chr12&gin_chr7 plus
+202-  0:	evm_model_chr12_244	evm_model_chr7_1772	 5e-280
+202-  1:	evm_model_chr12_252	evm_model_chr7_1778	 1e-218
+202-  2:	evm_model_chr12_255	evm_model_chr7_1784	  5e-82
+202-  3:	evm_model_chr12_286	evm_model_chr7_1806	      0
+## Alignment 203: score=341.0 e_value=1.2e-27 N=10 gin_chr12&gin_chr7 minus
+203-  0:	evm_model_chr12_23	evm_model_chr7_1530	  9e-51
+203-  1:	evm_model_chr12_28	evm_model_chr7_1529	  1e-59
+203-  2:	evm_model_chr12_30	evm_model_chr7_1528	 4e-201
+203-  3:	evm_model_chr12_31	evm_model_chr7_1497	  5e-34
+203-  4:	evm_model_chr12_32	evm_model_chr7_1496	  4e-10
+203-  5:	evm_model_chr12_64	evm_model_chr7_1450	  7e-96
+203-  6:	evm_model_chr12_65	evm_model_chr7_1449	 4e-115
+203-  7:	evm_model_chr12_68	evm_model_chr7_1439	  5e-33
+203-  8:	evm_model_chr12_106	evm_model_chr7_1383	 4e-156
+203-  9:	evm_model_chr12_110	evm_model_chr7_1367	 8e-172
+## Alignment 204: score=203.0 e_value=2e-11 N=6 gin_chr12&gin_chr7 minus
+204-  0:	evm_model_chr12_65	evm_model_chr7_1778	  1e-10
+204-  1:	evm_model_chr12_96	evm_model_chr7_1766	 2e-174
+204-  2:	evm_model_chr12_107	evm_model_chr7_1741	  4e-19
+204-  3:	evm_model_chr12_125	evm_model_chr7_1740	 1e-150
+204-  4:	evm_model_chr12_147	evm_model_chr7_1737	 6e-181
+204-  5:	evm_model_chr12_148	evm_model_chr7_1731	 5e-166
+## Alignment 205: score=186.0 e_value=5.3e-07 N=5 gin_chr12&gin_chr7 minus
+205-  0:	evm_model_chr12_687	evm_model_chr7_2158	  2e-64
+205-  1:	evm_model_chr12_697	evm_model_chr7_2146	  7e-39
+205-  2:	evm_model_chr12_744	evm_model_chr7_2142	  4e-75
+205-  3:	evm_model_chr12_749	evm_model_chr7_2141	  4e-55
+205-  4:	evm_model_chr12_753	evm_model_chr7_2137	  7e-10
+## Alignment 206: score=184.0 e_value=2.6e-06 N=5 gin_chr12&gin_chr7 minus
+206-  0:	evm_model_chr12_584	evm_model_chr7_32	  8e-63
+206-  1:	evm_model_chr12_618	evm_model_chr7_30	  2e-21
+206-  2:	evm_model_chr12_635	evm_model_chr7_19	      0
+206-  3:	evm_model_chr12_641	evm_model_chr7_8	  4e-29
+206-  4:	evm_model_chr12_649	evm_model_chr7_7	  5e-91
+## Alignment 207: score=169.0 e_value=0.00038 N=4 gin_chr12&gin_chr7 minus
+207-  0:	evm_model_chr12_1071	evm_model_chr7_543	  9e-48
+207-  1:	evm_model_chr12_1074	evm_model_chr7_538	  2e-80
+207-  2:	evm_model_chr12_1083	evm_model_chr7_537	  3e-46
+207-  3:	evm_model_chr12_1103	evm_model_chr7_533	  2e-26
+## Alignment 208: score=385.0 e_value=1.3e-18 N=9 gin_chr12&gin_chr8 plus
+208-  0:	evm_model_chr12_1036	evm_model_chr8_2297	  4e-70
+208-  1:	evm_model_chr12_1054	evm_model_chr8_2308	  3e-66
+208-  2:	evm_model_chr12_1063	evm_model_chr8_2318	  9e-45
+208-  3:	evm_model_chr12_1068	evm_model_chr8_2327	 4e-165
+208-  4:	evm_model_chr12_1070	evm_model_chr8_2328	  8e-62
+208-  5:	evm_model_chr12_1071	evm_model_chr8_2332	  6e-47
+208-  6:	evm_model_chr12_1077	evm_model_chr8_2333	  4e-41
+208-  7:	evm_model_chr12_1081	evm_model_chr8_2338	  5e-55
+208-  8:	evm_model_chr12_1100	evm_model_chr8_2340	 1e-112
+## Alignment 209: score=308.0 e_value=1.3e-15 N=8 gin_chr12&gin_chr8 plus
+209-  0:	evm_model_chr12_1458	evm_model_chr8_2024	  1e-85
+209-  1:	evm_model_chr12_1461	evm_model_chr8_2036	 1e-185
+209-  2:	evm_model_chr12_1468	evm_model_chr8_2038	  6e-29
+209-  3:	evm_model_chr12_1487	evm_model_chr8_2052	 3e-170
+209-  4:	evm_model_chr12_1526	evm_model_chr8_2054	 4e-179
+209-  5:	evm_model_chr12_1530	evm_model_chr8_2055	 3e-101
+209-  6:	evm_model_chr12_1531	evm_model_chr8_2056	  6e-48
+209-  7:	evm_model_chr12_1543	evm_model_chr8_2073	      0
+## Alignment 210: score=244.0 e_value=7.3e-10 N=6 gin_chr12&gin_chr8 minus
+210-  0:	evm_model_chr12_3	evm_model_chr8_1245	  1e-64
+210-  1:	evm_model_chr12_9	evm_model_chr8_1243	  1e-35
+210-  2:	evm_model_chr12_10	evm_model_chr8_1213	 1e-198
+210-  3:	evm_model_chr12_14	evm_model_chr8_1198	  4e-37
+210-  4:	evm_model_chr12_17	evm_model_chr8_1195	 1e-246
+210-  5:	evm_model_chr12_24	evm_model_chr8_1192	 3e-242
+## Alignment 211: score=193.0 e_value=2.7e-07 N=5 gin_chr12&gin_chr8 minus
+211-  0:	evm_model_chr12_1786	evm_model_chr8_29	  2e-74
+211-  1:	evm_model_chr12_1788	evm_model_chr8_24	      0
+211-  2:	evm_model_chr12_1794	evm_model_chr8_23	      0
+211-  3:	evm_model_chr12_1797	evm_model_chr8_22	  1e-18
+211-  4:	evm_model_chr12_1844	evm_model_chr8_16	 8e-264
+## Alignment 212: score=177.0 e_value=4.3e-06 N=5 gin_chr12&gin_chr8 minus
+212-  0:	evm_model_chr12_1121	evm_model_chr8_2333	  1e-40
+212-  1:	evm_model_chr12_1127	evm_model_chr8_2319	  2e-27
+212-  2:	evm_model_chr12_1154	evm_model_chr8_2280	  7e-23
+212-  3:	evm_model_chr12_1170	evm_model_chr8_2274	  6e-69
+212-  4:	evm_model_chr12_1176	evm_model_chr8_2266	 4e-172
+## Alignment 213: score=176.0 e_value=0.00066 N=4 gin_chr12&gin_chr8 minus
+213-  0:	evm_model_chr12_1420	evm_model_chr8_1973	  3e-13
+213-  1:	evm_model_chr12_1429	evm_model_chr8_1964	  5e-51
+213-  2:	evm_model_chr12_1439	evm_model_chr8_1950	      0
+213-  3:	evm_model_chr12_1441	evm_model_chr8_1946	      0
+## Alignment 214: score=197.0 e_value=9.9e-15 N=6 gin_chr2&gin_chr2 plus
+214-  0:	evm_model_chr2_116	evm_model_chr2_1252	  2e-60
+214-  1:	evm_model_chr2_117	evm_model_chr2_1253	 4e-195
+214-  2:	evm_model_chr2_118	evm_model_chr2_1257	  2e-20
+214-  3:	evm_model_chr2_146	evm_model_chr2_1308	  1e-80
+214-  4:	evm_model_chr2_183	evm_model_chr2_1322	  2e-57
+214-  5:	evm_model_chr2_198	evm_model_chr2_1335	  1e-41
+## Alignment 215: score=349.0 e_value=4.2e-14 N=8 gin_chr2&gin_chr2 minus
+215-  0:	evm_model_chr2_643	evm_model_chr2_1364	  8e-39
+215-  1:	evm_model_chr2_648	evm_model_chr2_1352	 3e-118
+215-  2:	evm_model_chr2_659	evm_model_chr2_1342	  3e-88
+215-  3:	evm_model_chr2_663	evm_model_chr2_1338	  2e-88
+215-  4:	evm_model_chr2_668	evm_model_chr2_1334	 2e-195
+215-  5:	evm_model_chr2_675	evm_model_chr2_1332	  1e-97
+215-  6:	evm_model_chr2_678	evm_model_chr2_1330	 1e-144
+215-  7:	evm_model_chr2_679	evm_model_chr2_1314	 4e-156
+## Alignment 216: score=215.0 e_value=3.2e-09 N=6 gin_chr2&gin_chr2 minus
+216-  0:	evm_model_chr2_35	evm_model_chr2_868	  9e-21
+216-  1:	evm_model_chr2_75	evm_model_chr2_862	  3e-35
+216-  2:	evm_model_chr2_94	evm_model_chr2_847	 9e-122
+216-  3:	evm_model_chr2_109	evm_model_chr2_837	 1e-253
+216-  4:	evm_model_chr2_120	evm_model_chr2_835	 9e-113
+216-  5:	evm_model_chr2_121	evm_model_chr2_832	  3e-66
+## Alignment 217: score=188.0 e_value=3.5e-14 N=7 gin_chr2&gin_chr2 minus
+217-  0:	evm_model_chr2_645	evm_model_chr2_870	 2e-114
+217-  1:	evm_model_chr2_689	evm_model_chr2_843	  4e-99
+217-  2:	evm_model_chr2_727	evm_model_chr2_837	 1e-155
+217-  3:	evm_model_chr2_738	evm_model_chr2_791	  1e-93
+217-  4:	evm_model_chr2_740	evm_model_chr2_762	 6e-134
+217-  5:	evm_model_chr2_748	evm_model_chr2_756	  2e-94
+217-  6:	evm_model_chr2_751	evm_model_chr2_755	  1e-10
+## Alignment 218: score=174.0 e_value=0.00092 N=4 gin_chr2&gin_chr2 minus
+218-  0:	evm_model_chr2_1008	evm_model_chr2_1070	  2e-21
+218-  1:	evm_model_chr2_1016	evm_model_chr2_1065	 6e-184
+218-  2:	evm_model_chr2_1026	evm_model_chr2_1050	  1e-30
+218-  3:	evm_model_chr2_1032	evm_model_chr2_1045	  3e-96
+## Alignment 219: score=173.0 e_value=0.00015 N=4 gin_chr2&gin_chr2 minus
+219-  0:	evm_model_chr2_43	evm_model_chr2_970	  4e-99
+219-  1:	evm_model_chr2_45	evm_model_chr2_968	  9e-93
+219-  2:	evm_model_chr2_62	evm_model_chr2_964	 1e-127
+219-  3:	evm_model_chr2_72	evm_model_chr2_953	  2e-69
+## Alignment 220: score=169.0 e_value=2.1e-09 N=6 gin_chr2&gin_chr2 minus
+220-  0:	evm_model_chr2_40	evm_model_chr2_1336	 4e-160
+220-  1:	evm_model_chr2_90	evm_model_chr2_1316	  2e-89
+220-  2:	evm_model_chr2_104	evm_model_chr2_1281	      0
+220-  3:	evm_model_chr2_107	evm_model_chr2_1269	  3e-59
+220-  4:	evm_model_chr2_116	evm_model_chr2_1267	  2e-57
+220-  5:	evm_model_chr2_146	evm_model_chr2_1258	  9e-40
+## Alignment 221: score=158.0 e_value=3.5e-05 N=4 gin_chr2&gin_chr2 minus
+221-  0:	evm_model_chr2_383	evm_model_chr2_466	 2e-103
+221-  1:	evm_model_chr2_385	evm_model_chr2_464	 4e-105
+221-  2:	evm_model_chr2_412	evm_model_chr2_454	 8e-121
+221-  3:	evm_model_chr2_428	evm_model_chr2_439	 4e-189
+## Alignment 222: score=222.0 e_value=4e-08 N=6 gin_chr2&gin_chr3 plus
+222-  0:	evm_model_chr2_1102	evm_model_chr3_53	 6e-201
+222-  1:	evm_model_chr2_1108	evm_model_chr3_67	 6e-204
+222-  2:	evm_model_chr2_1111	evm_model_chr3_74	  4e-84
+222-  3:	evm_model_chr2_1114	evm_model_chr3_100	  7e-85
+222-  4:	evm_model_chr2_1122	evm_model_chr3_134	 1e-181
+222-  5:	evm_model_chr2_1124	evm_model_chr3_136	 5e-195
+## Alignment 223: score=208.0 e_value=7.1e-08 N=6 gin_chr2&gin_chr3 plus
+223-  0:	evm_model_chr2_166	evm_model_chr3_2229	  1e-84
+223-  1:	evm_model_chr2_188	evm_model_chr3_2240	 1e-299
+223-  2:	evm_model_chr2_201	evm_model_chr3_2248	  6e-67
+223-  3:	evm_model_chr2_232	evm_model_chr3_2251	      0
+223-  4:	evm_model_chr2_236	evm_model_chr3_2257	 3e-105
+223-  5:	evm_model_chr2_261	evm_model_chr3_2270	  4e-33
+## Alignment 224: score=179.0 e_value=1.3e-06 N=5 gin_chr2&gin_chr3 plus
+224-  0:	evm_model_chr2_488	evm_model_chr3_445	 1e-127
+224-  1:	evm_model_chr2_489	evm_model_chr3_453	 1e-137
+224-  2:	evm_model_chr2_497	evm_model_chr3_475	 1e-101
+224-  3:	evm_model_chr2_521	evm_model_chr3_479	 4e-137
+224-  4:	evm_model_chr2_542	evm_model_chr3_480	 1e-152
+## Alignment 225: score=151.0 e_value=6.3e-07 N=4 gin_chr2&gin_chr3 plus
+225-  0:	evm_model_chr2_1228	evm_model_chr3_1258	  3e-44
+225-  1:	evm_model_chr2_1253	evm_model_chr3_1296	  4e-69
+225-  2:	evm_model_chr2_1259	evm_model_chr3_1297	  1e-86
+225-  3:	evm_model_chr2_1267	evm_model_chr3_1303	 4e-144
+## Alignment 226: score=285.0 e_value=1.3e-11 N=6 gin_chr2&gin_chr3 minus
+226-  0:	evm_model_chr2_407	evm_model_chr3_434	  2e-87
+226-  1:	evm_model_chr2_409	evm_model_chr3_433	  3e-21
+226-  2:	evm_model_chr2_418	evm_model_chr3_424	      0
+226-  3:	evm_model_chr2_420	evm_model_chr3_419	  4e-21
+226-  4:	evm_model_chr2_421	evm_model_chr3_416	 4e-205
+226-  5:	evm_model_chr2_422	evm_model_chr3_415	  9e-28
+## Alignment 227: score=221.0 e_value=5.5e-08 N=6 gin_chr2&gin_chr3 minus
+227-  0:	evm_model_chr2_291	evm_model_chr3_2354	  4e-27
+227-  1:	evm_model_chr2_310	evm_model_chr3_2343	 1e-265
+227-  2:	evm_model_chr2_316	evm_model_chr3_2342	 2e-279
+227-  3:	evm_model_chr2_348	evm_model_chr3_2324	  3e-46
+227-  4:	evm_model_chr2_363	evm_model_chr3_2314	  3e-59
+227-  5:	evm_model_chr2_375	evm_model_chr3_2307	  1e-92
+## Alignment 228: score=167.0 e_value=5.3e-08 N=6 gin_chr2&gin_chr3 minus
+228-  0:	evm_model_chr2_487	evm_model_chr3_510	 2e-110
+228-  1:	evm_model_chr2_515	evm_model_chr3_479	 2e-135
+228-  2:	evm_model_chr2_521	evm_model_chr3_452	  6e-89
+228-  3:	evm_model_chr2_539	evm_model_chr3_443	  5e-71
+228-  4:	evm_model_chr2_564	evm_model_chr3_426	  1e-71
+228-  5:	evm_model_chr2_601	evm_model_chr3_409	  6e-40
+## Alignment 229: score=174.0 e_value=5.9e-05 N=4 gin_chr2&gin_chr4 plus
+229-  0:	evm_model_chr2_523	evm_model_chr4_884	 2e-134
+229-  1:	evm_model_chr2_524	evm_model_chr4_886	  7e-79
+229-  2:	evm_model_chr2_542	evm_model_chr4_898	 5e-156
+229-  3:	evm_model_chr2_551	evm_model_chr4_906	 2e-255
+## Alignment 230: score=166.0 e_value=1.1e-06 N=5 gin_chr2&gin_chr4 plus
+230-  0:	evm_model_chr2_1067	evm_model_chr4_1533	 2e-182
+230-  1:	evm_model_chr2_1109	evm_model_chr4_1542	 2e-179
+230-  2:	evm_model_chr2_1111	evm_model_chr4_1556	  2e-78
+230-  3:	evm_model_chr2_1115	evm_model_chr4_1581	 3e-181
+230-  4:	evm_model_chr2_1122	evm_model_chr4_1584	 7e-181
+## Alignment 231: score=197.0 e_value=2.6e-07 N=5 gin_chr2&gin_chr4 minus
+231-  0:	evm_model_chr2_2184	evm_model_chr4_1689	  3e-30
+231-  1:	evm_model_chr2_2193	evm_model_chr4_1683	 3e-124
+231-  2:	evm_model_chr2_2201	evm_model_chr4_1667	  1e-94
+231-  3:	evm_model_chr2_2218	evm_model_chr4_1636	  7e-73
+231-  4:	evm_model_chr2_2219	evm_model_chr4_1635	  6e-28
+## Alignment 232: score=189.0 e_value=5.8e-06 N=5 gin_chr2&gin_chr4 minus
+232-  0:	evm_model_chr2_502	evm_model_chr4_925	  1e-65
+232-  1:	evm_model_chr2_514	evm_model_chr4_920	  2e-39
+232-  2:	evm_model_chr2_532	evm_model_chr4_917	 1e-185
+232-  3:	evm_model_chr2_551	evm_model_chr4_906	 2e-255
+232-  4:	evm_model_chr2_567	evm_model_chr4_895	  6e-56
+## Alignment 233: score=189.0 e_value=3.6e-08 N=6 gin_chr2&gin_chr4 minus
+233-  0:	evm_model_chr2_1203	evm_model_chr4_2026	  3e-12
+233-  1:	evm_model_chr2_1211	evm_model_chr4_2019	  3e-77
+233-  2:	evm_model_chr2_1215	evm_model_chr4_2008	 1e-147
+233-  3:	evm_model_chr2_1228	evm_model_chr4_2000	  1e-48
+233-  4:	evm_model_chr2_1276	evm_model_chr4_1988	  7e-82
+233-  5:	evm_model_chr2_1312	evm_model_chr4_1987	 3e-232
+## Alignment 234: score=176.0 e_value=0.00039 N=4 gin_chr2&gin_chr4 minus
+234-  0:	evm_model_chr2_1005	evm_model_chr4_923	 8e-213
+234-  1:	evm_model_chr2_1009	evm_model_chr4_909	 1e-145
+234-  2:	evm_model_chr2_1011	evm_model_chr4_908	  1e-07
+234-  3:	evm_model_chr2_1022	evm_model_chr4_899	  3e-71
+## Alignment 235: score=173.0 e_value=1.2e-08 N=6 gin_chr2&gin_chr4 minus
+235-  0:	evm_model_chr2_188	evm_model_chr4_243	 1e-280
+235-  1:	evm_model_chr2_212	evm_model_chr4_197	  2e-63
+235-  2:	evm_model_chr2_262	evm_model_chr4_169	 9e-152
+235-  3:	evm_model_chr2_275	evm_model_chr4_166	 6e-176
+235-  4:	evm_model_chr2_290	evm_model_chr4_155	 3e-256
+235-  5:	evm_model_chr2_295	evm_model_chr4_147	  2e-62
+## Alignment 236: score=179.0 e_value=7.4e-05 N=4 gin_chr2&gin_chr5 plus
+236-  0:	evm_model_chr2_2200	evm_model_chr5_1919	 2e-260
+236-  1:	evm_model_chr2_2201	evm_model_chr5_1923	 3e-112
+236-  2:	evm_model_chr2_2205	evm_model_chr5_1934	 2e-102
+236-  3:	evm_model_chr2_2214	evm_model_chr5_1941	  4e-45
+## Alignment 237: score=169.0 e_value=0.00025 N=4 gin_chr2&gin_chr5 plus
+237-  0:	evm_model_chr2_1489	evm_model_chr5_787	 6e-206
+237-  1:	evm_model_chr2_1490	evm_model_chr5_807	  1e-29
+237-  2:	evm_model_chr2_1498	evm_model_chr5_814	  1e-37
+237-  3:	evm_model_chr2_1504	evm_model_chr5_818	  2e-74
+## Alignment 238: score=335.0 e_value=6e-16 N=8 gin_chr2&gin_chr5 minus
+238-  0:	evm_model_chr2_1373	evm_model_chr5_2046	  1e-50
+238-  1:	evm_model_chr2_1381	evm_model_chr5_2031	  4e-87
+238-  2:	evm_model_chr2_1382	evm_model_chr5_2030	  8e-76
+238-  3:	evm_model_chr2_1393	evm_model_chr5_2005	      0
+238-  4:	evm_model_chr2_1401	evm_model_chr5_1988	  2e-62
+238-  5:	evm_model_chr2_1411	evm_model_chr5_1984	  3e-64
+238-  6:	evm_model_chr2_1412	evm_model_chr5_1983	 2e-134
+238-  7:	evm_model_chr2_1413	evm_model_chr5_1980	 2e-308
+## Alignment 239: score=237.0 e_value=7.6e-15 N=8 gin_chr2&gin_chr5 minus
+239-  0:	evm_model_chr2_1988	evm_model_chr5_1225	  5e-16
+239-  1:	evm_model_chr2_1991	evm_model_chr5_1179	  9e-17
+239-  2:	evm_model_chr2_2025	evm_model_chr5_1177	  5e-12
+239-  3:	evm_model_chr2_2040	evm_model_chr5_1175	  3e-51
+239-  4:	evm_model_chr2_2074	evm_model_chr5_1159	      0
+239-  5:	evm_model_chr2_2085	evm_model_chr5_1140	 2e-260
+239-  6:	evm_model_chr2_2094	evm_model_chr5_1131	  5e-55
+239-  7:	evm_model_chr2_2096	evm_model_chr5_1118	 5e-172
+## Alignment 240: score=221.0 e_value=3.5e-07 N=5 gin_chr2&gin_chr5 minus
+240-  0:	evm_model_chr2_1803	evm_model_chr5_555	 2e-313
+240-  1:	evm_model_chr2_1807	evm_model_chr5_549	 3e-108
+240-  2:	evm_model_chr2_1808	evm_model_chr5_547	 5e-132
+240-  3:	evm_model_chr2_1815	evm_model_chr5_544	  4e-63
+240-  4:	evm_model_chr2_1833	evm_model_chr5_538	  1e-10
+## Alignment 241: score=217.0 e_value=1.7e-10 N=5 gin_chr2&gin_chr6 minus
+241-  0:	evm_model_chr2_1202	evm_model_chr6_1128	 1e-126
+241-  1:	evm_model_chr2_1203	evm_model_chr6_1127	  1e-23
+241-  2:	evm_model_chr2_1213	evm_model_chr6_1126	  4e-67
+241-  3:	evm_model_chr2_1214	evm_model_chr6_1114	  7e-96
+241-  4:	evm_model_chr2_1228	evm_model_chr6_1109	  4e-62
+## Alignment 242: score=179.0 e_value=2.7e-06 N=5 gin_chr2&gin_chr7 plus
+242-  0:	evm_model_chr2_845	evm_model_chr7_2046	  2e-13
+242-  1:	evm_model_chr2_870	evm_model_chr7_2059	  1e-15
+242-  2:	evm_model_chr2_885	evm_model_chr7_2071	  7e-73
+242-  3:	evm_model_chr2_887	evm_model_chr7_2075	  2e-68
+242-  4:	evm_model_chr2_915	evm_model_chr7_2106	  1e-12
+## Alignment 243: score=176.0 e_value=5.6e-07 N=5 gin_chr2&gin_chr7 plus
+243-  0:	evm_model_chr2_1008	evm_model_chr7_776	  9e-98
+243-  1:	evm_model_chr2_1054	evm_model_chr7_811	 2e-143
+243-  2:	evm_model_chr2_1060	evm_model_chr7_817	 2e-173
+243-  3:	evm_model_chr2_1066	evm_model_chr7_821	 2e-135
+243-  4:	evm_model_chr2_1070	evm_model_chr7_841	  3e-17
+## Alignment 244: score=495.0 e_value=7.2e-31 N=12 gin_chr2&gin_chr7 minus
+244-  0:	evm_model_chr2_1723	evm_model_chr7_1700	 9e-128
+244-  1:	evm_model_chr2_1725	evm_model_chr7_1690	  2e-28
+244-  2:	evm_model_chr2_1728	evm_model_chr7_1685	  1e-54
+244-  3:	evm_model_chr2_1735	evm_model_chr7_1668	 1e-161
+244-  4:	evm_model_chr2_1736	evm_model_chr7_1663	  1e-73
+244-  5:	evm_model_chr2_1747	evm_model_chr7_1655	  3e-77
+244-  6:	evm_model_chr2_1749	evm_model_chr7_1654	  2e-11
+244-  7:	evm_model_chr2_1756	evm_model_chr7_1652	 2e-239
+244-  8:	evm_model_chr2_1757	evm_model_chr7_1650	  9e-26
+244-  9:	evm_model_chr2_1765	evm_model_chr7_1648	  6e-26
+244- 10:	evm_model_chr2_1792	evm_model_chr7_1637	  3e-40
+244- 11:	evm_model_chr2_1817	evm_model_chr7_1619	  3e-92
+## Alignment 245: score=306.0 e_value=2.7e-15 N=8 gin_chr2&gin_chr7 minus
+245-  0:	evm_model_chr2_1050	evm_model_chr7_1447	  2e-18
+245-  1:	evm_model_chr2_1059	evm_model_chr7_1438	  9e-89
+245-  2:	evm_model_chr2_1060	evm_model_chr7_1423	 3e-175
+245-  3:	evm_model_chr2_1061	evm_model_chr7_1422	 1e-100
+245-  4:	evm_model_chr2_1078	evm_model_chr7_1408	 3e-128
+245-  5:	evm_model_chr2_1083	evm_model_chr7_1398	  1e-74
+245-  6:	evm_model_chr2_1092	evm_model_chr7_1388	  1e-11
+245-  7:	evm_model_chr2_1109	evm_model_chr7_1349	  1e-66
+## Alignment 246: score=178.0 e_value=0.00013 N=4 gin_chr2&gin_chr7 minus
+246-  0:	evm_model_chr2_873	evm_model_chr7_2094	      0
+246-  1:	evm_model_chr2_880	evm_model_chr7_2093	  7e-17
+246-  2:	evm_model_chr2_881	evm_model_chr7_2092	      0
+246-  3:	evm_model_chr2_887	evm_model_chr7_2075	  2e-68
+## Alignment 247: score=206.0 e_value=1.1e-06 N=5 gin_chr2&gin_chr8 plus
+247-  0:	evm_model_chr2_1316	evm_model_chr8_913	 2e-128
+247-  1:	evm_model_chr2_1317	evm_model_chr8_915	  8e-21
+247-  2:	evm_model_chr2_1329	evm_model_chr8_920	  1e-42
+247-  3:	evm_model_chr2_1342	evm_model_chr8_933	  1e-17
+247-  4:	evm_model_chr2_1363	evm_model_chr8_941	 4e-149
+## Alignment 248: score=168.0 e_value=3.4e-06 N=5 gin_chr2&gin_chr8 plus
+248-  0:	evm_model_chr2_1722	evm_model_chr8_1195	 3e-117
+248-  1:	evm_model_chr2_1723	evm_model_chr8_1215	 1e-119
+248-  2:	evm_model_chr2_1736	evm_model_chr8_1248	  1e-66
+248-  3:	evm_model_chr2_1752	evm_model_chr8_1266	  1e-47
+248-  4:	evm_model_chr2_1762	evm_model_chr8_1281	  4e-34
+## Alignment 249: score=235.0 e_value=4.6e-11 N=7 gin_chr2&gin_chr8 minus
+249-  0:	evm_model_chr2_611	evm_model_chr8_983	  4e-63
+249-  1:	evm_model_chr2_642	evm_model_chr8_942	 9e-187
+249-  2:	evm_model_chr2_659	evm_model_chr8_933	  2e-13
+249-  3:	evm_model_chr2_675	evm_model_chr8_921	 1e-105
+249-  4:	evm_model_chr2_689	evm_model_chr8_902	      0
+249-  5:	evm_model_chr2_694	evm_model_chr8_901	 8e-307
+249-  6:	evm_model_chr2_717	evm_model_chr8_898	 2e-275
+## Alignment 250: score=230.0 e_value=4.6e-16 N=8 gin_chr2&gin_chr9 plus
+250-  0:	evm_model_chr2_1373	evm_model_chr9_1372	  5e-41
+250-  1:	evm_model_chr2_1378	evm_model_chr9_1375	 9e-119
+250-  2:	evm_model_chr2_1396	evm_model_chr9_1393	 5e-146
+250-  3:	evm_model_chr2_1400	evm_model_chr9_1442	  1e-08
+250-  4:	evm_model_chr2_1405	evm_model_chr9_1446	 9e-168
+250-  5:	evm_model_chr2_1433	evm_model_chr9_1497	 5e-161
+250-  6:	evm_model_chr2_1448	evm_model_chr9_1530	  3e-82
+250-  7:	evm_model_chr2_1464	evm_model_chr9_1531	  5e-82
+## Alignment 251: score=164.0 e_value=0.00063 N=4 gin_chr2&gin_chr9 plus
+251-  0:	evm_model_chr2_2161	evm_model_chr9_1624	  2e-66
+251-  1:	evm_model_chr2_2165	evm_model_chr9_1628	 3e-123
+251-  2:	evm_model_chr2_2190	evm_model_chr9_1656	  2e-06
+251-  3:	evm_model_chr2_2194	evm_model_chr9_1663	  2e-49
+## Alignment 252: score=273.0 e_value=9.1e-15 N=7 gin_chr2&gin_chr9 minus
+252-  0:	evm_model_chr2_2138	evm_model_chr9_1643	 4e-190
+252-  1:	evm_model_chr2_2139	evm_model_chr9_1642	 7e-232
+252-  2:	evm_model_chr2_2142	evm_model_chr9_1637	 2e-116
+252-  3:	evm_model_chr2_2149	evm_model_chr9_1636	 9e-174
+252-  4:	evm_model_chr2_2193	evm_model_chr9_1587	 2e-128
+252-  5:	evm_model_chr2_2197	evm_model_chr9_1571	 3e-160
+252-  6:	evm_model_chr2_2199	evm_model_chr9_1566	 1e-209
+## Alignment 253: score=249.0 e_value=1.2e-10 N=6 gin_chr2&gin_chr9 minus
+253-  0:	evm_model_chr2_771	evm_model_chr9_1687	  2e-19
+253-  1:	evm_model_chr2_788	evm_model_chr9_1661	  6e-40
+253-  2:	evm_model_chr2_802	evm_model_chr9_1645	  2e-37
+253-  3:	evm_model_chr2_803	evm_model_chr9_1640	 4e-119
+253-  4:	evm_model_chr2_804	evm_model_chr9_1638	 6e-135
+253-  5:	evm_model_chr2_811	evm_model_chr9_1637	 2e-112
+## Alignment 254: score=182.0 e_value=0.0008 N=4 gin_chr2&gin_chr9 minus
+254-  0:	evm_model_chr2_1093	evm_model_chr9_1366	  7e-79
+254-  1:	evm_model_chr2_1102	evm_model_chr9_1363	 2e-222
+254-  2:	evm_model_chr2_1112	evm_model_chr9_1353	  3e-82
+254-  3:	evm_model_chr2_1113	evm_model_chr9_1351	  6e-94
+## Alignment 255: score=166.0 e_value=2e-08 N=6 gin_chr2&gin_chr9 minus
+255-  0:	evm_model_chr2_1367	evm_model_chr9_1453	 4e-249
+255-  1:	evm_model_chr2_1380	evm_model_chr9_1418	  1e-47
+255-  2:	evm_model_chr2_1408	evm_model_chr9_1403	      0
+255-  3:	evm_model_chr2_1422	evm_model_chr9_1396	  5e-71
+255-  4:	evm_model_chr2_1475	evm_model_chr9_1346	 6e-158
+255-  5:	evm_model_chr2_1483	evm_model_chr9_1337	 9e-106
+## Alignment 256: score=162.0 e_value=5.7e-12 N=7 gin_chr3&gin_chr3 minus
+256-  0:	evm_model_chr3_1437	evm_model_chr3_1902	      0
+256-  1:	evm_model_chr3_1475	evm_model_chr3_1887	      0
+256-  2:	evm_model_chr3_1490	evm_model_chr3_1858	  7e-24
+256-  3:	evm_model_chr3_1532	evm_model_chr3_1804	  6e-25
+256-  4:	evm_model_chr3_1572	evm_model_chr3_1785	 6e-168
+256-  5:	evm_model_chr3_1580	evm_model_chr3_1784	 4e-158
+256-  6:	evm_model_chr3_1586	evm_model_chr3_1759	      0
+## Alignment 257: score=628.0 e_value=6.6e-44 N=16 gin_chr3&gin_chr4 plus
+257-  0:	evm_model_chr3_29	evm_model_chr4_1515	 4e-199
+257-  1:	evm_model_chr3_42	evm_model_chr4_1521	 3e-121
+257-  2:	evm_model_chr3_47	evm_model_chr4_1525	 2e-236
+257-  3:	evm_model_chr3_74	evm_model_chr4_1556	  2e-85
+257-  4:	evm_model_chr3_75	evm_model_chr4_1557	  8e-08
+257-  5:	evm_model_chr3_81	evm_model_chr4_1572	 2e-149
+257-  6:	evm_model_chr3_110	evm_model_chr4_1574	  3e-89
+257-  7:	evm_model_chr3_130	evm_model_chr4_1585	  1e-14
+257-  8:	evm_model_chr3_131	evm_model_chr4_1586	  7e-14
+257-  9:	evm_model_chr3_135	evm_model_chr4_1589	  1e-13
+257- 10:	evm_model_chr3_142	evm_model_chr4_1594	 4e-182
+257- 11:	evm_model_chr3_144	evm_model_chr4_1595	 2e-253
+257- 12:	evm_model_chr3_151	evm_model_chr4_1596	 3e-126
+257- 13:	evm_model_chr3_174	evm_model_chr4_1600	 3e-229
+257- 14:	evm_model_chr3_179	evm_model_chr4_1608	 2e-102
+257- 15:	evm_model_chr3_200	evm_model_chr4_1620	  9e-87
+## Alignment 258: score=254.0 e_value=8.9e-09 N=6 gin_chr3&gin_chr4 plus
+258-  0:	evm_model_chr3_2177	evm_model_chr4_578	  4e-27
+258-  1:	evm_model_chr3_2184	evm_model_chr4_590	 1e-220
+258-  2:	evm_model_chr3_2188	evm_model_chr4_601	  1e-20
+258-  3:	evm_model_chr3_2189	evm_model_chr4_604	      0
+258-  4:	evm_model_chr3_2197	evm_model_chr4_617	  1e-84
+258-  5:	evm_model_chr3_2199	evm_model_chr4_629	 2e-117
+## Alignment 259: score=235.0 e_value=3.7e-12 N=7 gin_chr3&gin_chr4 plus
+259-  0:	evm_model_chr3_2073	evm_model_chr4_387	 9e-100
+259-  1:	evm_model_chr3_2109	evm_model_chr4_413	  4e-29
+259-  2:	evm_model_chr3_2110	evm_model_chr4_422	  4e-74
+259-  3:	evm_model_chr3_2121	evm_model_chr4_429	 1e-137
+259-  4:	evm_model_chr3_2134	evm_model_chr4_465	  5e-68
+259-  5:	evm_model_chr3_2136	evm_model_chr4_468	  1e-64
+259-  6:	evm_model_chr3_2162	evm_model_chr4_473	  3e-67
+## Alignment 260: score=223.0 e_value=5.9e-10 N=6 gin_chr3&gin_chr4 plus
+260-  0:	evm_model_chr3_1675	evm_model_chr4_1424	 4e-157
+260-  1:	evm_model_chr3_1676	evm_model_chr4_1431	  5e-62
+260-  2:	evm_model_chr3_1693	evm_model_chr4_1456	  5e-85
+260-  3:	evm_model_chr3_1727	evm_model_chr4_1482	  2e-13
+260-  4:	evm_model_chr3_1731	evm_model_chr4_1484	  1e-24
+260-  5:	evm_model_chr3_1742	evm_model_chr4_1496	 3e-210
+## Alignment 261: score=212.0 e_value=9.1e-08 N=5 gin_chr3&gin_chr4 plus
+261-  0:	evm_model_chr3_1615	evm_model_chr4_926	      0
+261-  1:	evm_model_chr3_1616	evm_model_chr4_927	 2e-186
+261-  2:	evm_model_chr3_1642	evm_model_chr4_951	  4e-45
+261-  3:	evm_model_chr3_1655	evm_model_chr4_955	 3e-169
+261-  4:	evm_model_chr3_1657	evm_model_chr4_956	 4e-103
+## Alignment 262: score=182.0 e_value=6.1e-09 N=6 gin_chr3&gin_chr4 plus
+262-  0:	evm_model_chr3_1899	evm_model_chr4_1181	  1e-08
+262-  1:	evm_model_chr3_1908	evm_model_chr4_1185	 1e-239
+262-  2:	evm_model_chr3_1926	evm_model_chr4_1211	  5e-22
+262-  3:	evm_model_chr3_1954	evm_model_chr4_1213	  7e-91
+262-  4:	evm_model_chr3_1960	evm_model_chr4_1238	 3e-154
+262-  5:	evm_model_chr3_1995	evm_model_chr4_1269	      0
+## Alignment 263: score=176.0 e_value=8e-08 N=5 gin_chr3&gin_chr4 plus
+263-  0:	evm_model_chr3_2007	evm_model_chr4_1188	  2e-83
+263-  1:	evm_model_chr3_2022	evm_model_chr4_1234	  1e-60
+263-  2:	evm_model_chr3_2023	evm_model_chr4_1235	  6e-40
+263-  3:	evm_model_chr3_2030	evm_model_chr4_1243	  3e-25
+263-  4:	evm_model_chr3_2053	evm_model_chr4_1250	  4e-56
+## Alignment 264: score=172.0 e_value=0.00081 N=4 gin_chr3&gin_chr4 plus
+264-  0:	evm_model_chr3_1769	evm_model_chr4_1419	      0
+264-  1:	evm_model_chr3_1771	evm_model_chr4_1428	 5e-207
+264-  2:	evm_model_chr3_1776	evm_model_chr4_1446	 1e-198
+264-  3:	evm_model_chr3_1780	evm_model_chr4_1448	  8e-71
+## Alignment 265: score=171.0 e_value=1.9e-07 N=5 gin_chr3&gin_chr4 plus
+265-  0:	evm_model_chr3_1874	evm_model_chr4_737	  5e-68
+265-  1:	evm_model_chr3_1905	evm_model_chr4_781	 4e-168
+265-  2:	evm_model_chr3_1907	evm_model_chr4_782	 2e-124
+265-  3:	evm_model_chr3_1922	evm_model_chr4_788	  2e-63
+265-  4:	evm_model_chr3_1944	evm_model_chr4_789	 3e-199
+## Alignment 266: score=160.0 e_value=1.9e-06 N=5 gin_chr3&gin_chr4 plus
+266-  0:	evm_model_chr3_269	evm_model_chr4_1692	  1e-15
+266-  1:	evm_model_chr3_314	evm_model_chr4_1696	 1e-102
+266-  2:	evm_model_chr3_322	evm_model_chr4_1718	  1e-47
+266-  3:	evm_model_chr3_331	evm_model_chr4_1725	  1e-33
+266-  4:	evm_model_chr3_345	evm_model_chr4_1743	  9e-66
+## Alignment 267: score=649.0 e_value=4.7e-48 N=18 gin_chr3&gin_chr4 minus
+267-  0:	evm_model_chr3_1844	evm_model_chr4_816	 2e-162
+267-  1:	evm_model_chr3_1860	evm_model_chr4_813	  2e-80
+267-  2:	evm_model_chr3_1874	evm_model_chr4_807	 2e-215
+267-  3:	evm_model_chr3_1885	evm_model_chr4_802	  7e-49
+267-  4:	evm_model_chr3_1899	evm_model_chr4_793	 8e-110
+267-  5:	evm_model_chr3_1944	evm_model_chr4_789	 3e-199
+267-  6:	evm_model_chr3_1972	evm_model_chr4_775	  3e-37
+267-  7:	evm_model_chr3_1981	evm_model_chr4_774	 8e-163
+267-  8:	evm_model_chr3_1984	evm_model_chr4_769	 2e-157
+267-  9:	evm_model_chr3_1986	evm_model_chr4_768	  7e-56
+267- 10:	evm_model_chr3_1995	evm_model_chr4_753	      0
+267- 11:	evm_model_chr3_2002	evm_model_chr4_747	  3e-20
+267- 12:	evm_model_chr3_2017	evm_model_chr4_733	 2e-111
+267- 13:	evm_model_chr3_2022	evm_model_chr4_729	 2e-100
+267- 14:	evm_model_chr3_2023	evm_model_chr4_721	  1e-42
+267- 15:	evm_model_chr3_2033	evm_model_chr4_695	  3e-97
+267- 16:	evm_model_chr3_2036	evm_model_chr4_677	 4e-296
+267- 17:	evm_model_chr3_2066	evm_model_chr4_657	  8e-25
+## Alignment 268: score=646.0 e_value=3.6e-46 N=17 gin_chr3&gin_chr4 minus
+268-  0:	evm_model_chr3_1702	evm_model_chr4_1516	 6e-182
+268-  1:	evm_model_chr3_1717	evm_model_chr4_1503	  1e-32
+268-  2:	evm_model_chr3_1718	evm_model_chr4_1499	 8e-113
+268-  3:	evm_model_chr3_1740	evm_model_chr4_1483	 3e-156
+268-  4:	evm_model_chr3_1752	evm_model_chr4_1463	 7e-171
+268-  5:	evm_model_chr3_1757	evm_model_chr4_1456	  3e-25
+268-  6:	evm_model_chr3_1770	evm_model_chr4_1431	  2e-56
+268-  7:	evm_model_chr3_1771	evm_model_chr4_1428	 5e-207
+268-  8:	evm_model_chr3_1781	evm_model_chr4_1398	 3e-118
+268-  9:	evm_model_chr3_1787	evm_model_chr4_1384	 9e-186
+268- 10:	evm_model_chr3_1793	evm_model_chr4_1377	 2e-127
+268- 11:	evm_model_chr3_1797	evm_model_chr4_1376	  3e-20
+268- 12:	evm_model_chr3_1817	evm_model_chr4_1356	  4e-71
+268- 13:	evm_model_chr3_1824	evm_model_chr4_1325	 9e-117
+268- 14:	evm_model_chr3_1826	evm_model_chr4_1314	 2e-169
+268- 15:	evm_model_chr3_1827	evm_model_chr4_1313	 3e-119
+268- 16:	evm_model_chr3_1833	evm_model_chr4_1310	  2e-31
+## Alignment 269: score=340.0 e_value=1.2e-17 N=9 gin_chr3&gin_chr4 minus
+269-  0:	evm_model_chr3_1348	evm_model_chr4_699	  7e-12
+269-  1:	evm_model_chr3_1360	evm_model_chr4_680	 7e-213
+269-  2:	evm_model_chr3_1361	evm_model_chr4_665	  4e-31
+269-  3:	evm_model_chr3_1369	evm_model_chr4_648	  2e-70
+269-  4:	evm_model_chr3_1370	evm_model_chr4_635	  6e-55
+269-  5:	evm_model_chr3_1397	evm_model_chr4_605	  2e-73
+269-  6:	evm_model_chr3_1399	evm_model_chr4_601	  1e-26
+269-  7:	evm_model_chr3_1412	evm_model_chr4_598	  6e-73
+269-  8:	evm_model_chr3_1418	evm_model_chr4_591	  5e-93
+## Alignment 270: score=189.0 e_value=1.5e-05 N=4 gin_chr3&gin_chr5 plus
+270-  0:	evm_model_chr3_2163	evm_model_chr5_1420	 1e-205
+270-  1:	evm_model_chr3_2168	evm_model_chr5_1432	 9e-184
+270-  2:	evm_model_chr3_2169	evm_model_chr5_1433	  8e-50
+270-  3:	evm_model_chr3_2170	evm_model_chr5_1434	  9e-39
+## Alignment 271: score=170.0 e_value=6.2e-05 N=4 gin_chr3&gin_chr5 plus
+271-  0:	evm_model_chr3_572	evm_model_chr5_83	 3e-225
+271-  1:	evm_model_chr3_578	evm_model_chr5_90	 4e-198
+271-  2:	evm_model_chr3_602	evm_model_chr5_103	 1e-117
+271-  3:	evm_model_chr3_603	evm_model_chr5_105	 1e-181
+## Alignment 272: score=165.0 e_value=5.4e-05 N=4 gin_chr3&gin_chr5 plus
+272-  0:	evm_model_chr3_773	evm_model_chr5_1691	 4e-170
+272-  1:	evm_model_chr3_774	evm_model_chr5_1698	 9e-124
+272-  2:	evm_model_chr3_777	evm_model_chr5_1700	 9e-181
+272-  3:	evm_model_chr3_796	evm_model_chr5_1728	  3e-63
+## Alignment 273: score=415.0 e_value=1.4e-24 N=11 gin_chr3&gin_chr5 minus
+273-  0:	evm_model_chr3_74	evm_model_chr5_2083	  6e-69
+273-  1:	evm_model_chr3_80	evm_model_chr5_2071	  3e-52
+273-  2:	evm_model_chr3_89	evm_model_chr5_2067	  4e-95
+273-  3:	evm_model_chr3_106	evm_model_chr5_2062	  1e-48
+273-  4:	evm_model_chr3_112	evm_model_chr5_2061	 2e-229
+273-  5:	evm_model_chr3_120	evm_model_chr5_2059	  2e-15
+273-  6:	evm_model_chr3_151	evm_model_chr5_2047	 1e-129
+273-  7:	evm_model_chr3_182	evm_model_chr5_2024	  4e-25
+273-  8:	evm_model_chr3_194	evm_model_chr5_2021	  1e-31
+273-  9:	evm_model_chr3_200	evm_model_chr5_2011	  1e-65
+273- 10:	evm_model_chr3_201	evm_model_chr5_2002	      0
+## Alignment 274: score=220.0 e_value=5.5e-13 N=7 gin_chr3&gin_chr5 minus
+274-  0:	evm_model_chr3_294	evm_model_chr5_1914	  1e-78
+274-  1:	evm_model_chr3_314	evm_model_chr5_1909	  9e-93
+274-  2:	evm_model_chr3_319	evm_model_chr5_1903	  6e-42
+274-  3:	evm_model_chr3_321	evm_model_chr5_1900	 1e-152
+274-  4:	evm_model_chr3_323	evm_model_chr5_1887	  1e-18
+274-  5:	evm_model_chr3_377	evm_model_chr5_1856	  2e-29
+274-  6:	evm_model_chr3_417	evm_model_chr5_1852	  9e-88
+## Alignment 275: score=242.0 e_value=2e-08 N=6 gin_chr3&gin_chr7 plus
+275-  0:	evm_model_chr3_1783	evm_model_chr7_1888	  2e-49
+275-  1:	evm_model_chr3_1790	evm_model_chr7_1907	 9e-236
+275-  2:	evm_model_chr3_1793	evm_model_chr7_1910	 3e-127
+275-  3:	evm_model_chr3_1812	evm_model_chr7_1929	 4e-146
+275-  4:	evm_model_chr3_1825	evm_model_chr7_1943	  3e-94
+275-  5:	evm_model_chr3_1833	evm_model_chr7_1948	  2e-25
+## Alignment 276: score=226.0 e_value=1e-17 N=9 gin_chr3&gin_chr7 plus
+276-  0:	evm_model_chr3_72	evm_model_chr7_146	  1e-35
+276-  1:	evm_model_chr3_100	evm_model_chr7_189	  1e-50
+276-  2:	evm_model_chr3_115	evm_model_chr7_193	  3e-20
+276-  3:	evm_model_chr3_142	evm_model_chr7_218	 9e-156
+276-  4:	evm_model_chr3_144	evm_model_chr7_220	 2e-108
+276-  5:	evm_model_chr3_147	evm_model_chr7_237	 2e-140
+276-  6:	evm_model_chr3_168	evm_model_chr7_286	  8e-90
+276-  7:	evm_model_chr3_181	evm_model_chr7_328	  3e-97
+276-  8:	evm_model_chr3_188	evm_model_chr7_365	  4e-09
+## Alignment 277: score=207.0 e_value=9.3e-13 N=7 gin_chr3&gin_chr7 plus
+277-  0:	evm_model_chr3_2119	evm_model_chr7_1731	 1e-161
+277-  1:	evm_model_chr3_2123	evm_model_chr7_1734	  5e-61
+277-  2:	evm_model_chr3_2127	evm_model_chr7_1771	  5e-93
+277-  3:	evm_model_chr3_2130	evm_model_chr7_1775	  2e-47
+277-  4:	evm_model_chr3_2185	evm_model_chr7_1814	  5e-17
+277-  5:	evm_model_chr3_2186	evm_model_chr7_1820	  3e-69
+277-  6:	evm_model_chr3_2229	evm_model_chr7_1839	  2e-55
+## Alignment 278: score=188.0 e_value=2.9e-06 N=5 gin_chr3&gin_chr7 plus
+278-  0:	evm_model_chr3_1755	evm_model_chr7_682	 1e-167
+278-  1:	evm_model_chr3_1784	evm_model_chr7_686	 1e-150
+278-  2:	evm_model_chr3_1785	evm_model_chr7_691	 3e-168
+278-  3:	evm_model_chr3_1797	evm_model_chr7_697	  2e-31
+278-  4:	evm_model_chr3_1817	evm_model_chr7_705	  1e-89
+## Alignment 279: score=187.0 e_value=6.7e-05 N=4 gin_chr3&gin_chr7 plus
+279-  0:	evm_model_chr3_1464	evm_model_chr7_2098	  6e-97
+279-  1:	evm_model_chr3_1466	evm_model_chr7_2099	  3e-57
+279-  2:	evm_model_chr3_1475	evm_model_chr7_2107	      0
+279-  3:	evm_model_chr3_1476	evm_model_chr7_2112	  4e-88
+## Alignment 280: score=176.0 e_value=2.3e-08 N=6 gin_chr3&gin_chr7 plus
+280-  0:	evm_model_chr3_1602	evm_model_chr7_2074	  2e-77
+280-  1:	evm_model_chr3_1616	evm_model_chr7_2087	 2e-144
+280-  2:	evm_model_chr3_1656	evm_model_chr7_2098	 3e-168
+280-  3:	evm_model_chr3_1699	evm_model_chr7_2139	 8e-116
+280-  4:	evm_model_chr3_1720	evm_model_chr7_2160	  5e-18
+280-  5:	evm_model_chr3_1731	evm_model_chr7_2168	  1e-08
+## Alignment 281: score=264.0 e_value=8.9e-11 N=7 gin_chr3&gin_chr7 minus
+281-  0:	evm_model_chr3_1187	evm_model_chr7_242	 1e-184
+281-  1:	evm_model_chr3_1198	evm_model_chr7_221	      0
+281-  2:	evm_model_chr3_1199	evm_model_chr7_213	 2e-173
+281-  3:	evm_model_chr3_1209	evm_model_chr7_188	  1e-99
+281-  4:	evm_model_chr3_1223	evm_model_chr7_165	 4e-143
+281-  5:	evm_model_chr3_1227	evm_model_chr7_157	  1e-53
+281-  6:	evm_model_chr3_1233	evm_model_chr7_150	  7e-67
+## Alignment 282: score=242.0 e_value=1.2e-12 N=7 gin_chr3&gin_chr7 minus
+282-  0:	evm_model_chr3_1490	evm_model_chr7_758	  9e-76
+282-  1:	evm_model_chr3_1539	evm_model_chr7_744	 3e-151
+282-  2:	evm_model_chr3_1555	evm_model_chr7_731	 4e-107
+282-  3:	evm_model_chr3_1569	evm_model_chr7_695	      0
+282-  4:	evm_model_chr3_1572	evm_model_chr7_691	 5e-285
+282-  5:	evm_model_chr3_1577	evm_model_chr7_689	 5e-126
+282-  6:	evm_model_chr3_1580	evm_model_chr7_686	 1e-140
+## Alignment 283: score=231.0 e_value=4.4e-13 N=7 gin_chr3&gin_chr7 minus
+283-  0:	evm_model_chr3_1481	evm_model_chr7_1983	  4e-22
+283-  1:	evm_model_chr3_1522	evm_model_chr7_1958	 4e-153
+283-  2:	evm_model_chr3_1525	evm_model_chr7_1955	 1e-295
+283-  3:	evm_model_chr3_1556	evm_model_chr7_1935	  3e-07
+283-  4:	evm_model_chr3_1571	evm_model_chr7_1929	 5e-140
+283-  5:	evm_model_chr3_1572	evm_model_chr7_1916	  2e-08
+283-  6:	evm_model_chr3_1575	evm_model_chr7_1894	  5e-43
+## Alignment 284: score=201.0 e_value=1.6e-08 N=6 gin_chr3&gin_chr7 minus
+284-  0:	evm_model_chr3_1280	evm_model_chr7_249	      0
+284-  1:	evm_model_chr3_1289	evm_model_chr7_243	  2e-65
+284-  2:	evm_model_chr3_1298	evm_model_chr7_216	  2e-22
+284-  3:	evm_model_chr3_1309	evm_model_chr7_179	  3e-60
+284-  4:	evm_model_chr3_1323	evm_model_chr7_173	  2e-36
+284-  5:	evm_model_chr3_1328	evm_model_chr7_156	 1e-251
+## Alignment 285: score=163.0 e_value=0.00011 N=4 gin_chr3&gin_chr7 minus
+285-  0:	evm_model_chr3_1555	evm_model_chr7_742	  1e-88
+285-  1:	evm_model_chr3_1582	evm_model_chr7_732	  5e-15
+285-  2:	evm_model_chr3_1584	evm_model_chr7_730	 1e-149
+285-  3:	evm_model_chr3_1588	evm_model_chr7_719	  1e-08
+## Alignment 286: score=156.0 e_value=1.1e-05 N=5 gin_chr3&gin_chr7 minus
+286-  0:	evm_model_chr3_1954	evm_model_chr7_2063	 2e-100
+286-  1:	evm_model_chr3_1985	evm_model_chr7_2050	  6e-61
+286-  2:	evm_model_chr3_2007	evm_model_chr7_2041	 4e-142
+286-  3:	evm_model_chr3_2017	evm_model_chr7_2027	  5e-60
+286-  4:	evm_model_chr3_2036	evm_model_chr7_1996	 1e-303
+## Alignment 287: score=266.0 e_value=5.3e-09 N=6 gin_chr3&gin_chr8 plus
+287-  0:	evm_model_chr3_1196	evm_model_chr8_1315	 7e-208
+287-  1:	evm_model_chr3_1211	evm_model_chr8_1327	  4e-13
+287-  2:	evm_model_chr3_1213	evm_model_chr8_1328	  7e-10
+287-  3:	evm_model_chr3_1217	evm_model_chr8_1336	 2e-122
+287-  4:	evm_model_chr3_1223	evm_model_chr8_1345	 3e-111
+287-  5:	evm_model_chr3_1227	evm_model_chr8_1350	  8e-45
+## Alignment 288: score=158.0 e_value=0.00044 N=4 gin_chr3&gin_chr8 minus
+288-  0:	evm_model_chr3_1196	evm_model_chr8_893	 8e-195
+288-  1:	evm_model_chr3_1198	evm_model_chr8_890	 2e-300
+288-  2:	evm_model_chr3_1200	evm_model_chr8_861	  4e-78
+288-  3:	evm_model_chr3_1208	evm_model_chr8_848	  7e-88
+## Alignment 289: score=260.0 e_value=1.3e-12 N=7 gin_chr3&gin_chr9 plus
+289-  0:	evm_model_chr3_1	evm_model_chr9_1267	 2e-276
+289-  1:	evm_model_chr3_10	evm_model_chr9_1268	 1e-225
+289-  2:	evm_model_chr3_16	evm_model_chr9_1278	 7e-124
+289-  3:	evm_model_chr3_21	evm_model_chr9_1291	  7e-35
+289-  4:	evm_model_chr3_24	evm_model_chr9_1302	  3e-16
+289-  5:	evm_model_chr3_30	evm_model_chr9_1311	  1e-54
+289-  6:	evm_model_chr3_74	evm_model_chr9_1353	  5e-77
+## Alignment 290: score=249.0 e_value=1.9e-13 N=7 gin_chr3&gin_chr9 plus
+290-  0:	evm_model_chr3_110	evm_model_chr9_1317	  1e-58
+290-  1:	evm_model_chr3_112	evm_model_chr9_1321	 7e-183
+290-  2:	evm_model_chr3_113	evm_model_chr9_1322	  1e-24
+290-  3:	evm_model_chr3_166	evm_model_chr9_1368	  7e-87
+290-  4:	evm_model_chr3_177	evm_model_chr9_1375	  5e-88
+290-  5:	evm_model_chr3_190	evm_model_chr9_1391	  6e-10
+290-  6:	evm_model_chr3_209	evm_model_chr9_1413	  1e-28
+## Alignment 291: score=269.0 e_value=8.3e-11 N=7 gin_chr3&gin_chr9 minus
+291-  0:	evm_model_chr3_216	evm_model_chr9_522	 3e-137
+291-  1:	evm_model_chr3_225	evm_model_chr9_520	      0
+291-  2:	evm_model_chr3_232	evm_model_chr9_516	 3e-168
+291-  3:	evm_model_chr3_236	evm_model_chr9_499	  2e-22
+291-  4:	evm_model_chr3_243	evm_model_chr9_490	  2e-12
+291-  5:	evm_model_chr3_258	evm_model_chr9_478	  5e-70
+291-  6:	evm_model_chr3_279	evm_model_chr9_448	  1e-15
+## Alignment 292: score=151.0 e_value=6.9e-09 N=6 gin_chr4&gin_chr4 plus
+292-  0:	evm_model_chr4_692	evm_model_chr4_1252	  2e-35
+292-  1:	evm_model_chr4_710	evm_model_chr4_1265	  6e-57
+292-  2:	evm_model_chr4_753	evm_model_chr4_1269	      0
+292-  3:	evm_model_chr4_771	evm_model_chr4_1275	 8e-110
+292-  4:	evm_model_chr4_795	evm_model_chr4_1297	 9e-192
+292-  5:	evm_model_chr4_846	evm_model_chr4_1299	  2e-70
+## Alignment 293: score=215.0 e_value=9.2e-09 N=6 gin_chr4&gin_chr4 minus
+293-  0:	evm_model_chr4_692	evm_model_chr4_1252	  2e-35
+293-  1:	evm_model_chr4_708	evm_model_chr4_1241	  2e-47
+293-  2:	evm_model_chr4_721	evm_model_chr4_1235	  4e-44
+293-  3:	evm_model_chr4_729	evm_model_chr4_1234	  8e-61
+293-  4:	evm_model_chr4_771	evm_model_chr4_1224	 9e-201
+293-  5:	evm_model_chr4_782	evm_model_chr4_1215	 2e-114
+## Alignment 294: score=560.0 e_value=5.5e-40 N=16 gin_chr4&gin_chr5 minus
+294-  0:	evm_model_chr4_1544	evm_model_chr5_2085	      0
+294-  1:	evm_model_chr4_1556	evm_model_chr5_2083	  3e-70
+294-  2:	evm_model_chr4_1576	evm_model_chr5_2071	  4e-52
+294-  3:	evm_model_chr4_1580	evm_model_chr5_2067	  9e-89
+294-  4:	evm_model_chr4_1596	evm_model_chr5_2047	 4e-125
+294-  5:	evm_model_chr4_1607	evm_model_chr5_2044	 9e-118
+294-  6:	evm_model_chr4_1620	evm_model_chr5_2011	  3e-51
+294-  7:	evm_model_chr4_1626	evm_model_chr5_2000	 4e-195
+294-  8:	evm_model_chr4_1661	evm_model_chr5_1967	 7e-163
+294-  9:	evm_model_chr4_1665	evm_model_chr5_1946	 4e-122
+294- 10:	evm_model_chr4_1667	evm_model_chr5_1923	  6e-99
+294- 11:	evm_model_chr4_1678	evm_model_chr5_1920	 3e-239
+294- 12:	evm_model_chr4_1696	evm_model_chr5_1909	  1e-95
+294- 13:	evm_model_chr4_1713	evm_model_chr5_1894	  3e-90
+294- 14:	evm_model_chr4_1719	evm_model_chr5_1888	 2e-227
+294- 15:	evm_model_chr4_1732	evm_model_chr5_1884	  2e-19
+## Alignment 295: score=210.0 e_value=6.6e-06 N=5 gin_chr4&gin_chr5 minus
+295-  0:	evm_model_chr4_1045	evm_model_chr5_799	 3e-192
+295-  1:	evm_model_chr4_1046	evm_model_chr5_791	  3e-31
+295-  2:	evm_model_chr4_1051	evm_model_chr5_789	  2e-53
+295-  3:	evm_model_chr4_1056	evm_model_chr5_768	 1e-112
+295-  4:	evm_model_chr4_1062	evm_model_chr5_758	 4e-127
+## Alignment 296: score=174.0 e_value=5e-07 N=4 gin_chr4&gin_chr5 minus
+296-  0:	evm_model_chr4_320	evm_model_chr5_1622	 1e-116
+296-  1:	evm_model_chr4_340	evm_model_chr5_1614	 6e-209
+296-  2:	evm_model_chr4_348	evm_model_chr5_1612	  2e-24
+296-  3:	evm_model_chr4_349	evm_model_chr5_1611	  1e-52
+## Alignment 297: score=267.0 e_value=2.1e-19 N=10 gin_chr4&gin_chr6 plus
+297-  0:	evm_model_chr4_1924	evm_model_chr6_985	 7e-212
+297-  1:	evm_model_chr4_1957	evm_model_chr6_1023	 2e-134
+297-  2:	evm_model_chr4_1983	evm_model_chr6_1037	  4e-62
+297-  3:	evm_model_chr4_1986	evm_model_chr6_1049	  3e-94
+297-  4:	evm_model_chr4_1989	evm_model_chr6_1082	  3e-80
+297-  5:	evm_model_chr4_1994	evm_model_chr6_1095	 8e-260
+297-  6:	evm_model_chr4_2000	evm_model_chr6_1109	  6e-44
+297-  7:	evm_model_chr4_2026	evm_model_chr6_1127	  6e-14
+297-  8:	evm_model_chr4_2063	evm_model_chr6_1141	  5e-53
+297-  9:	evm_model_chr4_2092	evm_model_chr6_1184	  2e-40
+## Alignment 298: score=197.0 e_value=1.6e-09 N=6 gin_chr4&gin_chr6 plus
+298-  0:	evm_model_chr4_1662	evm_model_chr6_2033	 4e-141
+298-  1:	evm_model_chr4_1665	evm_model_chr6_2035	 4e-101
+298-  2:	evm_model_chr4_1682	evm_model_chr6_2042	  5e-89
+298-  3:	evm_model_chr4_1684	evm_model_chr6_2050	 2e-158
+298-  4:	evm_model_chr4_1719	evm_model_chr6_2093	 7e-170
+298-  5:	evm_model_chr4_1736	evm_model_chr6_2130	  3e-36
+## Alignment 299: score=188.0 e_value=1.4e-07 N=5 gin_chr4&gin_chr6 plus
+299-  0:	evm_model_chr4_2037	evm_model_chr6_1232	  2e-34
+299-  1:	evm_model_chr4_2038	evm_model_chr6_1234	  9e-72
+299-  2:	evm_model_chr4_2044	evm_model_chr6_1235	  4e-41
+299-  3:	evm_model_chr4_2085	evm_model_chr6_1244	  7e-77
+299-  4:	evm_model_chr4_2095	evm_model_chr6_1261	  2e-19
+## Alignment 300: score=451.0 e_value=1.3e-37 N=13 gin_chr4&gin_chr7 plus
+300-  0:	evm_model_chr4_670	evm_model_chr7_1994	  1e-66
+300-  1:	evm_model_chr4_677	evm_model_chr7_1996	      0
+300-  2:	evm_model_chr4_711	evm_model_chr7_2026	 8e-194
+300-  3:	evm_model_chr4_717	evm_model_chr7_2028	 5e-227
+300-  4:	evm_model_chr4_733	evm_model_chr7_2034	  2e-66
+300-  5:	evm_model_chr4_772	evm_model_chr7_2058	  1e-88
+300-  6:	evm_model_chr4_800	evm_model_chr7_2066	      0
+300-  7:	evm_model_chr4_806	evm_model_chr7_2067	  2e-34
+300-  8:	evm_model_chr4_809	evm_model_chr7_2070	 9e-219
+300-  9:	evm_model_chr4_828	evm_model_chr7_2071	 2e-104
+300- 10:	evm_model_chr4_830	evm_model_chr7_2072	  9e-96
+300- 11:	evm_model_chr4_858	evm_model_chr7_2121	 5e-103
+300- 12:	evm_model_chr4_860	evm_model_chr7_2122	  1e-42
+## Alignment 301: score=375.0 e_value=5.5e-17 N=9 gin_chr4&gin_chr7 plus
+301-  0:	evm_model_chr4_1416	evm_model_chr7_2116	  2e-41
+301-  1:	evm_model_chr4_1432	evm_model_chr7_2128	 2e-286
+301-  2:	evm_model_chr4_1442	evm_model_chr7_2133	 2e-102
+301-  3:	evm_model_chr4_1453	evm_model_chr7_2137	  6e-12
+301-  4:	evm_model_chr4_1456	evm_model_chr7_2141	  3e-63
+301-  5:	evm_model_chr4_1457	evm_model_chr7_2142	  3e-58
+301-  6:	evm_model_chr4_1463	evm_model_chr7_2156	 9e-169
+301-  7:	evm_model_chr4_1482	evm_model_chr7_2160	  3e-25
+301-  8:	evm_model_chr4_1485	evm_model_chr7_2168	  6e-17
+## Alignment 302: score=305.0 e_value=1.1e-15 N=8 gin_chr4&gin_chr7 plus
+302-  0:	evm_model_chr4_1314	evm_model_chr7_650	 3e-143
+302-  1:	evm_model_chr4_1352	evm_model_chr7_699	 6e-176
+302-  2:	evm_model_chr4_1356	evm_model_chr7_705	  6e-74
+302-  3:	evm_model_chr4_1360	evm_model_chr7_714	 7e-137
+302-  4:	evm_model_chr4_1361	evm_model_chr7_716	 5e-110
+302-  5:	evm_model_chr4_1369	evm_model_chr7_719	  1e-31
+302-  6:	evm_model_chr4_1391	evm_model_chr7_730	  1e-06
+302-  7:	evm_model_chr4_1397	evm_model_chr7_736	 9e-108
+## Alignment 303: score=209.0 e_value=5.8e-07 N=5 gin_chr4&gin_chr7 plus
+303-  0:	evm_model_chr4_414	evm_model_chr7_1755	  4e-21
+303-  1:	evm_model_chr4_417	evm_model_chr7_1757	  7e-55
+303-  2:	evm_model_chr4_424	evm_model_chr7_1763	 5e-152
+303-  3:	evm_model_chr4_426	evm_model_chr7_1765	 2e-155
+303-  4:	evm_model_chr4_459	evm_model_chr7_1777	 2e-155
+## Alignment 304: score=196.0 e_value=7e-10 N=6 gin_chr4&gin_chr7 plus
+304-  0:	evm_model_chr4_572	evm_model_chr7_1794	 3e-127
+304-  1:	evm_model_chr4_593	evm_model_chr7_1812	      0
+304-  2:	evm_model_chr4_598	evm_model_chr7_1818	  2e-15
+304-  3:	evm_model_chr4_641	evm_model_chr7_1823	 1e-115
+304-  4:	evm_model_chr4_643	evm_model_chr7_1824	  1e-39
+304-  5:	evm_model_chr4_680	evm_model_chr7_1852	 6e-230
+## Alignment 305: score=176.0 e_value=0.00022 N=4 gin_chr4&gin_chr7 plus
+305-  0:	evm_model_chr4_1356	evm_model_chr7_1916	  2e-78
+305-  1:	evm_model_chr4_1357	evm_model_chr7_1920	 3e-142
+305-  2:	evm_model_chr4_1361	evm_model_chr7_1931	 1e-102
+305-  3:	evm_model_chr4_1373	evm_model_chr7_1935	 0.0002
+## Alignment 306: score=157.0 e_value=1.4e-07 N=5 gin_chr4&gin_chr7 plus
+306-  0:	evm_model_chr4_840	evm_model_chr7_2071	 3e-108
+306-  1:	evm_model_chr4_847	evm_model_chr7_2072	  2e-92
+306-  2:	evm_model_chr4_892	evm_model_chr7_2099	  7e-90
+306-  3:	evm_model_chr4_911	evm_model_chr7_2103	  3e-46
+306-  4:	evm_model_chr4_937	evm_model_chr7_2112	  1e-08
+## Alignment 307: score=612.0 e_value=2.6e-49 N=17 gin_chr4&gin_chr7 minus
+307-  0:	evm_model_chr4_1212	evm_model_chr7_2065	  3e-17
+307-  1:	evm_model_chr4_1213	evm_model_chr7_2064	 1e-106
+307-  2:	evm_model_chr4_1214	evm_model_chr7_2063	 1e-115
+307-  3:	evm_model_chr4_1226	evm_model_chr7_2045	 8e-176
+307-  4:	evm_model_chr4_1261	evm_model_chr7_2009	  5e-53
+307-  5:	evm_model_chr4_1283	evm_model_chr7_1966	 2e-301
+307-  6:	evm_model_chr4_1285	evm_model_chr7_1965	      0
+307-  7:	evm_model_chr4_1310	evm_model_chr7_1948	  4e-58
+307-  8:	evm_model_chr4_1326	evm_model_chr7_1938	 7e-162
+307-  9:	evm_model_chr4_1349	evm_model_chr7_1934	 4e-126
+307- 10:	evm_model_chr4_1360	evm_model_chr7_1932	 4e-121
+307- 11:	evm_model_chr4_1377	evm_model_chr7_1910	 2e-152
+307- 12:	evm_model_chr4_1378	evm_model_chr7_1904	  6e-17
+307- 13:	evm_model_chr4_1381	evm_model_chr7_1901	 3e-163
+307- 14:	evm_model_chr4_1382	evm_model_chr7_1895	  2e-45
+307- 15:	evm_model_chr4_1397	evm_model_chr7_1886	 3e-296
+307- 16:	evm_model_chr4_1417	evm_model_chr7_1860	  3e-07
+## Alignment 308: score=425.0 e_value=2e-25 N=11 gin_chr4&gin_chr7 minus
+308-  0:	evm_model_chr4_1329	evm_model_chr7_746	  2e-36
+308-  1:	evm_model_chr4_1336	evm_model_chr7_740	  2e-80
+308-  2:	evm_model_chr4_1338	evm_model_chr7_737	 1e-169
+308-  3:	evm_model_chr4_1342	evm_model_chr7_735	  3e-86
+308-  4:	evm_model_chr4_1347	evm_model_chr7_729	  3e-22
+308-  5:	evm_model_chr4_1349	evm_model_chr7_721	 2e-110
+308-  6:	evm_model_chr4_1376	evm_model_chr7_697	  5e-17
+308-  7:	evm_model_chr4_1381	evm_model_chr7_692	 1e-156
+308-  8:	evm_model_chr4_1386	evm_model_chr7_689	 6e-112
+308-  9:	evm_model_chr4_1410	evm_model_chr7_672	  7e-20
+308- 10:	evm_model_chr4_1456	evm_model_chr7_630	  1e-30
+## Alignment 309: score=232.0 e_value=1.4e-06 N=5 gin_chr4&gin_chr7 minus
+309-  0:	evm_model_chr4_319	evm_model_chr7_1568	  2e-95
+309-  1:	evm_model_chr4_320	evm_model_chr7_1567	 1e-143
+309-  2:	evm_model_chr4_322	evm_model_chr7_1565	  2e-27
+309-  3:	evm_model_chr4_323	evm_model_chr7_1553	  1e-18
+309-  4:	evm_model_chr4_330	evm_model_chr7_1547	 3e-159
+## Alignment 310: score=161.0 e_value=2.3e-09 N=5 gin_chr4&gin_chr7 minus
+310-  0:	evm_model_chr4_287	evm_model_chr7_1440	  3e-23
+310-  1:	evm_model_chr4_332	evm_model_chr7_1399	  2e-22
+310-  2:	evm_model_chr4_377	evm_model_chr7_1389	 5e-200
+310-  3:	evm_model_chr4_378	evm_model_chr7_1388	  6e-11
+310-  4:	evm_model_chr4_380	evm_model_chr7_1387	  2e-77
+## Alignment 311: score=255.0 e_value=1.2e-08 N=6 gin_chr4&gin_chr8 plus
+311-  0:	evm_model_chr4_1090	evm_model_chr8_539	 3e-231
+311-  1:	evm_model_chr4_1091	evm_model_chr8_566	 2e-162
+311-  2:	evm_model_chr4_1093	evm_model_chr8_568	  8e-35
+311-  3:	evm_model_chr4_1096	evm_model_chr8_581	  7e-50
+311-  4:	evm_model_chr4_1098	evm_model_chr8_586	  2e-49
+311-  5:	evm_model_chr4_1101	evm_model_chr8_587	  4e-82
+## Alignment 312: score=894.0 e_value=2e-73 N=23 gin_chr4&gin_chr9 plus
+312-  0:	evm_model_chr4_1664	evm_model_chr9_1568	  6e-35
+312-  1:	evm_model_chr4_1668	evm_model_chr9_1573	  2e-15
+312-  2:	evm_model_chr4_1683	evm_model_chr9_1587	 3e-129
+312-  3:	evm_model_chr4_1690	evm_model_chr9_1600	 9e-164
+312-  4:	evm_model_chr4_1736	evm_model_chr9_1601	  1e-34
+312-  5:	evm_model_chr4_1748	evm_model_chr9_1607	 6e-130
+312-  6:	evm_model_chr4_1788	evm_model_chr9_1642	 2e-259
+312-  7:	evm_model_chr4_1792	evm_model_chr9_1647	 7e-247
+312-  8:	evm_model_chr4_1804	evm_model_chr9_1657	  3e-53
+312-  9:	evm_model_chr4_1805	evm_model_chr9_1658	  3e-51
+312- 10:	evm_model_chr4_1820	evm_model_chr9_1662	 2e-201
+312- 11:	evm_model_chr4_1828	evm_model_chr9_1666	 1e-188
+312- 12:	evm_model_chr4_1830	evm_model_chr9_1669	 1e-189
+312- 13:	evm_model_chr4_1856	evm_model_chr9_1678	  5e-83
+312- 14:	evm_model_chr4_1857	evm_model_chr9_1679	  2e-82
+312- 15:	evm_model_chr4_1858	evm_model_chr9_1683	  6e-51
+312- 16:	evm_model_chr4_1869	evm_model_chr9_1694	  1e-54
+312- 17:	evm_model_chr4_1870	evm_model_chr9_1695	  4e-83
+312- 18:	evm_model_chr4_1872	evm_model_chr9_1706	  2e-69
+312- 19:	evm_model_chr4_1887	evm_model_chr9_1729	 5e-202
+312- 20:	evm_model_chr4_1894	evm_model_chr9_1739	 3e-167
+312- 21:	evm_model_chr4_1899	evm_model_chr9_1742	 4e-191
+312- 22:	evm_model_chr4_1907	evm_model_chr9_1753	 6e-122
+## Alignment 313: score=391.0 e_value=2.7e-21 N=10 gin_chr4&gin_chr9 plus
+313-  0:	evm_model_chr4_1936	evm_model_chr9_2020	  7e-53
+313-  1:	evm_model_chr4_1952	evm_model_chr9_2052	 2e-115
+313-  2:	evm_model_chr4_1977	evm_model_chr9_2075	      0
+313-  3:	evm_model_chr4_1980	evm_model_chr9_2093	 2e-188
+313-  4:	evm_model_chr4_1986	evm_model_chr9_2095	 7e-229
+313-  5:	evm_model_chr4_1991	evm_model_chr9_2102	 2e-290
+313-  6:	evm_model_chr4_1994	evm_model_chr9_2103	 1e-263
+313-  7:	evm_model_chr4_1999	evm_model_chr9_2109	  1e-41
+313-  8:	evm_model_chr4_2000	evm_model_chr9_2116	  3e-41
+313-  9:	evm_model_chr4_2014	evm_model_chr9_2122	      0
+## Alignment 314: score=256.0 e_value=3.6e-14 N=8 gin_chr4&gin_chr9 plus
+314-  0:	evm_model_chr4_2123	evm_model_chr9_1755	  1e-68
+314-  1:	evm_model_chr4_2142	evm_model_chr9_1772	  4e-36
+314-  2:	evm_model_chr4_2154	evm_model_chr9_1773	 2e-105
+314-  3:	evm_model_chr4_2179	evm_model_chr9_1784	 9e-124
+314-  4:	evm_model_chr4_2205	evm_model_chr9_1797	  5e-77
+314-  5:	evm_model_chr4_2228	evm_model_chr9_1807	 2e-102
+314-  6:	evm_model_chr4_2267	evm_model_chr9_1838	 2e-212
+314-  7:	evm_model_chr4_2274	evm_model_chr9_1841	  4e-62
+## Alignment 315: score=197.0 e_value=3.4e-15 N=8 gin_chr4&gin_chr9 plus
+315-  0:	evm_model_chr4_1463	evm_model_chr9_1264	  1e-12
+315-  1:	evm_model_chr4_1504	evm_model_chr9_1280	  1e-74
+315-  2:	evm_model_chr4_1514	evm_model_chr9_1303	  3e-46
+315-  3:	evm_model_chr4_1567	evm_model_chr9_1339	  3e-81
+315-  4:	evm_model_chr4_1572	evm_model_chr9_1343	 3e-127
+315-  5:	evm_model_chr4_1593	evm_model_chr9_1351	  3e-35
+315-  6:	evm_model_chr4_1607	evm_model_chr9_1370	 6e-150
+315-  7:	evm_model_chr4_1610	evm_model_chr9_1418	  2e-47
+## Alignment 316: score=195.0 e_value=5.4e-11 N=7 gin_chr4&gin_chr9 plus
+316-  0:	evm_model_chr4_1783	evm_model_chr9_1606	 6e-148
+316-  1:	evm_model_chr4_1796	evm_model_chr9_1637	 8e-110
+316-  2:	evm_model_chr4_1811	evm_model_chr9_1664	 2e-166
+316-  3:	evm_model_chr4_1829	evm_model_chr9_1676	 4e-242
+316-  4:	evm_model_chr4_1864	evm_model_chr9_1680	 6e-141
+316-  5:	evm_model_chr4_1893	evm_model_chr9_1724	  3e-87
+316-  6:	evm_model_chr4_1896	evm_model_chr9_1730	  7e-53
+## Alignment 317: score=679.0 e_value=6.4e-45 N=17 gin_chr4&gin_chr9 minus
+317-  0:	evm_model_chr4_2125	evm_model_chr9_509	 5e-126
+317-  1:	evm_model_chr4_2132	evm_model_chr9_507	  3e-59
+317-  2:	evm_model_chr4_2137	evm_model_chr9_495	  6e-12
+317-  3:	evm_model_chr4_2138	evm_model_chr9_491	  8e-31
+317-  4:	evm_model_chr4_2140	evm_model_chr9_485	 2e-108
+317-  5:	evm_model_chr4_2142	evm_model_chr9_483	  2e-32
+317-  6:	evm_model_chr4_2154	evm_model_chr9_478	  9e-69
+317-  7:	evm_model_chr4_2164	evm_model_chr9_476	 2e-283
+317-  8:	evm_model_chr4_2195	evm_model_chr9_448	  5e-96
+317-  9:	evm_model_chr4_2198	evm_model_chr9_447	 1e-179
+317- 10:	evm_model_chr4_2200	evm_model_chr9_445	  1e-46
+317- 11:	evm_model_chr4_2203	evm_model_chr9_434	 2e-206
+317- 12:	evm_model_chr4_2215	evm_model_chr9_430	 7e-148
+317- 13:	evm_model_chr4_2225	evm_model_chr9_428	  2e-56
+317- 14:	evm_model_chr4_2243	evm_model_chr9_414	  3e-68
+317- 15:	evm_model_chr4_2269	evm_model_chr9_404	 6e-139
+317- 16:	evm_model_chr4_2290	evm_model_chr9_398	  9e-29
+## Alignment 318: score=245.0 e_value=8.7e-20 N=9 gin_chr4&gin_chr9 minus
+318-  0:	evm_model_chr4_1908	evm_model_chr9_381	  2e-10
+318-  1:	evm_model_chr4_1936	evm_model_chr9_371	  3e-45
+318-  2:	evm_model_chr4_1971	evm_model_chr9_345	  1e-68
+318-  3:	evm_model_chr4_1973	evm_model_chr9_343	 3e-177
+318-  4:	evm_model_chr4_1983	evm_model_chr9_301	  2e-68
+318-  5:	evm_model_chr4_1986	evm_model_chr9_288	  1e-94
+318-  6:	evm_model_chr4_2016	evm_model_chr9_271	  1e-83
+318-  7:	evm_model_chr4_2027	evm_model_chr9_248	  3e-19
+318-  8:	evm_model_chr4_2066	evm_model_chr9_242	 8e-138
+## Alignment 319: score=170.0 e_value=1.3e-09 N=6 gin_chr4&gin_chr9 minus
+319-  0:	evm_model_chr4_2273	evm_model_chr9_150	  6e-10
+319-  1:	evm_model_chr4_2298	evm_model_chr9_100	 9e-279
+319-  2:	evm_model_chr4_2320	evm_model_chr9_83	  1e-16
+319-  3:	evm_model_chr4_2326	evm_model_chr9_70	  3e-25
+319-  4:	evm_model_chr4_2327	evm_model_chr9_69	 5e-186
+319-  5:	evm_model_chr4_2362	evm_model_chr9_20	 2e-135
+## Alignment 320: score=164.0 e_value=0.00047 N=4 gin_chr4&gin_chr9 minus
+320-  0:	evm_model_chr4_1556	evm_model_chr9_1353	  1e-74
+320-  1:	evm_model_chr4_1563	evm_model_chr9_1344	 8e-166
+320-  2:	evm_model_chr4_1574	evm_model_chr9_1317	  9e-65
+320-  3:	evm_model_chr4_1577	evm_model_chr9_1315	  3e-46
+## Alignment 321: score=159.0 e_value=2.6e-06 N=5 gin_chr4&gin_chr9 minus
+321-  0:	evm_model_chr4_2060	evm_model_chr9_1923	  9e-20
+321-  1:	evm_model_chr4_2072	evm_model_chr9_1886	  2e-65
+321-  2:	evm_model_chr4_2073	evm_model_chr9_1880	 4e-147
+321-  3:	evm_model_chr4_2095	evm_model_chr9_1877	  3e-27
+321-  4:	evm_model_chr4_2125	evm_model_chr9_1848	  5e-65
+## Alignment 322: score=178.0 e_value=0.0004 N=4 gin_chr5&gin_chr5 minus
+322-  0:	evm_model_chr5_20	evm_model_chr5_1851	  5e-23
+322-  1:	evm_model_chr5_32	evm_model_chr5_1847	  3e-49
+322-  2:	evm_model_chr5_42	evm_model_chr5_1841	  1e-23
+322-  3:	evm_model_chr5_43	evm_model_chr5_1838	  5e-69
+## Alignment 323: score=300.0 e_value=1.6e-20 N=9 gin_chr5&gin_chr6 plus
+323-  0:	evm_model_chr5_644	evm_model_chr6_177	  3e-50
+323-  1:	evm_model_chr5_663	evm_model_chr6_189	      0
+323-  2:	evm_model_chr5_676	evm_model_chr6_210	  3e-40
+323-  3:	evm_model_chr5_714	evm_model_chr6_235	 4e-146
+323-  4:	evm_model_chr5_715	evm_model_chr6_236	      0
+323-  5:	evm_model_chr5_718	evm_model_chr6_237	 5e-275
+323-  6:	evm_model_chr5_758	evm_model_chr6_253	 1e-141
+323-  7:	evm_model_chr5_759	evm_model_chr6_254	 8e-146
+323-  8:	evm_model_chr5_794	evm_model_chr6_274	 2e-232
+## Alignment 324: score=240.0 e_value=2.6e-09 N=6 gin_chr5&gin_chr6 minus
+324-  0:	evm_model_chr5_595	evm_model_chr6_1810	  6e-52
+324-  1:	evm_model_chr5_615	evm_model_chr6_1800	 1e-145
+324-  2:	evm_model_chr5_617	evm_model_chr6_1799	  3e-31
+324-  3:	evm_model_chr5_632	evm_model_chr6_1794	  2e-17
+324-  4:	evm_model_chr5_634	evm_model_chr6_1786	  7e-40
+324-  5:	evm_model_chr5_654	evm_model_chr6_1785	 2e-243
+## Alignment 325: score=179.0 e_value=2.3e-05 N=4 gin_chr5&gin_chr6 minus
+325-  0:	evm_model_chr5_529	evm_model_chr6_502	 6e-233
+325-  1:	evm_model_chr5_547	evm_model_chr6_497	 2e-221
+325-  2:	evm_model_chr5_549	evm_model_chr6_496	 1e-105
+325-  3:	evm_model_chr5_551	evm_model_chr6_492	 1e-247
+## Alignment 326: score=173.0 e_value=0.00064 N=4 gin_chr5&gin_chr6 minus
+326-  0:	evm_model_chr5_1473	evm_model_chr6_581	 1e-106
+326-  1:	evm_model_chr5_1475	evm_model_chr6_577	  7e-38
+326-  2:	evm_model_chr5_1486	evm_model_chr6_563	  2e-67
+326-  3:	evm_model_chr5_1498	evm_model_chr6_560	 0.0008
+## Alignment 327: score=424.0 e_value=9.8e-28 N=12 gin_chr5&gin_chr7 plus
+327-  0:	evm_model_chr5_1252	evm_model_chr7_218	 2e-234
+327-  1:	evm_model_chr5_1266	evm_model_chr7_242	 5e-190
+327-  2:	evm_model_chr5_1292	evm_model_chr7_288	 6e-170
+327-  3:	evm_model_chr5_1296	evm_model_chr7_299	  8e-34
+327-  4:	evm_model_chr5_1298	evm_model_chr7_304	  7e-24
+327-  5:	evm_model_chr5_1308	evm_model_chr7_323	  4e-78
+327-  6:	evm_model_chr5_1309	evm_model_chr7_324	  2e-74
+327-  7:	evm_model_chr5_1312	evm_model_chr7_331	 5e-151
+327-  8:	evm_model_chr5_1314	evm_model_chr7_333	 9e-141
+327-  9:	evm_model_chr5_1329	evm_model_chr7_339	 2e-175
+327- 10:	evm_model_chr5_1358	evm_model_chr7_378	 8e-243
+327- 11:	evm_model_chr5_1373	evm_model_chr7_396	  8e-35
+## Alignment 328: score=165.0 e_value=1.6e-06 N=5 gin_chr5&gin_chr7 plus
+328-  0:	evm_model_chr5_1895	evm_model_chr7_826	  1e-77
+328-  1:	evm_model_chr5_1919	evm_model_chr7_831	 4e-283
+328-  2:	evm_model_chr5_1952	evm_model_chr7_852	 6e-161
+328-  3:	evm_model_chr5_1983	evm_model_chr7_863	 2e-135
+328-  4:	evm_model_chr5_1984	evm_model_chr7_864	 2e-108
+## Alignment 329: score=162.0 e_value=3.2e-06 N=4 gin_chr5&gin_chr7 plus
+329-  0:	evm_model_chr5_831	evm_model_chr7_1325	  9e-06
+329-  1:	evm_model_chr5_867	evm_model_chr7_1356	  2e-97
+329-  2:	evm_model_chr5_868	evm_model_chr7_1357	  2e-54
+329-  3:	evm_model_chr5_872	evm_model_chr7_1361	 9e-226
+## Alignment 330: score=195.0 e_value=6.9e-06 N=5 gin_chr5&gin_chr8 minus
+330-  0:	evm_model_chr5_1510	evm_model_chr8_1456	  8e-64
+330-  1:	evm_model_chr5_1516	evm_model_chr8_1453	  4e-20
+330-  2:	evm_model_chr5_1518	evm_model_chr8_1452	  3e-42
+330-  3:	evm_model_chr5_1541	evm_model_chr8_1444	  6e-65
+330-  4:	evm_model_chr5_1569	evm_model_chr8_1433	  2e-65
+## Alignment 331: score=177.0 e_value=3e-06 N=5 gin_chr5&gin_chr8 minus
+331-  0:	evm_model_chr5_849	evm_model_chr8_616	  1e-56
+331-  1:	evm_model_chr5_852	evm_model_chr8_611	  7e-30
+331-  2:	evm_model_chr5_883	evm_model_chr8_598	 6e-187
+331-  3:	evm_model_chr5_905	evm_model_chr8_574	  3e-52
+331-  4:	evm_model_chr5_922	evm_model_chr8_559	  1e-08
+## Alignment 332: score=351.0 e_value=6.2e-19 N=9 gin_chr5&gin_chr9 plus
+332-  0:	evm_model_chr5_1283	evm_model_chr9_588	  2e-52
+332-  1:	evm_model_chr5_1287	evm_model_chr9_591	  1e-37
+332-  2:	evm_model_chr5_1290	evm_model_chr9_595	  4e-62
+332-  3:	evm_model_chr5_1293	evm_model_chr9_598	  2e-27
+332-  4:	evm_model_chr5_1296	evm_model_chr9_608	  1e-27
+332-  5:	evm_model_chr5_1298	evm_model_chr9_610	  2e-20
+332-  6:	evm_model_chr5_1304	evm_model_chr9_613	  8e-44
+332-  7:	evm_model_chr5_1329	evm_model_chr9_643	 6e-170
+332-  8:	evm_model_chr5_1377	evm_model_chr9_655	  2e-39
+## Alignment 333: score=175.0 e_value=3.3e-06 N=5 gin_chr5&gin_chr9 plus
+333-  0:	evm_model_chr5_1946	evm_model_chr9_1567	 2e-141
+333-  1:	evm_model_chr5_1959	evm_model_chr9_1587	 2e-101
+333-  2:	evm_model_chr5_1971	evm_model_chr9_1609	      0
+333-  3:	evm_model_chr5_1972	evm_model_chr9_1617	  9e-86
+333-  4:	evm_model_chr5_1984	evm_model_chr9_1646	  3e-54
+## Alignment 334: score=383.0 e_value=1.6e-23 N=10 gin_chr5&gin_chr9 minus
+334-  0:	evm_model_chr5_736	evm_model_chr9_1052	  1e-39
+334-  1:	evm_model_chr5_738	evm_model_chr9_1049	  5e-30
+334-  2:	evm_model_chr5_766	evm_model_chr9_1046	 1e-114
+334-  3:	evm_model_chr5_778	evm_model_chr9_1035	 5e-155
+334-  4:	evm_model_chr5_783	evm_model_chr9_1033	 5e-173
+334-  5:	evm_model_chr5_789	evm_model_chr9_1030	  4e-31
+334-  6:	evm_model_chr5_794	evm_model_chr9_1023	  3e-66
+334-  7:	evm_model_chr5_845	evm_model_chr9_1005	  2e-70
+334-  8:	evm_model_chr5_847	evm_model_chr9_993	  6e-49
+334-  9:	evm_model_chr5_849	evm_model_chr9_992	  9e-54
+## Alignment 335: score=338.0 e_value=1.6e-18 N=9 gin_chr5&gin_chr9 minus
+335-  0:	evm_model_chr5_1987	evm_model_chr9_1445	 2e-102
+335-  1:	evm_model_chr5_1988	evm_model_chr9_1442	  4e-20
+335-  2:	evm_model_chr5_2008	evm_model_chr9_1418	  8e-28
+335-  3:	evm_model_chr5_2034	evm_model_chr9_1380	 5e-261
+335-  4:	evm_model_chr5_2038	evm_model_chr9_1374	  4e-45
+335-  5:	evm_model_chr5_2046	evm_model_chr9_1372	  3e-48
+335-  6:	evm_model_chr5_2075	evm_model_chr9_1362	  2e-58
+335-  7:	evm_model_chr5_2079	evm_model_chr9_1361	 1e-193
+335-  8:	evm_model_chr5_2083	evm_model_chr9_1353	  3e-70
+## Alignment 336: score=264.0 e_value=3.4e-10 N=6 gin_chr5&gin_chr9 minus
+336-  0:	evm_model_chr5_261	evm_model_chr9_1499	  1e-17
+336-  1:	evm_model_chr5_289	evm_model_chr9_1490	 7e-249
+336-  2:	evm_model_chr5_291	evm_model_chr9_1486	  1e-27
+336-  3:	evm_model_chr5_294	evm_model_chr9_1483	  1e-23
+336-  4:	evm_model_chr5_297	evm_model_chr9_1478	 5e-236
+336-  5:	evm_model_chr5_298	evm_model_chr9_1477	 9e-262
+## Alignment 337: score=202.0 e_value=6.1e-10 N=6 gin_chr5&gin_chr9 minus
+337-  0:	evm_model_chr5_2037	evm_model_chr9_1373	  5e-77
+337-  1:	evm_model_chr5_2044	evm_model_chr9_1370	 5e-107
+337-  2:	evm_model_chr5_2058	evm_model_chr9_1326	 1e-107
+337-  3:	evm_model_chr5_2061	evm_model_chr9_1321	 4e-209
+337-  4:	evm_model_chr5_2098	evm_model_chr9_1288	  4e-25
+337-  5:	evm_model_chr5_2100	evm_model_chr9_1278	  6e-90
+## Alignment 338: score=160.0 e_value=1.1e-05 N=4 gin_chr5&gin_chr9 minus
+338-  0:	evm_model_chr5_1930	evm_model_chr9_1593	  1e-34
+338-  1:	evm_model_chr5_1964	evm_model_chr9_1572	  3e-65
+338-  2:	evm_model_chr5_1967	evm_model_chr9_1571	 3e-158
+338-  3:	evm_model_chr5_1970	evm_model_chr9_1565	  2e-34
+## Alignment 339: score=212.0 e_value=4.8e-09 N=6 gin_chr6&gin_chr6 minus
+339-  0:	evm_model_chr6_1419	evm_model_chr6_1675	  4e-21
+339-  1:	evm_model_chr6_1442	evm_model_chr6_1665	  6e-37
+339-  2:	evm_model_chr6_1450	evm_model_chr6_1655	  2e-05
+339-  3:	evm_model_chr6_1486	evm_model_chr6_1623	 6e-313
+339-  4:	evm_model_chr6_1488	evm_model_chr6_1620	 4e-111
+339-  5:	evm_model_chr6_1502	evm_model_chr6_1599	 1e-309
+## Alignment 340: score=166.0 e_value=3.5e-10 N=6 gin_chr6&gin_chr6 minus
+340-  0:	evm_model_chr6_1231	evm_model_chr6_1704	  1e-11
+340-  1:	evm_model_chr6_1236	evm_model_chr6_1701	  2e-05
+340-  2:	evm_model_chr6_1284	evm_model_chr6_1680	  3e-42
+340-  3:	evm_model_chr6_1332	evm_model_chr6_1674	      0
+340-  4:	evm_model_chr6_1367	evm_model_chr6_1642	  1e-40
+340-  5:	evm_model_chr6_1370	evm_model_chr6_1639	  5e-40
+## Alignment 341: score=185.0 e_value=0.00022 N=4 gin_chr6&gin_chr7 plus
+341-  0:	evm_model_chr6_2315	evm_model_chr7_514	 2e-175
+341-  1:	evm_model_chr6_2316	evm_model_chr7_515	  3e-73
+341-  2:	evm_model_chr6_2318	evm_model_chr7_528	  2e-57
+341-  3:	evm_model_chr6_2320	evm_model_chr7_532	  1e-92
+## Alignment 342: score=163.0 e_value=3.6e-09 N=5 gin_chr6&gin_chr7 plus
+342-  0:	evm_model_chr6_2278	evm_model_chr7_545	 1e-212
+342-  1:	evm_model_chr6_2279	evm_model_chr7_547	  2e-98
+342-  2:	evm_model_chr6_2294	evm_model_chr7_594	 1e-161
+342-  3:	evm_model_chr6_2310	evm_model_chr7_635	  3e-29
+342-  4:	evm_model_chr6_2311	evm_model_chr7_636	  4e-71
+## Alignment 343: score=162.0 e_value=3e-06 N=5 gin_chr6&gin_chr7 plus
+343-  0:	evm_model_chr6_2256	evm_model_chr7_1134	      0
+343-  1:	evm_model_chr6_2279	evm_model_chr7_1140	  1e-76
+343-  2:	evm_model_chr6_2299	evm_model_chr7_1168	  3e-47
+343-  3:	evm_model_chr6_2305	evm_model_chr7_1170	  3e-36
+343-  4:	evm_model_chr6_2315	evm_model_chr7_1205	 3e-169
+## Alignment 344: score=324.0 e_value=2.1e-17 N=9 gin_chr6&gin_chr7 minus
+344-  0:	evm_model_chr6_2210	evm_model_chr7_639	  7e-45
+344-  1:	evm_model_chr6_2211	evm_model_chr7_635	  7e-30
+344-  2:	evm_model_chr6_2222	evm_model_chr7_619	 4e-158
+344-  3:	evm_model_chr6_2252	evm_model_chr7_597	  2e-93
+344-  4:	evm_model_chr6_2257	evm_model_chr7_589	  1e-14
+344-  5:	evm_model_chr6_2266	evm_model_chr7_569	 1e-122
+344-  6:	evm_model_chr6_2272	evm_model_chr7_567	 5e-100
+344-  7:	evm_model_chr6_2299	evm_model_chr7_543	  6e-90
+344-  8:	evm_model_chr6_2315	evm_model_chr7_520	 5e-174
+## Alignment 345: score=300.0 e_value=4.7e-15 N=8 gin_chr6&gin_chr7 minus
+345-  0:	evm_model_chr6_1544	evm_model_chr7_151	 9e-257
+345-  1:	evm_model_chr6_1556	evm_model_chr7_150	  3e-31
+345-  2:	evm_model_chr6_1561	evm_model_chr7_140	 2e-177
+345-  3:	evm_model_chr6_1568	evm_model_chr7_132	  1e-17
+345-  4:	evm_model_chr6_1580	evm_model_chr7_123	 3e-118
+345-  5:	evm_model_chr6_1583	evm_model_chr7_120	 1e-101
+345-  6:	evm_model_chr6_1601	evm_model_chr7_97	  3e-95
+345-  7:	evm_model_chr6_1623	evm_model_chr7_58	      0
+## Alignment 346: score=196.0 e_value=1.3e-05 N=5 gin_chr6&gin_chr7 minus
+346-  0:	evm_model_chr6_170	evm_model_chr7_1235	  5e-61
+346-  1:	evm_model_chr6_179	evm_model_chr7_1208	  1e-08
+346-  2:	evm_model_chr6_181	evm_model_chr7_1200	  2e-23
+346-  3:	evm_model_chr6_184	evm_model_chr7_1187	  1e-20
+346-  4:	evm_model_chr6_190	evm_model_chr7_1177	 3e-190
+## Alignment 347: score=791.0 e_value=1.7e-59 N=21 gin_chr6&gin_chr8 plus
+347-  0:	evm_model_chr6_2104	evm_model_chr8_2098	  8e-14
+347-  1:	evm_model_chr6_2108	evm_model_chr8_2106	  1e-15
+347-  2:	evm_model_chr6_2113	evm_model_chr8_2112	 5e-263
+347-  3:	evm_model_chr6_2127	evm_model_chr8_2135	 3e-285
+347-  4:	evm_model_chr6_2130	evm_model_chr8_2142	      0
+347-  5:	evm_model_chr6_2142	evm_model_chr8_2159	  9e-27
+347-  6:	evm_model_chr6_2146	evm_model_chr8_2162	  3e-59
+347-  7:	evm_model_chr6_2168	evm_model_chr8_2168	  1e-26
+347-  8:	evm_model_chr6_2171	evm_model_chr8_2173	  6e-81
+347-  9:	evm_model_chr6_2172	evm_model_chr8_2176	  3e-11
+347- 10:	evm_model_chr6_2196	evm_model_chr8_2188	 7e-187
+347- 11:	evm_model_chr6_2219	evm_model_chr8_2210	 9e-151
+347- 12:	evm_model_chr6_2222	evm_model_chr8_2212	 8e-147
+347- 13:	evm_model_chr6_2252	evm_model_chr8_2227	 5e-161
+347- 14:	evm_model_chr6_2253	evm_model_chr8_2236	 7e-211
+347- 15:	evm_model_chr6_2255	evm_model_chr8_2252	      0
+347- 16:	evm_model_chr6_2258	evm_model_chr8_2255	  2e-77
+347- 17:	evm_model_chr6_2266	evm_model_chr8_2264	 2e-149
+347- 18:	evm_model_chr6_2284	evm_model_chr8_2273	  4e-20
+347- 19:	evm_model_chr6_2299	evm_model_chr8_2313	  8e-62
+347- 20:	evm_model_chr6_2308	evm_model_chr8_2315	  2e-57
+## Alignment 348: score=283.0 e_value=7.5e-17 N=7 gin_chr6&gin_chr8 minus
+348-  0:	evm_model_chr6_1443	evm_model_chr8_1763	 3e-195
+348-  1:	evm_model_chr6_1444	evm_model_chr8_1760	 5e-180
+348-  2:	evm_model_chr6_1460	evm_model_chr8_1716	 4e-198
+348-  3:	evm_model_chr6_1461	evm_model_chr8_1714	  4e-52
+348-  4:	evm_model_chr6_1464	evm_model_chr8_1711	  6e-57
+348-  5:	evm_model_chr6_1465	evm_model_chr8_1710	  1e-33
+348-  6:	evm_model_chr6_1485	evm_model_chr8_1696	  1e-75
+## Alignment 349: score=269.0 e_value=6e-08 N=6 gin_chr6&gin_chr8 minus
+349-  0:	evm_model_chr6_2205	evm_model_chr8_112	  2e-09
+349-  1:	evm_model_chr6_2219	evm_model_chr8_104	  5e-94
+349-  2:	evm_model_chr6_2224	evm_model_chr8_101	 8e-179
+349-  3:	evm_model_chr6_2227	evm_model_chr8_97	 2e-230
+349-  4:	evm_model_chr6_2228	evm_model_chr8_94	 6e-130
+349-  5:	evm_model_chr6_2235	evm_model_chr8_84	 4e-199
+## Alignment 350: score=170.0 e_value=0.00035 N=4 gin_chr6&gin_chr8 minus
+350-  0:	evm_model_chr6_2292	evm_model_chr8_2338	  3e-21
+350-  1:	evm_model_chr6_2299	evm_model_chr8_2332	  4e-49
+350-  2:	evm_model_chr6_2300	evm_model_chr8_2331	 2e-204
+350-  3:	evm_model_chr6_2313	evm_model_chr8_2306	 4e-128
+## Alignment 351: score=416.0 e_value=2.9e-28 N=12 gin_chr6&gin_chr9 plus
+351-  0:	evm_model_chr6_960	evm_model_chr9_1982	 6e-218
+351-  1:	evm_model_chr6_971	evm_model_chr9_2028	      0
+351-  2:	evm_model_chr6_1026	evm_model_chr9_2047	 5e-106
+351-  3:	evm_model_chr6_1037	evm_model_chr9_2062	  3e-77
+351-  4:	evm_model_chr6_1038	evm_model_chr9_2068	      0
+351-  5:	evm_model_chr6_1041	evm_model_chr9_2071	 7e-245
+351-  6:	evm_model_chr6_1058	evm_model_chr9_2085	      0
+351-  7:	evm_model_chr6_1080	evm_model_chr9_2094	 1e-205
+351-  8:	evm_model_chr6_1095	evm_model_chr9_2103	 8e-261
+351-  9:	evm_model_chr6_1102	evm_model_chr9_2107	 1e-220
+351- 10:	evm_model_chr6_1108	evm_model_chr9_2115	 6e-167
+351- 11:	evm_model_chr6_1109	evm_model_chr9_2116	  2e-51
+## Alignment 352: score=329.0 e_value=1.2e-14 N=8 gin_chr6&gin_chr9 plus
+352-  0:	evm_model_chr6_1184	evm_model_chr9_170	  9e-75
+352-  1:	evm_model_chr6_1188	evm_model_chr9_183	  1e-65
+352-  2:	evm_model_chr6_1205	evm_model_chr9_192	 2e-117
+352-  3:	evm_model_chr6_1215	evm_model_chr9_199	  8e-96
+352-  4:	evm_model_chr6_1217	evm_model_chr9_211	  3e-11
+352-  5:	evm_model_chr6_1223	evm_model_chr9_219	 4e-108
+352-  6:	evm_model_chr6_1225	evm_model_chr9_223	  5e-62
+352-  7:	evm_model_chr6_1239	evm_model_chr9_224	 3e-185
+## Alignment 353: score=316.0 e_value=5.5e-15 N=8 gin_chr6&gin_chr9 plus
+353-  0:	evm_model_chr6_1116	evm_model_chr9_1908	  4e-29
+353-  1:	evm_model_chr6_1148	evm_model_chr9_1943	  4e-61
+353-  2:	evm_model_chr6_1158	evm_model_chr9_1946	 2e-163
+353-  3:	evm_model_chr6_1159	evm_model_chr9_1947	      0
+353-  4:	evm_model_chr6_1161	evm_model_chr9_1949	 3e-120
+353-  5:	evm_model_chr6_1165	evm_model_chr9_1959	  5e-49
+353-  6:	evm_model_chr6_1173	evm_model_chr9_1962	 5e-205
+353-  7:	evm_model_chr6_1198	evm_model_chr9_1965	  1e-36
+## Alignment 354: score=308.0 e_value=1.4e-14 N=8 gin_chr6&gin_chr9 plus
+354-  0:	evm_model_chr6_899	evm_model_chr9_54	  5e-24
+354-  1:	evm_model_chr6_924	evm_model_chr9_67	 5e-141
+354-  2:	evm_model_chr6_933	evm_model_chr9_73	  1e-30
+354-  3:	evm_model_chr6_934	evm_model_chr9_77	  5e-90
+354-  4:	evm_model_chr6_939	evm_model_chr9_78	 9e-239
+354-  5:	evm_model_chr6_958	evm_model_chr9_90	  2e-60
+354-  6:	evm_model_chr6_974	evm_model_chr9_112	 4e-185
+354-  7:	evm_model_chr6_989	evm_model_chr9_126	 9e-209
+## Alignment 355: score=224.0 e_value=1.7e-05 N=5 gin_chr6&gin_chr9 plus
+355-  0:	evm_model_chr6_211	evm_model_chr9_1224	  2e-41
+355-  1:	evm_model_chr6_219	evm_model_chr9_1229	 1e-178
+355-  2:	evm_model_chr6_222	evm_model_chr9_1232	 2e-110
+355-  3:	evm_model_chr6_233	evm_model_chr9_1238	  2e-64
+355-  4:	evm_model_chr6_237	evm_model_chr9_1246	 7e-242
+## Alignment 356: score=178.0 e_value=2.8e-07 N=5 gin_chr6&gin_chr9 plus
+356-  0:	evm_model_chr6_1188	evm_model_chr9_1850	  1e-37
+356-  1:	evm_model_chr6_1198	evm_model_chr9_1859	  1e-36
+356-  2:	evm_model_chr6_1215	evm_model_chr9_1914	  5e-88
+356-  3:	evm_model_chr6_1218	evm_model_chr9_1920	 1e-146
+356-  4:	evm_model_chr6_1223	evm_model_chr9_1922	 3e-138
+## Alignment 357: score=301.0 e_value=2.2e-17 N=9 gin_chr6&gin_chr9 minus
+357-  0:	evm_model_chr6_958	evm_model_chr9_390	  2e-71
+357-  1:	evm_model_chr6_983	evm_model_chr9_380	      0
+357-  2:	evm_model_chr6_1018	evm_model_chr9_327	  5e-58
+357-  3:	evm_model_chr6_1026	evm_model_chr9_312	  1e-57
+357-  4:	evm_model_chr6_1037	evm_model_chr9_301	  1e-91
+357-  5:	evm_model_chr6_1049	evm_model_chr9_288	 2e-275
+357-  6:	evm_model_chr6_1058	evm_model_chr9_273	      0
+357-  7:	evm_model_chr6_1070	evm_model_chr9_265	  1e-39
+357-  8:	evm_model_chr6_1083	evm_model_chr9_264	 3e-113
+## Alignment 358: score=219.0 e_value=1.2e-13 N=7 gin_chr6&gin_chr9 minus
+358-  0:	evm_model_chr6_1173	evm_model_chr9_1950	  7e-46
+358-  1:	evm_model_chr6_1223	evm_model_chr9_1922	 3e-138
+358-  2:	evm_model_chr6_1258	evm_model_chr9_1907	 1e-207
+358-  3:	evm_model_chr6_1261	evm_model_chr9_1877	  3e-21
+358-  4:	evm_model_chr6_1273	evm_model_chr9_1866	      0
+358-  5:	evm_model_chr6_1282	evm_model_chr9_1860	 2e-106
+358-  6:	evm_model_chr6_1283	evm_model_chr9_1859	  1e-44
+## Alignment 359: score=171.0 e_value=2.9e-09 N=6 gin_chr6&gin_chr9 minus
+359-  0:	evm_model_chr6_207	evm_model_chr9_1105	  6e-94
+359-  1:	evm_model_chr6_238	evm_model_chr9_1060	  7e-08
+359-  2:	evm_model_chr6_266	evm_model_chr9_1051	 9e-133
+359-  3:	evm_model_chr6_267	evm_model_chr9_1036	  3e-94
+359-  4:	evm_model_chr6_274	evm_model_chr9_1023	  9e-74
+359-  5:	evm_model_chr6_299	evm_model_chr9_990	  3e-51
+## Alignment 360: score=151.0 e_value=0.00011 N=4 gin_chr6&gin_chr9 minus
+360-  0:	evm_model_chr6_1261	evm_model_chr9_150	  2e-32
+360-  1:	evm_model_chr6_1271	evm_model_chr9_149	  2e-43
+360-  2:	evm_model_chr6_1279	evm_model_chr9_140	 8e-187
+360-  3:	evm_model_chr6_1312	evm_model_chr9_115	 9e-126
+## Alignment 361: score=319.0 e_value=2.2e-16 N=8 gin_chr7&gin_chr7 plus
+361-  0:	evm_model_chr7_692	evm_model_chr7_1901	 7e-157
+361-  1:	evm_model_chr7_701	evm_model_chr7_1915	      0
+361-  2:	evm_model_chr7_705	evm_model_chr7_1916	  4e-90
+361-  3:	evm_model_chr7_707	evm_model_chr7_1919	 5e-149
+361-  4:	evm_model_chr7_710	evm_model_chr7_1924	  1e-51
+361-  5:	evm_model_chr7_716	evm_model_chr7_1931	  3e-97
+361-  6:	evm_model_chr7_721	evm_model_chr7_1934	 3e-100
+361-  7:	evm_model_chr7_751	evm_model_chr7_1983	  1e-08
+## Alignment 362: score=188.0 e_value=0.00026 N=4 gin_chr7&gin_chr7 plus
+362-  0:	evm_model_chr7_152	evm_model_chr7_406	 6e-264
+362-  1:	evm_model_chr7_158	evm_model_chr7_412	 4e-173
+362-  2:	evm_model_chr7_159	evm_model_chr7_413	 6e-308
+362-  3:	evm_model_chr7_166	evm_model_chr7_421	 1e-103
+## Alignment 363: score=208.0 e_value=6.4e-06 N=5 gin_chr7&gin_chr8 plus
+363-  0:	evm_model_chr7_1142	evm_model_chr8_2281	 9e-279
+363-  1:	evm_model_chr7_1145	evm_model_chr8_2297	  8e-35
+363-  2:	evm_model_chr7_1148	evm_model_chr8_2306	  6e-97
+363-  3:	evm_model_chr7_1162	evm_model_chr8_2308	  1e-61
+363-  4:	evm_model_chr7_1165	evm_model_chr8_2315	  7e-46
+## Alignment 364: score=181.0 e_value=1.7e-09 N=5 gin_chr7&gin_chr8 plus
+364-  0:	evm_model_chr7_172	evm_model_chr8_832	  8e-42
+364-  1:	evm_model_chr7_187	evm_model_chr8_833	 2e-149
+364-  2:	evm_model_chr7_192	evm_model_chr8_846	  4e-43
+364-  3:	evm_model_chr7_219	evm_model_chr8_889	  4e-56
+364-  4:	evm_model_chr7_221	evm_model_chr8_890	 5e-302
+## Alignment 365: score=546.0 e_value=2.9e-32 N=13 gin_chr7&gin_chr8 minus
+365-  0:	evm_model_chr7_1626	evm_model_chr8_1295	  5e-17
+365-  1:	evm_model_chr7_1628	evm_model_chr8_1293	  4e-64
+365-  2:	evm_model_chr7_1630	evm_model_chr8_1291	  9e-31
+365-  3:	evm_model_chr7_1635	evm_model_chr8_1290	  5e-87
+365-  4:	evm_model_chr7_1640	evm_model_chr8_1286	 8e-104
+365-  5:	evm_model_chr7_1644	evm_model_chr8_1285	  2e-79
+365-  6:	evm_model_chr7_1663	evm_model_chr8_1248	  1e-78
+365-  7:	evm_model_chr7_1672	evm_model_chr8_1246	 4e-179
+365-  8:	evm_model_chr7_1690	evm_model_chr8_1221	  2e-20
+365-  9:	evm_model_chr7_1698	evm_model_chr8_1219	 3e-215
+365- 10:	evm_model_chr7_1700	evm_model_chr8_1215	 5e-174
+365- 11:	evm_model_chr7_1711	evm_model_chr8_1213	 4e-246
+365- 12:	evm_model_chr7_1715	evm_model_chr8_1210	 4e-103
+## Alignment 366: score=439.0 e_value=2.2e-32 N=13 gin_chr7&gin_chr8 minus
+366-  0:	evm_model_chr7_513	evm_model_chr8_2309	 9e-154
+366-  1:	evm_model_chr7_523	evm_model_chr8_2291	  1e-30
+366-  2:	evm_model_chr7_526	evm_model_chr8_2283	  2e-25
+366-  3:	evm_model_chr7_559	evm_model_chr8_2274	  2e-35
+366-  4:	evm_model_chr7_569	evm_model_chr8_2264	 2e-146
+366-  5:	evm_model_chr7_576	evm_model_chr8_2230	 1e-245
+366-  6:	evm_model_chr7_597	evm_model_chr8_2227	 6e-113
+366-  7:	evm_model_chr7_611	evm_model_chr8_2222	  7e-84
+366-  8:	evm_model_chr7_617	evm_model_chr8_2216	  5e-56
+366-  9:	evm_model_chr7_619	evm_model_chr8_2212	 3e-145
+366- 10:	evm_model_chr7_633	evm_model_chr8_2193	 1e-167
+366- 11:	evm_model_chr7_634	evm_model_chr8_2188	 4e-206
+366- 12:	evm_model_chr7_681	evm_model_chr8_2137	 8e-222
+## Alignment 367: score=386.0 e_value=1.4e-26 N=11 gin_chr7&gin_chr8 minus
+367-  0:	evm_model_chr7_998	evm_model_chr8_2199	  3e-10
+367-  1:	evm_model_chr7_1022	evm_model_chr8_2176	  2e-16
+367-  2:	evm_model_chr7_1023	evm_model_chr8_2175	 7e-195
+367-  3:	evm_model_chr7_1024	evm_model_chr8_2173	  4e-91
+367-  4:	evm_model_chr7_1026	evm_model_chr8_2169	 6e-124
+367-  5:	evm_model_chr7_1031	evm_model_chr8_2153	  2e-45
+367-  6:	evm_model_chr7_1070	evm_model_chr8_2119	 9e-121
+367-  7:	evm_model_chr7_1090	evm_model_chr8_2104	  6e-16
+367-  8:	evm_model_chr7_1095	evm_model_chr8_2066	  1e-93
+367-  9:	evm_model_chr7_1096	evm_model_chr8_2038	  3e-31
+367- 10:	evm_model_chr7_1097	evm_model_chr8_2036	 1e-217
+## Alignment 368: score=419.0 e_value=3.7e-24 N=10 gin_chr7&gin_chr9 plus
+368-  0:	evm_model_chr7_1626	evm_model_chr9_1065	  1e-15
+368-  1:	evm_model_chr7_1627	evm_model_chr9_1067	  4e-14
+368-  2:	evm_model_chr7_1643	evm_model_chr9_1083	  6e-28
+368-  3:	evm_model_chr7_1644	evm_model_chr9_1085	  2e-73
+368-  4:	evm_model_chr7_1654	evm_model_chr9_1087	  4e-18
+368-  5:	evm_model_chr7_1656	evm_model_chr9_1093	  1e-33
+368-  6:	evm_model_chr7_1658	evm_model_chr9_1100	 9e-117
+368-  7:	evm_model_chr7_1662	evm_model_chr9_1115	 3e-161
+368-  8:	evm_model_chr7_1672	evm_model_chr9_1127	 1e-227
+368-  9:	evm_model_chr7_1677	evm_model_chr9_1147	  8e-88
+## Alignment 369: score=193.0 e_value=8.8e-09 N=6 gin_chr7&gin_chr9 plus
+369-  0:	evm_model_chr7_276	evm_model_chr9_589	  2e-83
+369-  1:	evm_model_chr7_279	evm_model_chr9_592	  3e-23
+369-  2:	evm_model_chr7_293	evm_model_chr9_597	 1e-105
+369-  3:	evm_model_chr7_316	evm_model_chr9_618	      0
+369-  4:	evm_model_chr7_339	evm_model_chr9_643	 1e-176
+369-  5:	evm_model_chr7_386	evm_model_chr9_678	  4e-28
+## Alignment 370: score=340.0 e_value=1.6e-19 N=9 gin_chr8&gin_chr8 plus
+370-  0:	evm_model_chr8_146	evm_model_chr8_2092	 2e-115
+370-  1:	evm_model_chr8_155	evm_model_chr8_2119	 7e-123
+370-  2:	evm_model_chr8_161	evm_model_chr8_2134	 2e-215
+370-  3:	evm_model_chr8_164	evm_model_chr8_2135	  1e-97
+370-  4:	evm_model_chr8_175	evm_model_chr8_2138	 8e-238
+370-  5:	evm_model_chr8_189	evm_model_chr8_2147	  3e-41
+370-  6:	evm_model_chr8_191	evm_model_chr8_2148	  1e-40
+370-  7:	evm_model_chr8_201	evm_model_chr8_2171	 6e-164
+370-  8:	evm_model_chr8_203	evm_model_chr8_2194	 9e-112
+## Alignment 371: score=185.0 e_value=5e-09 N=6 gin_chr8&gin_chr8 plus
+371-  0:	evm_model_chr8_684	evm_model_chr8_2278	  2e-51
+371-  1:	evm_model_chr8_702	evm_model_chr8_2279	  2e-80
+371-  2:	evm_model_chr8_728	evm_model_chr8_2311	 1e-153
+371-  3:	evm_model_chr8_772	evm_model_chr8_2318	  2e-34
+371-  4:	evm_model_chr8_793	evm_model_chr8_2334	  6e-47
+371-  5:	evm_model_chr8_797	evm_model_chr8_2339	 2e-292
+## Alignment 372: score=173.0 e_value=2.3e-06 N=5 gin_chr8&gin_chr8 plus
+372-  0:	evm_model_chr8_406	evm_model_chr8_482	 2e-123
+372-  1:	evm_model_chr8_447	evm_model_chr8_487	  5e-10
+372-  2:	evm_model_chr8_471	evm_model_chr8_512	 1e-232
+372-  3:	evm_model_chr8_473	evm_model_chr8_523	 2e-256
+372-  4:	evm_model_chr8_477	evm_model_chr8_527	 1e-258
+## Alignment 373: score=210.0 e_value=3.5e-09 N=6 gin_chr8&gin_chr8 minus
+373-  0:	evm_model_chr8_87	evm_model_chr8_2219	      0
+373-  1:	evm_model_chr8_104	evm_model_chr8_2210	  5e-98
+373-  2:	evm_model_chr8_110	evm_model_chr8_2203	  3e-61
+373-  3:	evm_model_chr8_114	evm_model_chr8_2185	 2e-129
+373-  4:	evm_model_chr8_159	evm_model_chr8_2145	  2e-09
+373-  5:	evm_model_chr8_162	evm_model_chr8_2137	 1e-241
+## Alignment 374: score=192.0 e_value=0.00041 N=4 gin_chr8&gin_chr8 minus
+374-  0:	evm_model_chr8_1514	evm_model_chr8_1536	  5e-35
+374-  1:	evm_model_chr8_1520	evm_model_chr8_1532	  9e-24
+374-  2:	evm_model_chr8_1522	evm_model_chr8_1531	  9e-50
+374-  3:	evm_model_chr8_1523	evm_model_chr8_1528	  4e-87
+## Alignment 375: score=251.0 e_value=7.8e-11 N=7 gin_chr8&gin_chr9 minus
+375-  0:	evm_model_chr8_1220	evm_model_chr9_1166	 3e-156
+375-  1:	evm_model_chr8_1228	evm_model_chr9_1146	 1e-112
+375-  2:	evm_model_chr8_1246	evm_model_chr9_1127	 3e-185
+375-  3:	evm_model_chr8_1247	evm_model_chr9_1119	 1e-217
+375-  4:	evm_model_chr8_1260	evm_model_chr9_1106	 1e-200
+375-  5:	evm_model_chr8_1285	evm_model_chr9_1085	  4e-88
+375-  6:	evm_model_chr8_1295	evm_model_chr9_1065	  2e-16
+## Alignment 376: score=223.0 e_value=1.3e-05 N=5 gin_chr8&gin_chr9 minus
+376-  0:	evm_model_chr8_2236	evm_model_chr9_2161	 7e-175
+376-  1:	evm_model_chr8_2240	evm_model_chr9_2155	 2e-198
+376-  2:	evm_model_chr8_2242	evm_model_chr9_2149	  2e-56
+376-  3:	evm_model_chr8_2257	evm_model_chr9_2143	 4e-136
+376-  4:	evm_model_chr8_2261	evm_model_chr9_2142	  1e-38
+## Alignment 377: score=344.0 e_value=2.4e-18 N=9 gin_chr9&gin_chr9 plus
+377-  0:	evm_model_chr9_136	evm_model_chr9_1862	  6e-77
+377-  1:	evm_model_chr9_141	evm_model_chr9_1865	  7e-44
+377-  2:	evm_model_chr9_173	evm_model_chr9_1900	  1e-60
+377-  3:	evm_model_chr9_199	evm_model_chr9_1914	 2e-106
+377-  4:	evm_model_chr9_200	evm_model_chr9_1915	 8e-271
+377-  5:	evm_model_chr9_209	evm_model_chr9_1919	  4e-40
+377-  6:	evm_model_chr9_219	evm_model_chr9_1922	 2e-113
+377-  7:	evm_model_chr9_230	evm_model_chr9_1949	 4e-158
+377-  8:	evm_model_chr9_231	evm_model_chr9_1950	  1e-46
+## Alignment 378: score=233.0 e_value=7.9e-06 N=5 gin_chr9&gin_chr9 plus
+378-  0:	evm_model_chr9_304	evm_model_chr9_2041	 2e-221
+378-  1:	evm_model_chr9_307	evm_model_chr9_2044	  8e-83
+378-  2:	evm_model_chr9_312	evm_model_chr9_2047	  3e-38
+378-  3:	evm_model_chr9_322	evm_model_chr9_2055	 2e-119
+378-  4:	evm_model_chr9_325	evm_model_chr9_2056	  2e-31
+## Alignment 379: score=324.0 e_value=9.5e-19 N=9 gin_chr9&gin_chr9 minus
+379-  0:	evm_model_chr9_249	evm_model_chr9_2088	 1e-183
+379-  1:	evm_model_chr9_273	evm_model_chr9_2085	      0
+379-  2:	evm_model_chr9_299	evm_model_chr9_2063	 1e-113
+379-  3:	evm_model_chr9_301	evm_model_chr9_2062	  2e-80
+379-  4:	evm_model_chr9_306	evm_model_chr9_2045	  5e-28
+379-  5:	evm_model_chr9_307	evm_model_chr9_2044	  8e-83
+379-  6:	evm_model_chr9_333	evm_model_chr9_2040	 1e-146
+379-  7:	evm_model_chr9_357	evm_model_chr9_2021	 1e-173
+379-  8:	evm_model_chr9_371	evm_model_chr9_2020	  5e-66
+## Alignment 380: score=293.0 e_value=2.3e-15 N=8 gin_chr9&gin_chr9 minus
+380-  0:	evm_model_chr9_381	evm_model_chr9_1862	  1e-09
+380-  1:	evm_model_chr9_406	evm_model_chr9_1839	 1e-110
+380-  2:	evm_model_chr9_413	evm_model_chr9_1821	 5e-117
+380-  3:	evm_model_chr9_417	evm_model_chr9_1817	  3e-15
+380-  4:	evm_model_chr9_422	evm_model_chr9_1811	 1e-154
+380-  5:	evm_model_chr9_431	evm_model_chr9_1807	  1e-92
+380-  6:	evm_model_chr9_478	evm_model_chr9_1773	  3e-58
+380-  7:	evm_model_chr9_483	evm_model_chr9_1772	  3e-30
+## Alignment 381: score=200.0 e_value=1.3e-06 N=5 gin_chr9&gin_chr9 minus
+381-  0:	evm_model_chr9_544	evm_model_chr9_1751	 2e-158
+381-  1:	evm_model_chr9_546	evm_model_chr9_1750	  1e-29
+381-  2:	evm_model_chr9_549	evm_model_chr9_1748	 5e-140
+381-  3:	evm_model_chr9_561	evm_model_chr9_1730	  9e-35
+381-  4:	evm_model_chr9_567	evm_model_chr9_1699	 1e-148
+## Alignment 382: score=188.0 e_value=2.7e-06 N=5 gin_chr9&gin_chr9 minus
+382-  0:	evm_model_chr9_158	evm_model_chr9_1908	  2e-53
+382-  1:	evm_model_chr9_163	evm_model_chr9_1902	 1e-179
+382-  2:	evm_model_chr9_172	evm_model_chr9_1901	  8e-18
+382-  3:	evm_model_chr9_175	evm_model_chr9_1885	  1e-18
+382-  4:	evm_model_chr9_183	evm_model_chr9_1850	  6e-33
+## Alignment 383: score=160.0 e_value=1e-07 N=5 gin_chr9&gin_chr9 minus
+383-  0:	evm_model_chr9_999	evm_model_chr9_1177	  9e-17
+383-  1:	evm_model_chr9_1000	evm_model_chr9_1173	 1e-140
+383-  2:	evm_model_chr9_1028	evm_model_chr9_1148	  5e-39
+383-  3:	evm_model_chr9_1066	evm_model_chr9_1098	 9e-133
+383-  4:	evm_model_chr9_1078	evm_model_chr9_1088	 2e-159

@@ -1,0 +1,3668 @@
+############### Parameters ###############
+# MATCH_SCORE: 50
+# GAP_PENALTY: -1
+# MATCH_SIZE: 3
+# OVERLAP_WINDOW: 5
+# E_VALUE: 0.001
+# MAX GAPS: 55
+############### Statistics ###############
+# Number of collinear genes: 5386, Percentage: 6.07
+# Number of all genes: 88672
+##########################################
+## Alignment 0: score=328.0 e_value=6.6e-13 N=8 ive_Chr1&seq_chr1 plus
+  0-  0:	ptg001071l_8	SEGI_25679	 1e-229
+  0-  1:	ptg001071l_13	SEGI_08373	 3e-156
+  0-  2:	ptg001071l_7	SEGI_06068	 1e-279
+  0-  3:	ptg001071l_9	SEGI_04245	  2e-36
+  0-  4:	ptg002155l_13	SEGI_09135	  1e-18
+  0-  5:	ptg002155l_10	SEGI_38858	 2e-133
+  0-  6:	ptg002155l_6	SEGI_33787	  4e-52
+  0-  7:	ptg002155l_5	SEGI_36500	 4e-101
+## Alignment 1: score=206.0 e_value=1.6e-15 N=8 ive_Chr1&seq_chr1 plus
+  1-  0:	ptg000129l_20	SEGI_19562	  4e-83
+  1-  1:	ptg000689l_1	SEGI_03244	  8e-37
+  1-  2:	ptg000689l_8	SEGI_24474	 1e-102
+  1-  3:	ptg000564l_5	SEGI_31427	 7e-123
+  1-  4:	ptg000564l_4	SEGI_27848	 4e-147
+  1-  5:	ptg000184l_7	SEGI_03688	 7e-157
+  1-  6:	ptg000184l_22	SEGI_27167	  2e-88
+  1-  7:	ptg000184l_31	SEGI_06419	  3e-77
+## Alignment 2: score=174.0 e_value=2.2e-06 N=5 ive_Chr1&seq_chr1 plus
+  2-  0:	ptg000664l_25	SEGI_17510	 3e-191
+  2-  1:	ptg002155l_1	SEGI_14803	 2e-101
+  2-  2:	ptg002155l_17	SEGI_11097	  2e-17
+  2-  3:	ptg002155l_9	SEGI_20192	  4e-74
+  2-  4:	ptg002233l_4	SEGI_33654	  1e-14
+## Alignment 3: score=152.0 e_value=0.00024 N=4 ive_Chr1&seq_chr1 plus
+  3-  0:	ptg000016l_68	SEGI_03337	 2e-194
+  3-  1:	ptg000511l_1	SEGI_14061	  2e-16
+  3-  2:	ptg001174l_1	SEGI_03476	 1e-149
+  3-  3:	ptg000422l_12	SEGI_10171	  2e-48
+## Alignment 4: score=219.0 e_value=7e-10 N=6 ive_Chr1&seq_chr1 minus
+  4-  0:	ptg000664l_16	SEGI_11644	  3e-35
+  4-  1:	ptg000664l_17	SEGI_06807	  1e-64
+  4-  2:	ptg000664l_21	SEGI_38532	  1e-32
+  4-  3:	ptg001071l_10	SEGI_10901	  6e-12
+  4-  4:	ptg001071l_11	SEGI_30460	 3e-148
+  4-  5:	ptg001071l_6	SEGI_19269	  5e-90
+## Alignment 5: score=204.0 e_value=4.8e-09 N=5 ive_Chr1&seq_chr1 minus
+  5-  0:	ptg000129l_1	SEGI_10590	  1e-13
+  5-  1:	ptg000129l_26	SEGI_27011	 3e-189
+  5-  2:	ptg000129l_40	SEGI_38654	  6e-62
+  5-  3:	ptg000853l_2	SEGI_06142	  2e-26
+  5-  4:	ptg000977l_2	SEGI_12694	 2e-110
+## Alignment 6: score=183.0 e_value=9.2e-07 N=5 ive_Chr1&seq_chr1 minus
+  6-  0:	ptg000016l_72	SEGI_10703	  2e-19
+  6-  1:	ptg000016l_1	SEGI_39154	 2e-218
+  6-  2:	ptg000016l_4	SEGI_16448	 8e-189
+  6-  3:	ptg000016l_5	SEGI_34413	  3e-24
+  6-  4:	ptg000422l_12	SEGI_10171	  2e-48
+## Alignment 7: score=179.0 e_value=6.2e-09 N=5 ive_Chr1&seq_chr10 plus
+  7-  0:	ptg000607l_7	SEGI_29578	 5e-137
+  7-  1:	ptg000607l_9	SEGI_02664	  2e-36
+  7-  2:	ptg000607l_35	SEGI_07543	  7e-92
+  7-  3:	ptg000607l_39	SEGI_26347	  3e-31
+  7-  4:	ptg001866l_11	SEGI_31182	  2e-58
+## Alignment 8: score=371.0 e_value=1.1e-17 N=9 ive_Chr1&seq_chr10 minus
+  8-  0:	ptg000414l_15	SEGI_40011	  2e-43
+  8-  1:	ptg000414l_26	SEGI_35253	  7e-85
+  8-  2:	ptg000414l_31	SEGI_22476	  8e-33
+  8-  3:	ptg002193l_3	SEGI_06407	  3e-63
+  8-  4:	ptg002193l_5	SEGI_40796	 2e-195
+  8-  5:	ptg001198l_20	SEGI_22233	  9e-13
+  8-  6:	ptg001198l_42	SEGI_03865	  8e-40
+  8-  7:	ptg001198l_2	SEGI_36612	 4e-108
+  8-  8:	ptg001198l_6	SEGI_34538	  2e-23
+## Alignment 9: score=175.0 e_value=3.4e-10 N=5 ive_Chr1&seq_chr10 minus
+  9-  0:	ptg000607l_47	SEGI_33307	  4e-69
+  9-  1:	ptg001866l_14	SEGI_18102	  2e-65
+  9-  2:	ptg001114l_5	SEGI_31041	 4e-117
+  9-  3:	ptg001114l_2	SEGI_20491	 3e-108
+  9-  4:	ptg001114l_1	SEGI_26146	 2e-273
+## Alignment 10: score=181.0 e_value=5.7e-07 N=5 ive_Chr1&seq_chr2 plus
+ 10-  0:	ptg000414l_29	SEGI_35493	 5e-125
+ 10-  1:	ptg001198l_20	SEGI_14550	  3e-16
+ 10-  2:	ptg001198l_42	SEGI_29962	  2e-31
+ 10-  3:	ptg001198l_28	SEGI_28100	  2e-27
+ 10-  4:	ptg001515l_53	SEGI_15627	  1e-41
+## Alignment 11: score=258.0 e_value=6.4e-08 N=6 ive_Chr1&seq_chr3 plus
+ 11-  0:	ptg000422l_7	SEGI_07707	 4e-124
+ 11-  1:	ptg001138l_5	SEGI_32394	 4e-114
+ 11-  2:	ptg001375l_3	SEGI_29618	 4e-107
+ 11-  3:	ptg001375l_1	SEGI_37069	  2e-96
+ 11-  4:	ptg000245l_3	SEGI_29607	 2e-146
+ 11-  5:	ptg000175l_9	SEGI_17269	  7e-66
+## Alignment 12: score=185.0 e_value=0.0009 N=4 ive_Chr1&seq_chr3 plus
+ 12-  0:	ptg002386l_2	SEGI_40790	  1e-72
+ 12-  1:	ptg000414l_6	SEGI_28910	 3e-133
+ 12-  2:	ptg000414l_25	SEGI_11689	  2e-58
+ 12-  3:	ptg000414l_5	SEGI_23857	  3e-28
+## Alignment 13: score=150.0 e_value=0.0006 N=4 ive_Chr1&seq_chr3 plus
+ 13-  0:	ptg001588l_12	SEGI_16499	  4e-28
+ 13-  1:	ptg000996l_13	SEGI_32536	  3e-06
+ 13-  2:	ptg001187l_17	SEGI_02566	  4e-41
+ 13-  3:	ptg001187l_9	SEGI_38805	  1e-41
+## Alignment 14: score=246.0 e_value=3.3e-11 N=7 ive_Chr1&seq_chr3 minus
+ 14-  0:	ptg000110l_12	SEGI_26378	  1e-92
+ 14-  1:	ptg000712l_23	SEGI_30035	  6e-13
+ 14-  2:	ptg000712l_16	SEGI_30186	  3e-25
+ 14-  3:	ptg000712l_5	SEGI_12475	 6e-143
+ 14-  4:	ptg001481l_8	SEGI_16529	  1e-17
+ 14-  5:	ptg001481l_3	SEGI_06466	  5e-41
+ 14-  6:	ptg001481l_26	SEGI_10308	 2e-136
+## Alignment 15: score=155.0 e_value=4.5e-06 N=4 ive_Chr1&seq_chr3 minus
+ 15-  0:	ptg000422l_25	SEGI_06217	  1e-52
+ 15-  1:	ptg000422l_7	SEGI_30149	 1e-125
+ 15-  2:	ptg000422l_8	SEGI_25375	  8e-88
+ 15-  3:	ptg001138l_5	SEGI_29763	 2e-110
+## Alignment 16: score=185.0 e_value=0.0003 N=4 ive_Chr1&seq_chr4 plus
+ 16-  0:	ptg000801l_17	SEGI_04584	  2e-66
+ 16-  1:	ptg000801l_28	SEGI_27966	  1e-08
+ 16-  2:	ptg000801l_30	SEGI_35548	  7e-25
+ 16-  3:	ptg000801l_32	SEGI_24045	  4e-17
+## Alignment 17: score=349.0 e_value=9.3e-22 N=8 ive_Chr1&seq_chr4 minus
+ 17-  0:	ptg000060l_11	SEGI_03493	  5e-28
+ 17-  1:	ptg000060l_47	SEGI_36302	  4e-18
+ 17-  2:	ptg000060l_45	SEGI_30344	  6e-26
+ 17-  3:	ptg000060l_44	SEGI_20264	  3e-17
+ 17-  4:	ptg000060l_42	SEGI_32602	  2e-27
+ 17-  5:	ptg000060l_38	SEGI_06672	  3e-54
+ 17-  6:	ptg000060l_36	SEGI_11714	  7e-70
+ 17-  7:	ptg000060l_32	SEGI_07400	 1e-170
+## Alignment 18: score=259.0 e_value=9.1e-09 N=6 ive_Chr1&seq_chr5 minus
+ 18-  0:	ptg000060l_43	SEGI_35561	  3e-46
+ 18-  1:	ptg001068l_4	SEGI_33136	 6e-152
+ 18-  2:	ptg001068l_11	SEGI_21619	  2e-99
+ 18-  3:	ptg001068l_13	SEGI_22714	  4e-22
+ 18-  4:	ptg001642l_3	SEGI_32854	  4e-83
+ 18-  5:	ptg000361l_57	SEGI_17760	  3e-79
+## Alignment 19: score=200.0 e_value=3.7e-08 N=6 ive_Chr1&seq_chr6 plus
+ 19-  0:	ptg000187l_1	SEGI_29466	  2e-16
+ 19-  1:	ptg000701l_1	SEGI_00607	  1e-11
+ 19-  2:	ptg000701l_15	SEGI_16813	 7e-143
+ 19-  3:	ptg000701l_27	SEGI_23329	 8e-257
+ 19-  4:	ptg000868l_39	SEGI_41207	      0
+ 19-  5:	ptg000868l_11	SEGI_10511	 6e-124
+## Alignment 20: score=181.0 e_value=4.3e-09 N=6 ive_Chr1&seq_chr6 plus
+ 20-  0:	ptg000165l_18	SEGI_34674	 3e-183
+ 20-  1:	ptg001920l_2	SEGI_17191	 1e-135
+ 20-  2:	ptg001920l_44	SEGI_22057	  5e-19
+ 20-  3:	ptg001920l_13	SEGI_06193	  1e-75
+ 20-  4:	ptg000791l_3	SEGI_28989	  2e-32
+ 20-  5:	ptg000791l_5	SEGI_01162	 2e-167
+## Alignment 21: score=175.0 e_value=3.5e-05 N=4 ive_Chr1&seq_chr6 plus
+ 21-  0:	ptg001944l_18	SEGI_35894	 3e-124
+ 21-  1:	ptg000571l_8	SEGI_06744	  9e-36
+ 21-  2:	ptg000571l_7	SEGI_22299	  2e-38
+ 21-  3:	ptg000571l_6	SEGI_00940	 9e-145
+## Alignment 22: score=166.0 e_value=2.4e-07 N=4 ive_Chr1&seq_chr6 plus
+ 22-  0:	ptg000240l_7	SEGI_37774	  8e-22
+ 22-  1:	ptg000240l_22	SEGI_22051	 5e-117
+ 22-  2:	ptg000240l_23	SEGI_35405	  3e-54
+ 22-  3:	ptg000240l_3	SEGI_17423	  1e-79
+## Alignment 23: score=150.0 e_value=0.00021 N=4 ive_Chr1&seq_chr6 plus
+ 23-  0:	ptg001786l_32	SEGI_05335	  1e-20
+ 23-  1:	ptg000130l_7	SEGI_29461	  8e-92
+ 23-  2:	ptg000418l_1	SEGI_30160	 5e-101
+ 23-  3:	ptg000418l_20	SEGI_40481	  7e-21
+## Alignment 24: score=150.0 e_value=0.00033 N=4 ive_Chr1&seq_chr6 plus
+ 24-  0:	ptg001378l_10	SEGI_25263	  5e-45
+ 24-  1:	ptg001786l_5	SEGI_05335	  8e-27
+ 24-  2:	ptg001786l_12	SEGI_29461	  3e-57
+ 24-  3:	ptg001786l_22	SEGI_40481	  1e-15
+## Alignment 25: score=448.0 e_value=5.2e-33 N=12 ive_Chr1&seq_chr6 minus
+ 25-  0:	ptg001517l_9	SEGI_01680	  2e-23
+ 25-  1:	ptg001115l_10	SEGI_22855	  2e-95
+ 25-  2:	ptg001115l_9	SEGI_31219	  2e-29
+ 25-  3:	ptg001115l_7	SEGI_39509	  6e-47
+ 25-  4:	ptg001115l_6	SEGI_36229	 7e-140
+ 25-  5:	ptg001115l_5	SEGI_34531	  2e-28
+ 25-  6:	ptg001115l_4	SEGI_33402	      0
+ 25-  7:	ptg000009l_27	SEGI_12532	 5e-123
+ 25-  8:	ptg000009l_26	SEGI_38140	 9e-103
+ 25-  9:	ptg000009l_22	SEGI_20233	 5e-115
+ 25- 10:	ptg000009l_12	SEGI_23335	  6e-40
+ 25- 11:	ptg001079l_16	SEGI_20246	  6e-13
+## Alignment 26: score=342.0 e_value=1.9e-13 N=8 ive_Chr1&seq_chr6 minus
+ 26-  0:	ptg000701l_12	SEGI_00353	  7e-29
+ 26-  1:	ptg000701l_33	SEGI_24417	 2e-153
+ 26-  2:	ptg000701l_3	SEGI_02367	  7e-41
+ 26-  3:	ptg000701l_4	SEGI_19442	 7e-127
+ 26-  4:	ptg000701l_11	SEGI_11683	  4e-07
+ 26-  5:	ptg000701l_17	SEGI_08249	  3e-40
+ 26-  6:	ptg000701l_19	SEGI_34448	 8e-286
+ 26-  7:	ptg000701l_30	SEGI_01130	 8e-188
+## Alignment 27: score=319.0 e_value=2.7e-17 N=8 ive_Chr1&seq_chr6 minus
+ 27-  0:	ptg001920l_31	SEGI_38017	 5e-109
+ 27-  1:	ptg001920l_43	SEGI_38754	 4e-192
+ 27-  2:	ptg001920l_47	SEGI_22378	 8e-296
+ 27-  3:	ptg001920l_6	SEGI_28170	  2e-24
+ 27-  4:	ptg001920l_14	SEGI_25463	  2e-68
+ 27-  5:	ptg000187l_7	SEGI_30209	  2e-19
+ 27-  6:	ptg000187l_8	SEGI_15745	  4e-71
+ 27-  7:	ptg000791l_1	SEGI_01920	  1e-55
+## Alignment 28: score=261.0 e_value=2.5e-13 N=7 ive_Chr1&seq_chr6 minus
+ 28-  0:	ptg000363l_17	SEGI_15190	  3e-79
+ 28-  1:	ptg000240l_21	SEGI_04280	  7e-32
+ 28-  2:	ptg000240l_3	SEGI_17423	  1e-79
+ 28-  3:	ptg000240l_6	SEGI_33055	 1e-204
+ 28-  4:	ptg000240l_9	SEGI_16420	  6e-32
+ 28-  5:	ptg000240l_12	SEGI_23957	 1e-143
+ 28-  6:	ptg002023l_9	SEGI_41226	 8e-170
+## Alignment 29: score=177.0 e_value=4.4e-05 N=4 ive_Chr1&seq_chr6 minus
+ 29-  0:	ptg000165l_29	SEGI_10814	  3e-58
+ 29-  1:	ptg001211l_13	SEGI_28000	 1e-107
+ 29-  2:	ptg001211l_6	SEGI_18313	  9e-08
+ 29-  3:	ptg001211l_4	SEGI_34502	  8e-40
+## Alignment 30: score=171.0 e_value=0.00022 N=4 ive_Chr1&seq_chr6 minus
+ 30-  0:	ptg001944l_1	SEGI_39045	  8e-89
+ 30-  1:	ptg001944l_4	SEGI_08242	  2e-43
+ 30-  2:	ptg001944l_12	SEGI_09483	  5e-95
+ 30-  3:	ptg001944l_14	SEGI_38770	 2e-208
+## Alignment 31: score=164.0 e_value=0 N=4 ive_Chr1&seq_chr6 minus
+ 31-  0:	ptg000649l_30	SEGI_00885	  2e-61
+ 31-  1:	ptg000649l_5	SEGI_31991	  8e-47
+ 31-  2:	ptg000649l_4	SEGI_04754	  1e-50
+ 31-  3:	ptg000100l_11	SEGI_15092	  6e-25
+## Alignment 32: score=150.0 e_value=0.00022 N=4 ive_Chr1&seq_chr6 minus
+ 32-  0:	ptg000701l_25	SEGI_34585	 1e-239
+ 32-  1:	ptg000701l_29	SEGI_12647	  6e-07
+ 32-  2:	ptg000701l_31	SEGI_16813	 2e-215
+ 32-  3:	ptg000868l_11	SEGI_12605	 2e-152
+## Alignment 33: score=218.0 e_value=2.5e-09 N=6 ive_Chr1&seq_chr7 plus
+ 33-  0:	ptg001226l_44	SEGI_27636	  2e-30
+ 33-  1:	ptg001226l_12	SEGI_18633	 8e-180
+ 33-  2:	ptg001226l_21	SEGI_41601	 9e-131
+ 33-  3:	ptg001471l_9	SEGI_00288	  6e-33
+ 33-  4:	ptg001471l_8	SEGI_27888	      0
+ 33-  5:	ptg001471l_2	SEGI_12840	  5e-56
+## Alignment 34: score=361.0 e_value=2.1e-19 N=9 ive_Chr1&seq_chr7 minus
+ 34-  0:	ptg001106l_1	SEGI_40589	  1e-22
+ 34-  1:	ptg000029l_10	SEGI_38468	 2e-115
+ 34-  2:	ptg000029l_14	SEGI_39541	 9e-121
+ 34-  3:	ptg000029l_25	SEGI_04989	  9e-44
+ 34-  4:	ptg000029l_26	SEGI_27570	  5e-59
+ 34-  5:	ptg000029l_29	SEGI_32388	  4e-16
+ 34-  6:	ptg000728l_6	SEGI_34880	  8e-08
+ 34-  7:	ptg000728l_17	SEGI_35124	  2e-29
+ 34-  8:	ptg000728l_1	SEGI_14699	 6e-177
+## Alignment 35: score=176.0 e_value=0.00078 N=4 ive_Chr1&seq_chr7 minus
+ 35-  0:	ptg001226l_13	SEGI_38265	  2e-90
+ 35-  1:	ptg001226l_27	SEGI_22121	  3e-99
+ 35-  2:	ptg001226l_30	SEGI_23757	 2e-134
+ 35-  3:	ptg001226l_37	SEGI_28669	 5e-100
+## Alignment 36: score=174.0 e_value=1.6e-08 N=6 ive_Chr1&seq_chr7 minus
+ 36-  0:	ptg000325l_43	SEGI_26197	      0
+ 36-  1:	ptg000325l_13	SEGI_33598	  4e-36
+ 36-  2:	ptg000112l_3	SEGI_08877	  3e-40
+ 36-  3:	ptg000112l_34	SEGI_14164	  4e-17
+ 36-  4:	ptg001949l_17	SEGI_04649	 2e-152
+ 36-  5:	ptg001341l_7	SEGI_03391	  5e-20
+## Alignment 37: score=155.0 e_value=1.5e-07 N=5 ive_Chr1&seq_chr7 minus
+ 37-  0:	ptg001599l_1	SEGI_40345	  2e-40
+ 37-  1:	ptg001599l_5	SEGI_02774	      0
+ 37-  2:	ptg000165l_20	SEGI_31783	  1e-25
+ 37-  3:	ptg000165l_19	SEGI_00483	 5e-261
+ 37-  4:	ptg000165l_17	SEGI_41154	  3e-53
+## Alignment 38: score=219.0 e_value=9.6e-09 N=6 ive_Chr1&seq_chr8 plus
+ 38-  0:	ptg001515l_58	SEGI_14334	  7e-79
+ 38-  1:	ptg001515l_7	SEGI_36751	  3e-64
+ 38-  2:	ptg001515l_8	SEGI_31662	 1e-125
+ 38-  3:	ptg001515l_13	SEGI_22037	  4e-19
+ 38-  4:	ptg001515l_26	SEGI_17813	  7e-20
+ 38-  5:	ptg001515l_44	SEGI_19121	 2e-115
+## Alignment 39: score=163.0 e_value=7.9e-08 N=5 ive_Chr1&seq_chr8 plus
+ 39-  0:	ptg000589l_16	SEGI_38051	 6e-260
+ 39-  1:	ptg002868l_2	SEGI_21275	 1e-146
+ 39-  2:	ptg000344l_41	SEGI_26062	  4e-62
+ 39-  3:	ptg000344l_39	SEGI_09266	  7e-55
+ 39-  4:	ptg000764l_14	SEGI_39921	  8e-84
+## Alignment 40: score=153.0 e_value=0.00087 N=4 ive_Chr1&seq_chr8 plus
+ 40-  0:	ptg000745l_18	SEGI_25617	  8e-07
+ 40-  1:	ptg001353l_79	SEGI_16621	  5e-05
+ 40-  2:	ptg001353l_75	SEGI_40124	  9e-06
+ 40-  3:	ptg001353l_65	SEGI_05110	  1e-06
+## Alignment 41: score=245.0 e_value=1.7e-12 N=7 ive_Chr1&seq_chr8 minus
+ 41-  0:	ptg001198l_39	SEGI_13018	  2e-20
+ 41-  1:	ptg001198l_41	SEGI_11178	 2e-307
+ 41-  2:	ptg001515l_57	SEGI_25084	  1e-94
+ 41-  3:	ptg001515l_69	SEGI_02403	 4e-115
+ 41-  4:	ptg001515l_25	SEGI_30113	  2e-63
+ 41-  5:	ptg001515l_47	SEGI_17972	 2e-143
+ 41-  6:	ptg001515l_51	SEGI_39545	 5e-107
+## Alignment 42: score=237.0 e_value=7.1e-13 N=7 ive_Chr1&seq_chr8 minus
+ 42-  0:	ptg001198l_27	SEGI_07659	  5e-28
+ 42-  1:	ptg001515l_70	SEGI_26400	 2e-125
+ 42-  2:	ptg001515l_75	SEGI_04235	 5e-138
+ 42-  3:	ptg001515l_80	SEGI_12862	  2e-57
+ 42-  4:	ptg001515l_1	SEGI_25129	 2e-206
+ 42-  5:	ptg001515l_4	SEGI_02124	  3e-28
+ 42-  6:	ptg000589l_10	SEGI_40913	 4e-208
+## Alignment 43: score=187.0 e_value=0.00019 N=4 ive_Chr1&seq_chr8 minus
+ 43-  0:	ptg000794l_20	SEGI_28504	 4e-104
+ 43-  1:	ptg000794l_23	SEGI_00012	  4e-77
+ 43-  2:	ptg000794l_24	SEGI_14689	 4e-181
+ 43-  3:	ptg000794l_25	SEGI_25964	 1e-132
+## Alignment 44: score=156.0 e_value=1.1e-06 N=5 ive_Chr1&seq_chr8 minus
+ 44-  0:	ptg001372l_1	SEGI_05110	  3e-09
+ 44-  1:	ptg001372l_30	SEGI_27479	  9e-08
+ 44-  2:	ptg000745l_2	SEGI_05267	 4e-111
+ 44-  3:	ptg000745l_32	SEGI_16621	  1e-05
+ 44-  4:	ptg000745l_18	SEGI_25617	  8e-07
+## Alignment 45: score=192.0 e_value=3.1e-10 N=5 ive_Chr1&seq_chr9 plus
+ 45-  0:	ptg000542l_12	SEGI_28075	 2e-237
+ 45-  1:	ptg001372l_42	SEGI_13375	 8e-121
+ 45-  2:	ptg001372l_43	SEGI_17808	 9e-137
+ 45-  3:	ptg001372l_44	SEGI_21973	  6e-52
+ 45-  4:	ptg000745l_16	SEGI_39023	  4e-62
+## Alignment 46: score=152.0 e_value=3.9e-07 N=5 ive_Chr1&seq_chr9 plus
+ 46-  0:	ptg000823l_61	SEGI_28323	  1e-92
+ 46-  1:	ptg000823l_32	SEGI_11735	 5e-145
+ 46-  2:	ptg000823l_28	SEGI_22941	 3e-132
+ 46-  3:	ptg000823l_9	SEGI_05728	 3e-162
+ 46-  4:	ptg000823l_89	SEGI_18667	  2e-08
+## Alignment 47: score=169.0 e_value=0.00084 N=4 ive_Chr1&seq_chr9 minus
+ 47-  0:	ptg000157l_33	SEGI_12829	  3e-55
+ 47-  1:	ptg000157l_30	SEGI_13273	  2e-67
+ 47-  2:	ptg000157l_25	SEGI_08946	  2e-19
+ 47-  3:	ptg000157l_29	SEGI_33832	  4e-19
+## Alignment 48: score=166.0 e_value=1.7e-06 N=5 ive_Chr1&seq_chr9 minus
+ 48-  0:	ptg000050l_2	SEGI_11583	  7e-43
+ 48-  1:	ptg001108l_26	SEGI_08784	  1e-11
+ 48-  2:	ptg001108l_38	SEGI_17573	  4e-24
+ 48-  3:	ptg000515l_27	SEGI_09491	  3e-46
+ 48-  4:	ptg000515l_31	SEGI_16039	 0.0004
+## Alignment 49: score=322.0 e_value=1.7e-20 N=9 ive_Chr10&seq_chr1 plus
+ 49-  0:	ptg001188l_16	SEGI_19620	  2e-67
+ 49-  1:	ptg000875l_30	SEGI_03754	  3e-52
+ 49-  2:	ptg000875l_4	SEGI_14068	  1e-57
+ 49-  3:	ptg000875l_5	SEGI_36539	  1e-37
+ 49-  4:	ptg000875l_13	SEGI_27923	  2e-72
+ 49-  5:	ptg001442l_8	SEGI_11810	  4e-23
+ 49-  6:	ptg001442l_9	SEGI_30701	 9e-100
+ 49-  7:	ptg000569l_2	SEGI_07559	 2e-120
+ 49-  8:	ptg000569l_3	SEGI_04870	 1e-210
+## Alignment 50: score=172.0 e_value=5.6e-05 N=4 ive_Chr10&seq_chr1 plus
+ 50-  0:	ptg001442l_12	SEGI_39681	 2e-114
+ 50-  1:	ptg000569l_2	SEGI_31261	 2e-119
+ 50-  2:	ptg001603l_10	SEGI_12634	 2e-223
+ 50-  3:	ptg000912l_8	SEGI_01011	  1e-37
+## Alignment 51: score=161.0 e_value=0.00044 N=4 ive_Chr10&seq_chr1 plus
+ 51-  0:	ptg000875l_6	SEGI_41083	  4e-34
+ 51-  1:	ptg000875l_9	SEGI_28371	 3e-174
+ 51-  2:	ptg000875l_10	SEGI_14562	 4e-165
+ 51-  3:	ptg001795l_11	SEGI_27923	  3e-74
+## Alignment 52: score=300.0 e_value=1.2e-11 N=7 ive_Chr10&seq_chr1 minus
+ 52-  0:	ptg001795l_1	SEGI_40515	  2e-63
+ 52-  1:	ptg001795l_3	SEGI_13107	 3e-122
+ 52-  2:	ptg001795l_9	SEGI_26681	  2e-32
+ 52-  3:	ptg001442l_1	SEGI_41159	 8e-132
+ 52-  4:	ptg001442l_5	SEGI_36382	  5e-37
+ 52-  5:	ptg001442l_6	SEGI_13915	  4e-57
+ 52-  6:	ptg001442l_12	SEGI_25446	  6e-87
+## Alignment 53: score=195.0 e_value=1.6e-09 N=6 ive_Chr10&seq_chr1 minus
+ 53-  0:	ptg001407l_14	SEGI_01061	  3e-32
+ 53-  1:	ptg000243l_23	SEGI_18596	  2e-23
+ 53-  2:	ptg000243l_8	SEGI_12336	  4e-34
+ 53-  3:	ptg001832l_13	SEGI_18269	  2e-42
+ 53-  4:	ptg000601l_14	SEGI_30235	  1e-23
+ 53-  5:	ptg000601l_13	SEGI_01465	  3e-84
+## Alignment 54: score=181.0 e_value=0.0007 N=4 ive_Chr10&seq_chr1 minus
+ 54-  0:	ptg000624l_3	SEGI_18309	  4e-06
+ 54-  1:	ptg000624l_2	SEGI_00798	 8e-144
+ 54-  2:	ptg000624l_32	SEGI_16171	  1e-41
+ 54-  3:	ptg000624l_26	SEGI_32229	  2e-53
+## Alignment 55: score=184.0 e_value=5.6e-07 N=5 ive_Chr10&seq_chr11 plus
+ 55-  0:	ptg000214l_43	SEGI_40732	 4e-109
+ 55-  1:	ptg000214l_52	SEGI_22171	  4e-60
+ 55-  2:	ptg000214l_53	SEGI_19910	  2e-28
+ 55-  3:	ptg000156l_6	SEGI_01999	 7e-184
+ 55-  4:	ptg000156l_8	SEGI_04920	  4e-97
+## Alignment 56: score=180.0 e_value=0.00011 N=4 ive_Chr10&seq_chr11 plus
+ 56-  0:	ptg000421l_14	SEGI_28222	  6e-45
+ 56-  1:	ptg000421l_16	SEGI_15441	 1e-186
+ 56-  2:	ptg000094l_19	SEGI_16856	 1e-137
+ 56-  3:	ptg000691l_5	SEGI_13199	 2e-264
+## Alignment 57: score=164.0 e_value=5.5e-07 N=5 ive_Chr10&seq_chr11 plus
+ 57-  0:	ptg001403l_6	SEGI_25644	 7e-132
+ 57-  1:	ptg000421l_6	SEGI_16037	  3e-59
+ 57-  2:	ptg000421l_12	SEGI_23264	  2e-31
+ 57-  3:	ptg000691l_3	SEGI_13802	 2e-209
+ 57-  4:	ptg000456l_2	SEGI_10648	  9e-63
+## Alignment 58: score=247.0 e_value=1.4e-12 N=7 ive_Chr10&seq_chr11 minus
+ 58-  0:	ptg000214l_46	SEGI_26897	  1e-19
+ 58-  1:	ptg000156l_42	SEGI_03003	  5e-13
+ 58-  2:	ptg000156l_10	SEGI_07547	  2e-10
+ 58-  3:	ptg000156l_11	SEGI_10571	 8e-196
+ 58-  4:	ptg000156l_18	SEGI_03122	 1e-207
+ 58-  5:	ptg000156l_20	SEGI_18836	  4e-68
+ 58-  6:	ptg000156l_28	SEGI_40239	 2e-264
+## Alignment 59: score=233.0 e_value=6.5e-11 N=6 ive_Chr10&seq_chr2 plus
+ 59-  0:	ptg000281l_79	SEGI_26643	  9e-33
+ 59-  1:	ptg000281l_80	SEGI_07679	 2e-110
+ 59-  2:	ptg000281l_3	SEGI_09509	  8e-39
+ 59-  3:	ptg000281l_5	SEGI_33993	  9e-28
+ 59-  4:	ptg000281l_25	SEGI_35567	  4e-05
+ 59-  5:	ptg000458l_33	SEGI_28126	  6e-15
+## Alignment 60: score=201.0 e_value=7.7e-11 N=6 ive_Chr10&seq_chr2 plus
+ 60-  0:	ptg002080l_19	SEGI_04308	  2e-48
+ 60-  1:	ptg000337l_20	SEGI_24439	  4e-56
+ 60-  2:	ptg000337l_11	SEGI_30192	  1e-62
+ 60-  3:	ptg000337l_49	SEGI_12697	 1e-109
+ 60-  4:	ptg000337l_33	SEGI_39121	  1e-66
+ 60-  5:	ptg000337l_25	SEGI_32609	  6e-51
+## Alignment 61: score=180.0 e_value=8.2e-05 N=4 ive_Chr10&seq_chr2 plus
+ 61-  0:	ptg001358l_5	SEGI_33484	  1e-24
+ 61-  1:	ptg001358l_65	SEGI_24453	 4e-189
+ 61-  2:	ptg001358l_61	SEGI_32865	 4e-130
+ 61-  3:	ptg001358l_57	SEGI_15299	  1e-62
+## Alignment 62: score=166.0 e_value=0.00017 N=4 ive_Chr10&seq_chr2 plus
+ 62-  0:	ptg002080l_1	SEGI_15100	  5e-72
+ 62-  1:	ptg000337l_46	SEGI_09250	  2e-80
+ 62-  2:	ptg000337l_45	SEGI_27194	 3e-155
+ 62-  3:	ptg000337l_37	SEGI_25082	  6e-48
+## Alignment 63: score=159.0 e_value=1.6e-09 N=6 ive_Chr10&seq_chr2 plus
+ 63-  0:	ptg001358l_4	SEGI_29655	 6e-121
+ 63-  1:	ptg001358l_3	SEGI_29572	  8e-86
+ 63-  2:	ptg001358l_37	SEGI_32342	  3e-95
+ 63-  3:	ptg001358l_25	SEGI_19159	      0
+ 63-  4:	ptg001358l_27	SEGI_37691	      0
+ 63-  5:	ptg003009l_2	SEGI_20260	 5e-115
+## Alignment 64: score=335.0 e_value=4.6e-20 N=10 ive_Chr10&seq_chr2 minus
+ 64-  0:	ptg000458l_24	SEGI_07470	  4e-76
+ 64-  1:	ptg000458l_26	SEGI_36076	 1e-176
+ 64-  2:	ptg000458l_27	SEGI_00358	  1e-41
+ 64-  3:	ptg000458l_29	SEGI_35898	  1e-75
+ 64-  4:	ptg001933l_11	SEGI_00979	  1e-41
+ 64-  5:	ptg001933l_12	SEGI_01952	  2e-26
+ 64-  6:	ptg002283l_7	SEGI_02621	  6e-55
+ 64-  7:	ptg002283l_2	SEGI_04964	 1e-133
+ 64-  8:	ptg002283l_5	SEGI_37339	  2e-70
+ 64-  9:	ptg001700l_4	SEGI_08602	  2e-82
+## Alignment 65: score=286.0 e_value=1.8e-11 N=7 ive_Chr10&seq_chr2 minus
+ 65-  0:	ptg000934l_3	SEGI_04771	  4e-53
+ 65-  1:	ptg000934l_6	SEGI_24677	  1e-64
+ 65-  2:	ptg000934l_12	SEGI_04222	  2e-13
+ 65-  3:	ptg000934l_14	SEGI_00429	  4e-48
+ 65-  4:	ptg000934l_15	SEGI_13176	  1e-43
+ 65-  5:	ptg000934l_17	SEGI_32476	  3e-63
+ 65-  6:	ptg000934l_19	SEGI_11051	 2e-112
+## Alignment 66: score=196.0 e_value=9.9e-12 N=7 ive_Chr10&seq_chr2 minus
+ 66-  0:	ptg001358l_45	SEGI_34337	  2e-90
+ 66-  1:	ptg001358l_39	SEGI_25366	 2e-118
+ 66-  2:	ptg001358l_37	SEGI_33884	  8e-27
+ 66-  3:	ptg001358l_31	SEGI_25531	 5e-132
+ 66-  4:	ptg001358l_30	SEGI_26025	  1e-62
+ 66-  5:	ptg001358l_28	SEGI_18441	 3e-147
+ 66-  6:	ptg001358l_27	SEGI_37691	      0
+## Alignment 67: score=185.0 e_value=0.00049 N=4 ive_Chr10&seq_chr2 minus
+ 67-  0:	ptg000281l_40	SEGI_09271	  7e-29
+ 67-  1:	ptg000281l_45	SEGI_41395	  5e-62
+ 67-  2:	ptg000281l_48	SEGI_05806	 5e-116
+ 67-  3:	ptg000281l_49	SEGI_36318	  5e-73
+## Alignment 68: score=157.0 e_value=0.00012 N=4 ive_Chr10&seq_chr2 minus
+ 68-  0:	ptg001010l_10	SEGI_02652	  6e-61
+ 68-  1:	ptg001010l_23	SEGI_32017	  2e-36
+ 68-  2:	ptg001010l_28	SEGI_24825	  2e-78
+ 68-  3:	ptg000054l_45	SEGI_10366	 1e-127
+## Alignment 69: score=239.0 e_value=4.9e-07 N=5 ive_Chr10&seq_chr3 plus
+ 69-  0:	ptg000226l_1	SEGI_02960	 7e-112
+ 69-  1:	ptg000226l_6	SEGI_15421	  9e-91
+ 69-  2:	ptg000758l_13	SEGI_34480	  7e-44
+ 69-  3:	ptg000758l_1	SEGI_31221	 7e-128
+ 69-  4:	ptg000758l_2	SEGI_02260	  2e-66
+## Alignment 70: score=206.0 e_value=2.8e-17 N=8 ive_Chr10&seq_chr3 plus
+ 70-  0:	ptg000336l_8	SEGI_27742	 1e-122
+ 70-  1:	ptg000336l_19	SEGI_19394	  1e-91
+ 70-  2:	ptg000336l_21	SEGI_37019	  5e-35
+ 70-  3:	ptg000276l_26	SEGI_19203	  2e-38
+ 70-  4:	ptg000276l_24	SEGI_11800	  9e-77
+ 70-  5:	ptg000332l_11	SEGI_11732	  1e-54
+ 70-  6:	ptg000332l_10	SEGI_41085	 7e-138
+ 70-  7:	ptg000332l_5	SEGI_15894	  4e-60
+## Alignment 71: score=176.0 e_value=0.00035 N=4 ive_Chr10&seq_chr3 plus
+ 71-  0:	ptg001078l_9	SEGI_37686	 5e-216
+ 71-  1:	ptg001078l_11	SEGI_01545	  1e-09
+ 71-  2:	ptg000168l_6	SEGI_28241	 1e-107
+ 71-  3:	ptg000168l_3	SEGI_13570	  4e-22
+## Alignment 72: score=170.0 e_value=4e-07 N=5 ive_Chr10&seq_chr3 plus
+ 72-  0:	ptg001011l_31	SEGI_40840	 5e-190
+ 72-  1:	ptg001011l_25	SEGI_32642	 2e-211
+ 72-  2:	ptg001011l_22	SEGI_05977	  4e-86
+ 72-  3:	ptg001256l_6	SEGI_28178	  2e-56
+ 72-  4:	ptg001256l_25	SEGI_23777	  7e-33
+## Alignment 73: score=152.0 e_value=2.1e-05 N=4 ive_Chr10&seq_chr3 plus
+ 73-  0:	ptg000168l_3	SEGI_03041	  2e-22
+ 73-  1:	ptg001473l_19	SEGI_20443	  2e-79
+ 73-  2:	ptg001473l_17	SEGI_37169	  3e-73
+ 73-  3:	ptg001473l_15	SEGI_19153	  4e-21
+## Alignment 74: score=282.0 e_value=1.3e-15 N=7 ive_Chr10&seq_chr4 plus
+ 74-  0:	ptg001188l_65	SEGI_11166	 8e-219
+ 74-  1:	ptg001188l_69	SEGI_28658	  8e-20
+ 74-  2:	ptg001188l_78	SEGI_29517	  2e-40
+ 74-  3:	ptg001188l_79	SEGI_02101	  7e-44
+ 74-  4:	ptg001188l_80	SEGI_37819	  3e-08
+ 74-  5:	ptg001188l_2	SEGI_24077	 5e-242
+ 74-  6:	ptg001188l_16	SEGI_41387	  2e-61
+## Alignment 75: score=262.0 e_value=2.8e-18 N=8 ive_Chr10&seq_chr4 minus
+ 75-  0:	ptg001118l_16	SEGI_03493	  9e-25
+ 75-  1:	ptg001188l_42	SEGI_31697	 4e-186
+ 75-  2:	ptg001188l_50	SEGI_02809	 4e-192
+ 75-  3:	ptg001188l_53	SEGI_08587	  2e-50
+ 75-  4:	ptg001188l_54	SEGI_05751	 1e-306
+ 75-  5:	ptg001188l_55	SEGI_36466	 3e-283
+ 75-  6:	ptg001188l_65	SEGI_11166	 8e-219
+ 75-  7:	ptg001188l_71	SEGI_34014	  3e-70
+## Alignment 76: score=210.0 e_value=2.2e-07 N=5 ive_Chr10&seq_chr4 minus
+ 76-  0:	ptg001188l_71	SEGI_35461	  7e-60
+ 76-  1:	ptg001188l_72	SEGI_27071	  4e-19
+ 76-  2:	ptg001188l_74	SEGI_09375	 4e-165
+ 76-  3:	ptg001188l_76	SEGI_37763	 3e-104
+ 76-  4:	ptg001188l_2	SEGI_24077	 5e-242
+## Alignment 77: score=164.0 e_value=4e-08 N=4 ive_Chr10&seq_chr5 minus
+ 77-  0:	ptg000281l_73	SEGI_27746	  7e-32
+ 77-  1:	ptg000281l_9	SEGI_26147	  5e-49
+ 77-  2:	ptg000281l_21	SEGI_32195	  6e-36
+ 77-  3:	ptg000281l_23	SEGI_24293	  1e-32
+## Alignment 78: score=238.0 e_value=9.4e-12 N=6 ive_Chr10&seq_chr8 minus
+ 78-  0:	ptg000460l_16	SEGI_04995	  4e-25
+ 78-  1:	ptg000400l_11	SEGI_22464	 0.0005
+ 78-  2:	ptg000400l_18	SEGI_29834	  2e-27
+ 78-  3:	ptg000400l_19	SEGI_23886	 7e-173
+ 78-  4:	ptg000400l_22	SEGI_29761	 3e-250
+ 78-  5:	ptg000400l_23	SEGI_27018	 2e-129
+## Alignment 79: score=180.0 e_value=0.00051 N=4 ive_Chr10&seq_chr9 plus
+ 79-  0:	ptg000168l_10	SEGI_36827	  4e-14
+ 79-  1:	ptg000168l_2	SEGI_08910	  9e-30
+ 79-  2:	ptg000168l_43	SEGI_11716	  1e-28
+ 79-  3:	ptg000168l_41	SEGI_30825	  2e-16
+## Alignment 80: score=171.0 e_value=9.7e-07 N=4 ive_Chr10&seq_chr9 plus
+ 80-  0:	ptg000624l_22	SEGI_14457	  4e-54
+ 80-  1:	ptg000624l_21	SEGI_21684	  2e-34
+ 80-  2:	ptg000624l_18	SEGI_31114	  2e-43
+ 80-  3:	ptg000624l_14	SEGI_01040	  1e-53
+## Alignment 81: score=217.0 e_value=2.4e-08 N=6 ive_Chr10&seq_chr9 minus
+ 81-  0:	ptg000932l_5	SEGI_25528	 9e-227
+ 81-  1:	ptg000932l_7	SEGI_13462	  5e-26
+ 81-  2:	ptg000109l_6	SEGI_23950	  3e-24
+ 81-  3:	ptg000214l_64	SEGI_18764	  2e-29
+ 81-  4:	ptg000214l_2	SEGI_25982	 8e-224
+ 81-  5:	ptg000214l_6	SEGI_04692	      0
+## Alignment 82: score=193.0 e_value=4.2e-06 N=5 ive_Chr10&seq_chr9 minus
+ 82-  0:	ptg000205l_59	SEGI_30533	  2e-70
+ 82-  1:	ptg000205l_51	SEGI_31755	  1e-67
+ 82-  2:	ptg000205l_43	SEGI_28224	  8e-51
+ 82-  3:	ptg000205l_40	SEGI_01399	  1e-74
+ 82-  4:	ptg000205l_31	SEGI_29645	 1e-209
+## Alignment 83: score=150.0 e_value=0.00045 N=4 ive_Chr10&seq_chr9 minus
+ 83-  0:	ptg001078l_30	SEGI_37846	  3e-40
+ 83-  1:	ptg000168l_10	SEGI_30825	  1e-13
+ 83-  2:	ptg000168l_2	SEGI_08910	  9e-30
+ 83-  3:	ptg000168l_46	SEGI_10451	  5e-30
+## Alignment 84: score=191.0 e_value=0.00013 N=4 ive_Chr11&seq_chr1 plus
+ 84-  0:	ptg001768l_8	SEGI_05914	  2e-59
+ 84-  1:	ptg001768l_3	SEGI_08733	  5e-93
+ 84-  2:	ptg001768l_2	SEGI_03650	  1e-57
+ 84-  3:	ptg001768l_1	SEGI_15395	  7e-93
+## Alignment 85: score=155.0 e_value=4e-09 N=5 ive_Chr11&seq_chr1 plus
+ 85-  0:	ptg000207l_11	SEGI_36112	  2e-15
+ 85-  1:	ptg002244l_3	SEGI_10901	  9e-16
+ 85-  2:	ptg002244l_2	SEGI_20464	  6e-05
+ 85-  3:	ptg000144l_13	SEGI_17135	  2e-25
+ 85-  4:	ptg000144l_12	SEGI_04245	  3e-28
+## Alignment 86: score=151.0 e_value=0.00011 N=4 ive_Chr11&seq_chr1 plus
+ 86-  0:	ptg001333l_6	SEGI_13141	      0
+ 86-  1:	ptg001528l_25	SEGI_38155	  1e-27
+ 86-  2:	ptg001528l_28	SEGI_07098	  1e-41
+ 86-  3:	ptg001528l_14	SEGI_24174	 1e-152
+## Alignment 87: score=305.0 e_value=4.2e-14 N=8 ive_Chr11&seq_chr10 plus
+ 87-  0:	ptg001312l_17	SEGI_27057	  1e-40
+ 87-  1:	ptg001408l_6	SEGI_13614	  2e-29
+ 87-  2:	ptg000296l_75	SEGI_35047	 2e-235
+ 87-  3:	ptg000296l_70	SEGI_23564	  7e-42
+ 87-  4:	ptg000296l_69	SEGI_40346	  6e-40
+ 87-  5:	ptg000296l_66	SEGI_22868	  2e-14
+ 87-  6:	ptg000296l_65	SEGI_20624	      0
+ 87-  7:	ptg000296l_62	SEGI_03909	  3e-12
+## Alignment 88: score=301.0 e_value=1.8e-14 N=8 ive_Chr11&seq_chr11 plus
+ 88-  0:	ptg000504l_13	SEGI_16726	 2e-135
+ 88-  1:	ptg000504l_10	SEGI_00793	  3e-53
+ 88-  2:	ptg000504l_4	SEGI_38331	 8e-186
+ 88-  3:	ptg000504l_3	SEGI_27367	  8e-92
+ 88-  4:	ptg000504l_1	SEGI_01506	  7e-37
+ 88-  5:	ptg000504l_15	SEGI_38696	  1e-15
+ 88-  6:	ptg000504l_7	SEGI_34770	 1e-287
+ 88-  7:	ptg000504l_17	SEGI_39293	  1e-31
+## Alignment 89: score=290.0 e_value=1.8e-11 N=7 ive_Chr11&seq_chr11 plus
+ 89-  0:	ptg000141l_12	SEGI_07261	 1e-161
+ 89-  1:	ptg000141l_25	SEGI_39452	  5e-60
+ 89-  2:	ptg000220l_4	SEGI_18331	  3e-26
+ 89-  3:	ptg000220l_1	SEGI_12135	  3e-22
+ 89-  4:	ptg001135l_8	SEGI_08565	 8e-159
+ 89-  5:	ptg001135l_7	SEGI_33680	  1e-13
+ 89-  6:	ptg001768l_9	SEGI_16817	  4e-23
+## Alignment 90: score=164.0 e_value=1.2e-08 N=6 ive_Chr11&seq_chr11 plus
+ 90-  0:	ptg001652l_3	SEGI_23467	  1e-26
+ 90-  1:	ptg001652l_35	SEGI_38746	  2e-66
+ 90-  2:	ptg001652l_45	SEGI_28488	  1e-82
+ 90-  3:	ptg001652l_47	SEGI_06295	 5e-144
+ 90-  4:	ptg000858l_23	SEGI_04015	  8e-95
+ 90-  5:	ptg000858l_16	SEGI_38492	  4e-20
+## Alignment 91: score=235.0 e_value=4.3e-07 N=5 ive_Chr11&seq_chr11 minus
+ 91-  0:	ptg000461l_9	SEGI_35309	  8e-60
+ 91-  1:	ptg000461l_8	SEGI_15112	  9e-54
+ 91-  2:	ptg000461l_7	SEGI_32174	  2e-39
+ 91-  3:	ptg000461l_5	SEGI_20657	  5e-41
+ 91-  4:	ptg000461l_24	SEGI_32818	  1e-49
+## Alignment 92: score=159.0 e_value=7.1e-06 N=4 ive_Chr11&seq_chr11 minus
+ 92-  0:	ptg001878l_1	SEGI_26629	  1e-99
+ 92-  1:	ptg000436l_5	SEGI_33158	  5e-85
+ 92-  2:	ptg000502l_12	SEGI_35910	  5e-84
+ 92-  3:	ptg000502l_10	SEGI_01561	  2e-86
+## Alignment 93: score=157.0 e_value=1.8e-10 N=6 ive_Chr11&seq_chr2 plus
+ 93-  0:	ptg001924l_2	SEGI_03109	  4e-72
+ 93-  1:	ptg000706l_13	SEGI_05413	  6e-18
+ 93-  2:	ptg001523l_5	SEGI_24669	 5e-125
+ 93-  3:	ptg001523l_13	SEGI_05279	      0
+ 93-  4:	ptg001523l_16	SEGI_21691	  8e-24
+ 93-  5:	ptg001523l_17	SEGI_16066	  6e-37
+## Alignment 94: score=238.0 e_value=6.9e-06 N=5 ive_Chr11&seq_chr2 minus
+ 94-  0:	ptg001940l_16	SEGI_04200	 2e-112
+ 94-  1:	ptg001940l_14	SEGI_37876	  2e-22
+ 94-  2:	ptg001940l_8	SEGI_16381	 4e-142
+ 94-  3:	ptg001940l_7	SEGI_41119	  1e-36
+ 94-  4:	ptg001940l_4	SEGI_23093	 1e-129
+## Alignment 95: score=159.0 e_value=9.1e-06 N=4 ive_Chr11&seq_chr2 minus
+ 95-  0:	ptg000591l_44	SEGI_05279	      0
+ 95-  1:	ptg000591l_45	SEGI_32327	  6e-17
+ 95-  2:	ptg000591l_34	SEGI_11701	  4e-54
+ 95-  3:	ptg000591l_9	SEGI_38587	  2e-16
+## Alignment 96: score=180.0 e_value=1e-09 N=6 ive_Chr11&seq_chr3 plus
+ 96-  0:	ptg001057l_5	SEGI_20257	 4e-207
+ 96-  1:	ptg002399l_1	SEGI_03286	  2e-90
+ 96-  2:	ptg000403l_8	SEGI_26109	 8e-252
+ 96-  3:	ptg000403l_20	SEGI_31961	  1e-75
+ 96-  4:	ptg000403l_24	SEGI_32310	 6e-129
+ 96-  5:	ptg000403l_27	SEGI_07290	 2e-197
+## Alignment 97: score=163.0 e_value=2.7e-07 N=5 ive_Chr11&seq_chr3 plus
+ 97-  0:	ptg001426l_3	SEGI_35695	  2e-52
+ 97-  1:	ptg002216l_2	SEGI_39705	 5e-119
+ 97-  2:	ptg001592l_3	SEGI_04709	 1e-221
+ 97-  3:	ptg000939l_5	SEGI_00800	  2e-42
+ 97-  4:	ptg001918l_3	SEGI_18253	  2e-46
+## Alignment 98: score=214.0 e_value=1.4e-07 N=5 ive_Chr11&seq_chr3 minus
+ 98-  0:	ptg000682l_47	SEGI_00866	  5e-90
+ 98-  1:	ptg001423l_8	SEGI_28191	  2e-35
+ 98-  2:	ptg001423l_27	SEGI_27879	  4e-90
+ 98-  3:	ptg001423l_28	SEGI_24397	  2e-13
+ 98-  4:	ptg001423l_2	SEGI_33208	 3e-154
+## Alignment 99: score=175.0 e_value=0.00033 N=4 ive_Chr11&seq_chr3 minus
+ 99-  0:	ptg001896l_11	SEGI_11689	  3e-32
+ 99-  1:	ptg000534l_36	SEGI_10662	  1e-16
+ 99-  2:	ptg000534l_7	SEGI_28910	  2e-06
+ 99-  3:	ptg000534l_8	SEGI_40790	  2e-21
+## Alignment 100: score=440.0 e_value=1.4e-25 N=11 ive_Chr11&seq_chr4 plus
+100-  0:	ptg001126l_14	SEGI_29021	  2e-97
+100-  1:	ptg001126l_15	SEGI_13553	 1e-152
+100-  2:	ptg001126l_17	SEGI_02994	 2e-126
+100-  3:	ptg001126l_18	SEGI_39210	  7e-27
+100-  4:	ptg001126l_28	SEGI_06111	 2e-116
+100-  5:	ptg001126l_29	SEGI_28641	      0
+100-  6:	ptg001126l_31	SEGI_06948	  2e-27
+100-  7:	ptg001357l_4	SEGI_02592	  6e-19
+100-  8:	ptg001357l_5	SEGI_11441	  4e-27
+100-  9:	ptg001357l_6	SEGI_34552	  3e-27
+100- 10:	ptg000524l_32	SEGI_37835	 4e-154
+## Alignment 101: score=342.0 e_value=4.4e-24 N=11 ive_Chr11&seq_chr4 plus
+101-  0:	ptg000207l_7	SEGI_22722	 4e-193
+101-  1:	ptg000207l_6	SEGI_03558	 5e-140
+101-  2:	ptg000207l_3	SEGI_31857	 2e-218
+101-  3:	ptg000207l_1	SEGI_02697	  4e-16
+101-  4:	ptg000207l_16	SEGI_01520	  1e-24
+101-  5:	ptg000058l_2	SEGI_36593	  3e-31
+101-  6:	ptg000058l_14	SEGI_04298	  1e-16
+101-  7:	ptg000058l_13	SEGI_41591	 2e-210
+101-  8:	ptg001956l_17	SEGI_12970	  1e-51
+101-  9:	ptg001956l_22	SEGI_24717	  7e-36
+101- 10:	ptg000144l_33	SEGI_37186	  1e-91
+## Alignment 102: score=308.0 e_value=3.7e-14 N=8 ive_Chr11&seq_chr4 plus
+102-  0:	ptg000230l_30	SEGI_15537	  9e-71
+102-  1:	ptg000176l_13	SEGI_31757	  1e-05
+102-  2:	ptg000176l_3	SEGI_40671	  2e-10
+102-  3:	ptg000176l_1	SEGI_10040	 3e-107
+102-  4:	ptg000176l_16	SEGI_02911	  3e-48
+102-  5:	ptg001036l_7	SEGI_38055	  4e-86
+102-  6:	ptg001036l_1	SEGI_24449	  2e-58
+102-  7:	ptg001036l_2	SEGI_28492	  8e-42
+## Alignment 103: score=290.0 e_value=1.5e-11 N=7 ive_Chr11&seq_chr4 plus
+103-  0:	ptg000665l_30	SEGI_36016	  6e-40
+103-  1:	ptg000665l_32	SEGI_13114	 2e-128
+103-  2:	ptg000665l_34	SEGI_40694	  5e-46
+103-  3:	ptg000665l_36	SEGI_20984	 3e-118
+103-  4:	ptg000417l_6	SEGI_31473	  9e-99
+103-  5:	ptg000417l_11	SEGI_16112	  6e-99
+103-  6:	ptg001678l_38	SEGI_17915	  1e-98
+## Alignment 104: score=250.0 e_value=4.8e-14 N=7 ive_Chr11&seq_chr4 plus
+104-  0:	ptg002244l_4	SEGI_04285	 8e-127
+104-  1:	ptg002244l_3	SEGI_13597	 5e-115
+104-  2:	ptg001956l_18	SEGI_03096	  2e-47
+104-  3:	ptg000144l_37	SEGI_27630	 2e-170
+104-  4:	ptg000144l_55	SEGI_32653	  6e-89
+104-  5:	ptg000144l_54	SEGI_34777	 1e-162
+104-  6:	ptg000144l_44	SEGI_32459	 6e-125
+## Alignment 105: score=244.0 e_value=6.7e-19 N=8 ive_Chr11&seq_chr4 plus
+105-  0:	ptg000230l_1	SEGI_34031	  4e-50
+105-  1:	ptg000176l_4	SEGI_25458	  7e-11
+105-  2:	ptg001682l_6	SEGI_10730	  6e-05
+105-  3:	ptg001338l_12	SEGI_27924	  1e-15
+105-  4:	ptg001338l_13	SEGI_31727	  4e-33
+105-  5:	ptg000993l_53	SEGI_32435	  3e-09
+105-  6:	ptg000993l_55	SEGI_22433	 2e-122
+105-  7:	ptg000993l_56	SEGI_15149	  1e-85
+## Alignment 106: score=176.0 e_value=1.5e-05 N=4 ive_Chr11&seq_chr4 plus
+106-  0:	ptg001338l_4	SEGI_07040	 5e-123
+106-  1:	ptg001338l_5	SEGI_31974	 1e-218
+106-  2:	ptg001338l_6	SEGI_37435	 7e-146
+106-  3:	ptg000993l_23	SEGI_13533	  3e-24
+## Alignment 107: score=173.0 e_value=8.4e-08 N=5 ive_Chr11&seq_chr4 plus
+107-  0:	ptg001956l_2	SEGI_14268	      0
+107-  1:	ptg001956l_4	SEGI_26296	 3e-246
+107-  2:	ptg000144l_51	SEGI_34745	 3e-131
+107-  3:	ptg000144l_48	SEGI_22834	 1e-131
+107-  4:	ptg000144l_43	SEGI_14649	 2e-132
+## Alignment 108: score=163.0 e_value=7.9e-05 N=4 ive_Chr11&seq_chr4 plus
+108-  0:	ptg000665l_36	SEGI_07820	 1e-117
+108-  1:	ptg000417l_6	SEGI_16112	  7e-99
+108-  2:	ptg000417l_1	SEGI_17915	  3e-98
+108-  3:	ptg000417l_11	SEGI_07584	  1e-95
+## Alignment 109: score=344.0 e_value=6.1e-16 N=8 ive_Chr11&seq_chr4 minus
+109-  0:	ptg000230l_19	SEGI_38891	  2e-93
+109-  1:	ptg000230l_16	SEGI_29489	 7e-294
+109-  2:	ptg000230l_13	SEGI_29731	 1e-154
+109-  3:	ptg000230l_11	SEGI_38340	  1e-85
+109-  4:	ptg000230l_9	SEGI_18199	  2e-17
+109-  5:	ptg000230l_6	SEGI_05878	  1e-71
+109-  6:	ptg000230l_5	SEGI_09078	  3e-92
+109-  7:	ptg000230l_53	SEGI_31666	  2e-25
+## Alignment 110: score=251.0 e_value=1.7e-13 N=8 ive_Chr11&seq_chr4 minus
+110-  0:	ptg000993l_32	SEGI_33712	  5e-92
+110-  1:	ptg000993l_55	SEGI_34745	 1e-125
+110-  2:	ptg000993l_63	SEGI_31794	 3e-191
+110-  3:	ptg000993l_68	SEGI_25692	  8e-24
+110-  4:	ptg000993l_77	SEGI_25850	  1e-82
+110-  5:	ptg000993l_12	SEGI_15903	 2e-247
+110-  6:	ptg000993l_13	SEGI_31265	  3e-48
+110-  7:	ptg000841l_25	SEGI_14383	  4e-20
+## Alignment 111: score=250.0 e_value=1e-11 N=6 ive_Chr11&seq_chr4 minus
+111-  0:	ptg000677l_6	SEGI_01615	  1e-50
+111-  1:	ptg000677l_7	SEGI_30172	  7e-34
+111-  2:	ptg000677l_9	SEGI_39058	  2e-52
+111-  3:	ptg000665l_62	SEGI_10169	  1e-70
+111-  4:	ptg000665l_65	SEGI_05841	 6e-152
+111-  5:	ptg000665l_71	SEGI_20021	  8e-46
+## Alignment 112: score=230.0 e_value=1.3e-09 N=6 ive_Chr11&seq_chr4 minus
+112-  0:	ptg001561l_6	SEGI_26877	 2e-141
+112-  1:	ptg001561l_12	SEGI_19491	      0
+112-  2:	ptg000319l_11	SEGI_40993	  1e-79
+112-  3:	ptg000319l_5	SEGI_26432	  7e-28
+112-  4:	ptg000319l_2	SEGI_25079	  1e-21
+112-  5:	ptg000319l_26	SEGI_22425	 5e-153
+## Alignment 113: score=205.0 e_value=2.3e-08 N=6 ive_Chr11&seq_chr4 minus
+113-  0:	ptg000144l_51	SEGI_15149	 7e-127
+113-  1:	ptg000144l_48	SEGI_30109	 6e-138
+113-  2:	ptg000144l_35	SEGI_09040	  2e-68
+113-  3:	ptg001561l_4	SEGI_16594	  3e-20
+113-  4:	ptg000319l_22	SEGI_27826	  1e-12
+113-  5:	ptg000319l_16	SEGI_01535	 4e-135
+## Alignment 114: score=203.0 e_value=4.9e-09 N=6 ive_Chr11&seq_chr4 minus
+114-  0:	ptg001956l_2	SEGI_14268	      0
+114-  1:	ptg000144l_18	SEGI_19085	  9e-29
+114-  2:	ptg000144l_14	SEGI_14383	  4e-16
+114-  3:	ptg000144l_13	SEGI_15203	  7e-22
+114-  4:	ptg000144l_8	SEGI_00893	 7e-311
+114-  5:	ptg000144l_4	SEGI_36040	  2e-50
+## Alignment 115: score=189.0 e_value=6.3e-06 N=5 ive_Chr11&seq_chr4 minus
+115-  0:	ptg001902l_2	SEGI_24113	  3e-06
+115-  1:	ptg001902l_18	SEGI_30875	  1e-41
+115-  2:	ptg001516l_6	SEGI_10586	  2e-86
+115-  3:	ptg000208l_12	SEGI_34730	 3e-193
+115-  4:	ptg000208l_23	SEGI_24572	  1e-26
+## Alignment 116: score=180.0 e_value=2.7e-06 N=5 ive_Chr11&seq_chr4 minus
+116-  0:	ptg000407l_89	SEGI_38606	      0
+116-  1:	ptg000407l_2	SEGI_22467	  5e-42
+116-  2:	ptg000407l_5	SEGI_29029	 8e-176
+116-  3:	ptg000407l_6	SEGI_37394	  3e-32
+116-  4:	ptg000407l_8	SEGI_14161	 2e-116
+## Alignment 117: score=175.0 e_value=1.4e-09 N=6 ive_Chr11&seq_chr4 minus
+117-  0:	ptg001682l_5	SEGI_36016	  2e-37
+117-  1:	ptg001682l_1	SEGI_33805	  1e-19
+117-  2:	ptg001338l_6	SEGI_37435	 7e-146
+117-  3:	ptg000993l_51	SEGI_36335	 1e-288
+117-  4:	ptg000993l_54	SEGI_39810	  7e-19
+117-  5:	ptg000993l_62	SEGI_30109	 1e-134
+## Alignment 118: score=163.0 e_value=3.3e-08 N=5 ive_Chr11&seq_chr4 minus
+118-  0:	ptg000677l_25	SEGI_09744	 3e-170
+118-  1:	ptg000677l_3	SEGI_24979	  4e-46
+118-  2:	ptg000665l_18	SEGI_00854	  3e-61
+118-  3:	ptg000665l_21	SEGI_11458	  9e-23
+118-  4:	ptg000665l_22	SEGI_18215	  5e-81
+## Alignment 119: score=160.0 e_value=8.2e-07 N=5 ive_Chr11&seq_chr4 minus
+119-  0:	ptg000677l_4	SEGI_02231	  3e-42
+119-  1:	ptg000665l_54	SEGI_21337	  3e-76
+119-  2:	ptg000665l_60	SEGI_29102	  3e-75
+119-  3:	ptg000665l_64	SEGI_17696	  8e-46
+119-  4:	ptg000665l_22	SEGI_35689	  2e-64
+## Alignment 120: score=152.0 e_value=0.00052 N=4 ive_Chr11&seq_chr4 minus
+120-  0:	ptg000524l_29	SEGI_27212	 2e-213
+120-  1:	ptg000524l_9	SEGI_36987	  1e-25
+120-  2:	ptg001300l_2	SEGI_06653	      0
+120-  3:	ptg000633l_35	SEGI_31360	  8e-09
+## Alignment 121: score=219.0 e_value=1.7e-10 N=6 ive_Chr11&seq_chr5 plus
+121-  0:	ptg000923l_29	SEGI_31387	  1e-60
+121-  1:	ptg001364l_2	SEGI_35053	      0
+121-  2:	ptg001364l_6	SEGI_41419	  2e-95
+121-  3:	ptg001364l_7	SEGI_35593	  7e-22
+121-  4:	ptg001364l_11	SEGI_19666	  9e-62
+121-  5:	ptg002216l_1	SEGI_25322	  5e-32
+## Alignment 122: score=173.0 e_value=9.3e-05 N=4 ive_Chr11&seq_chr5 plus
+122-  0:	ptg001975l_3	SEGI_31599	  2e-62
+122-  1:	ptg002117l_2	SEGI_15188	  1e-70
+122-  2:	ptg000461l_14	SEGI_36716	  6e-59
+122-  3:	ptg000461l_11	SEGI_39005	  4e-25
+## Alignment 123: score=220.0 e_value=9.2e-06 N=5 ive_Chr11&seq_chr5 minus
+123-  0:	ptg001364l_17	SEGI_02916	 5e-145
+123-  1:	ptg001364l_19	SEGI_14384	  4e-94
+123-  2:	ptg001364l_23	SEGI_08690	  2e-49
+123-  3:	ptg001364l_32	SEGI_14575	  3e-45
+123-  4:	ptg001426l_4	SEGI_24048	  3e-49
+## Alignment 124: score=162.0 e_value=7e-08 N=5 ive_Chr11&seq_chr5 minus
+124-  0:	ptg000407l_22	SEGI_27266	 2e-190
+124-  1:	ptg000407l_23	SEGI_05638	  5e-50
+124-  2:	ptg000407l_35	SEGI_14116	  3e-36
+124-  3:	ptg000445l_3	SEGI_06670	 1e-204
+124-  4:	ptg000792l_13	SEGI_01009	  2e-61
+## Alignment 125: score=210.0 e_value=4.9e-07 N=5 ive_Chr11&seq_chr6 plus
+125-  0:	ptg001026l_24	SEGI_19144	  1e-62
+125-  1:	ptg001026l_18	SEGI_11449	  2e-80
+125-  2:	ptg000095l_1	SEGI_17807	  4e-32
+125-  3:	ptg000095l_4	SEGI_34951	  2e-58
+125-  4:	ptg000095l_10	SEGI_06880	  1e-93
+## Alignment 126: score=225.0 e_value=8.9e-12 N=6 ive_Chr11&seq_chr6 minus
+126-  0:	ptg001026l_28	SEGI_31615	  2e-20
+126-  1:	ptg000095l_11	SEGI_14972	  3e-95
+126-  2:	ptg001322l_4	SEGI_40055	  1e-41
+126-  3:	ptg001322l_3	SEGI_00157	 3e-117
+126-  4:	ptg001322l_2	SEGI_26069	  4e-10
+126-  5:	ptg000349l_14	SEGI_19174	  7e-71
+## Alignment 127: score=178.0 e_value=6.6e-09 N=5 ive_Chr11&seq_chr6 minus
+127-  0:	ptg001768l_15	SEGI_05817	  5e-19
+127-  1:	ptg000502l_21	SEGI_02111	  3e-59
+127-  2:	ptg000502l_18	SEGI_02028	 2e-114
+127-  3:	ptg001948l_3	SEGI_29394	 2e-115
+127-  4:	ptg001948l_2	SEGI_22790	 1e-112
+## Alignment 128: score=170.0 e_value=2.3e-06 N=5 ive_Chr11&seq_chr6 minus
+128-  0:	ptg000786l_8	SEGI_02187	  3e-85
+128-  1:	ptg000786l_14	SEGI_40481	  9e-24
+128-  2:	ptg001026l_31	SEGI_05335	  3e-28
+128-  3:	ptg001026l_15	SEGI_41130	  1e-69
+128-  4:	ptg000095l_8	SEGI_13855	  1e-07
+## Alignment 129: score=157.0 e_value=0.00064 N=4 ive_Chr11&seq_chr6 minus
+129-  0:	ptg001179l_70	SEGI_37409	  2e-42
+129-  1:	ptg001179l_57	SEGI_33199	 1e-172
+129-  2:	ptg001179l_54	SEGI_22449	  7e-38
+129-  3:	ptg001179l_26	SEGI_32478	  7e-30
+## Alignment 130: score=156.0 e_value=5e-06 N=5 ive_Chr11&seq_chr6 minus
+130-  0:	ptg001525l_17	SEGI_26227	 5e-172
+130-  1:	ptg000151l_11	SEGI_16058	  6e-42
+130-  2:	ptg000151l_9	SEGI_29468	  4e-08
+130-  3:	ptg000151l_15	SEGI_11054	 0.0008
+130-  4:	ptg000786l_9	SEGI_14532	 4e-226
+## Alignment 131: score=156.0 e_value=1.2e-05 N=4 ive_Chr11&seq_chr6 minus
+131-  0:	ptg000525l_43	SEGI_02187	  1e-86
+131-  1:	ptg000525l_19	SEGI_29461	  2e-29
+131-  2:	ptg000525l_16	SEGI_05335	  5e-93
+131-  3:	ptg001525l_9	SEGI_04979	  7e-85
+## Alignment 132: score=227.0 e_value=5.4e-19 N=8 ive_Chr11&seq_chr7 plus
+132-  0:	ptg000403l_1	SEGI_20043	 0.0002
+132-  1:	ptg000403l_4	SEGI_31055	 3e-131
+132-  2:	ptg000403l_9	SEGI_32549	  9e-09
+132-  3:	ptg000403l_29	SEGI_11604	  2e-14
+132-  4:	ptg000403l_30	SEGI_14020	  1e-15
+132-  5:	ptg000403l_35	SEGI_10165	  2e-74
+132-  6:	ptg000403l_36	SEGI_39377	 8e-157
+132-  7:	ptg002028l_51	SEGI_28158	 8e-224
+## Alignment 133: score=166.0 e_value=1.9e-13 N=7 ive_Chr11&seq_chr7 plus
+133-  0:	ptg000403l_31	SEGI_06782	  1e-70
+133-  1:	ptg000403l_34	SEGI_05674	  2e-64
+133-  2:	ptg002028l_43	SEGI_32915	 8e-232
+133-  3:	ptg002028l_31	SEGI_39022	  1e-45
+133-  4:	ptg002028l_27	SEGI_00462	  2e-27
+133-  5:	ptg000953l_22	SEGI_37729	  5e-47
+133-  6:	ptg001853l_9	SEGI_06923	  7e-57
+## Alignment 134: score=240.0 e_value=1e-09 N=6 ive_Chr11&seq_chr7 minus
+134-  0:	ptg000953l_2	SEGI_22478	  3e-06
+134-  1:	ptg000953l_6	SEGI_40636	 2e-137
+134-  2:	ptg000953l_7	SEGI_39931	  8e-33
+134-  3:	ptg000953l_10	SEGI_32826	  9e-17
+134-  4:	ptg000953l_11	SEGI_14025	 6e-266
+134-  5:	ptg000953l_22	SEGI_37729	  5e-47
+## Alignment 135: score=163.0 e_value=0.00046 N=4 ive_Chr11&seq_chr7 minus
+135-  0:	ptg001287l_14	SEGI_16449	 9e-156
+135-  1:	ptg001287l_7	SEGI_27627	  2e-91
+135-  2:	ptg001287l_17	SEGI_01696	 1e-309
+135-  3:	ptg000950l_8	SEGI_13172	  4e-47
+## Alignment 136: score=187.0 e_value=5e-05 N=4 ive_Chr11&seq_chr9 plus
+136-  0:	ptg001562l_4	SEGI_09864	  3e-34
+136-  1:	ptg001562l_3	SEGI_04343	 2e-200
+136-  2:	ptg002078l_1	SEGI_15940	  5e-62
+136-  3:	ptg002078l_2	SEGI_14169	  4e-80
+## Alignment 137: score=161.0 e_value=0.00021 N=4 ive_Chr12&seq_chr1 plus
+137-  0:	ptg000499l_15	SEGI_00313	  7e-43
+137-  1:	ptg000499l_11	SEGI_25591	  6e-22
+137-  2:	ptg000499l_10	SEGI_17644	 6e-109
+137-  3:	ptg001534l_4	SEGI_11203	  5e-15
+## Alignment 138: score=256.0 e_value=7e-10 N=6 ive_Chr12&seq_chr10 plus
+138-  0:	ptg002073l_64	SEGI_35536	 5e-129
+138-  1:	ptg002073l_3	SEGI_24932	  2e-17
+138-  2:	ptg002073l_10	SEGI_20265	  5e-20
+138-  3:	ptg002073l_13	SEGI_20570	 7e-166
+138-  4:	ptg002073l_14	SEGI_21752	  8e-16
+138-  5:	ptg002073l_17	SEGI_05158	 2e-221
+## Alignment 139: score=247.0 e_value=2.3e-21 N=10 ive_Chr12&seq_chr10 plus
+139-  0:	ptg002073l_27	SEGI_32936	  3e-61
+139-  1:	ptg002073l_35	SEGI_37945	  1e-97
+139-  2:	ptg002073l_45	SEGI_26713	  4e-70
+139-  3:	ptg000044l_2	SEGI_04098	  6e-14
+139-  4:	ptg000609l_18	SEGI_39894	  1e-67
+139-  5:	ptg000609l_5	SEGI_35585	  4e-09
+139-  6:	ptg000182l_7	SEGI_00986	 5e-164
+139-  7:	ptg000182l_6	SEGI_26537	 4e-200
+139-  8:	ptg002168l_2	SEGI_28729	 5e-160
+139-  9:	ptg000714l_17	SEGI_16491	  1e-07
+## Alignment 140: score=164.0 e_value=5.4e-05 N=4 ive_Chr12&seq_chr10 plus
+140-  0:	ptg000102l_1	SEGI_38626	 1e-188
+140-  1:	ptg000102l_7	SEGI_12755	  5e-40
+140-  2:	ptg000102l_16	SEGI_23498	  1e-25
+140-  3:	ptg000102l_19	SEGI_25578	 5e-131
+## Alignment 141: score=155.0 e_value=0.00081 N=4 ive_Chr12&seq_chr10 plus
+141-  0:	ptg001907l_44	SEGI_34230	  1e-71
+141-  1:	ptg001907l_34	SEGI_03889	  3e-05
+141-  2:	ptg001907l_41	SEGI_35429	  8e-59
+141-  3:	ptg001907l_42	SEGI_31067	  9e-83
+## Alignment 142: score=153.0 e_value=4.1e-07 N=5 ive_Chr12&seq_chr10 plus
+142-  0:	ptg000714l_20	SEGI_39163	  2e-93
+142-  1:	ptg002259l_1	SEGI_34717	 7e-101
+142-  2:	ptg001907l_22	SEGI_15171	 8e-139
+142-  3:	ptg001907l_48	SEGI_01418	 7e-109
+142-  4:	ptg001237l_1	SEGI_10697	  9e-32
+## Alignment 143: score=504.0 e_value=3.4e-30 N=12 ive_Chr12&seq_chr10 minus
+143-  0:	ptg000703l_5	SEGI_38144	  2e-24
+143-  1:	ptg000703l_1	SEGI_00526	      0
+143-  2:	ptg000703l_32	SEGI_07415	  4e-77
+143-  3:	ptg000041l_19	SEGI_23547	  1e-33
+143-  4:	ptg000041l_9	SEGI_09164	 5e-163
+143-  5:	ptg000041l_1	SEGI_24549	  2e-17
+143-  6:	ptg000041l_6	SEGI_09508	 3e-164
+143-  7:	ptg000041l_5	SEGI_26261	 1e-191
+143-  8:	ptg000041l_20	SEGI_30214	 1e-165
+143-  9:	ptg000041l_13	SEGI_24846	 6e-251
+143- 10:	ptg002045l_1	SEGI_04071	  1e-50
+143- 11:	ptg002168l_3	SEGI_38980	  1e-93
+## Alignment 144: score=307.0 e_value=2.3e-14 N=8 ive_Chr12&seq_chr10 minus
+144-  0:	ptg000874l_41	SEGI_36745	 6e-131
+144-  1:	ptg000874l_31	SEGI_08625	  3e-08
+144-  2:	ptg000499l_9	SEGI_38996	  1e-25
+144-  3:	ptg000499l_4	SEGI_36646	  6e-63
+144-  4:	ptg000499l_69	SEGI_22476	  4e-32
+144-  5:	ptg000499l_67	SEGI_00164	  1e-32
+144-  6:	ptg000499l_61	SEGI_22233	  3e-21
+144-  7:	ptg000499l_58	SEGI_34538	  3e-22
+## Alignment 145: score=273.0 e_value=2.2e-11 N=7 ive_Chr12&seq_chr10 minus
+145-  0:	ptg001189l_7	SEGI_12691	  2e-10
+145-  1:	ptg001189l_8	SEGI_13627	  5e-88
+145-  2:	ptg001189l_11	SEGI_33088	 7e-172
+145-  3:	ptg001189l_18	SEGI_18718	 4e-154
+145-  4:	ptg001704l_21	SEGI_40797	 3e-125
+145-  5:	ptg001704l_28	SEGI_09114	  6e-06
+145-  6:	ptg001704l_2	SEGI_05910	 3e-121
+## Alignment 146: score=272.0 e_value=5.2e-15 N=7 ive_Chr12&seq_chr10 minus
+146-  0:	ptg000102l_89	SEGI_13577	  8e-09
+146-  1:	ptg000102l_21	SEGI_10585	  1e-08
+146-  2:	ptg000102l_27	SEGI_39084	 2e-199
+146-  3:	ptg000102l_29	SEGI_35600	 4e-159
+146-  4:	ptg000102l_32	SEGI_32575	 2e-161
+146-  5:	ptg000102l_40	SEGI_01485	 2e-116
+146-  6:	ptg000102l_41	SEGI_41546	  1e-52
+## Alignment 147: score=228.0 e_value=2.1e-11 N=6 ive_Chr12&seq_chr10 minus
+147-  0:	ptg000917l_17	SEGI_01979	  2e-49
+147-  1:	ptg000917l_18	SEGI_27505	  2e-28
+147-  2:	ptg000917l_20	SEGI_02886	  1e-87
+147-  3:	ptg000917l_21	SEGI_07029	  1e-11
+147-  4:	ptg001550l_1	SEGI_10406	  9e-23
+147-  5:	ptg002073l_13	SEGI_33813	  4e-52
+## Alignment 148: score=200.0 e_value=3.5e-07 N=5 ive_Chr12&seq_chr10 minus
+148-  0:	ptg000874l_44	SEGI_07096	 5e-121
+148-  1:	ptg000874l_37	SEGI_19578	  2e-45
+148-  2:	ptg000874l_34	SEGI_14235	 5e-138
+148-  3:	ptg000874l_32	SEGI_01041	 3e-119
+148-  4:	ptg000874l_29	SEGI_17058	  7e-40
+## Alignment 149: score=161.0 e_value=1.8e-05 N=4 ive_Chr12&seq_chr10 minus
+149-  0:	ptg001907l_20	SEGI_17697	 6e-215
+149-  1:	ptg001907l_22	SEGI_15171	 8e-139
+149-  2:	ptg001907l_23	SEGI_24636	  3e-72
+149-  3:	ptg001907l_32	SEGI_13895	  4e-12
+## Alignment 150: score=205.0 e_value=1.1e-08 N=6 ive_Chr12&seq_chr11 plus
+150-  0:	ptg001218l_3	SEGI_02214	  3e-08
+150-  1:	ptg001796l_8	SEGI_27484	 1e-125
+150-  2:	ptg001796l_2	SEGI_27452	      0
+150-  3:	ptg000773l_1	SEGI_10687	  2e-41
+150-  4:	ptg000323l_6	SEGI_01033	  9e-50
+150-  5:	ptg000323l_3	SEGI_10523	  1e-96
+## Alignment 151: score=209.0 e_value=2.3e-15 N=5 ive_Chr12&seq_chr2 plus
+151-  0:	ptg000465l_36	SEGI_30086	  5e-97
+151-  1:	ptg000465l_38	SEGI_12291	  6e-38
+151-  2:	ptg001760l_5	SEGI_29550	  1e-26
+151-  3:	ptg001760l_3	SEGI_33421	  5e-15
+151-  4:	ptg001760l_4	SEGI_19069	  4e-33
+## Alignment 152: score=208.0 e_value=1.1e-05 N=5 ive_Chr12&seq_chr2 plus
+152-  0:	ptg000523l_105	SEGI_14472	      0
+152-  1:	ptg000523l_100	SEGI_07373	 9e-113
+152-  2:	ptg000523l_124	SEGI_27972	  6e-35
+152-  3:	ptg000729l_2	SEGI_09862	  4e-10
+152-  4:	ptg000729l_14	SEGI_28788	  8e-44
+## Alignment 153: score=164.0 e_value=7.6e-06 N=4 ive_Chr12&seq_chr2 plus
+153-  0:	ptg000477l_26	SEGI_24439	  4e-91
+153-  1:	ptg000477l_3	SEGI_12571	  7e-14
+153-  2:	ptg000477l_7	SEGI_30192	  3e-60
+153-  3:	ptg000477l_23	SEGI_22434	  2e-65
+## Alignment 154: score=234.0 e_value=3.7e-14 N=8 ive_Chr12&seq_chr2 minus
+154-  0:	ptg000553l_12	SEGI_35400	  7e-67
+154-  1:	ptg000553l_9	SEGI_19769	 2e-230
+154-  2:	ptg000553l_8	SEGI_40453	  5e-50
+154-  3:	ptg000553l_7	SEGI_38280	  1e-50
+154-  4:	ptg000553l_4	SEGI_09236	  1e-64
+154-  5:	ptg000553l_1	SEGI_02621	  3e-64
+154-  6:	ptg000553l_18	SEGI_14698	  1e-28
+154-  7:	ptg001406l_18	SEGI_40207	  3e-39
+## Alignment 155: score=199.0 e_value=2.2e-08 N=6 ive_Chr12&seq_chr2 minus
+155-  0:	ptg001019l_1	SEGI_01353	  4e-99
+155-  1:	ptg000655l_12	SEGI_33728	  2e-51
+155-  2:	ptg000655l_22	SEGI_32896	  8e-17
+155-  3:	ptg001169l_42	SEGI_25082	  3e-36
+155-  4:	ptg001169l_8	SEGI_18220	 6e-126
+155-  5:	ptg001169l_17	SEGI_27194	 9e-162
+## Alignment 156: score=164.0 e_value=5.8e-07 N=5 ive_Chr12&seq_chr2 minus
+156-  0:	ptg000206l_4	SEGI_15012	  5e-33
+156-  1:	ptg000206l_17	SEGI_19686	  4e-90
+156-  2:	ptg000206l_18	SEGI_16515	 5e-153
+156-  3:	ptg000326l_6	SEGI_34643	 5e-126
+156-  4:	ptg000326l_2	SEGI_15405	 4e-229
+## Alignment 157: score=183.0 e_value=6.1e-08 N=5 ive_Chr12&seq_chr3 plus
+157-  0:	ptg000039l_76	SEGI_05478	  1e-39
+157-  1:	ptg000645l_56	SEGI_03674	  1e-20
+157-  2:	ptg000645l_50	SEGI_22601	 1e-171
+157-  3:	ptg000645l_48	SEGI_11853	 7e-133
+157-  4:	ptg000645l_24	SEGI_27855	  4e-82
+## Alignment 158: score=168.0 e_value=2.7e-06 N=5 ive_Chr12&seq_chr3 plus
+158-  0:	ptg000523l_40	SEGI_20116	 5e-102
+158-  1:	ptg000523l_24	SEGI_28319	  8e-43
+158-  2:	ptg000523l_118	SEGI_00836	  5e-77
+158-  3:	ptg000523l_117	SEGI_21321	  8e-66
+158-  4:	ptg000523l_114	SEGI_20810	 6e-101
+## Alignment 159: score=187.0 e_value=4.8e-14 N=6 ive_Chr12&seq_chr3 minus
+159-  0:	ptg000039l_7	SEGI_35312	  7e-21
+159-  1:	ptg000039l_110	SEGI_21898	      0
+159-  2:	ptg000039l_75	SEGI_05258	 4e-218
+159-  3:	ptg000039l_63	SEGI_22601	 5e-166
+159-  4:	ptg000645l_56	SEGI_03674	  1e-20
+159-  5:	ptg000645l_53	SEGI_05478	  3e-39
+## Alignment 160: score=362.0 e_value=2.4e-32 N=13 ive_Chr12&seq_chr4 plus
+160-  0:	ptg001433l_35	SEGI_03452	  1e-39
+160-  1:	ptg001433l_40	SEGI_02756	  7e-60
+160-  2:	ptg001433l_17	SEGI_25580	 4e-209
+160-  3:	ptg001433l_23	SEGI_39604	 1e-186
+160-  4:	ptg001433l_29	SEGI_27494	 1e-146
+160-  5:	ptg001433l_33	SEGI_16482	 2e-175
+160-  6:	ptg001433l_36	SEGI_29308	  1e-13
+160-  7:	ptg001433l_37	SEGI_24559	  4e-14
+160-  8:	ptg000362l_3	SEGI_21844	  2e-33
+160-  9:	ptg000362l_4	SEGI_30289	  6e-25
+160- 10:	ptg002122l_3	SEGI_37801	 9e-161
+160- 11:	ptg002122l_2	SEGI_03575	  3e-29
+160- 12:	ptg002122l_10	SEGI_11624	  2e-05
+## Alignment 161: score=243.0 e_value=1.6e-11 N=7 ive_Chr12&seq_chr4 plus
+161-  0:	ptg000499l_34	SEGI_09830	 6e-229
+161-  1:	ptg000499l_28	SEGI_37479	 3e-104
+161-  2:	ptg000499l_33	SEGI_40993	 3e-155
+161-  3:	ptg001756l_1	SEGI_16387	  2e-30
+161-  4:	ptg001756l_6	SEGI_12065	  9e-24
+161-  5:	ptg001534l_28	SEGI_13175	  2e-51
+161-  6:	ptg001534l_9	SEGI_20704	  8e-98
+## Alignment 162: score=358.0 e_value=2.9e-14 N=8 ive_Chr12&seq_chr4 minus
+162-  0:	ptg002122l_5	SEGI_18049	 4e-105
+162-  1:	ptg002122l_9	SEGI_03932	  6e-17
+162-  2:	ptg002122l_11	SEGI_21174	  5e-76
+162-  3:	ptg002122l_19	SEGI_40428	  8e-96
+162-  4:	ptg002122l_22	SEGI_32597	  1e-89
+162-  5:	ptg002122l_26	SEGI_19030	  2e-34
+162-  6:	ptg002077l_1	SEGI_20998	 2e-176
+162-  7:	ptg001582l_1	SEGI_35689	 1e-132
+## Alignment 163: score=167.0 e_value=4.4e-09 N=4 ive_Chr12&seq_chr4 minus
+163-  0:	ptg000102l_44	SEGI_01341	  3e-11
+163-  1:	ptg000102l_46	SEGI_08633	  7e-39
+163-  2:	ptg000102l_50	SEGI_03851	  4e-29
+163-  3:	ptg000102l_80	SEGI_28970	  5e-44
+## Alignment 164: score=160.0 e_value=5.9e-05 N=4 ive_Chr12&seq_chr4 minus
+164-  0:	ptg000102l_104	SEGI_01341	  3e-16
+164-  1:	ptg000102l_107	SEGI_39998	  1e-74
+164-  2:	ptg000102l_110	SEGI_03851	  3e-44
+164-  3:	ptg000102l_36	SEGI_13593	  4e-49
+## Alignment 165: score=202.0 e_value=2.1e-07 N=5 ive_Chr12&seq_chr5 minus
+165-  0:	ptg000583l_2	SEGI_33193	 4e-146
+165-  1:	ptg000583l_3	SEGI_34686	 3e-164
+165-  2:	ptg000583l_5	SEGI_33443	  6e-34
+165-  3:	ptg000583l_9	SEGI_29375	  9e-60
+165-  4:	ptg000583l_40	SEGI_02468	  2e-34
+## Alignment 166: score=294.0 e_value=2.7e-14 N=7 ive_Chr12&seq_chr6 minus
+166-  0:	ptg001973l_10	SEGI_08113	  1e-49
+166-  1:	ptg001973l_8	SEGI_18611	 2e-114
+166-  2:	ptg001973l_7	SEGI_24076	 3e-102
+166-  3:	ptg001973l_9	SEGI_06108	  1e-55
+166-  4:	ptg001782l_11	SEGI_10744	 2e-154
+166-  5:	ptg001782l_17	SEGI_15756	  2e-36
+166-  6:	ptg001782l_7	SEGI_28071	  2e-38
+## Alignment 167: score=172.0 e_value=0.00098 N=4 ive_Chr12&seq_chr6 minus
+167-  0:	ptg000111l_15	SEGI_07351	 6e-145
+167-  1:	ptg000111l_6	SEGI_40668	 3e-142
+167-  2:	ptg000111l_42	SEGI_07099	  5e-83
+167-  3:	ptg000111l_35	SEGI_17685	  7e-31
+## Alignment 168: score=176.0 e_value=9.1e-06 N=5 ive_Chr12&seq_chr7 plus
+168-  0:	ptg000244l_15	SEGI_13377	 2e-112
+168-  1:	ptg001278l_44	SEGI_35272	      0
+168-  2:	ptg001278l_42	SEGI_33311	  7e-59
+168-  3:	ptg001278l_29	SEGI_23238	  4e-43
+168-  4:	ptg001278l_21	SEGI_03552	 2e-214
+## Alignment 169: score=170.0 e_value=6.8e-06 N=4 ive_Chr12&seq_chr7 plus
+169-  0:	ptg001782l_15	SEGI_17876	  2e-14
+169-  1:	ptg001782l_5	SEGI_23712	 3e-139
+169-  2:	ptg001181l_6	SEGI_34143	  3e-70
+169-  3:	ptg001181l_5	SEGI_26448	 2e-131
+## Alignment 170: score=168.0 e_value=4.1e-05 N=4 ive_Chr12&seq_chr7 plus
+170-  0:	ptg000244l_9	SEGI_05262	  3e-54
+170-  1:	ptg000244l_19	SEGI_27097	  2e-58
+170-  2:	ptg000244l_16	SEGI_12818	 5e-167
+170-  3:	ptg000244l_15	SEGI_02747	  6e-82
+## Alignment 171: score=200.0 e_value=2.4e-16 N=8 ive_Chr12&seq_chr7 minus
+171-  0:	ptg001782l_12	SEGI_06944	 2e-218
+171-  1:	ptg001318l_29	SEGI_09778	  2e-32
+171-  2:	ptg000237l_47	SEGI_32099	 7e-120
+171-  3:	ptg000545l_25	SEGI_18430	  1e-71
+171-  4:	ptg000545l_18	SEGI_30765	  2e-92
+171-  5:	ptg000545l_13	SEGI_06306	 7e-190
+171-  6:	ptg001240l_19	SEGI_34471	  7e-60
+171-  7:	ptg001240l_1	SEGI_12033	  5e-44
+## Alignment 172: score=176.0 e_value=5.5e-05 N=4 ive_Chr12&seq_chr8 plus
+172-  0:	ptg001604l_5	SEGI_30579	 2e-126
+172-  1:	ptg001604l_4	SEGI_40315	 4e-234
+172-  2:	ptg001604l_3	SEGI_01007	 3e-106
+172-  3:	ptg001604l_20	SEGI_14967	  2e-28
+## Alignment 173: score=198.0 e_value=2.9e-11 N=6 ive_Chr12&seq_chr9 plus
+173-  0:	ptg000111l_29	SEGI_00398	  3e-18
+173-  1:	ptg001496l_17	SEGI_24870	  3e-31
+173-  2:	ptg001496l_18	SEGI_11819	  7e-63
+173-  3:	ptg000918l_15	SEGI_12611	 1e-157
+173-  4:	ptg000918l_12	SEGI_03958	  5e-79
+173-  5:	ptg000918l_10	SEGI_33325	 5e-311
+## Alignment 174: score=187.0 e_value=0.00014 N=4 ive_Chr12&seq_chr9 plus
+174-  0:	ptg001243l_5	SEGI_40564	 2e-107
+174-  1:	ptg001243l_7	SEGI_17504	 3e-109
+174-  2:	ptg001243l_8	SEGI_23054	  5e-31
+174-  3:	ptg001243l_9	SEGI_18994	  2e-49
+## Alignment 175: score=160.0 e_value=2.2e-07 N=4 ive_Chr12&seq_chr9 plus
+175-  0:	ptg000553l_4	SEGI_22244	  1e-21
+175-  1:	ptg001406l_2	SEGI_32517	 5e-118
+175-  2:	ptg001406l_4	SEGI_30110	  3e-81
+175-  3:	ptg001019l_7	SEGI_16268	  2e-50
+## Alignment 176: score=228.0 e_value=8.2e-10 N=6 ive_Chr12&seq_chr9 minus
+176-  0:	ptg000692l_7	SEGI_40872	  9e-37
+176-  1:	ptg000692l_3	SEGI_08622	  2e-53
+176-  2:	ptg000692l_4	SEGI_18858	  3e-19
+176-  3:	ptg000692l_13	SEGI_23889	  6e-21
+176-  4:	ptg000692l_8	SEGI_32043	 2e-246
+176-  5:	ptg000918l_33	SEGI_02891	 6e-121
+## Alignment 177: score=203.0 e_value=2.1e-14 N=7 ive_Chr12&seq_chr9 minus
+177-  0:	ptg000692l_4	SEGI_13426	  2e-12
+177-  1:	ptg000918l_4	SEGI_06430	  8e-32
+177-  2:	ptg000918l_2	SEGI_21942	  3e-98
+177-  3:	ptg000918l_1	SEGI_07602	  4e-29
+177-  4:	ptg000918l_60	SEGI_38523	 4e-106
+177-  5:	ptg000397l_43	SEGI_11445	  4e-33
+177-  6:	ptg000397l_9	SEGI_15021	  1e-75
+## Alignment 178: score=241.0 e_value=2e-08 N=6 ive_Chr13&seq_HRSCAF_1 plus
+178-  0:	ptg001140l_4	SEGI_27164	  2e-18
+178-  1:	ptg001140l_1	SEGI_25125	 1e-156
+178-  2:	ptg001980l_9	SEGI_08967	  8e-54
+178-  3:	ptg001980l_7	SEGI_07022	  4e-24
+178-  4:	ptg000500l_59	SEGI_17732	  5e-34
+178-  5:	ptg000500l_49	SEGI_26675	 7e-114
+## Alignment 179: score=224.0 e_value=5.4e-07 N=5 ive_Chr13&seq_chr1 plus
+179-  0:	ptg000469l_57	SEGI_25410	 3e-157
+179-  1:	ptg000469l_54	SEGI_34376	  5e-35
+179-  2:	ptg000469l_52	SEGI_34165	  1e-98
+179-  3:	ptg000469l_51	SEGI_16749	  1e-79
+179-  4:	ptg000469l_49	SEGI_04116	 1e-158
+## Alignment 180: score=156.0 e_value=0.00035 N=4 ive_Chr13&seq_chr1 plus
+180-  0:	ptg002051l_2	SEGI_35106	 6e-110
+180-  1:	ptg002051l_1	SEGI_23419	  9e-93
+180-  2:	ptg002051l_6	SEGI_41248	  7e-73
+180-  3:	ptg000578l_29	SEGI_08282	 3e-140
+## Alignment 181: score=206.0 e_value=2.2e-06 N=5 ive_Chr13&seq_chr1 minus
+181-  0:	ptg000469l_57	SEGI_04116	 3e-156
+181-  1:	ptg000469l_54	SEGI_22731	  5e-36
+181-  2:	ptg000469l_52	SEGI_34165	  1e-98
+181-  3:	ptg000469l_51	SEGI_39990	  2e-62
+181-  4:	ptg000469l_50	SEGI_31845	  2e-91
+## Alignment 182: score=291.0 e_value=1.1e-12 N=7 ive_Chr13&seq_chr10 minus
+182-  0:	ptg000012l_49	SEGI_32791	  4e-35
+182-  1:	ptg000012l_9	SEGI_31067	  6e-46
+182-  2:	ptg000012l_12	SEGI_30733	  4e-43
+182-  3:	ptg000472l_12	SEGI_01894	  1e-18
+182-  4:	ptg001569l_8	SEGI_38487	  4e-49
+182-  5:	ptg001569l_5	SEGI_24415	 2e-111
+182-  6:	ptg001569l_1	SEGI_09430	  3e-24
+## Alignment 183: score=213.0 e_value=1.9e-08 N=5 ive_Chr13&seq_chr10 minus
+183-  0:	ptg000644l_58	SEGI_06169	  2e-34
+183-  1:	ptg000644l_60	SEGI_15788	  4e-08
+183-  2:	ptg000644l_61	SEGI_05355	 5e-151
+183-  3:	ptg000644l_67	SEGI_37883	 3e-142
+183-  4:	ptg000644l_5	SEGI_11834	  2e-57
+## Alignment 184: score=168.0 e_value=6.7e-05 N=4 ive_Chr13&seq_chr10 minus
+184-  0:	ptg000012l_1	SEGI_03582	  2e-41
+184-  1:	ptg000472l_4	SEGI_37557	  2e-90
+184-  2:	ptg000472l_7	SEGI_01663	 1e-100
+184-  3:	ptg000472l_8	SEGI_03807	  4e-25
+## Alignment 185: score=289.0 e_value=1.8e-15 N=8 ive_Chr13&seq_chr11 plus
+185-  0:	ptg000561l_13	SEGI_35177	 9e-125
+185-  1:	ptg000561l_17	SEGI_04185	  1e-96
+185-  2:	ptg000561l_18	SEGI_27818	 9e-255
+185-  3:	ptg000561l_20	SEGI_06006	  5e-40
+185-  4:	ptg000561l_26	SEGI_21573	 7e-180
+185-  5:	ptg000776l_23	SEGI_08768	  8e-07
+185-  6:	ptg001199l_18	SEGI_31965	 6e-308
+185-  7:	ptg001199l_27	SEGI_08849	 4e-103
+## Alignment 186: score=200.0 e_value=3.1e-16 N=8 ive_Chr13&seq_chr11 plus
+186-  0:	ptg001199l_32	SEGI_12758	  5e-61
+186-  1:	ptg001199l_5	SEGI_24486	 3e-119
+186-  2:	ptg001088l_41	SEGI_41141	 9e-134
+186-  3:	ptg001088l_38	SEGI_18151	 3e-109
+186-  4:	ptg001088l_37	SEGI_20046	  6e-80
+186-  5:	ptg001088l_95	SEGI_27438	  2e-48
+186-  6:	ptg001542l_8	SEGI_23080	 3e-227
+186-  7:	ptg001542l_3	SEGI_33523	  1e-34
+## Alignment 187: score=196.0 e_value=3.1e-09 N=5 ive_Chr13&seq_chr11 minus
+187-  0:	ptg001034l_16	SEGI_36343	  8e-61
+187-  1:	ptg001034l_22	SEGI_11137	 5e-131
+187-  2:	ptg001034l_25	SEGI_38503	 2e-109
+187-  3:	ptg000899l_20	SEGI_20629	  1e-21
+187-  4:	ptg000899l_18	SEGI_24895	  7e-23
+## Alignment 188: score=185.0 e_value=1.2e-06 N=5 ive_Chr13&seq_chr11 minus
+188-  0:	ptg002510l_4	SEGI_18938	 2e-115
+188-  1:	ptg000123l_65	SEGI_09193	 2e-119
+188-  2:	ptg000123l_51	SEGI_20887	  7e-17
+188-  3:	ptg000123l_48	SEGI_24242	  2e-52
+188-  4:	ptg000123l_38	SEGI_24977	  1e-25
+## Alignment 189: score=153.0 e_value=1.2e-07 N=5 ive_Chr13&seq_chr11 minus
+189-  0:	ptg000776l_20	SEGI_26324	 2e-107
+189-  1:	ptg000776l_18	SEGI_17013	 3e-140
+189-  2:	ptg000776l_1	SEGI_40062	  2e-68
+189-  3:	ptg001199l_20	SEGI_37761	  6e-09
+189-  4:	ptg001199l_31	SEGI_14041	  1e-32
+## Alignment 190: score=169.0 e_value=9.5e-06 N=4 ive_Chr13&seq_chr2 plus
+190-  0:	ptg001155l_1	SEGI_28901	 2e-157
+190-  1:	ptg001155l_39	SEGI_13186	  7e-59
+190-  2:	ptg001990l_17	SEGI_20203	 4e-106
+190-  3:	ptg001990l_19	SEGI_03637	 1e-108
+## Alignment 191: score=222.0 e_value=5.7e-13 N=6 ive_Chr13&seq_chr2 minus
+191-  0:	ptg001088l_78	SEGI_09610	  4e-45
+191-  1:	ptg001088l_75	SEGI_33081	  7e-45
+191-  2:	ptg001088l_74	SEGI_13950	 3e-141
+191-  3:	ptg001088l_73	SEGI_34535	  1e-68
+191-  4:	ptg001088l_72	SEGI_02928	  7e-29
+191-  5:	ptg000519l_5	SEGI_33422	  2e-83
+## Alignment 192: score=170.0 e_value=4.1e-09 N=6 ive_Chr13&seq_chr2 minus
+192-  0:	ptg000192l_39	SEGI_02871	  7e-31
+192-  1:	ptg002740l_1	SEGI_19247	  7e-45
+192-  2:	ptg003982l_1	SEGI_13569	  3e-78
+192-  3:	ptg001155l_56	SEGI_03440	  1e-46
+192-  4:	ptg001155l_39	SEGI_13186	  7e-59
+192-  5:	ptg001990l_2	SEGI_01687	 1e-144
+## Alignment 193: score=183.0 e_value=2.7e-06 N=4 ive_Chr13&seq_chr4 plus
+193-  0:	ptg001705l_16	SEGI_07050	  6e-08
+193-  1:	ptg001705l_11	SEGI_07453	  1e-41
+193-  2:	ptg000717l_30	SEGI_07293	  8e-92
+193-  3:	ptg000717l_27	SEGI_26546	 8e-300
+## Alignment 194: score=163.0 e_value=2.7e-05 N=4 ive_Chr13&seq_chr4 plus
+194-  0:	ptg000943l_3	SEGI_40741	  3e-61
+194-  1:	ptg000943l_2	SEGI_37607	 8e-100
+194-  2:	ptg000861l_32	SEGI_29728	  1e-34
+194-  3:	ptg000861l_16	SEGI_17613	 8e-112
+## Alignment 195: score=211.0 e_value=8.4e-07 N=5 ive_Chr13&seq_chr4 minus
+195-  0:	ptg001705l_9	SEGI_37597	  3e-99
+195-  1:	ptg001705l_11	SEGI_07453	  1e-41
+195-  2:	ptg000847l_1	SEGI_07050	  4e-31
+195-  3:	ptg000717l_24	SEGI_34924	  2e-13
+195-  4:	ptg000717l_16	SEGI_01363	  1e-70
+## Alignment 196: score=197.0 e_value=6.8e-08 N=5 ive_Chr13&seq_chr5 plus
+196-  0:	ptg001034l_31	SEGI_24300	 7e-170
+196-  1:	ptg002109l_1	SEGI_14918	 2e-172
+196-  2:	ptg000959l_7	SEGI_25472	 3e-211
+196-  3:	ptg000959l_5	SEGI_17745	  9e-40
+196-  4:	ptg000899l_12	SEGI_10074	  5e-19
+## Alignment 197: score=197.0 e_value=8.5e-09 N=5 ive_Chr13&seq_chr5 minus
+197-  0:	ptg001285l_1	SEGI_34186	  4e-29
+197-  1:	ptg001285l_2	SEGI_02943	  3e-15
+197-  2:	ptg000578l_4	SEGI_30586	  2e-10
+197-  3:	ptg000578l_10	SEGI_39680	  3e-18
+197-  4:	ptg002973l_1	SEGI_33166	  1e-86
+## Alignment 198: score=172.0 e_value=0.00016 N=4 ive_Chr13&seq_chr7 minus
+198-  0:	ptg000861l_2	SEGI_00967	  2e-84
+198-  1:	ptg000861l_9	SEGI_08343	 2e-221
+198-  2:	ptg000975l_5	SEGI_06530	  4e-27
+198-  3:	ptg000637l_35	SEGI_03315	  1e-13
+## Alignment 199: score=636.0 e_value=1.2e-37 N=15 ive_Chr13&seq_chr8 plus
+199-  0:	ptg000308l_20	SEGI_36789	 8e-211
+199-  1:	ptg000308l_13	SEGI_28881	  9e-59
+199-  2:	ptg000308l_8	SEGI_13835	  5e-32
+199-  3:	ptg000308l_4	SEGI_20279	  2e-26
+199-  4:	ptg001619l_11	SEGI_18035	 7e-129
+199-  5:	ptg001619l_9	SEGI_30493	  3e-99
+199-  6:	ptg000838l_17	SEGI_40396	  3e-07
+199-  7:	ptg000838l_43	SEGI_03430	 4e-139
+199-  8:	ptg000838l_46	SEGI_34783	 2e-107
+199-  9:	ptg000838l_2	SEGI_21315	  3e-67
+199- 10:	ptg000838l_5	SEGI_34946	  1e-68
+199- 11:	ptg000838l_6	SEGI_29325	 2e-153
+199- 12:	ptg000838l_10	SEGI_03136	 3e-123
+199- 13:	ptg000838l_14	SEGI_04487	 3e-114
+199- 14:	ptg000838l_16	SEGI_09611	  2e-81
+## Alignment 200: score=251.0 e_value=2.4e-18 N=9 ive_Chr13&seq_chr8 plus
+200-  0:	ptg000469l_5	SEGI_19290	  2e-83
+200-  1:	ptg000469l_71	SEGI_41335	 1e-200
+200-  2:	ptg000762l_18	SEGI_02620	 3e-239
+200-  3:	ptg000762l_17	SEGI_26650	  1e-34
+200-  4:	ptg000762l_16	SEGI_10200	  4e-33
+200-  5:	ptg000762l_5	SEGI_30560	  1e-08
+200-  6:	ptg000762l_28	SEGI_05002	  3e-06
+200-  7:	ptg000424l_6	SEGI_18929	 1e-110
+200-  8:	ptg000424l_11	SEGI_30271	  6e-25
+## Alignment 201: score=237.0 e_value=2.3e-09 N=6 ive_Chr13&seq_chr8 plus
+201-  0:	ptg000717l_2	SEGI_19190	 4e-210
+201-  1:	ptg000717l_1	SEGI_14276	  2e-44
+201-  2:	ptg001034l_7	SEGI_12165	 1e-172
+201-  3:	ptg001034l_18	SEGI_23628	 8e-113
+201-  4:	ptg001034l_35	SEGI_39478	  5e-21
+201-  5:	ptg001034l_2	SEGI_23240	 1e-289
+## Alignment 202: score=172.0 e_value=1.7e-05 N=4 ive_Chr13&seq_chr8 plus
+202-  0:	ptg000762l_29	SEGI_24316	 1e-161
+202-  1:	ptg000762l_25	SEGI_04724	  2e-66
+202-  2:	ptg000762l_22	SEGI_25160	  9e-36
+202-  3:	ptg000762l_21	SEGI_24420	  2e-47
+## Alignment 203: score=156.0 e_value=3.1e-09 N=6 ive_Chr13&seq_chr8 plus
+203-  0:	ptg000469l_16	SEGI_40530	  6e-20
+203-  1:	ptg000469l_69	SEGI_00346	 5e-126
+203-  2:	ptg000469l_66	SEGI_20723	  1e-27
+203-  3:	ptg000469l_61	SEGI_31743	  1e-20
+203-  4:	ptg000762l_10	SEGI_23166	  5e-59
+203-  5:	ptg000424l_10	SEGI_12811	 3e-108
+## Alignment 204: score=155.0 e_value=0.00038 N=4 ive_Chr13&seq_chr8 plus
+204-  0:	ptg000300l_5	SEGI_06170	      0
+204-  1:	ptg000300l_9	SEGI_30822	  7e-46
+204-  2:	ptg000300l_20	SEGI_02117	 1e-147
+204-  3:	ptg000300l_23	SEGI_20052	  5e-60
+## Alignment 205: score=258.0 e_value=3.7e-12 N=6 ive_Chr13&seq_chr8 minus
+205-  0:	ptg000487l_29	SEGI_18646	  2e-60
+205-  1:	ptg000487l_27	SEGI_25770	  4e-32
+205-  2:	ptg001978l_1	SEGI_05222	  6e-55
+205-  3:	ptg001994l_3	SEGI_07041	  1e-94
+205-  4:	ptg001302l_1	SEGI_40111	  7e-31
+205-  5:	ptg001331l_14	SEGI_37676	 1e-278
+## Alignment 206: score=191.0 e_value=1.1e-08 N=6 ive_Chr13&seq_chr8 minus
+206-  0:	ptg000762l_24	SEGI_16036	  2e-60
+206-  1:	ptg000762l_21	SEGI_20528	  1e-51
+206-  2:	ptg000762l_20	SEGI_30154	  5e-75
+206-  3:	ptg000424l_1	SEGI_27760	  1e-11
+206-  4:	ptg001529l_38	SEGI_11231	 1e-131
+206-  5:	ptg001529l_19	SEGI_05181	  1e-49
+## Alignment 207: score=158.0 e_value=0.00062 N=4 ive_Chr13&seq_chr8 minus
+207-  0:	ptg001088l_70	SEGI_14724	  3e-91
+207-  1:	ptg001088l_65	SEGI_31334	 8e-116
+207-  2:	ptg001088l_60	SEGI_23089	 2e-106
+207-  3:	ptg001088l_58	SEGI_10755	      0
+## Alignment 208: score=150.0 e_value=6.6e-08 N=5 ive_Chr13&seq_chr8 minus
+208-  0:	ptg000487l_2	SEGI_12121	  4e-62
+208-  1:	ptg000663l_7	SEGI_25550	  9e-80
+208-  2:	ptg000663l_14	SEGI_00799	  6e-17
+208-  3:	ptg001546l_1	SEGI_13405	 9e-192
+208-  4:	ptg001295l_2	SEGI_06132	  1e-27
+## Alignment 209: score=191.0 e_value=5.1e-07 N=5 ive_Chr13&seq_chr9 minus
+209-  0:	ptg000628l_27	SEGI_22190	  2e-57
+209-  1:	ptg000497l_9	SEGI_23996	  2e-64
+209-  2:	ptg000497l_11	SEGI_20701	  1e-16
+209-  3:	ptg000497l_12	SEGI_01808	  7e-30
+209-  4:	ptg000849l_7	SEGI_02364	 9e-102
+## Alignment 210: score=157.0 e_value=0.00053 N=4 ive_Chr13&seq_chr9 minus
+210-  0:	ptg000717l_8	SEGI_01371	  2e-28
+210-  1:	ptg000717l_1	SEGI_04841	  7e-35
+210-  2:	ptg001034l_18	SEGI_09659	  3e-94
+210-  3:	ptg001034l_1	SEGI_13273	  2e-73
+## Alignment 211: score=268.0 e_value=2.6e-10 N=6 ive_Chr14&seq_HRSCAF_1 plus
+211-  0:	ptg000387l_84	SEGI_35303	  4e-82
+211-  1:	ptg000387l_1	SEGI_21046	 7e-204
+211-  2:	ptg000387l_3	SEGI_04783	 4e-121
+211-  3:	ptg000387l_6	SEGI_04352	 7e-179
+211-  4:	ptg000387l_25	SEGI_28604	 7e-229
+211-  5:	ptg000387l_28	SEGI_35702	 6e-181
+## Alignment 212: score=168.0 e_value=0.00014 N=4 ive_Chr14&seq_chr10 plus
+212-  0:	ptg001077l_33	SEGI_07962	  3e-27
+212-  1:	ptg001077l_36	SEGI_19637	  5e-16
+212-  2:	ptg001077l_46	SEGI_11011	  3e-38
+212-  3:	ptg001077l_47	SEGI_20828	  1e-18
+## Alignment 213: score=415.0 e_value=3.8e-21 N=10 ive_Chr14&seq_chr10 minus
+213-  0:	ptg001779l_29	SEGI_26716	 9e-106
+213-  1:	ptg001779l_18	SEGI_35253	  3e-61
+213-  2:	ptg001779l_12	SEGI_22476	  5e-35
+213-  3:	ptg001779l_10	SEGI_14783	  4e-10
+213-  4:	ptg001779l_9	SEGI_40796	 1e-197
+213-  5:	ptg001779l_5	SEGI_19574	  4e-68
+213-  6:	ptg002644l_1	SEGI_22233	  2e-22
+213-  7:	ptg001366l_14	SEGI_07936	 1e-248
+213-  8:	ptg001366l_12	SEGI_03865	  7e-53
+213-  9:	ptg001366l_9	SEGI_34538	  2e-20
+## Alignment 214: score=216.0 e_value=8.9e-12 N=7 ive_Chr14&seq_chr10 minus
+214-  0:	ptg000940l_18	SEGI_06651	  2e-52
+214-  1:	ptg000940l_38	SEGI_11112	 2e-273
+214-  2:	ptg001780l_23	SEGI_10602	  1e-80
+214-  3:	ptg001780l_19	SEGI_34455	  1e-25
+214-  4:	ptg001780l_15	SEGI_32561	  8e-56
+214-  5:	ptg001623l_4	SEGI_05685	  1e-20
+214-  6:	ptg001779l_41	SEGI_15655	 6e-111
+## Alignment 215: score=211.0 e_value=4.1e-07 N=5 ive_Chr14&seq_chr2 plus
+215-  0:	ptg001779l_15	SEGI_35493	 4e-125
+215-  1:	ptg002644l_1	SEGI_14550	  4e-19
+215-  2:	ptg001366l_14	SEGI_29448	 7e-133
+215-  3:	ptg001366l_12	SEGI_29962	  4e-41
+215-  4:	ptg001366l_11	SEGI_22166	 1e-174
+## Alignment 216: score=262.0 e_value=3.9e-10 N=6 ive_Chr14&seq_chr3 plus
+216-  0:	ptg000231l_24	SEGI_29846	  3e-23
+216-  1:	ptg000231l_13	SEGI_11331	  2e-32
+216-  2:	ptg000231l_14	SEGI_14855	  3e-21
+216-  3:	ptg000231l_15	SEGI_02301	  3e-24
+216-  4:	ptg001909l_1	SEGI_41322	  4e-21
+216-  5:	ptg000811l_19	SEGI_01722	 2e-269
+## Alignment 217: score=192.0 e_value=6.7e-15 N=7 ive_Chr14&seq_chr3 minus
+217-  0:	ptg001279l_48	SEGI_22797	  7e-29
+217-  1:	ptg000231l_17	SEGI_40815	  2e-09
+217-  2:	ptg000811l_8	SEGI_30246	 6e-106
+217-  3:	ptg000796l_6	SEGI_06106	  6e-60
+217-  4:	ptg000796l_3	SEGI_22601	 4e-167
+217-  5:	ptg000796l_2	SEGI_14480	  3e-92
+217-  6:	ptg001788l_5	SEGI_19369	  2e-72
+## Alignment 218: score=169.0 e_value=4.7e-07 N=4 ive_Chr14&seq_chr3 minus
+218-  0:	ptg000410l_26	SEGI_31137	  2e-13
+218-  1:	ptg000410l_27	SEGI_19005	  3e-26
+218-  2:	ptg000410l_33	SEGI_36719	  2e-54
+218-  3:	ptg001825l_1	SEGI_35283	 4e-122
+## Alignment 219: score=151.0 e_value=8e-05 N=4 ive_Chr14&seq_chr3 minus
+219-  0:	ptg000940l_19	SEGI_24903	  3e-30
+219-  1:	ptg000940l_38	SEGI_17189	 1e-166
+219-  2:	ptg001641l_2	SEGI_06106	  2e-60
+219-  3:	ptg001641l_3	SEGI_22601	 1e-137
+## Alignment 220: score=185.0 e_value=6.5e-12 N=6 ive_Chr14&seq_chr4 plus
+220-  0:	ptg000807l_7	SEGI_40993	  7e-53
+220-  1:	ptg000662l_5	SEGI_30877	  3e-29
+220-  2:	ptg000662l_8	SEGI_32032	  6e-25
+220-  3:	ptg000662l_9	SEGI_13175	  3e-37
+220-  4:	ptg000662l_20	SEGI_15465	  1e-13
+220-  5:	ptg000662l_34	SEGI_22216	  9e-06
+## Alignment 221: score=446.0 e_value=2.6e-31 N=12 ive_Chr14&seq_chr6 plus
+221-  0:	ptg001463l_12	SEGI_06462	 5e-185
+221-  1:	ptg001463l_3	SEGI_20471	  1e-42
+221-  2:	ptg001463l_1	SEGI_12873	  2e-39
+221-  3:	ptg001463l_30	SEGI_25436	 1e-119
+221-  4:	ptg001463l_13	SEGI_07269	  6e-44
+221-  5:	ptg001737l_10	SEGI_08002	  7e-07
+221-  6:	ptg001737l_9	SEGI_08249	  6e-58
+221-  7:	ptg001737l_5	SEGI_11683	  5e-12
+221-  8:	ptg001737l_3	SEGI_37436	  1e-76
+221-  9:	ptg001737l_1	SEGI_09431	 1e-192
+221- 10:	ptg001737l_21	SEGI_19442	 4e-135
+221- 11:	ptg001468l_26	SEGI_02367	  3e-42
+## Alignment 222: score=289.0 e_value=3.5e-17 N=8 ive_Chr14&seq_chr6 plus
+222-  0:	ptg000935l_3	SEGI_39286	  7e-41
+222-  1:	ptg000662l_1	SEGI_22128	  7e-49
+222-  2:	ptg000662l_3	SEGI_27578	  5e-69
+222-  3:	ptg000662l_5	SEGI_28560	  1e-16
+222-  4:	ptg000662l_7	SEGI_17819	  6e-06
+222-  5:	ptg000662l_28	SEGI_25422	 5e-195
+222-  6:	ptg000662l_32	SEGI_21594	 3e-148
+222-  7:	ptg000662l_33	SEGI_14380	 1e-165
+## Alignment 223: score=269.0 e_value=7.5e-14 N=7 ive_Chr14&seq_chr6 plus
+223-  0:	ptg001468l_3	SEGI_03764	  4e-84
+223-  1:	ptg001468l_12	SEGI_13442	  6e-12
+223-  2:	ptg001468l_13	SEGI_25244	 1e-127
+223-  3:	ptg001468l_14	SEGI_10951	 1e-175
+223-  4:	ptg001468l_18	SEGI_22378	      0
+223-  5:	ptg001373l_8	SEGI_22390	  8e-92
+223-  6:	ptg001373l_11	SEGI_38017	 1e-117
+## Alignment 224: score=287.0 e_value=4.8e-08 N=6 ive_Chr14&seq_chr6 minus
+224-  0:	ptg000935l_36	SEGI_31219	  1e-25
+224-  1:	ptg000935l_35	SEGI_39509	  3e-56
+224-  2:	ptg000935l_33	SEGI_36229	 2e-108
+224-  3:	ptg000935l_29	SEGI_32020	 2e-213
+224-  4:	ptg000935l_26	SEGI_33402	      0
+224-  5:	ptg000935l_23	SEGI_04349	 5e-160
+## Alignment 225: score=211.0 e_value=8.4e-12 N=7 ive_Chr14&seq_chr6 minus
+225-  0:	ptg001808l_4	SEGI_15190	  2e-83
+225-  1:	ptg001808l_2	SEGI_09455	  2e-12
+225-  2:	ptg001785l_5	SEGI_11766	 3e-176
+225-  3:	ptg001028l_7	SEGI_17423	  3e-62
+225-  4:	ptg001028l_2	SEGI_33055	 1e-207
+225-  5:	ptg000829l_32	SEGI_23957	 6e-147
+225-  6:	ptg000829l_28	SEGI_01996	 5e-139
+## Alignment 226: score=250.0 e_value=9e-11 N=6 ive_Chr14&seq_chr7 plus
+226-  0:	ptg001373l_54	SEGI_28489	  4e-44
+226-  1:	ptg001373l_55	SEGI_12761	  6e-99
+226-  2:	ptg002061l_1	SEGI_20252	  2e-99
+226-  3:	ptg002061l_8	SEGI_26448	 9e-142
+226-  4:	ptg002061l_11	SEGI_29966	  3e-48
+226-  5:	ptg002061l_4	SEGI_36663	  4e-13
+## Alignment 227: score=163.0 e_value=5.1e-06 N=5 ive_Chr14&seq_chr7 plus
+227-  0:	ptg001440l_4	SEGI_39672	  2e-96
+227-  1:	ptg001150l_15	SEGI_18645	 1e-108
+227-  2:	ptg001150l_9	SEGI_21231	 5e-131
+227-  3:	ptg000387l_66	SEGI_15290	 5e-105
+227-  4:	ptg000387l_20	SEGI_14076	  2e-62
+## Alignment 228: score=162.0 e_value=8.1e-09 N=5 ive_Chr14&seq_chr7 plus
+228-  0:	ptg001373l_34	SEGI_41154	 4e-151
+228-  1:	ptg001373l_38	SEGI_00483	 2e-259
+228-  2:	ptg001373l_40	SEGI_31783	  6e-27
+228-  3:	ptg001373l_41	SEGI_02774	      0
+228-  4:	ptg001373l_45	SEGI_18608	 1e-201
+## Alignment 229: score=213.0 e_value=1.9e-11 N=7 ive_Chr14&seq_chr7 minus
+229-  0:	ptg001613l_60	SEGI_11217	 2e-102
+229-  1:	ptg001613l_21	SEGI_33534	 5e-214
+229-  2:	ptg001613l_13	SEGI_33938	 9e-159
+229-  3:	ptg001613l_8	SEGI_02860	  2e-87
+229-  4:	ptg001613l_19	SEGI_15590	 5e-135
+229-  5:	ptg001225l_26	SEGI_09560	  1e-07
+229-  6:	ptg001225l_30	SEGI_38445	  8e-34
+## Alignment 230: score=191.0 e_value=5.3e-07 N=5 ive_Chr14&seq_chr7 minus
+230-  0:	ptg001440l_12	SEGI_03730	 9e-197
+230-  1:	ptg001440l_6	SEGI_30000	  3e-32
+230-  2:	ptg001150l_5	SEGI_38257	  2e-41
+230-  3:	ptg001150l_3	SEGI_01524	  2e-20
+230-  4:	ptg000387l_11	SEGI_30854	  4e-64
+## Alignment 231: score=155.0 e_value=7.1e-09 N=6 ive_Chr14&seq_chr7 minus
+231-  0:	ptg000387l_53	SEGI_20216	  9e-39
+231-  1:	ptg000387l_24	SEGI_26460	  7e-92
+231-  2:	ptg000387l_30	SEGI_06516	 6e-183
+231-  3:	ptg000387l_40	SEGI_38080	  7e-50
+231-  4:	ptg000038l_27	SEGI_28372	 8e-145
+231-  5:	ptg000038l_10	SEGI_04221	  2e-79
+## Alignment 232: score=173.0 e_value=0.00014 N=4 ive_Chr14&seq_chr8 plus
+232-  0:	ptg000371l_104	SEGI_01517	 2e-230
+232-  1:	ptg000371l_10	SEGI_08907	 1e-184
+232-  2:	ptg000371l_15	SEGI_33141	 7e-299
+232-  3:	ptg000371l_17	SEGI_40050	  2e-78
+## Alignment 233: score=180.0 e_value=1.9e-06 N=5 ive_Chr14&seq_chr8 minus
+233-  0:	ptg000371l_110	SEGI_19121	 7e-128
+233-  1:	ptg000371l_79	SEGI_17813	  2e-18
+233-  2:	ptg000371l_84	SEGI_31662	 9e-133
+233-  3:	ptg000371l_89	SEGI_36751	  1e-64
+233-  4:	ptg000371l_109	SEGI_14334	  3e-81
+## Alignment 234: score=197.0 e_value=1.7e-11 N=7 ive_Chr14&seq_chr9 plus
+234-  0:	ptg000038l_52	SEGI_34555	  3e-37
+234-  1:	ptg000076l_65	SEGI_03958	  5e-90
+234-  2:	ptg000076l_67	SEGI_33325	      0
+234-  3:	ptg000076l_25	SEGI_34705	  9e-92
+234-  4:	ptg000076l_32	SEGI_16446	  9e-92
+234-  5:	ptg000076l_37	SEGI_13273	  3e-66
+234-  6:	ptg000715l_30	SEGI_01371	  2e-24
+## Alignment 235: score=181.0 e_value=0.00044 N=4 ive_Chr14&seq_chr9 plus
+235-  0:	ptg000659l_9	SEGI_14453	  1e-82
+235-  1:	ptg000659l_44	SEGI_22223	  3e-88
+235-  2:	ptg000659l_26	SEGI_07027	  7e-31
+235-  3:	ptg000659l_13	SEGI_26172	  2e-60
+## Alignment 236: score=152.0 e_value=8.2e-05 N=4 ive_Chr14&seq_chr9 plus
+236-  0:	ptg000659l_7	SEGI_09319	  9e-84
+236-  1:	ptg000659l_44	SEGI_34753	  4e-90
+236-  2:	ptg000659l_25	SEGI_32225	  6e-18
+236-  3:	ptg002186l_6	SEGI_14093	  3e-78
+## Alignment 237: score=195.0 e_value=1.1e-06 N=5 ive_Chr14&seq_chr9 minus
+237-  0:	ptg000719l_5	SEGI_41191	  5e-08
+237-  1:	ptg000719l_41	SEGI_28056	      0
+237-  2:	ptg000719l_38	SEGI_15712	  1e-57
+237-  3:	ptg000719l_34	SEGI_39306	  7e-49
+237-  4:	ptg000719l_33	SEGI_14037	  4e-27
+## Alignment 238: score=158.0 e_value=0.00082 N=4 ive_Chr14&seq_chr9 minus
+238-  0:	ptg000076l_66	SEGI_25678	  2e-58
+238-  1:	ptg000076l_70	SEGI_34234	      0
+238-  2:	ptg000076l_72	SEGI_41008	 8e-147
+238-  3:	ptg000076l_8	SEGI_16611	  2e-17
+## Alignment 239: score=154.0 e_value=1.8e-07 N=4 ive_Chr14&seq_chr9 minus
+239-  0:	ptg000659l_9	SEGI_14093	  3e-78
+239-  1:	ptg000659l_1	SEGI_32225	  4e-21
+239-  2:	ptg002186l_5	SEGI_03533	  2e-33
+239-  3:	ptg002186l_4	SEGI_34753	  6e-07
+## Alignment 240: score=162.0 e_value=0.00017 N=4 ive_Chr2&seq_chr1 plus
+240-  0:	ptg000280l_59	SEGI_05914	  6e-99
+240-  1:	ptg000280l_74	SEGI_01584	  8e-24
+240-  2:	ptg000280l_93	SEGI_03650	  6e-96
+240-  3:	ptg000280l_97	SEGI_18360	  2e-62
+## Alignment 241: score=180.0 e_value=0.00025 N=4 ive_Chr2&seq_chr1 minus
+241-  0:	ptg001210l_4	SEGI_15395	  1e-12
+241-  1:	ptg000280l_27	SEGI_03650	  1e-98
+241-  2:	ptg000280l_74	SEGI_01584	  8e-24
+241-  3:	ptg000280l_93	SEGI_05914	  1e-96
+## Alignment 242: score=379.0 e_value=8.4e-17 N=9 ive_Chr2&seq_chr10 minus
+242-  0:	ptg000702l_35	SEGI_26716	  4e-72
+242-  1:	ptg000702l_27	SEGI_08625	  1e-07
+242-  2:	ptg000702l_1	SEGI_38996	  2e-48
+242-  3:	ptg000702l_64	SEGI_36646	  3e-58
+242-  4:	ptg000702l_24	SEGI_40060	 2e-134
+242-  5:	ptg000174l_10	SEGI_22476	  6e-29
+242-  6:	ptg000174l_6	SEGI_40796	 1e-110
+242-  7:	ptg001084l_4	SEGI_22233	  2e-23
+242-  8:	ptg001084l_5	SEGI_34538	  4e-21
+## Alignment 243: score=157.0 e_value=0.00068 N=4 ive_Chr2&seq_chr10 minus
+243-  0:	ptg001329l_3	SEGI_15844	  1e-08
+243-  1:	ptg000754l_5	SEGI_29569	 2e-183
+243-  2:	ptg000754l_10	SEGI_28796	  7e-56
+243-  3:	ptg000754l_15	SEGI_04384	  2e-33
+## Alignment 244: score=168.0 e_value=2.8e-09 N=6 ive_Chr2&seq_chr11 plus
+244-  0:	ptg000546l_11	SEGI_11713	  9e-14
+244-  1:	ptg000120l_2	SEGI_38506	  3e-25
+244-  2:	ptg000280l_156	SEGI_37806	  9e-48
+244-  3:	ptg000280l_24	SEGI_00150	  3e-19
+244-  4:	ptg000280l_29	SEGI_30459	  2e-67
+244-  5:	ptg000280l_30	SEGI_14708	  5e-76
+## Alignment 245: score=210.0 e_value=2.3e-08 N=6 ive_Chr2&seq_chr2 plus
+245-  0:	ptg000848l_25	SEGI_16935	  2e-20
+245-  1:	ptg000848l_56	SEGI_24439	  4e-76
+245-  2:	ptg000626l_26	SEGI_30192	  1e-64
+245-  3:	ptg000626l_37	SEGI_27056	 2e-145
+245-  4:	ptg000626l_38	SEGI_39121	  4e-66
+245-  5:	ptg000626l_3	SEGI_35169	  7e-78
+## Alignment 246: score=206.0 e_value=6.2e-09 N=5 ive_Chr2&seq_chr2 plus
+246-  0:	ptg000426l_20	SEGI_14513	  4e-06
+246-  1:	ptg000426l_9	SEGI_07126	  6e-12
+246-  2:	ptg000426l_7	SEGI_21723	  2e-69
+246-  3:	ptg000426l_5	SEGI_24349	  1e-21
+246-  4:	ptg001959l_1	SEGI_11343	  2e-26
+## Alignment 247: score=174.0 e_value=1.6e-06 N=5 ive_Chr2&seq_chr2 plus
+247-  0:	ptg001499l_11	SEGI_00358	  4e-44
+247-  1:	ptg001499l_12	SEGI_36076	 4e-174
+247-  2:	ptg001499l_35	SEGI_35400	  3e-70
+247-  3:	ptg001499l_36	SEGI_11019	  5e-25
+247-  4:	ptg001499l_40	SEGI_21929	 3e-120
+## Alignment 248: score=166.0 e_value=5.3e-11 N=5 ive_Chr2&seq_chr2 plus
+248-  0:	ptg001272l_15	SEGI_30005	  4e-14
+248-  1:	ptg001389l_1	SEGI_37279	  1e-44
+248-  2:	ptg001389l_10	SEGI_17481	  4e-41
+248-  3:	ptg001639l_5	SEGI_02151	  6e-29
+248-  4:	ptg001639l_8	SEGI_02297	  4e-36
+## Alignment 249: score=156.0 e_value=6e-06 N=4 ive_Chr2&seq_chr2 plus
+249-  0:	ptg001074l_15	SEGI_35421	 5e-174
+249-  1:	ptg001272l_31	SEGI_21625	 6e-113
+249-  2:	ptg000963l_4	SEGI_40473	 7e-156
+249-  3:	ptg000963l_5	SEGI_31548	 2e-244
+## Alignment 250: score=339.0 e_value=5.6e-17 N=8 ive_Chr2&seq_chr2 minus
+250-  0:	ptg001769l_16	SEGI_35169	  2e-69
+250-  1:	ptg001769l_11	SEGI_32609	  5e-52
+250-  2:	ptg001769l_10	SEGI_39094	  1e-35
+250-  3:	ptg001769l_9	SEGI_39121	  7e-67
+250-  4:	ptg001769l_21	SEGI_12697	 8e-106
+250-  5:	ptg000474l_6	SEGI_30192	  2e-61
+250-  6:	ptg000474l_14	SEGI_39594	  9e-57
+250-  7:	ptg000474l_20	SEGI_24439	  7e-51
+## Alignment 251: score=225.0 e_value=3.3e-06 N=5 ive_Chr2&seq_chr2 minus
+251-  0:	ptg000426l_19	SEGI_11343	  7e-27
+251-  1:	ptg000426l_12	SEGI_24349	  6e-25
+251-  2:	ptg000447l_18	SEGI_22553	  6e-76
+251-  3:	ptg000447l_2	SEGI_12102	 2e-107
+251-  4:	ptg000447l_5	SEGI_08473	  3e-21
+## Alignment 252: score=198.0 e_value=4.9e-06 N=5 ive_Chr2&seq_chr2 minus
+252-  0:	ptg001499l_55	SEGI_28126	  4e-14
+252-  1:	ptg000752l_22	SEGI_16914	  1e-16
+252-  2:	ptg000752l_13	SEGI_33993	  2e-33
+252-  3:	ptg000752l_1	SEGI_09509	  1e-38
+252-  4:	ptg000958l_1	SEGI_07679	 3e-107
+## Alignment 253: score=181.0 e_value=0.00018 N=4 ive_Chr2&seq_chr2 minus
+253-  0:	ptg000248l_85	SEGI_15012	  8e-35
+253-  1:	ptg000248l_81	SEGI_00459	  6e-54
+253-  2:	ptg000248l_73	SEGI_19686	  7e-89
+253-  3:	ptg000248l_71	SEGI_16515	 4e-159
+## Alignment 254: score=179.0 e_value=3.6e-06 N=5 ive_Chr2&seq_chr2 minus
+254-  0:	ptg000374l_57	SEGI_38280	  2e-62
+254-  1:	ptg000374l_18	SEGI_27763	  9e-72
+254-  2:	ptg000374l_28	SEGI_02621	  4e-60
+254-  3:	ptg000374l_33	SEGI_14698	 3e-154
+254-  4:	ptg000374l_35	SEGI_17812	 1e-308
+## Alignment 255: score=166.0 e_value=1.1e-05 N=4 ive_Chr2&seq_chr2 minus
+255-  0:	ptg001060l_13	SEGI_25531	 7e-131
+255-  1:	ptg001060l_12	SEGI_26025	  3e-65
+255-  2:	ptg001060l_9	SEGI_13927	  1e-68
+255-  3:	ptg001060l_3	SEGI_34196	  3e-70
+## Alignment 256: score=156.0 e_value=2.6e-07 N=5 ive_Chr2&seq_chr2 minus
+256-  0:	ptg001352l_1	SEGI_32817	  7e-46
+256-  1:	ptg000848l_81	SEGI_32896	  5e-15
+256-  2:	ptg000848l_82	SEGI_24663	  9e-33
+256-  3:	ptg000848l_4	SEGI_18220	 2e-128
+256-  4:	ptg000848l_8	SEGI_27194	 2e-158
+## Alignment 257: score=222.0 e_value=3.8e-11 N=6 ive_Chr2&seq_chr3 plus
+257-  0:	ptg000250l_11	SEGI_31830	  4e-47
+257-  1:	ptg000250l_7	SEGI_19500	  7e-08
+257-  2:	ptg000250l_8	SEGI_33860	  6e-17
+257-  3:	ptg000154l_27	SEGI_11853	 2e-132
+257-  4:	ptg000154l_28	SEGI_15698	  8e-54
+257-  5:	ptg000154l_8	SEGI_27855	  2e-82
+## Alignment 258: score=174.0 e_value=9.9e-05 N=4 ive_Chr2&seq_chr3 plus
+258-  0:	ptg000106l_5	SEGI_05977	  1e-89
+258-  1:	ptg000106l_1	SEGI_23411	  2e-96
+258-  2:	ptg000106l_2	SEGI_07209	  2e-70
+258-  3:	ptg000106l_78	SEGI_26812	  6e-25
+## Alignment 259: score=150.0 e_value=8.2e-10 N=6 ive_Chr2&seq_chr3 plus
+259-  0:	ptg001712l_6	SEGI_28784	 0.0004
+259-  1:	ptg001712l_7	SEGI_20116	 5e-100
+259-  2:	ptg000842l_2	SEGI_28319	  1e-35
+259-  3:	ptg000884l_4	SEGI_21321	  1e-61
+259-  4:	ptg000884l_7	SEGI_20810	 6e-103
+259-  5:	ptg000909l_40	SEGI_31103	  3e-33
+## Alignment 260: score=198.0 e_value=1.3e-12 N=7 ive_Chr2&seq_chr4 plus
+260-  0:	ptg001084l_26	SEGI_31073	  5e-11
+260-  1:	ptg001084l_29	SEGI_39295	  4e-18
+260-  2:	ptg001182l_5	SEGI_40993	 2e-153
+260-  3:	ptg001723l_28	SEGI_16387	  3e-25
+260-  4:	ptg001723l_27	SEGI_12065	  7e-25
+260-  5:	ptg000671l_11	SEGI_13175	  1e-57
+260-  6:	ptg001915l_1	SEGI_20704	  1e-93
+## Alignment 261: score=154.0 e_value=2.4e-06 N=5 ive_Chr2&seq_chr4 plus
+261-  0:	ptg001084l_27	SEGI_37479	 3e-104
+261-  1:	ptg001723l_12	SEGI_35551	  6e-44
+261-  2:	ptg001723l_3	SEGI_37412	 1e-147
+261-  3:	ptg001915l_2	SEGI_30877	 1e-121
+261-  4:	ptg001915l_5	SEGI_26877	  2e-95
+## Alignment 262: score=253.0 e_value=1.2e-09 N=6 ive_Chr2&seq_chr4 minus
+262-  0:	ptg001280l_15	SEGI_18049	  2e-16
+262-  1:	ptg000809l_22	SEGI_03932	  1e-16
+262-  2:	ptg000809l_13	SEGI_40428	  3e-70
+262-  3:	ptg000809l_12	SEGI_16172	  2e-48
+262-  4:	ptg000809l_5	SEGI_19030	  3e-38
+262-  5:	ptg000809l_2	SEGI_20998	      0
+## Alignment 263: score=197.0 e_value=1.3e-07 N=5 ive_Chr2&seq_chr4 minus
+263-  0:	ptg001084l_34	SEGI_04041	  1e-26
+263-  1:	ptg001723l_13	SEGI_10084	  6e-33
+263-  2:	ptg001723l_12	SEGI_35551	  6e-44
+263-  3:	ptg001723l_4	SEGI_22425	 1e-148
+263-  4:	ptg001723l_1	SEGI_19762	  5e-64
+## Alignment 264: score=164.0 e_value=0.0001 N=4 ive_Chr2&seq_chr4 minus
+264-  0:	ptg001674l_12	SEGI_31150	  9e-67
+264-  1:	ptg001674l_10	SEGI_01520	  2e-28
+264-  2:	ptg001674l_5	SEGI_04447	  5e-80
+264-  3:	ptg001674l_3	SEGI_02857	 3e-117
+## Alignment 265: score=324.0 e_value=1.6e-16 N=8 ive_Chr2&seq_chr6 plus
+265-  0:	ptg000327l_15	SEGI_12012	  1e-55
+265-  1:	ptg000467l_29	SEGI_38934	  2e-64
+265-  2:	ptg000467l_27	SEGI_18001	 3e-163
+265-  3:	ptg000467l_13	SEGI_10594	 2e-103
+265-  4:	ptg000467l_9	SEGI_18344	  9e-22
+265-  5:	ptg000467l_8	SEGI_20456	  2e-27
+265-  6:	ptg000467l_7	SEGI_22846	  6e-16
+265-  7:	ptg000467l_4	SEGI_28125	  4e-45
+## Alignment 266: score=275.0 e_value=8.9e-18 N=7 ive_Chr2&seq_chr6 plus
+266-  0:	ptg001733l_23	SEGI_21116	  6e-21
+266-  1:	ptg002498l_1	SEGI_41121	  2e-19
+266-  2:	ptg002498l_2	SEGI_31021	 3e-112
+266-  3:	ptg000380l_14	SEGI_13795	  2e-23
+266-  4:	ptg000380l_7	SEGI_25635	  2e-51
+266-  5:	ptg000380l_5	SEGI_20108	  5e-81
+266-  6:	ptg000255l_7	SEGI_28302	  1e-24
+## Alignment 267: score=223.0 e_value=8e-11 N=6 ive_Chr2&seq_chr6 plus
+267-  0:	ptg000546l_9	SEGI_33619	  7e-98
+267-  1:	ptg000120l_12	SEGI_12542	  7e-91
+267-  2:	ptg000120l_9	SEGI_13509	  1e-61
+267-  3:	ptg001210l_8	SEGI_34827	  1e-35
+267-  4:	ptg000280l_59	SEGI_25635	 2e-100
+267-  5:	ptg000280l_74	SEGI_20108	  2e-24
+## Alignment 268: score=221.0 e_value=1.2e-06 N=5 ive_Chr2&seq_chr6 plus
+268-  0:	ptg001210l_8	SEGI_09047	  7e-35
+268-  1:	ptg003271l_1	SEGI_33619	  1e-98
+268-  2:	ptg000280l_27	SEGI_41121	  1e-98
+268-  3:	ptg000280l_98	SEGI_13795	  2e-08
+268-  4:	ptg000280l_151	SEGI_12542	  6e-97
+## Alignment 269: score=187.0 e_value=0.00043 N=4 ive_Chr2&seq_chr6 plus
+269-  0:	ptg000380l_10	SEGI_08922	 1e-104
+269-  1:	ptg000380l_9	SEGI_05054	  1e-18
+269-  2:	ptg000380l_2	SEGI_13631	 9e-125
+269-  3:	ptg000255l_7	SEGI_03258	  4e-20
+## Alignment 270: score=186.0 e_value=4.6e-10 N=6 ive_Chr2&seq_chr6 plus
+270-  0:	ptg001329l_11	SEGI_13795	 2e-133
+270-  1:	ptg001329l_19	SEGI_36721	 4e-129
+270-  2:	ptg001329l_1	SEGI_29335	  3e-27
+270-  3:	ptg001093l_11	SEGI_03840	  1e-20
+270-  4:	ptg000546l_9	SEGI_25635	 2e-100
+270-  5:	ptg000120l_7	SEGI_37157	  4e-27
+## Alignment 271: score=183.0 e_value=4.5e-05 N=4 ive_Chr2&seq_chr6 plus
+271-  0:	ptg000380l_10	SEGI_21116	 3e-105
+271-  1:	ptg000380l_7	SEGI_33619	  1e-50
+271-  2:	ptg000380l_2	SEGI_41121	 4e-125
+271-  3:	ptg000255l_6	SEGI_36721	  1e-24
+## Alignment 272: score=176.0 e_value=0.00017 N=4 ive_Chr2&seq_chr6 plus
+272-  0:	ptg001733l_23	SEGI_13795	  1e-22
+272-  1:	ptg002498l_2	SEGI_36721	 1e-110
+272-  2:	ptg000380l_7	SEGI_29335	  1e-52
+272-  3:	ptg000255l_6	SEGI_34827	  7e-23
+## Alignment 273: score=170.0 e_value=0.00032 N=4 ive_Chr2&seq_chr6 plus
+273-  0:	ptg000120l_9	SEGI_08922	  5e-62
+273-  1:	ptg001210l_5	SEGI_30916	  5e-37
+273-  2:	ptg000280l_93	SEGI_04494	  2e-96
+273-  3:	ptg000280l_151	SEGI_13631	  5e-97
+## Alignment 274: score=152.0 e_value=6.9e-06 N=4 ive_Chr2&seq_chr6 minus
+274-  0:	ptg000544l_14	SEGI_08476	  8e-75
+274-  1:	ptg000869l_12	SEGI_05377	  1e-91
+274-  2:	ptg000869l_13	SEGI_19388	  9e-87
+274-  3:	ptg000869l_1	SEGI_30039	  3e-37
+## Alignment 275: score=161.0 e_value=2.4e-07 N=5 ive_Chr2&seq_chr7 plus
+275-  0:	ptg002844l_36	SEGI_08944	  1e-24
+275-  1:	ptg002844l_38	SEGI_28606	  1e-08
+275-  2:	ptg001220l_14	SEGI_15000	  1e-31
+275-  3:	ptg001220l_18	SEGI_36394	  9e-25
+275-  4:	ptg000078l_4	SEGI_18432	  1e-98
+## Alignment 276: score=164.0 e_value=0.00033 N=4 ive_Chr2&seq_chr9 minus
+276-  0:	ptg000909l_101	SEGI_30351	  4e-37
+276-  1:	ptg000909l_102	SEGI_06829	  5e-78
+276-  2:	ptg000909l_103	SEGI_22662	 1e-107
+276-  3:	ptg000909l_10	SEGI_21417	  2e-40
+## Alignment 277: score=193.0 e_value=5.6e-08 N=5 ive_Chr3&seq_chr1 minus
+277-  0:	ptg000040l_8	SEGI_35171	  5e-70
+277-  1:	ptg000040l_32	SEGI_11067	  1e-80
+277-  2:	ptg000040l_33	SEGI_39514	  4e-37
+277-  3:	ptg000878l_7	SEGI_37038	  9e-57
+277-  4:	ptg000878l_5	SEGI_32715	 1e-176
+## Alignment 278: score=176.0 e_value=0.00083 N=4 ive_Chr3&seq_chr1 minus
+278-  0:	ptg000513l_113	SEGI_02513	 9e-109
+278-  1:	ptg000513l_114	SEGI_09463	  1e-28
+278-  2:	ptg000513l_116	SEGI_05144	 1e-133
+278-  3:	ptg000513l_117	SEGI_36543	  3e-44
+## Alignment 279: score=167.0 e_value=2.7e-07 N=5 ive_Chr3&seq_chr1 minus
+279-  0:	ptg000222l_23	SEGI_32238	  2e-32
+279-  1:	ptg000713l_6	SEGI_13607	  4e-66
+279-  2:	ptg000713l_2	SEGI_12168	  8e-90
+279-  3:	ptg000885l_3	SEGI_11369	  5e-69
+279-  4:	ptg001346l_1	SEGI_16633	  2e-64
+## Alignment 280: score=250.0 e_value=1.7e-13 N=7 ive_Chr3&seq_chr10 plus
+280-  0:	ptg000513l_21	SEGI_35164	  1e-12
+280-  1:	ptg000513l_51	SEGI_38980	  1e-31
+280-  2:	ptg000513l_54	SEGI_11997	 2e-124
+280-  3:	ptg000513l_67	SEGI_14389	  2e-96
+280-  4:	ptg000513l_69	SEGI_36696	  3e-94
+280-  5:	ptg000513l_74	SEGI_19605	 2e-158
+280-  6:	ptg000513l_78	SEGI_31478	  1e-95
+## Alignment 281: score=213.0 e_value=1.5e-09 N=5 ive_Chr3&seq_chr10 plus
+281-  0:	ptg001476l_1	SEGI_29322	  4e-55
+281-  1:	ptg000635l_72	SEGI_14235	  6e-17
+281-  2:	ptg000635l_73	SEGI_12715	  2e-41
+281-  3:	ptg000635l_74	SEGI_09442	  2e-94
+281-  4:	ptg000635l_75	SEGI_29187	  3e-53
+## Alignment 282: score=160.0 e_value=5e-05 N=4 ive_Chr3&seq_chr10 plus
+282-  0:	ptg000646l_22	SEGI_22030	 5e-102
+282-  1:	ptg000646l_31	SEGI_10955	 3e-161
+282-  2:	ptg000646l_21	SEGI_20006	  7e-13
+282-  3:	ptg000646l_10	SEGI_07926	 2e-177
+## Alignment 283: score=405.0 e_value=9.5e-20 N=10 ive_Chr3&seq_chr10 minus
+283-  0:	ptg000513l_18	SEGI_40333	  2e-35
+283-  1:	ptg000513l_19	SEGI_35279	  1e-89
+283-  2:	ptg000513l_28	SEGI_36257	  1e-19
+283-  3:	ptg000513l_58	SEGI_09164	 2e-182
+283-  4:	ptg000513l_67	SEGI_11580	 8e-111
+283-  5:	ptg000513l_78	SEGI_09508	 3e-190
+283-  6:	ptg000513l_86	SEGI_08608	  2e-51
+283-  7:	ptg002715l_3	SEGI_30214	 1e-184
+283-  8:	ptg002114l_20	SEGI_28357	 3e-133
+283-  9:	ptg002114l_19	SEGI_22278	  3e-82
+## Alignment 284: score=199.0 e_value=1.2e-08 N=5 ive_Chr3&seq_chr10 minus
+284-  0:	ptg001015l_33	SEGI_29172	  5e-94
+284-  1:	ptg001015l_30	SEGI_24430	 2e-293
+284-  2:	ptg001015l_26	SEGI_24787	  1e-70
+284-  3:	ptg001015l_22	SEGI_06639	  1e-05
+284-  4:	ptg000200l_14	SEGI_41472	  1e-16
+## Alignment 285: score=264.0 e_value=6.2e-12 N=7 ive_Chr3&seq_chr11 plus
+285-  0:	ptg000232l_42	SEGI_18120	 8e-147
+285-  1:	ptg000232l_44	SEGI_22609	  2e-62
+285-  2:	ptg000232l_48	SEGI_00891	  6e-38
+285-  3:	ptg000509l_38	SEGI_04733	  7e-87
+285-  4:	ptg000509l_39	SEGI_19852	 1e-210
+285-  5:	ptg000509l_4	SEGI_33680	  3e-10
+285-  6:	ptg000509l_7	SEGI_34758	  1e-67
+## Alignment 286: score=165.0 e_value=1.4e-05 N=4 ive_Chr3&seq_chr11 minus
+286-  0:	ptg000413l_27	SEGI_24066	  5e-08
+286-  1:	ptg000413l_31	SEGI_33784	  8e-07
+286-  2:	ptg000413l_54	SEGI_00440	 4e-145
+286-  3:	ptg001891l_1	SEGI_09090	  1e-93
+## Alignment 287: score=153.0 e_value=6.3e-07 N=4 ive_Chr3&seq_chr11 minus
+287-  0:	ptg000509l_35	SEGI_33529	  6e-23
+287-  1:	ptg000509l_36	SEGI_00197	  1e-24
+287-  2:	ptg000509l_11	SEGI_07783	  2e-71
+287-  3:	ptg000509l_14	SEGI_41035	      0
+## Alignment 288: score=234.0 e_value=5.6e-13 N=7 ive_Chr3&seq_chr2 minus
+288-  0:	ptg000547l_17	SEGI_16426	  1e-46
+288-  1:	ptg001726l_17	SEGI_22308	  4e-18
+288-  2:	ptg001726l_3	SEGI_18679	  5e-16
+288-  3:	ptg001726l_6	SEGI_39572	  3e-67
+288-  4:	ptg000925l_19	SEGI_23476	  5e-97
+288-  5:	ptg000291l_27	SEGI_34103	  1e-21
+288-  6:	ptg001110l_12	SEGI_13576	  1e-91
+## Alignment 289: score=174.0 e_value=2.7e-06 N=5 ive_Chr3&seq_chr2 minus
+289-  0:	ptg001194l_9	SEGI_20961	  6e-53
+289-  1:	ptg001194l_1	SEGI_40399	 7e-201
+289-  2:	ptg001163l_21	SEGI_12692	 1e-124
+289-  3:	ptg001163l_34	SEGI_24477	 9e-169
+289-  4:	ptg001163l_1	SEGI_34554	 4e-164
+## Alignment 290: score=186.0 e_value=8.2e-09 N=5 ive_Chr3&seq_chr3 plus
+290-  0:	ptg001726l_6	SEGI_16818	 9e-171
+290-  1:	ptg001726l_8	SEGI_12836	  3e-10
+290-  2:	ptg000925l_14	SEGI_06317	  1e-85
+290-  3:	ptg000925l_6	SEGI_27360	 2e-169
+290-  4:	ptg000925l_5	SEGI_03073	  2e-39
+## Alignment 291: score=172.0 e_value=1.5e-10 N=6 ive_Chr3&seq_chr3 plus
+291-  0:	ptg000084l_7	SEGI_12791	  4e-30
+291-  1:	ptg000084l_5	SEGI_14730	 3e-100
+291-  2:	ptg000084l_2	SEGI_18549	  5e-47
+291-  3:	ptg000084l_26	SEGI_37389	  2e-59
+291-  4:	ptg000355l_17	SEGI_27023	 2e-173
+291-  5:	ptg002089l_2	SEGI_01403	  4e-36
+## Alignment 292: score=169.0 e_value=9.5e-05 N=4 ive_Chr3&seq_chr3 plus
+292-  0:	ptg001197l_7	SEGI_08827	  3e-82
+292-  1:	ptg001197l_8	SEGI_05240	  1e-41
+292-  2:	ptg000394l_2	SEGI_24071	  2e-79
+292-  3:	ptg000073l_18	SEGI_00800	  3e-32
+## Alignment 293: score=358.0 e_value=4.3e-17 N=9 ive_Chr3&seq_chr4 plus
+293-  0:	ptg000700l_38	SEGI_04902	 2e-160
+293-  1:	ptg000700l_1	SEGI_34276	  3e-16
+293-  2:	ptg000700l_5	SEGI_27408	  2e-20
+293-  3:	ptg000700l_8	SEGI_36930	  2e-33
+293-  4:	ptg000700l_9	SEGI_32969	  1e-10
+293-  5:	ptg000700l_11	SEGI_03743	  1e-85
+293-  6:	ptg000700l_15	SEGI_18038	  2e-72
+293-  7:	ptg000700l_16	SEGI_34710	 1e-141
+293-  8:	ptg000700l_21	SEGI_17996	  3e-94
+## Alignment 294: score=322.0 e_value=5e-20 N=10 ive_Chr3&seq_chr4 plus
+294-  0:	ptg001145l_30	SEGI_25292	  2e-55
+294-  1:	ptg001145l_16	SEGI_21160	  3e-24
+294-  2:	ptg001145l_13	SEGI_07532	 1e-125
+294-  3:	ptg001145l_11	SEGI_38415	  1e-62
+294-  4:	ptg001145l_2	SEGI_39668	  3e-53
+294-  5:	ptg001145l_1	SEGI_16462	  3e-72
+294-  6:	ptg001145l_53	SEGI_40995	 3e-158
+294-  7:	ptg001145l_49	SEGI_00573	      0
+294-  8:	ptg001145l_38	SEGI_24633	  4e-52
+294-  9:	ptg000473l_13	SEGI_21186	  2e-90
+## Alignment 295: score=268.0 e_value=7.5e-13 N=7 ive_Chr3&seq_chr4 plus
+295-  0:	ptg000473l_25	SEGI_23050	  9e-81
+295-  1:	ptg000473l_27	SEGI_31132	  3e-23
+295-  2:	ptg001651l_38	SEGI_16062	 2e-220
+295-  3:	ptg001651l_32	SEGI_36341	 4e-212
+295-  4:	ptg001651l_29	SEGI_22052	  1e-44
+295-  5:	ptg001651l_22	SEGI_23511	 1e-147
+295-  6:	ptg001651l_19	SEGI_01932	  2e-07
+## Alignment 296: score=236.0 e_value=3e-13 N=7 ive_Chr3&seq_chr4 plus
+296-  0:	ptg001250l_22	SEGI_09939	 2e-249
+296-  1:	ptg001250l_29	SEGI_30338	  3e-22
+296-  2:	ptg001250l_30	SEGI_04370	  1e-95
+296-  3:	ptg001250l_31	SEGI_25894	  1e-55
+296-  4:	ptg001250l_34	SEGI_38604	      0
+296-  5:	ptg001250l_37	SEGI_01379	 2e-114
+296-  6:	ptg001250l_39	SEGI_35751	 1e-205
+## Alignment 297: score=231.0 e_value=8.1e-07 N=5 ive_Chr3&seq_chr4 plus
+297-  0:	ptg000774l_7	SEGI_25387	 6e-133
+297-  1:	ptg000774l_4	SEGI_04180	  3e-87
+297-  2:	ptg000774l_2	SEGI_36463	  9e-37
+297-  3:	ptg000774l_1	SEGI_03791	 2e-203
+297-  4:	ptg000774l_95	SEGI_18440	  5e-98
+## Alignment 298: score=158.0 e_value=0.00059 N=4 ive_Chr3&seq_chr4 plus
+298-  0:	ptg000167l_45	SEGI_36916	  2e-20
+298-  1:	ptg000426l_36	SEGI_14030	  5e-26
+298-  2:	ptg000426l_30	SEGI_14800	  3e-21
+298-  3:	ptg000426l_37	SEGI_29610	  4e-24
+## Alignment 299: score=160.0 e_value=0.00017 N=4 ive_Chr3&seq_chr4 minus
+299-  0:	ptg000167l_19	SEGI_21299	  1e-47
+299-  1:	ptg000167l_45	SEGI_36916	  2e-20
+299-  2:	ptg000167l_48	SEGI_25462	  7e-87
+299-  3:	ptg000426l_61	SEGI_28522	 3e-155
+## Alignment 300: score=157.0 e_value=8.1e-06 N=5 ive_Chr3&seq_chr4 minus
+300-  0:	ptg001145l_47	SEGI_04794	  2e-12
+300-  1:	ptg000473l_30	SEGI_16062	 1e-121
+300-  2:	ptg001651l_39	SEGI_31132	  3e-22
+300-  3:	ptg001651l_35	SEGI_02612	  4e-26
+300-  4:	ptg001651l_33	SEGI_09796	  1e-27
+## Alignment 301: score=259.0 e_value=5.6e-12 N=7 ive_Chr3&seq_chr5 plus
+301-  0:	ptg000679l_14	SEGI_12878	  2e-40
+301-  1:	ptg000679l_34	SEGI_18025	  2e-61
+301-  2:	ptg001304l_4	SEGI_02501	  5e-22
+301-  3:	ptg001304l_1	SEGI_37393	 4e-122
+301-  4:	ptg000040l_12	SEGI_27266	 9e-265
+301-  5:	ptg000040l_13	SEGI_03201	 4e-291
+301-  6:	ptg000040l_36	SEGI_25034	 5e-228
+## Alignment 302: score=212.0 e_value=7.7e-12 N=6 ive_Chr3&seq_chr5 plus
+302-  0:	ptg000413l_13	SEGI_16488	  3e-99
+302-  1:	ptg000413l_67	SEGI_34177	 1e-111
+302-  2:	ptg000413l_68	SEGI_33552	  3e-39
+302-  3:	ptg000413l_80	SEGI_33881	  2e-07
+302-  4:	ptg000413l_83	SEGI_12594	  2e-12
+302-  5:	ptg000413l_30	SEGI_20386	  5e-18
+## Alignment 303: score=197.0 e_value=1.9e-09 N=6 ive_Chr3&seq_chr5 plus
+303-  0:	ptg000893l_4	SEGI_29508	 5e-129
+303-  1:	ptg000232l_50	SEGI_10453	  7e-94
+303-  2:	ptg000232l_66	SEGI_14289	  9e-10
+303-  3:	ptg000232l_5	SEGI_02593	  1e-25
+303-  4:	ptg000232l_6	SEGI_30716	  4e-41
+303-  5:	ptg000232l_23	SEGI_31962	  3e-08
+## Alignment 304: score=162.0 e_value=6.6e-06 N=5 ive_Chr3&seq_chr5 plus
+304-  0:	ptg000679l_25	SEGI_00481	  4e-39
+304-  1:	ptg000679l_29	SEGI_38274	  4e-48
+304-  2:	ptg000679l_1	SEGI_02501	  7e-22
+304-  3:	ptg000615l_6	SEGI_37393	  2e-92
+304-  4:	ptg000040l_10	SEGI_09917	  1e-08
+## Alignment 305: score=156.0 e_value=2.3e-05 N=4 ive_Chr3&seq_chr5 plus
+305-  0:	ptg000509l_35	SEGI_04420	  2e-08
+305-  1:	ptg000509l_19	SEGI_06957	  6e-76
+305-  2:	ptg000509l_20	SEGI_30433	  3e-87
+305-  3:	ptg000509l_21	SEGI_30797	  9e-72
+## Alignment 306: score=151.0 e_value=1.1e-05 N=4 ive_Chr3&seq_chr5 plus
+306-  0:	ptg000432l_6	SEGI_13027	  4e-32
+306-  1:	ptg000432l_7	SEGI_07767	  1e-51
+306-  2:	ptg000621l_11	SEGI_39220	  1e-22
+306-  3:	ptg000621l_1	SEGI_08545	 7e-120
+## Alignment 307: score=366.0 e_value=2.9e-28 N=10 ive_Chr3&seq_chr5 minus
+307-  0:	ptg000925l_12	SEGI_06180	  7e-69
+307-  1:	ptg000291l_11	SEGI_01700	  2e-92
+307-  2:	ptg001110l_8	SEGI_02529	  3e-37
+307-  3:	ptg001110l_9	SEGI_26692	  8e-21
+307-  4:	ptg001110l_10	SEGI_06945	  7e-08
+307-  5:	ptg001110l_38	SEGI_35905	  1e-40
+307-  6:	ptg001110l_39	SEGI_30290	  3e-71
+307-  7:	ptg000010l_2	SEGI_29951	  8e-32
+307-  8:	ptg000010l_3	SEGI_18329	 3e-144
+307-  9:	ptg001526l_1	SEGI_34270	  1e-78
+## Alignment 308: score=158.0 e_value=0.0001 N=4 ive_Chr3&seq_chr5 minus
+308-  0:	ptg000867l_5	SEGI_13800	 1e-127
+308-  1:	ptg000867l_9	SEGI_19656	  5e-52
+308-  2:	ptg000413l_86	SEGI_13027	  7e-39
+308-  3:	ptg000413l_88	SEGI_03543	  3e-23
+## Alignment 309: score=152.0 e_value=6.3e-08 N=5 ive_Chr3&seq_chr5 minus
+309-  0:	ptg001354l_8	SEGI_09584	      0
+309-  1:	ptg001354l_7	SEGI_08690	  2e-41
+309-  2:	ptg001354l_5	SEGI_24048	  9e-82
+309-  3:	ptg001197l_3	SEGI_35292	  2e-42
+309-  4:	ptg001197l_10	SEGI_17966	  4e-42
+## Alignment 310: score=262.0 e_value=1.8e-08 N=6 ive_Chr3&seq_chr6 plus
+310-  0:	ptg000355l_1	SEGI_18969	 3e-102
+310-  1:	ptg000355l_22	SEGI_00731	 1e-101
+310-  2:	ptg000881l_3	SEGI_27236	  3e-96
+310-  3:	ptg000881l_1	SEGI_34716	  9e-21
+310-  4:	ptg000881l_9	SEGI_34849	 8e-102
+310-  5:	ptg001015l_16	SEGI_03576	  1e-27
+## Alignment 311: score=213.0 e_value=5.8e-06 N=5 ive_Chr3&seq_chr6 plus
+311-  0:	ptg000355l_1	SEGI_19773	  2e-97
+311-  1:	ptg000355l_20	SEGI_31901	  2e-32
+311-  2:	ptg000881l_9	SEGI_00731	 1e-101
+311-  3:	ptg001015l_20	SEGI_34716	  4e-52
+311-  4:	ptg001015l_12	SEGI_10009	 7e-108
+## Alignment 312: score=182.0 e_value=0.00028 N=4 ive_Chr3&seq_chr6 plus
+312-  0:	ptg001415l_40	SEGI_10350	  2e-87
+312-  1:	ptg001415l_39	SEGI_26481	 6e-143
+312-  2:	ptg001415l_35	SEGI_10640	  4e-62
+312-  3:	ptg001415l_33	SEGI_22066	 3e-134
+## Alignment 313: score=168.0 e_value=3.2e-09 N=6 ive_Chr3&seq_chr6 plus
+313-  0:	ptg000635l_71	SEGI_16813	 3e-122
+313-  1:	ptg000635l_4	SEGI_36339	  6e-23
+313-  2:	ptg000635l_13	SEGI_11600	 2e-182
+313-  3:	ptg000635l_16	SEGI_09498	 2e-108
+313-  4:	ptg000484l_12	SEGI_33204	  9e-60
+313-  5:	ptg000484l_26	SEGI_11516	  2e-20
+## Alignment 314: score=151.0 e_value=0.00025 N=4 ive_Chr3&seq_chr6 plus
+314-  0:	ptg000434l_2	SEGI_09058	 2e-111
+314-  1:	ptg000307l_38	SEGI_40218	 7e-109
+314-  2:	ptg000307l_49	SEGI_00246	  1e-60
+314-  3:	ptg000307l_62	SEGI_24743	  2e-59
+## Alignment 315: score=300.0 e_value=1.1e-15 N=8 ive_Chr3&seq_chr6 minus
+315-  0:	ptg001415l_84	SEGI_36520	  6e-67
+315-  1:	ptg001415l_73	SEGI_14542	 4e-169
+315-  2:	ptg001415l_72	SEGI_03206	  1e-12
+315-  3:	ptg001415l_64	SEGI_36454	  1e-58
+315-  4:	ptg001415l_55	SEGI_17220	 8e-172
+315-  5:	ptg001415l_54	SEGI_35488	 9e-227
+315-  6:	ptg001415l_49	SEGI_21614	  3e-91
+315-  7:	ptg001415l_46	SEGI_36734	 4e-106
+## Alignment 316: score=168.0 e_value=0.00022 N=4 ive_Chr3&seq_chr6 minus
+316-  0:	ptg000081l_2	SEGI_41391	 7e-156
+316-  1:	ptg000081l_1	SEGI_18623	 3e-179
+316-  2:	ptg000081l_10	SEGI_23711	  1e-35
+316-  3:	ptg000948l_18	SEGI_11013	  7e-60
+## Alignment 317: score=158.0 e_value=3.5e-05 N=4 ive_Chr3&seq_chr6 minus
+317-  0:	ptg000355l_1	SEGI_03576	  1e-96
+317-  1:	ptg000355l_22	SEGI_10009	 2e-104
+317-  2:	ptg001015l_16	SEGI_31901	  1e-25
+317-  3:	ptg001015l_9	SEGI_19773	 1e-103
+## Alignment 318: score=157.0 e_value=8e-18 N=8 ive_Chr3&seq_chr6 minus
+318-  0:	ptg001415l_93	SEGI_30632	  9e-14
+318-  1:	ptg001415l_81	SEGI_13094	  6e-77
+318-  2:	ptg001415l_80	SEGI_35434	 1e-153
+318-  3:	ptg001415l_27	SEGI_02187	  5e-50
+318-  4:	ptg001415l_134	SEGI_30160	  1e-68
+318-  5:	ptg001415l_133	SEGI_05335	  2e-88
+318-  6:	ptg001771l_3	SEGI_24775	  2e-30
+318-  7:	ptg000822l_30	SEGI_24033	  2e-14
+## Alignment 319: score=187.0 e_value=0.00028 N=4 ive_Chr3&seq_chr7 plus
+319-  0:	ptg001371l_44	SEGI_39602	  6e-88
+319-  1:	ptg001371l_47	SEGI_36773	 5e-150
+319-  2:	ptg001371l_48	SEGI_25499	  1e-78
+319-  3:	ptg001371l_3	SEGI_09257	  4e-56
+## Alignment 320: score=158.0 e_value=0.00037 N=4 ive_Chr3&seq_chr7 plus
+320-  0:	ptg001163l_5	SEGI_39202	  3e-11
+320-  1:	ptg001703l_23	SEGI_39867	  8e-11
+320-  2:	ptg001703l_19	SEGI_03312	  1e-25
+320-  3:	ptg001703l_14	SEGI_18609	  8e-11
+## Alignment 321: score=158.0 e_value=0.00073 N=4 ive_Chr3&seq_chr7 minus
+321-  0:	ptg000307l_8	SEGI_16878	  6e-18
+321-  1:	ptg000680l_21	SEGI_32387	  3e-59
+321-  2:	ptg000680l_16	SEGI_04215	 4e-161
+321-  3:	ptg000680l_23	SEGI_09012	  3e-39
+## Alignment 322: score=174.0 e_value=0.00018 N=4 ive_Chr3&seq_chr8 plus
+322-  0:	ptg001177l_2	SEGI_20726	  2e-20
+322-  1:	ptg000736l_10	SEGI_11571	  9e-29
+322-  2:	ptg000736l_6	SEGI_18904	  5e-18
+322-  3:	ptg000736l_12	SEGI_30572	  2e-46
+## Alignment 323: score=173.0 e_value=0.00017 N=4 ive_Chr3&seq_chr8 plus
+323-  0:	ptg000824l_23	SEGI_20726	  4e-18
+323-  1:	ptg000824l_30	SEGI_11571	  2e-16
+323-  2:	ptg001626l_1	SEGI_18904	  7e-41
+323-  3:	ptg002190l_13	SEGI_30572	  4e-18
+## Alignment 324: score=173.0 e_value=3.5e-10 N=6 ive_Chr3&seq_chr8 plus
+324-  0:	ptg002015l_4	SEGI_04326	  7e-82
+324-  1:	ptg002015l_3	SEGI_27645	  8e-78
+324-  2:	ptg000824l_18	SEGI_18372	  1e-65
+324-  3:	ptg002190l_6	SEGI_14016	  8e-66
+324-  4:	ptg000736l_11	SEGI_27004	  5e-33
+324-  5:	ptg000257l_17	SEGI_38651	  4e-37
+## Alignment 325: score=166.0 e_value=4.4e-13 N=4 ive_Chr3&seq_chr8 plus
+325-  0:	ptg000073l_5	SEGI_22811	 1e-133
+325-  1:	ptg000893l_14	SEGI_37838	 2e-185
+325-  2:	ptg000893l_15	SEGI_09575	  1e-44
+325-  3:	ptg000893l_16	SEGI_40523	 1e-131
+## Alignment 326: score=155.0 e_value=3.9e-07 N=5 ive_Chr3&seq_chr8 plus
+326-  0:	ptg000307l_48	SEGI_17346	  1e-46
+326-  1:	ptg000307l_52	SEGI_34152	  7e-41
+326-  2:	ptg000307l_59	SEGI_37727	  1e-50
+326-  3:	ptg000680l_20	SEGI_02102	  6e-48
+326-  4:	ptg001371l_15	SEGI_41164	  1e-66
+## Alignment 327: score=180.0 e_value=0.00043 N=4 ive_Chr3&seq_chr9 minus
+327-  0:	ptg001672l_21	SEGI_14139	  5e-71
+327-  1:	ptg001672l_22	SEGI_19717	  3e-31
+327-  2:	ptg001257l_25	SEGI_17172	 4e-141
+327-  3:	ptg001257l_19	SEGI_24162	  7e-28
+## Alignment 328: score=184.0 e_value=0.00013 N=4 ive_Chr4&seq_chr1 plus
+328-  0:	ptg000345l_32	SEGI_15010	  2e-51
+328-  1:	ptg000345l_29	SEGI_07763	 4e-143
+328-  2:	ptg000345l_26	SEGI_06590	 2e-131
+328-  3:	ptg000345l_23	SEGI_38073	 2e-135
+## Alignment 329: score=169.0 e_value=3.1e-05 N=4 ive_Chr4&seq_chr1 minus
+329-  0:	ptg001328l_6	SEGI_17918	  3e-27
+329-  1:	ptg001328l_5	SEGI_38765	  2e-25
+329-  2:	ptg001328l_4	SEGI_32220	  2e-25
+329-  3:	ptg001328l_3	SEGI_19157	  7e-25
+## Alignment 330: score=483.0 e_value=1.6e-30 N=12 ive_Chr4&seq_chr11 plus
+330-  0:	ptg001950l_8	SEGI_04357	  4e-92
+330-  1:	ptg002056l_1	SEGI_16726	  1e-86
+330-  2:	ptg000708l_8	SEGI_00793	  3e-54
+330-  3:	ptg000708l_10	SEGI_23465	 2e-138
+330-  4:	ptg000708l_12	SEGI_38331	 6e-202
+330-  5:	ptg000708l_5	SEGI_27367	  2e-92
+330-  6:	ptg001310l_7	SEGI_01506	  7e-36
+330-  7:	ptg001310l_5	SEGI_38696	  7e-18
+330-  8:	ptg001310l_4	SEGI_36343	  3e-22
+330-  9:	ptg001310l_2	SEGI_34770	 2e-287
+330- 10:	ptg001310l_1	SEGI_39293	  6e-31
+330- 11:	ptg001310l_25	SEGI_10124	  3e-52
+## Alignment 331: score=185.0 e_value=0.001 N=4 ive_Chr4&seq_chr11 plus
+331-  0:	ptg000614l_33	SEGI_39452	  2e-59
+331-  1:	ptg000614l_44	SEGI_34628	  9e-19
+331-  2:	ptg001486l_37	SEGI_14018	 1e-157
+331-  3:	ptg001486l_1	SEGI_33680	  1e-06
+## Alignment 332: score=193.0 e_value=1.6e-10 N=6 ive_Chr4&seq_chr2 plus
+332-  0:	ptg001480l_25	SEGI_24460	 5e-213
+332-  1:	ptg000622l_66	SEGI_24513	  1e-58
+332-  2:	ptg000622l_63	SEGI_04093	  7e-50
+332-  3:	ptg000622l_45	SEGI_17937	  7e-49
+332-  4:	ptg000622l_10	SEGI_36776	 4e-106
+332-  5:	ptg000622l_5	SEGI_22214	  9e-84
+## Alignment 333: score=187.0 e_value=7.4e-07 N=5 ive_Chr4&seq_chr3 plus
+333-  0:	ptg001412l_4	SEGI_26285	  3e-19
+333-  1:	ptg001412l_11	SEGI_29515	  3e-16
+333-  2:	ptg001248l_1	SEGI_18003	  2e-36
+333-  3:	ptg000990l_23	SEGI_17551	  8e-31
+333-  4:	ptg000990l_12	SEGI_00754	  2e-44
+## Alignment 334: score=152.0 e_value=1.7e-11 N=7 ive_Chr4&seq_chr3 plus
+334-  0:	ptg000562l_87	SEGI_03910	  2e-19
+334-  1:	ptg000234l_3	SEGI_28187	  3e-90
+334-  2:	ptg000234l_4	SEGI_07964	  4e-70
+334-  3:	ptg000234l_7	SEGI_27378	      0
+334-  4:	ptg000096l_11	SEGI_23490	  1e-11
+334-  5:	ptg000382l_29	SEGI_20488	  2e-16
+334-  6:	ptg000008l_3	SEGI_28230	 2e-123
+## Alignment 335: score=235.0 e_value=2.3e-09 N=5 ive_Chr4&seq_chr3 minus
+335-  0:	ptg000999l_1	SEGI_13327	 4e-124
+335-  1:	ptg000999l_7	SEGI_01906	 2e-102
+335-  2:	ptg000999l_12	SEGI_08564	  1e-26
+335-  3:	ptg000999l_2	SEGI_16968	  1e-46
+335-  4:	ptg000999l_4	SEGI_04030	 3e-144
+## Alignment 336: score=158.0 e_value=3.4e-06 N=5 ive_Chr4&seq_chr3 minus
+336-  0:	ptg000740l_1	SEGI_28419	  2e-22
+336-  1:	ptg001676l_8	SEGI_00866	 1e-140
+336-  2:	ptg001125l_2	SEGI_27879	  7e-75
+336-  3:	ptg001480l_10	SEGI_33208	 2e-159
+336-  4:	ptg001480l_23	SEGI_01836	  1e-95
+## Alignment 337: score=457.0 e_value=1.3e-27 N=11 ive_Chr4&seq_chr4 plus
+337-  0:	ptg000233l_3	SEGI_33805	 1e-204
+337-  1:	ptg000233l_2	SEGI_40694	  2e-50
+337-  2:	ptg000233l_41	SEGI_20984	 3e-111
+337-  3:	ptg000233l_21	SEGI_37476	 2e-108
+337-  4:	ptg000233l_18	SEGI_07820	 7e-107
+337-  5:	ptg000045l_20	SEGI_17952	  5e-11
+337-  6:	ptg000045l_12	SEGI_32442	 3e-104
+337-  7:	ptg000045l_8	SEGI_09497	  2e-98
+337-  8:	ptg001132l_2	SEGI_16112	  1e-96
+337-  9:	ptg001132l_3	SEGI_08947	  4e-99
+337- 10:	ptg001296l_4	SEGI_17915	  7e-98
+## Alignment 338: score=442.0 e_value=1.9e-23 N=11 ive_Chr4&seq_chr4 plus
+338-  0:	ptg000766l_9	SEGI_07739	 7e-100
+338-  1:	ptg000766l_8	SEGI_29021	  1e-32
+338-  2:	ptg000766l_6	SEGI_14354	  7e-24
+338-  3:	ptg000766l_4	SEGI_39210	  7e-27
+338-  4:	ptg001050l_2	SEGI_28768	 9e-114
+338-  5:	ptg000284l_3	SEGI_28641	      0
+338-  6:	ptg000284l_12	SEGI_17247	 3e-116
+338-  7:	ptg000284l_13	SEGI_40707	  3e-56
+338-  8:	ptg000284l_15	SEGI_05330	  6e-35
+338-  9:	ptg000284l_20	SEGI_00573	 1e-307
+338- 10:	ptg000284l_22	SEGI_37835	  3e-49
+## Alignment 339: score=384.0 e_value=1.4e-19 N=9 ive_Chr4&seq_chr4 plus
+339-  0:	ptg000233l_50	SEGI_07820	 5e-115
+339-  1:	ptg000233l_47	SEGI_17952	 2e-102
+339-  2:	ptg000233l_44	SEGI_03468	 3e-106
+339-  3:	ptg000233l_26	SEGI_32442	 4e-106
+339-  4:	ptg000045l_17	SEGI_08947	  6e-98
+339-  5:	ptg000045l_15	SEGI_41368	  1e-77
+339-  6:	ptg000045l_10	SEGI_01606	  1e-96
+339-  7:	ptg000045l_8	SEGI_03715	  7e-98
+339-  8:	ptg001503l_2	SEGI_27383	 0.0003
+## Alignment 340: score=337.0 e_value=3.6e-17 N=9 ive_Chr4&seq_chr4 plus
+340-  0:	ptg000345l_81	SEGI_37713	      0
+340-  1:	ptg000345l_80	SEGI_03558	  4e-49
+340-  2:	ptg000345l_76	SEGI_02697	  2e-16
+340-  3:	ptg000345l_75	SEGI_09275	 1e-140
+340-  4:	ptg000345l_73	SEGI_29528	 2e-202
+340-  5:	ptg000345l_72	SEGI_03693	  3e-28
+340-  6:	ptg000345l_69	SEGI_36593	  3e-31
+340-  7:	ptg000345l_50	SEGI_21634	 1e-233
+340-  8:	ptg000345l_47	SEGI_39604	 1e-244
+## Alignment 341: score=328.0 e_value=6.4e-16 N=8 ive_Chr4&seq_chr4 plus
+341-  0:	ptg000233l_50	SEGI_20984	 5e-116
+341-  1:	ptg000233l_41	SEGI_37476	 9e-107
+341-  2:	ptg000233l_21	SEGI_00007	 5e-109
+341-  3:	ptg000045l_6	SEGI_09497	  4e-48
+341-  4:	ptg000045l_23	SEGI_34760	 1e-108
+341-  5:	ptg000045l_20	SEGI_41368	  3e-11
+341-  6:	ptg001503l_1	SEGI_01606	  1e-90
+341-  7:	ptg001132l_2	SEGI_17915	  3e-96
+## Alignment 342: score=275.0 e_value=1.5e-08 N=6 ive_Chr4&seq_chr4 plus
+342-  0:	ptg001428l_67	SEGI_17696	  1e-48
+342-  1:	ptg001428l_66	SEGI_01620	  4e-20
+342-  2:	ptg001428l_65	SEGI_29102	  5e-79
+342-  3:	ptg001428l_64	SEGI_16172	  5e-44
+342-  4:	ptg001428l_63	SEGI_21453	 6e-142
+342-  5:	ptg001428l_61	SEGI_06662	 2e-135
+## Alignment 343: score=232.0 e_value=1.8e-05 N=5 ive_Chr4&seq_chr4 plus
+343-  0:	ptg001053l_50	SEGI_32477	 8e-137
+343-  1:	ptg001053l_3	SEGI_03630	  6e-37
+343-  2:	ptg001053l_23	SEGI_38929	 2e-149
+343-  3:	ptg001053l_32	SEGI_19652	  2e-45
+343-  4:	ptg001053l_44	SEGI_11281	 3e-153
+## Alignment 344: score=216.0 e_value=6.7e-06 N=5 ive_Chr4&seq_chr4 plus
+344-  0:	ptg001827l_17	SEGI_22433	 5e-138
+344-  1:	ptg001827l_21	SEGI_15149	  2e-97
+344-  2:	ptg001827l_26	SEGI_05796	  1e-34
+344-  3:	ptg001827l_28	SEGI_21946	  2e-86
+344-  4:	ptg001008l_1	SEGI_06318	 3e-108
+## Alignment 345: score=211.0 e_value=3.5e-07 N=5 ive_Chr4&seq_chr4 plus
+345-  0:	ptg001053l_26	SEGI_29541	  6e-97
+345-  1:	ptg001053l_28	SEGI_30462	  3e-08
+345-  2:	ptg001053l_34	SEGI_33429	  3e-10
+345-  3:	ptg001053l_37	SEGI_39105	  2e-19
+345-  4:	ptg002014l_4	SEGI_21262	  2e-24
+## Alignment 346: score=201.0 e_value=3.3e-10 N=6 ive_Chr4&seq_chr4 plus
+346-  0:	ptg000233l_1	SEGI_03468	  2e-86
+346-  1:	ptg000233l_54	SEGI_09497	  2e-97
+346-  2:	ptg000233l_44	SEGI_41368	 2e-107
+346-  3:	ptg000233l_26	SEGI_03715	 3e-111
+346-  4:	ptg000045l_6	SEGI_36536	  6e-48
+346-  5:	ptg000045l_8	SEGI_12788	  5e-98
+## Alignment 347: score=195.0 e_value=2.2e-07 N=5 ive_Chr4&seq_chr4 plus
+347-  0:	ptg001539l_59	SEGI_07116	  1e-95
+347-  1:	ptg001539l_65	SEGI_40694	  2e-47
+347-  2:	ptg001539l_71	SEGI_34081	  2e-78
+347-  3:	ptg001539l_72	SEGI_01802	  4e-29
+347-  4:	ptg001539l_80	SEGI_02896	  2e-51
+## Alignment 348: score=189.0 e_value=1.3e-16 N=7 ive_Chr4&seq_chr4 plus
+348-  0:	ptg002014l_10	SEGI_10611	  3e-99
+348-  1:	ptg002014l_20	SEGI_21611	  3e-08
+348-  2:	ptg002014l_23	SEGI_01637	  2e-43
+348-  3:	ptg001156l_1	SEGI_03439	  1e-21
+348-  4:	ptg000360l_29	SEGI_28453	 3e-188
+348-  5:	ptg000360l_13	SEGI_16594	  3e-56
+348-  6:	ptg000360l_12	SEGI_13086	 5e-113
+## Alignment 349: score=188.0 e_value=5.3e-06 N=5 ive_Chr4&seq_chr4 plus
+349-  0:	ptg000345l_94	SEGI_26296	 8e-240
+349-  1:	ptg000345l_64	SEGI_21232	 8e-102
+349-  2:	ptg001827l_11	SEGI_18825	 1e-229
+349-  3:	ptg001827l_14	SEGI_34745	 3e-118
+349-  4:	ptg001827l_21	SEGI_33561	  6e-92
+## Alignment 350: score=183.0 e_value=0.00055 N=4 ive_Chr4&seq_chr4 plus
+350-  0:	ptg001393l_11	SEGI_35298	 2e-155
+350-  1:	ptg001059l_27	SEGI_14383	  2e-17
+350-  2:	ptg001059l_25	SEGI_15090	 1e-310
+350-  3:	ptg001059l_10	SEGI_24113	  1e-05
+## Alignment 351: score=160.0 e_value=6.2e-06 N=4 ive_Chr4&seq_chr4 plus
+351-  0:	ptg000162l_40	SEGI_03493	  5e-85
+351-  1:	ptg000162l_49	SEGI_31016	 4e-160
+351-  2:	ptg000162l_54	SEGI_17528	 3e-199
+351-  3:	ptg000162l_55	SEGI_26512	 1e-189
+## Alignment 352: score=159.0 e_value=1.2e-08 N=6 ive_Chr4&seq_chr4 plus
+352-  0:	ptg000614l_31	SEGI_20295	 2e-153
+352-  1:	ptg000614l_56	SEGI_29062	 4e-234
+352-  2:	ptg000614l_61	SEGI_22259	 2e-160
+352-  3:	ptg000614l_64	SEGI_34204	 3e-207
+352-  4:	ptg000614l_67	SEGI_01961	  3e-57
+352-  5:	ptg000614l_9	SEGI_41106	 1e-249
+## Alignment 353: score=159.0 e_value=0.00057 N=4 ive_Chr4&seq_chr4 plus
+353-  0:	ptg001539l_7	SEGI_31727	 6e-155
+353-  1:	ptg001539l_23	SEGI_03378	  1e-26
+353-  2:	ptg000320l_4	SEGI_30109	 3e-123
+353-  3:	ptg000320l_1	SEGI_15149	  4e-92
+## Alignment 354: score=481.0 e_value=2.5e-33 N=14 ive_Chr4&seq_chr4 minus
+354-  0:	ptg001539l_20	SEGI_02772	 2e-158
+354-  1:	ptg001539l_24	SEGI_16207	  3e-35
+354-  2:	ptg000320l_4	SEGI_34745	 3e-126
+354-  3:	ptg000548l_1	SEGI_13300	 2e-222
+354-  4:	ptg000548l_3	SEGI_14268	      0
+354-  5:	ptg000548l_9	SEGI_25850	  7e-22
+354-  6:	ptg000548l_10	SEGI_16893	  3e-50
+354-  7:	ptg000548l_20	SEGI_38001	  6e-38
+354-  8:	ptg000548l_23	SEGI_19085	  8e-30
+354-  9:	ptg001393l_12	SEGI_36599	  2e-45
+354- 10:	ptg001059l_12	SEGI_21562	  2e-37
+354- 11:	ptg001490l_3	SEGI_39136	  1e-24
+354- 12:	ptg001490l_14	SEGI_09711	 2e-136
+354- 13:	ptg001490l_21	SEGI_24572	  3e-34
+## Alignment 355: score=331.0 e_value=7.3e-25 N=11 ive_Chr4&seq_chr4 minus
+355-  0:	ptg000855l_13	SEGI_39105	  6e-09
+355-  1:	ptg000855l_16	SEGI_19890	 4e-235
+355-  2:	ptg000855l_19	SEGI_29731	 1e-151
+355-  3:	ptg000855l_23	SEGI_05878	  1e-74
+355-  4:	ptg000855l_26	SEGI_09078	 2e-158
+355-  5:	ptg001662l_8	SEGI_31666	  8e-25
+355-  6:	ptg001518l_6	SEGI_35548	  6e-13
+355-  7:	ptg001518l_3	SEGI_04584	  1e-58
+355-  8:	ptg001876l_2	SEGI_10266	  1e-23
+355-  9:	ptg001539l_43	SEGI_21843	  4e-36
+355- 10:	ptg001539l_8	SEGI_09826	  3e-12
+## Alignment 356: score=236.0 e_value=3.8e-14 N=6 ive_Chr4&seq_chr4 minus
+356-  0:	ptg001170l_6	SEGI_36536	  7e-88
+356-  1:	ptg001950l_10	SEGI_03715	  5e-87
+356-  2:	ptg001950l_11	SEGI_07584	  5e-87
+356-  3:	ptg001950l_12	SEGI_17915	  5e-85
+356-  4:	ptg001950l_16	SEGI_01606	  7e-91
+356-  5:	ptg001310l_19	SEGI_30208	  1e-17
+## Alignment 357: score=223.0 e_value=2.5e-09 N=6 ive_Chr4&seq_chr4 minus
+357-  0:	ptg000345l_1	SEGI_12051	  4e-77
+357-  1:	ptg000345l_130	SEGI_05455	  1e-95
+357-  2:	ptg000345l_128	SEGI_08118	 1e-170
+357-  3:	ptg000345l_113	SEGI_24403	  4e-65
+357-  4:	ptg000345l_107	SEGI_19395	  4e-37
+357-  5:	ptg000345l_100	SEGI_28382	  4e-29
+## Alignment 358: score=189.0 e_value=1.5e-15 N=8 ive_Chr4&seq_chr4 minus
+358-  0:	ptg002014l_26	SEGI_05107	  2e-33
+358-  1:	ptg001156l_11	SEGI_34206	  1e-41
+358-  2:	ptg000360l_15	SEGI_34031	  1e-60
+358-  3:	ptg000360l_13	SEGI_07045	  4e-57
+358-  4:	ptg000360l_56	SEGI_21911	  1e-05
+358-  5:	ptg001428l_17	SEGI_09128	  4e-51
+358-  6:	ptg001428l_79	SEGI_21611	  4e-10
+358-  7:	ptg000898l_22	SEGI_32600	  8e-27
+## Alignment 359: score=181.0 e_value=3.4e-07 N=5 ive_Chr4&seq_chr4 minus
+359-  0:	ptg000265l_19	SEGI_16598	  2e-20
+359-  1:	ptg001053l_50	SEGI_33502	 1e-141
+359-  2:	ptg001053l_3	SEGI_25819	  5e-35
+359-  3:	ptg001053l_44	SEGI_38929	 1e-147
+359-  4:	ptg001053l_47	SEGI_09825	 7e-264
+## Alignment 360: score=180.0 e_value=2.3e-06 N=5 ive_Chr4&seq_chr4 minus
+360-  0:	ptg000233l_1	SEGI_36536	  4e-87
+360-  1:	ptg000233l_38	SEGI_03715	 4e-101
+360-  2:	ptg000045l_17	SEGI_17915	  2e-99
+360-  3:	ptg000045l_10	SEGI_16112	  1e-96
+360-  4:	ptg000045l_3	SEGI_07820	 3e-110
+## Alignment 361: score=171.0 e_value=0.00016 N=4 ive_Chr4&seq_chr4 minus
+361-  0:	ptg001296l_24	SEGI_12042	  5e-46
+361-  1:	ptg001296l_33	SEGI_06567	  3e-79
+361-  2:	ptg001296l_34	SEGI_27135	  1e-08
+361-  3:	ptg001296l_37	SEGI_11508	 7e-249
+## Alignment 362: score=167.0 e_value=0.00038 N=4 ive_Chr4&seq_chr4 minus
+362-  0:	ptg001008l_8	SEGI_26877	 7e-152
+362-  1:	ptg001008l_10	SEGI_19491	      0
+362-  2:	ptg001008l_24	SEGI_12065	  2e-23
+362-  3:	ptg001818l_6	SEGI_23667	 3e-160
+## Alignment 363: score=160.0 e_value=6.2e-07 N=5 ive_Chr4&seq_chr4 minus
+363-  0:	ptg000614l_13	SEGI_01932	 8e-121
+363-  1:	ptg000614l_14	SEGI_33554	  8e-77
+363-  2:	ptg000614l_16	SEGI_34813	      0
+363-  3:	ptg000614l_19	SEGI_27431	 1e-109
+363-  4:	ptg000614l_26	SEGI_14995	 7e-171
+## Alignment 364: score=159.0 e_value=1.9e-05 N=4 ive_Chr4&seq_chr4 minus
+364-  0:	ptg000345l_106	SEGI_35365	 4e-102
+364-  1:	ptg001827l_2	SEGI_00893	      0
+364-  2:	ptg001827l_3	SEGI_01582	  1e-08
+364-  3:	ptg001827l_10	SEGI_34777	 2e-163
+## Alignment 365: score=158.0 e_value=5.7e-06 N=5 ive_Chr4&seq_chr4 minus
+365-  0:	ptg000562l_112	SEGI_33416	  1e-60
+365-  1:	ptg000562l_6	SEGI_29029	 4e-176
+365-  2:	ptg000562l_17	SEGI_37394	  2e-36
+365-  3:	ptg000562l_20	SEGI_14161	 6e-116
+365-  4:	ptg000562l_22	SEGI_19960	 2e-135
+## Alignment 366: score=186.0 e_value=3.2e-07 N=5 ive_Chr4&seq_chr5 plus
+366-  0:	ptg002001l_14	SEGI_08774	  9e-63
+366-  1:	ptg001383l_61	SEGI_13695	 4e-237
+366-  2:	ptg001383l_68	SEGI_14575	  9e-45
+366-  3:	ptg001383l_79	SEGI_02059	 1e-209
+366-  4:	ptg001383l_88	SEGI_08690	  5e-49
+## Alignment 367: score=171.0 e_value=0.00043 N=4 ive_Chr4&seq_chr5 plus
+367-  0:	ptg001337l_43	SEGI_09252	 1e-234
+367-  1:	ptg001337l_34	SEGI_15188	 4e-148
+367-  2:	ptg001337l_32	SEGI_10296	  1e-10
+367-  3:	ptg001337l_60	SEGI_39005	  1e-28
+## Alignment 368: score=277.0 e_value=4.8e-18 N=8 ive_Chr4&seq_chr5 minus
+368-  0:	ptg000057l_12	SEGI_15088	  1e-83
+368-  1:	ptg000057l_20	SEGI_02869	 5e-121
+368-  2:	ptg000057l_61	SEGI_33140	 0.0002
+368-  3:	ptg000057l_62	SEGI_40181	  4e-83
+368-  4:	ptg000057l_70	SEGI_34686	 2e-138
+368-  5:	ptg000057l_84	SEGI_04195	  4e-27
+368-  6:	ptg000057l_88	SEGI_24532	 2e-113
+368-  7:	ptg000057l_90	SEGI_02419	  9e-37
+## Alignment 369: score=272.0 e_value=5.1e-17 N=8 ive_Chr4&seq_chr5 minus
+369-  0:	ptg001383l_101	SEGI_07841	  5e-67
+369-  1:	ptg001383l_29	SEGI_19786	 3e-125
+369-  2:	ptg001383l_54	SEGI_10658	 4e-104
+369-  3:	ptg001383l_55	SEGI_04347	  4e-35
+369-  4:	ptg001383l_92	SEGI_20366	 1e-100
+369-  5:	ptg001383l_93	SEGI_35593	  5e-22
+369-  6:	ptg001383l_95	SEGI_41419	  6e-59
+369-  7:	ptg001383l_97	SEGI_31387	  6e-49
+## Alignment 370: score=189.0 e_value=3.1e-07 N=5 ive_Chr4&seq_chr5 minus
+370-  0:	ptg002002l_4	SEGI_02376	 3e-109
+370-  1:	ptg000459l_2	SEGI_35905	  2e-94
+370-  2:	ptg000459l_5	SEGI_33189	 4e-180
+370-  3:	ptg001383l_52	SEGI_21303	  1e-66
+370-  4:	ptg001383l_50	SEGI_34270	 3e-214
+## Alignment 371: score=310.0 e_value=4.4e-18 N=9 ive_Chr4&seq_chr6 plus
+371-  0:	ptg001092l_56	SEGI_33686	  2e-67
+371-  1:	ptg001092l_59	SEGI_11532	  1e-16
+371-  2:	ptg001092l_68	SEGI_14532	 2e-229
+371-  3:	ptg001092l_74	SEGI_29149	  2e-82
+371-  4:	ptg001092l_78	SEGI_40588	  4e-23
+371-  5:	ptg001092l_87	SEGI_16263	  6e-67
+371-  6:	ptg001092l_1	SEGI_16058	  2e-27
+371-  7:	ptg001092l_2	SEGI_22231	  6e-24
+371-  8:	ptg001092l_12	SEGI_26227	 5e-179
+## Alignment 372: score=233.0 e_value=2.9e-13 N=6 ive_Chr4&seq_chr6 plus
+372-  0:	ptg000765l_13	SEGI_33619	 6e-119
+372-  1:	ptg000765l_18	SEGI_31021	  2e-50
+372-  2:	ptg000765l_28	SEGI_13795	  7e-84
+372-  3:	ptg000765l_29	SEGI_34827	  6e-23
+372-  4:	ptg000310l_9	SEGI_25635	  3e-54
+372-  5:	ptg000310l_4	SEGI_28302	  2e-21
+## Alignment 373: score=208.0 e_value=1.3e-07 N=5 ive_Chr4&seq_chr6 plus
+373-  0:	ptg000765l_16	SEGI_21116	  5e-58
+373-  1:	ptg000765l_21	SEGI_33619	 2e-119
+373-  2:	ptg000765l_37	SEGI_13795	  6e-55
+373-  3:	ptg000765l_40	SEGI_36721	  2e-52
+373-  4:	ptg000310l_8	SEGI_00781	 3e-105
+## Alignment 374: score=206.0 e_value=2.9e-06 N=5 ive_Chr4&seq_chr6 plus
+374-  0:	ptg000765l_15	SEGI_08922	  3e-47
+374-  1:	ptg000765l_19	SEGI_36924	 2e-117
+374-  2:	ptg000765l_40	SEGI_30916	  4e-52
+374-  3:	ptg000310l_11	SEGI_04494	  2e-99
+374-  4:	ptg000310l_8	SEGI_13631	 1e-103
+## Alignment 375: score=162.0 e_value=5e-05 N=4 ive_Chr4&seq_chr6 plus
+375-  0:	ptg000765l_37	SEGI_21116	  1e-55
+375-  1:	ptg000310l_11	SEGI_33619	 4e-102
+375-  2:	ptg000310l_4	SEGI_41121	  3e-22
+375-  3:	ptg000310l_17	SEGI_13795	  5e-33
+## Alignment 376: score=152.0 e_value=0.00088 N=4 ive_Chr4&seq_chr6 plus
+376-  0:	ptg001003l_15	SEGI_39912	 7e-171
+376-  1:	ptg001003l_20	SEGI_01317	  2e-15
+376-  2:	ptg001003l_24	SEGI_19174	  1e-73
+376-  3:	ptg001003l_32	SEGI_00157	 1e-112
+## Alignment 377: score=174.0 e_value=4.6e-05 N=4 ive_Chr4&seq_chr6 minus
+377-  0:	ptg000765l_13	SEGI_13631	 9e-118
+377-  1:	ptg000765l_16	SEGI_30916	  7e-57
+377-  2:	ptg000765l_17	SEGI_05054	  3e-55
+377-  3:	ptg000765l_41	SEGI_08922	 6e-100
+## Alignment 378: score=213.0 e_value=3.1e-06 N=5 ive_Chr4&seq_chr7 plus
+378-  0:	ptg001275l_10	SEGI_41212	 6e-283
+378-  1:	ptg001275l_12	SEGI_22478	  1e-07
+378-  2:	ptg001275l_15	SEGI_20118	  1e-21
+378-  3:	ptg001275l_21	SEGI_36820	  9e-32
+378-  4:	ptg001043l_15	SEGI_16568	  2e-64
+## Alignment 379: score=166.0 e_value=4e-08 N=5 ive_Chr4&seq_chr7 plus
+379-  0:	ptg000119l_17	SEGI_12886	  1e-20
+379-  1:	ptg000026l_35	SEGI_01977	 7e-194
+379-  2:	ptg000026l_15	SEGI_13311	 5e-138
+379-  3:	ptg000026l_12	SEGI_27050	 1e-108
+379-  4:	ptg000026l_7	SEGI_02638	 1e-101
+## Alignment 380: score=287.0 e_value=2.4e-16 N=8 ive_Chr4&seq_chr7 minus
+380-  0:	ptg001275l_21	SEGI_05630	  9e-19
+380-  1:	ptg001608l_1	SEGI_40636	 6e-135
+380-  2:	ptg001608l_4	SEGI_39931	  1e-33
+380-  3:	ptg000693l_24	SEGI_24757	 1e-123
+380-  4:	ptg000693l_6	SEGI_32826	  3e-48
+380-  5:	ptg000693l_5	SEGI_22144	  1e-54
+380-  6:	ptg000693l_41	SEGI_34655	 2e-189
+380-  7:	ptg000693l_29	SEGI_36773	 6e-159
+## Alignment 381: score=222.0 e_value=9.6e-07 N=5 ive_Chr4&seq_chr7 minus
+381-  0:	ptg000808l_12	SEGI_09466	 2e-187
+381-  1:	ptg000808l_11	SEGI_15605	 9e-168
+381-  2:	ptg000808l_20	SEGI_02535	  6e-39
+381-  3:	ptg001091l_6	SEGI_21106	 8e-195
+381-  4:	ptg001091l_4	SEGI_03462	  1e-76
+## Alignment 382: score=165.0 e_value=0.00082 N=4 ive_Chr4&seq_chr7 minus
+382-  0:	ptg000026l_37	SEGI_11863	  9e-77
+382-  1:	ptg000026l_15	SEGI_13311	 5e-138
+382-  2:	ptg000026l_57	SEGI_02078	  5e-71
+382-  3:	ptg000026l_56	SEGI_01378	  8e-55
+## Alignment 383: score=241.0 e_value=5.2e-10 N=6 ive_Chr5&seq_HRSCAF_1 plus
+383-  0:	ptg001012l_3	SEGI_00104	  2e-59
+383-  1:	ptg002063l_1	SEGI_01544	  2e-86
+383-  2:	ptg002263l_1	SEGI_29469	 6e-108
+383-  3:	ptg000797l_15	SEGI_32747	  2e-59
+383-  4:	ptg000797l_9	SEGI_06701	 8e-260
+383-  5:	ptg000797l_8	SEGI_38392	  4e-70
+## Alignment 384: score=176.0 e_value=8.1e-11 N=6 ive_Chr5&seq_HRSCAF_1 plus
+384-  0:	ptg000941l_18	SEGI_19879	  1e-24
+384-  1:	ptg000941l_5	SEGI_01191	 1e-109
+384-  2:	ptg000686l_1	SEGI_21396	 4e-120
+384-  3:	ptg000686l_21	SEGI_32200	 1e-146
+384-  4:	ptg000686l_19	SEGI_12900	  8e-13
+384-  5:	ptg000686l_24	SEGI_03830	      0
+## Alignment 385: score=159.0 e_value=1.3e-08 N=5 ive_Chr5&seq_HRSCAF_1 minus
+385-  0:	ptg000815l_7	SEGI_03498	 2e-213
+385-  1:	ptg000815l_5	SEGI_40339	  5e-52
+385-  2:	ptg000815l_13	SEGI_35702	  4e-81
+385-  3:	ptg000686l_21	SEGI_32200	 1e-146
+385-  4:	ptg000686l_19	SEGI_03058	  1e-28
+## Alignment 386: score=153.0 e_value=3.5e-07 N=5 ive_Chr5&seq_HRSCAF_1 minus
+386-  0:	ptg001239l_15	SEGI_32570	 8e-106
+386-  1:	ptg000797l_12	SEGI_39892	 2e-119
+386-  2:	ptg000797l_4	SEGI_09568	  9e-53
+386-  3:	ptg000797l_1	SEGI_18807	 4e-112
+386-  4:	ptg000772l_14	SEGI_20453	  8e-36
+## Alignment 387: score=172.0 e_value=9.1e-05 N=4 ive_Chr5&seq_chr1 plus
+387-  0:	ptg001012l_4	SEGI_26042	  1e-55
+387-  1:	ptg001012l_1	SEGI_19318	  3e-43
+387-  2:	ptg000506l_5	SEGI_16306	 4e-163
+387-  3:	ptg000506l_4	SEGI_25098	 1e-164
+## Alignment 388: score=248.0 e_value=6.8e-08 N=6 ive_Chr5&seq_chr10 plus
+388-  0:	ptg001586l_37	SEGI_35633	  2e-79
+388-  1:	ptg001586l_31	SEGI_25054	  6e-32
+388-  2:	ptg001586l_21	SEGI_18102	  7e-65
+388-  3:	ptg001586l_44	SEGI_33307	  2e-96
+388-  4:	ptg001586l_41	SEGI_34322	  4e-44
+388-  5:	ptg001586l_48	SEGI_17127	  2e-29
+## Alignment 389: score=203.0 e_value=2.4e-08 N=5 ive_Chr5&seq_chr10 plus
+389-  0:	ptg001961l_11	SEGI_02586	  4e-06
+389-  1:	ptg001961l_7	SEGI_08993	 3e-113
+389-  2:	ptg000988l_3	SEGI_41328	  2e-58
+389-  3:	ptg000988l_1	SEGI_34354	  3e-61
+389-  4:	ptg001621l_1	SEGI_29567	  3e-68
+## Alignment 390: score=177.0 e_value=0.00019 N=4 ive_Chr5&seq_chr10 plus
+390-  0:	ptg001961l_7	SEGI_17049	 2e-110
+390-  1:	ptg001961l_9	SEGI_03602	  1e-37
+390-  2:	ptg001961l_10	SEGI_02953	 5e-123
+390-  3:	ptg001343l_33	SEGI_19055	 2e-121
+## Alignment 391: score=170.0 e_value=0.00018 N=4 ive_Chr5&seq_chr10 plus
+391-  0:	ptg001591l_39	SEGI_28112	  2e-34
+391-  1:	ptg001591l_33	SEGI_09930	 6e-169
+391-  2:	ptg001591l_32	SEGI_17218	 3e-168
+391-  3:	ptg001591l_28	SEGI_08437	 4e-106
+## Alignment 392: score=157.0 e_value=5.9e-05 N=4 ive_Chr5&seq_chr10 plus
+392-  0:	ptg001591l_34	SEGI_15256	  1e-53
+392-  1:	ptg002153l_3	SEGI_36647	  3e-22
+392-  2:	ptg002153l_16	SEGI_27952	 4e-217
+392-  3:	ptg002153l_15	SEGI_37571	  7e-70
+## Alignment 393: score=155.0 e_value=9.8e-05 N=4 ive_Chr5&seq_chr10 plus
+393-  0:	ptg001952l_2	SEGI_25054	  5e-32
+393-  1:	ptg001586l_32	SEGI_12937	 5e-213
+393-  2:	ptg001586l_49	SEGI_18102	  5e-34
+393-  3:	ptg001586l_42	SEGI_33200	  5e-37
+## Alignment 394: score=167.0 e_value=9.5e-09 N=6 ive_Chr5&seq_chr10 minus
+394-  0:	ptg000521l_4	SEGI_35269	  2e-18
+394-  1:	ptg000521l_6	SEGI_14801	  2e-70
+394-  2:	ptg000767l_8	SEGI_11085	  2e-52
+394-  3:	ptg001586l_20	SEGI_36127	  9e-79
+394-  4:	ptg001586l_42	SEGI_33200	  5e-37
+394-  5:	ptg001586l_40	SEGI_27771	 1e-278
+## Alignment 395: score=157.0 e_value=4.5e-07 N=5 ive_Chr5&seq_chr10 minus
+395-  0:	ptg000666l_12	SEGI_16779	 4e-158
+395-  1:	ptg000656l_8	SEGI_01274	  1e-24
+395-  2:	ptg002128l_7	SEGI_05778	  8e-46
+395-  3:	ptg001565l_2	SEGI_10277	  2e-59
+395-  4:	ptg001565l_10	SEGI_12834	  8e-26
+## Alignment 396: score=184.0 e_value=0.00042 N=4 ive_Chr5&seq_chr11 minus
+396-  0:	ptg000228l_51	SEGI_11026	  4e-32
+396-  1:	ptg000228l_46	SEGI_36475	  2e-38
+396-  2:	ptg000228l_43	SEGI_12208	  6e-25
+396-  3:	ptg000228l_35	SEGI_11333	  1e-37
+## Alignment 397: score=271.0 e_value=4.2e-12 N=7 ive_Chr5&seq_chr3 plus
+397-  0:	ptg002152l_3	SEGI_25465	 5e-168
+397-  1:	ptg000498l_12	SEGI_36297	 4e-133
+397-  2:	ptg000916l_3	SEGI_19768	  1e-42
+397-  3:	ptg000916l_1	SEGI_03695	  8e-71
+397-  4:	ptg000916l_2	SEGI_01277	  1e-11
+397-  5:	ptg000916l_11	SEGI_38877	 4e-160
+397-  6:	ptg000440l_80	SEGI_39309	 5e-100
+## Alignment 398: score=164.0 e_value=4.4e-05 N=4 ive_Chr5&seq_chr3 plus
+398-  0:	ptg000075l_31	SEGI_19905	 0.0001
+398-  1:	ptg000075l_18	SEGI_09168	  2e-27
+398-  2:	ptg000075l_25	SEGI_20889	  1e-22
+398-  3:	ptg000931l_5	SEGI_28086	  4e-25
+## Alignment 399: score=167.0 e_value=3e-05 N=4 ive_Chr5&seq_chr3 minus
+399-  0:	ptg001277l_9	SEGI_13422	  2e-20
+399-  1:	ptg001277l_7	SEGI_30566	  3e-32
+399-  2:	ptg001277l_6	SEGI_02204	 6e-110
+399-  3:	ptg000550l_22	SEGI_33748	  2e-16
+## Alignment 400: score=166.0 e_value=9.6e-09 N=6 ive_Chr5&seq_chr3 minus
+400-  0:	ptg000453l_12	SEGI_12091	 8e-124
+400-  1:	ptg001671l_9	SEGI_03110	 4e-130
+400-  2:	ptg000903l_13	SEGI_25225	  9e-25
+400-  3:	ptg000903l_3	SEGI_19394	 1e-104
+400-  4:	ptg001743l_2	SEGI_15929	  2e-21
+400-  5:	ptg000944l_8	SEGI_27222	  4e-98
+## Alignment 401: score=199.0 e_value=9.4e-11 N=5 ive_Chr5&seq_chr4 plus
+401-  0:	ptg001201l_40	SEGI_34570	 3e-184
+401-  1:	ptg001201l_41	SEGI_33921	  1e-44
+401-  2:	ptg001201l_42	SEGI_07612	  3e-30
+401-  3:	ptg001201l_12	SEGI_10883	 1e-103
+401-  4:	ptg001201l_18	SEGI_36969	  1e-57
+## Alignment 402: score=176.0 e_value=0.00055 N=4 ive_Chr5&seq_chr4 plus
+402-  0:	ptg000411l_22	SEGI_03851	  3e-34
+402-  1:	ptg000411l_9	SEGI_08633	  5e-52
+402-  2:	ptg000945l_7	SEGI_39998	  3e-52
+402-  3:	ptg000945l_4	SEGI_01341	  5e-29
+## Alignment 403: score=197.0 e_value=1.1e-06 N=4 ive_Chr5&seq_chr4 minus
+403-  0:	ptg000411l_3	SEGI_11483	  1e-19
+403-  1:	ptg000411l_2	SEGI_01341	  1e-13
+403-  2:	ptg000945l_9	SEGI_41237	  6e-07
+403-  3:	ptg000945l_7	SEGI_39998	  3e-52
+## Alignment 404: score=191.0 e_value=2.5e-07 N=4 ive_Chr5&seq_chr4 minus
+404-  0:	ptg000826l_9	SEGI_01341	  2e-70
+404-  1:	ptg000942l_3	SEGI_17077	  2e-30
+404-  2:	ptg000411l_23	SEGI_41237	  7e-10
+404-  3:	ptg000411l_22	SEGI_03851	  3e-34
+## Alignment 405: score=167.0 e_value=5.4e-16 N=4 ive_Chr5&seq_chr5 plus
+405-  0:	ptg000498l_1	SEGI_03458	  7e-35
+405-  1:	ptg000440l_54	SEGI_26638	  1e-50
+405-  2:	ptg000440l_55	SEGI_26147	  2e-59
+405-  3:	ptg000440l_56	SEGI_27746	  2e-90
+## Alignment 406: score=177.0 e_value=1.8e-09 N=5 ive_Chr5&seq_chr5 minus
+406-  0:	ptg001752l_3	SEGI_38216	  5e-31
+406-  1:	ptg000055l_6	SEGI_35885	  2e-22
+406-  2:	ptg000028l_17	SEGI_39680	  2e-20
+406-  3:	ptg000028l_18	SEGI_23638	  6e-25
+406-  4:	ptg000028l_34	SEGI_33166	 3e-128
+## Alignment 407: score=157.0 e_value=1.8e-06 N=5 ive_Chr5&seq_chr5 minus
+407-  0:	ptg000931l_65	SEGI_34097	 4e-135
+407-  1:	ptg000931l_2	SEGI_20960	 9e-116
+407-  2:	ptg000931l_11	SEGI_10120	 5e-177
+407-  3:	ptg000931l_19	SEGI_34202	 5e-106
+407-  4:	ptg000931l_20	SEGI_37970	  2e-85
+## Alignment 408: score=365.0 e_value=5e-22 N=9 ive_Chr5&seq_chr6 plus
+408-  0:	ptg000124l_3	SEGI_33619	 9e-126
+408-  1:	ptg000124l_2	SEGI_13795	 4e-129
+408-  2:	ptg000124l_24	SEGI_36721	 2e-140
+408-  3:	ptg000816l_5	SEGI_13509	 1e-123
+408-  4:	ptg000816l_4	SEGI_34827	  1e-07
+408-  5:	ptg000816l_13	SEGI_25635	  4e-51
+408-  6:	ptg001076l_35	SEGI_20108	  3e-39
+408-  7:	ptg001076l_43	SEGI_28302	  2e-15
+408-  8:	ptg001076l_45	SEGI_12952	  3e-48
+## Alignment 409: score=300.0 e_value=2.3e-17 N=8 ive_Chr5&seq_chr6 plus
+409-  0:	ptg000124l_15	SEGI_21116	 2e-104
+409-  1:	ptg000816l_3	SEGI_33619	 7e-100
+409-  2:	ptg000816l_9	SEGI_31021	  7e-14
+409-  3:	ptg001076l_43	SEGI_34827	  3e-15
+409-  4:	ptg001076l_21	SEGI_25635	  4e-13
+409-  5:	ptg001076l_25	SEGI_04020	  9e-14
+409-  6:	ptg001076l_32	SEGI_20108	  3e-57
+409-  7:	ptg001076l_50	SEGI_12952	  2e-50
+## Alignment 410: score=225.0 e_value=7.6e-10 N=6 ive_Chr5&seq_chr6 plus
+410-  0:	ptg000782l_9	SEGI_08195	  1e-42
+410-  1:	ptg000782l_13	SEGI_36229	 5e-141
+410-  2:	ptg000782l_4	SEGI_40369	  7e-08
+410-  3:	ptg000782l_5	SEGI_11329	  2e-59
+410-  4:	ptg000676l_28	SEGI_40605	      0
+410-  5:	ptg002446l_8	SEGI_25213	 5e-140
+## Alignment 411: score=224.0 e_value=6.9e-10 N=6 ive_Chr5&seq_chr6 plus
+411-  0:	ptg001076l_15	SEGI_24897	  6e-30
+411-  1:	ptg001076l_16	SEGI_33619	  1e-36
+411-  2:	ptg001076l_25	SEGI_18093	  6e-13
+411-  3:	ptg001076l_34	SEGI_36721	  1e-15
+411-  4:	ptg001076l_48	SEGI_34827	  1e-09
+411-  5:	ptg001076l_51	SEGI_20108	  5e-14
+## Alignment 412: score=210.0 e_value=2.4e-11 N=6 ive_Chr5&seq_chr6 plus
+412-  0:	ptg000676l_32	SEGI_08196	  1e-52
+412-  1:	ptg002446l_43	SEGI_17564	  1e-84
+412-  2:	ptg002446l_55	SEGI_00142	  6e-40
+412-  3:	ptg002446l_28	SEGI_30062	  1e-35
+412-  4:	ptg002446l_29	SEGI_11826	  1e-47
+412-  5:	ptg002446l_31	SEGI_11405	  2e-44
+## Alignment 413: score=184.0 e_value=6.3e-09 N=5 ive_Chr5&seq_chr6 plus
+413-  0:	ptg000816l_19	SEGI_12409	  3e-38
+413-  1:	ptg000816l_10	SEGI_34827	 2e-126
+413-  2:	ptg000816l_3	SEGI_25635	 9e-100
+413-  3:	ptg000816l_1	SEGI_20108	  4e-74
+413-  4:	ptg000816l_9	SEGI_28302	  5e-12
+## Alignment 414: score=179.0 e_value=3.7e-06 N=4 ive_Chr5&seq_chr6 plus
+414-  0:	ptg001076l_21	SEGI_24897	  1e-13
+414-  1:	ptg001076l_39	SEGI_21116	 6e-127
+414-  2:	ptg001076l_49	SEGI_33619	  8e-35
+414-  3:	ptg001076l_50	SEGI_41121	  8e-50
+## Alignment 415: score=215.0 e_value=1.3e-09 N=6 ive_Chr5&seq_chr6 minus
+415-  0:	ptg000124l_15	SEGI_39527	 6e-103
+415-  1:	ptg000816l_16	SEGI_25635	 3e-100
+415-  2:	ptg000816l_11	SEGI_34827	  3e-35
+415-  3:	ptg001076l_43	SEGI_00781	  5e-15
+415-  4:	ptg001076l_32	SEGI_33619	  1e-58
+415-  5:	ptg001076l_50	SEGI_21116	  1e-50
+## Alignment 416: score=183.0 e_value=0 N=5 ive_Chr5&seq_chr6 minus
+416-  0:	ptg000322l_41	SEGI_17198	  8e-25
+416-  1:	ptg000322l_34	SEGI_08195	  9e-08
+416-  2:	ptg000322l_40	SEGI_33402	      0
+416-  3:	ptg000322l_52	SEGI_04451	  2e-66
+416-  4:	ptg000322l_54	SEGI_16287	  6e-93
+## Alignment 417: score=175.0 e_value=0.00054 N=4 ive_Chr5&seq_chr6 minus
+417-  0:	ptg000124l_2	SEGI_13631	 8e-126
+417-  1:	ptg000124l_15	SEGI_04494	 1e-103
+417-  2:	ptg000816l_14	SEGI_36924	  9e-30
+417-  3:	ptg000816l_9	SEGI_08922	  4e-09
+## Alignment 418: score=160.0 e_value=0.00012 N=4 ive_Chr5&seq_chr6 minus
+418-  0:	ptg001586l_18	SEGI_12952	  2e-50
+418-  1:	ptg001586l_5	SEGI_39527	  5e-92
+418-  2:	ptg001586l_52	SEGI_25635	  1e-96
+418-  3:	ptg000666l_20	SEGI_03840	  5e-72
+## Alignment 419: score=153.0 e_value=0.00033 N=4 ive_Chr5&seq_chr6 minus
+419-  0:	ptg000676l_26	SEGI_11122	  9e-22
+419-  1:	ptg000676l_25	SEGI_27815	  3e-73
+419-  2:	ptg000676l_5	SEGI_03855	  8e-25
+419-  3:	ptg000676l_30	SEGI_13764	  4e-22
+## Alignment 420: score=150.0 e_value=5.4e-07 N=4 ive_Chr5&seq_chr6 minus
+420-  0:	ptg000035l_1	SEGI_17408	 8e-121
+420-  1:	ptg000304l_14	SEGI_08406	  6e-12
+420-  2:	ptg000304l_13	SEGI_15115	  1e-10
+420-  3:	ptg000448l_8	SEGI_18061	  2e-92
+## Alignment 421: score=158.0 e_value=1.3e-05 N=4 ive_Chr5&seq_chr7 plus
+421-  0:	ptg000888l_24	SEGI_41443	  3e-74
+421-  1:	ptg001324l_2	SEGI_02378	 3e-138
+421-  2:	ptg001324l_1	SEGI_35127	  4e-35
+421-  3:	ptg001044l_12	SEGI_04295	  5e-27
+## Alignment 422: score=150.0 e_value=0.00052 N=4 ive_Chr5&seq_chr7 plus
+422-  0:	ptg000028l_60	SEGI_25448	 1e-174
+422-  1:	ptg000028l_62	SEGI_35417	 6e-147
+422-  2:	ptg000028l_29	SEGI_20957	 4e-115
+422-  3:	ptg000028l_31	SEGI_18154	  9e-09
+## Alignment 423: score=230.0 e_value=1.9e-15 N=8 ive_Chr5&seq_chr8 plus
+423-  0:	ptg001343l_1	SEGI_24114	  2e-14
+423-  1:	ptg001343l_2	SEGI_12669	  3e-18
+423-  2:	ptg001343l_3	SEGI_26650	  5e-41
+423-  3:	ptg001343l_10	SEGI_26123	  3e-56
+423-  4:	ptg001343l_16	SEGI_39886	  2e-05
+423-  5:	ptg001715l_6	SEGI_19412	  9e-21
+423-  6:	ptg001986l_32	SEGI_18719	  4e-40
+423-  7:	ptg001986l_6	SEGI_17771	  1e-11
+## Alignment 424: score=216.0 e_value=4.6e-12 N=7 ive_Chr5&seq_chr8 plus
+424-  0:	ptg000028l_34	SEGI_27018	 7e-117
+424-  1:	ptg001369l_23	SEGI_13465	  5e-68
+424-  2:	ptg001369l_6	SEGI_21597	  2e-82
+424-  3:	ptg000670l_9	SEGI_22716	  6e-28
+424-  4:	ptg000670l_17	SEGI_29250	 5e-171
+424-  5:	ptg000670l_18	SEGI_16217	  2e-35
+424-  6:	ptg000670l_23	SEGI_23721	  8e-91
+## Alignment 425: score=181.0 e_value=0.0001 N=4 ive_Chr5&seq_chr8 plus
+425-  0:	ptg000888l_15	SEGI_31823	  5e-47
+425-  1:	ptg000888l_25	SEGI_32450	 1e-128
+425-  2:	ptg000888l_27	SEGI_35195	  4e-44
+425-  3:	ptg000888l_34	SEGI_09611	 3e-100
+## Alignment 426: score=176.0 e_value=5.2e-05 N=4 ive_Chr5&seq_chr8 plus
+426-  0:	ptg001129l_4	SEGI_41479	  1e-92
+426-  1:	ptg001665l_10	SEGI_10579	  4e-68
+426-  2:	ptg001665l_8	SEGI_05429	  2e-91
+426-  3:	ptg001665l_7	SEGI_41190	 3e-124
+## Alignment 427: score=162.0 e_value=0.00058 N=4 ive_Chr5&seq_chr8 plus
+427-  0:	ptg001161l_1	SEGI_20025	  1e-59
+427-  1:	ptg001917l_7	SEGI_36163	 2e-124
+427-  2:	ptg000069l_38	SEGI_21892	  1e-43
+427-  3:	ptg000069l_39	SEGI_01036	  1e-90
+## Alignment 428: score=159.0 e_value=6.7e-07 N=5 ive_Chr5&seq_chr8 plus
+428-  0:	ptg000199l_22	SEGI_28336	  2e-68
+428-  1:	ptg000199l_64	SEGI_30218	  4e-72
+428-  2:	ptg000199l_61	SEGI_39267	 9e-135
+428-  3:	ptg000199l_52	SEGI_18426	  6e-47
+428-  4:	ptg000199l_51	SEGI_34968	  5e-23
+## Alignment 429: score=219.0 e_value=5.9e-16 N=7 ive_Chr5&seq_chr8 minus
+429-  0:	ptg001986l_28	SEGI_17998	  1e-54
+429-  1:	ptg001986l_15	SEGI_19592	  3e-67
+429-  2:	ptg001986l_14	SEGI_39875	 8e-105
+429-  3:	ptg001986l_1	SEGI_20279	 4e-136
+429-  4:	ptg001986l_34	SEGI_02582	  3e-58
+429-  5:	ptg000134l_32	SEGI_32320	 1e-139
+429-  6:	ptg000134l_1	SEGI_25938	  4e-79
+## Alignment 430: score=203.0 e_value=1.7e-10 N=6 ive_Chr5&seq_chr8 minus
+430-  0:	ptg001307l_1	SEGI_11672	  5e-57
+430-  1:	ptg001307l_17	SEGI_13619	  1e-24
+430-  2:	ptg000478l_43	SEGI_04241	 6e-194
+430-  3:	ptg000478l_14	SEGI_17355	  2e-62
+430-  4:	ptg000478l_2	SEGI_10186	 3e-177
+430-  5:	ptg000779l_3	SEGI_13230	 6e-210
+## Alignment 431: score=172.0 e_value=0.00062 N=4 ive_Chr5&seq_chr8 minus
+431-  0:	ptg000888l_15	SEGI_11364	  2e-45
+431-  1:	ptg000888l_24	SEGI_34093	  2e-64
+431-  2:	ptg000888l_27	SEGI_35195	  4e-44
+431-  3:	ptg000888l_32	SEGI_04487	  5e-71
+## Alignment 432: score=222.0 e_value=3.1e-06 N=5 ive_Chr5&seq_chr9 plus
+432-  0:	ptg000048l_87	SEGI_09474	 6e-314
+432-  1:	ptg000048l_74	SEGI_19256	 7e-153
+432-  2:	ptg000048l_72	SEGI_34303	  2e-54
+432-  3:	ptg000048l_61	SEGI_10387	  4e-56
+432-  4:	ptg000048l_58	SEGI_10694	 5e-286
+## Alignment 433: score=186.0 e_value=0.00076 N=4 ive_Chr5&seq_chr9 plus
+433-  0:	ptg000995l_40	SEGI_05443	  8e-42
+433-  1:	ptg000995l_34	SEGI_16851	  1e-21
+433-  2:	ptg000995l_23	SEGI_33349	  1e-39
+433-  3:	ptg000995l_48	SEGI_35735	  7e-65
+## Alignment 434: score=188.0 e_value=0.00022 N=4 ive_Chr6&seq_chr1 plus
+434-  0:	ptg000891l_18	SEGI_39502	  1e-15
+434-  1:	ptg000891l_17	SEGI_16802	  9e-16
+434-  2:	ptg000891l_9	SEGI_27450	  1e-68
+434-  3:	ptg000891l_6	SEGI_41425	  3e-72
+## Alignment 435: score=185.0 e_value=0.00039 N=4 ive_Chr6&seq_chr1 plus
+435-  0:	ptg000891l_8	SEGI_39502	  1e-33
+435-  1:	ptg000891l_2	SEGI_16802	  6e-69
+435-  2:	ptg000891l_120	SEGI_27450	  2e-86
+435-  3:	ptg000891l_117	SEGI_41425	  2e-82
+## Alignment 436: score=152.0 e_value=3.1e-06 N=4 ive_Chr6&seq_chr1 plus
+436-  0:	ptg000783l_1	SEGI_36699	  1e-41
+436-  1:	ptg000783l_2	SEGI_30819	 1e-228
+436-  2:	ptg000595l_16	SEGI_41417	 4e-139
+436-  3:	ptg000595l_1	SEGI_28327	  2e-34
+## Alignment 437: score=271.0 e_value=4.5e-09 N=6 ive_Chr6&seq_chr10 plus
+437-  0:	ptg000961l_3	SEGI_30214	 3e-194
+437-  1:	ptg000961l_26	SEGI_08608	  7e-52
+437-  2:	ptg000961l_24	SEGI_09508	 1e-185
+437-  3:	ptg000961l_20	SEGI_14389	 2e-102
+437-  4:	ptg000961l_18	SEGI_24549	  5e-94
+437-  5:	ptg000837l_59	SEGI_16491	  3e-15
+## Alignment 438: score=160.0 e_value=4e-06 N=4 ive_Chr6&seq_chr10 plus
+438-  0:	ptg001131l_2	SEGI_41472	  6e-23
+438-  1:	ptg000286l_21	SEGI_23406	  9e-23
+438-  2:	ptg000286l_22	SEGI_08511	 1e-106
+438-  3:	ptg001429l_16	SEGI_29172	  2e-90
+## Alignment 439: score=152.0 e_value=7.4e-06 N=5 ive_Chr6&seq_chr10 minus
+439-  0:	ptg000961l_24	SEGI_31478	  5e-96
+439-  1:	ptg000961l_20	SEGI_11580	 2e-100
+439-  2:	ptg000961l_19	SEGI_05747	 1e-134
+439-  3:	ptg000837l_64	SEGI_14098	  1e-67
+439-  4:	ptg000837l_42	SEGI_35164	  8e-15
+## Alignment 440: score=228.0 e_value=2.1e-10 N=6 ive_Chr6&seq_chr11 minus
+440-  0:	ptg001430l_26	SEGI_05256	  6e-06
+440-  1:	ptg001430l_2	SEGI_35802	  1e-33
+440-  2:	ptg001430l_3	SEGI_23467	 3e-169
+440-  3:	ptg001430l_7	SEGI_07672	  6e-48
+440-  4:	ptg001430l_12	SEGI_09910	  2e-06
+440-  5:	ptg001430l_15	SEGI_29276	  5e-16
+## Alignment 441: score=167.0 e_value=0.00011 N=4 ive_Chr6&seq_chr3 plus
+441-  0:	ptg002248l_38	SEGI_02941	  4e-55
+441-  1:	ptg002248l_37	SEGI_20172	  4e-76
+441-  2:	ptg002248l_8	SEGI_06192	  3e-48
+441-  3:	ptg002248l_5	SEGI_20336	      0
+## Alignment 442: score=159.0 e_value=1.3e-05 N=4 ive_Chr6&seq_chr3 plus
+442-  0:	ptg002248l_11	SEGI_20474	  3e-37
+442-  1:	ptg001908l_22	SEGI_35449	 2e-172
+442-  2:	ptg001908l_16	SEGI_16967	 4e-101
+442-  3:	ptg001908l_14	SEGI_15045	  4e-53
+## Alignment 443: score=150.0 e_value=0.00038 N=4 ive_Chr6&seq_chr3 plus
+443-  0:	ptg000837l_67	SEGI_38704	 7e-148
+443-  1:	ptg000098l_27	SEGI_24655	 4e-129
+443-  2:	ptg000098l_31	SEGI_15152	  4e-60
+443-  3:	ptg000098l_1	SEGI_06192	  1e-40
+## Alignment 444: score=218.0 e_value=4.8e-12 N=6 ive_Chr6&seq_chr3 minus
+444-  0:	ptg002248l_4	SEGI_37214	  1e-76
+444-  1:	ptg002248l_3	SEGI_15045	  8e-77
+444-  2:	ptg001908l_22	SEGI_35449	 2e-172
+444-  3:	ptg001908l_21	SEGI_00800	  5e-33
+444-  4:	ptg000357l_8	SEGI_08052	  6e-20
+444-  5:	ptg000357l_19	SEGI_13137	  5e-23
+## Alignment 445: score=216.0 e_value=4e-09 N=6 ive_Chr6&seq_chr3 minus
+445-  0:	ptg001049l_4	SEGI_27023	 1e-165
+445-  1:	ptg001049l_5	SEGI_18957	  4e-17
+445-  2:	ptg001049l_3	SEGI_26358	  5e-57
+445-  3:	ptg000928l_3	SEGI_34858	 1e-170
+445-  4:	ptg000928l_12	SEGI_14730	 8e-108
+445-  5:	ptg000928l_5	SEGI_12791	  3e-32
+## Alignment 446: score=259.0 e_value=3.8e-09 N=6 ive_Chr6&seq_chr4 plus
+446-  0:	ptg001475l_12	SEGI_34276	  2e-37
+446-  1:	ptg001475l_16	SEGI_22295	 6e-120
+446-  2:	ptg001475l_17	SEGI_27408	  1e-14
+446-  3:	ptg001475l_18	SEGI_41282	  4e-57
+446-  4:	ptg001475l_22	SEGI_09001	 5e-124
+446-  5:	ptg001475l_24	SEGI_03743	 1e-107
+## Alignment 447: score=198.0 e_value=1.6e-06 N=5 ive_Chr6&seq_chr4 plus
+447-  0:	ptg000946l_19	SEGI_10153	  2e-19
+447-  1:	ptg002303l_2	SEGI_13679	 2e-104
+447-  2:	ptg005177l_3	SEGI_22052	  6e-23
+447-  3:	ptg001976l_37	SEGI_41446	  4e-51
+447-  4:	ptg001976l_18	SEGI_13161	  4e-77
+## Alignment 448: score=196.0 e_value=4.7e-07 N=5 ive_Chr6&seq_chr4 plus
+448-  0:	ptg001819l_7	SEGI_05629	  2e-25
+448-  1:	ptg002486l_3	SEGI_24447	  9e-09
+448-  2:	ptg002486l_8	SEGI_37607	  7e-94
+448-  3:	ptg002486l_13	SEGI_10991	 3e-110
+448-  4:	ptg000087l_54	SEGI_09646	  2e-53
+## Alignment 449: score=193.0 e_value=8.5e-09 N=5 ive_Chr6&seq_chr4 plus
+449-  0:	ptg001976l_49	SEGI_17725	      0
+449-  1:	ptg001976l_46	SEGI_41566	 5e-250
+449-  2:	ptg001976l_27	SEGI_19533	  7e-62
+449-  3:	ptg000739l_18	SEGI_34447	 5e-136
+449-  4:	ptg000739l_17	SEGI_15347	      0
+## Alignment 450: score=188.0 e_value=1.7e-07 N=5 ive_Chr6&seq_chr4 plus
+450-  0:	ptg000556l_3	SEGI_28522	 1e-170
+450-  1:	ptg001455l_6	SEGI_25462	  9e-82
+450-  2:	ptg001455l_8	SEGI_36916	  4e-25
+450-  3:	ptg001838l_1	SEGI_25387	 7e-110
+450-  4:	ptg001817l_12	SEGI_14800	  7e-19
+## Alignment 451: score=154.0 e_value=3.4e-07 N=4 ive_Chr6&seq_chr4 plus
+451-  0:	ptg001976l_45	SEGI_02354	  3e-28
+451-  1:	ptg001976l_8	SEGI_28916	  1e-65
+451-  2:	ptg001976l_3	SEGI_09526	  2e-34
+451-  3:	ptg001976l_5	SEGI_26163	  4e-25
+## Alignment 452: score=153.0 e_value=2.1e-06 N=4 ive_Chr6&seq_chr4 plus
+452-  0:	ptg001035l_34	SEGI_28970	  7e-23
+452-  1:	ptg001035l_29	SEGI_08633	  1e-26
+452-  2:	ptg000892l_20	SEGI_39998	  6e-14
+452-  3:	ptg000892l_9	SEGI_01341	  3e-42
+## Alignment 453: score=190.0 e_value=1e-07 N=5 ive_Chr6&seq_chr4 minus
+453-  0:	ptg001826l_6	SEGI_31016	 3e-177
+453-  1:	ptg001826l_4	SEGI_16224	  6e-11
+453-  2:	ptg000556l_4	SEGI_25515	  5e-56
+453-  3:	ptg001838l_5	SEGI_21710	 4e-155
+453-  4:	ptg001411l_16	SEGI_07563	  6e-15
+## Alignment 454: score=169.0 e_value=9.7e-05 N=4 ive_Chr6&seq_chr4 minus
+454-  0:	ptg000556l_1	SEGI_29610	  4e-23
+454-  1:	ptg000556l_6	SEGI_24618	  4e-16
+454-  2:	ptg001838l_7	SEGI_18440	 3e-115
+454-  3:	ptg001838l_8	SEGI_03791	 1e-205
+## Alignment 455: score=161.0 e_value=3.1e-06 N=5 ive_Chr6&seq_chr4 minus
+455-  0:	ptg001411l_14	SEGI_35751	 1e-210
+455-  1:	ptg001817l_17	SEGI_01379	 6e-108
+455-  2:	ptg001817l_10	SEGI_38604	      0
+455-  3:	ptg000946l_16	SEGI_25894	  3e-52
+455-  4:	ptg000946l_15	SEGI_04370	 4e-100
+## Alignment 456: score=250.0 e_value=2.5e-09 N=6 ive_Chr6&seq_chr5 plus
+456-  0:	ptg000597l_24	SEGI_12064	 3e-175
+456-  1:	ptg000597l_21	SEGI_37393	 1e-120
+456-  2:	ptg000180l_22	SEGI_27266	 8e-261
+456-  3:	ptg000180l_21	SEGI_03201	 2e-289
+456-  4:	ptg000180l_19	SEGI_12158	 1e-240
+456-  5:	ptg000180l_28	SEGI_25034	 1e-233
+## Alignment 457: score=173.0 e_value=2.1e-06 N=5 ive_Chr6&seq_chr5 plus
+457-  0:	ptg001325l_9	SEGI_02551	      0
+457-  1:	ptg001325l_5	SEGI_12356	  1e-34
+457-  2:	ptg000698l_16	SEGI_28369	 1e-145
+457-  3:	ptg000698l_13	SEGI_23172	 5e-239
+457-  4:	ptg000698l_11	SEGI_27048	 1e-109
+## Alignment 458: score=154.0 e_value=3e-08 N=5 ive_Chr6&seq_chr5 plus
+458-  0:	ptg000837l_72	SEGI_21356	  9e-68
+458-  1:	ptg000837l_73	SEGI_14570	  2e-82
+458-  2:	ptg000837l_68	SEGI_23909	  8e-83
+458-  3:	ptg000837l_44	SEGI_06294	 4e-236
+458-  4:	ptg000098l_5	SEGI_08859	 1e-162
+## Alignment 459: score=203.0 e_value=1.7e-08 N=5 ive_Chr6&seq_chr5 minus
+459-  0:	ptg001025l_3	SEGI_33127	  4e-11
+459-  1:	ptg001025l_2	SEGI_03543	  1e-23
+459-  2:	ptg001025l_9	SEGI_36667	 8e-148
+459-  3:	ptg001025l_23	SEGI_38189	 7e-100
+459-  4:	ptg000262l_20	SEGI_16488	 4e-100
+## Alignment 460: score=299.0 e_value=2.4e-16 N=8 ive_Chr6&seq_chr6 plus
+460-  0:	ptg000892l_51	SEGI_17922	 5e-119
+460-  1:	ptg000892l_36	SEGI_30411	  2e-17
+460-  2:	ptg000892l_35	SEGI_14835	  7e-65
+460-  3:	ptg000892l_30	SEGI_29161	 2e-123
+460-  4:	ptg000892l_29	SEGI_35488	 1e-223
+460-  5:	ptg000892l_25	SEGI_14478	  2e-06
+460-  6:	ptg000892l_31	SEGI_06830	  8e-56
+460-  7:	ptg001246l_1	SEGI_15571	 3e-124
+## Alignment 461: score=246.0 e_value=6.9e-24 N=11 ive_Chr6&seq_chr6 plus
+461-  0:	ptg001509l_4	SEGI_12476	  5e-42
+461-  1:	ptg001484l_1	SEGI_19312	  5e-45
+461-  2:	ptg001035l_48	SEGI_14532	 4e-219
+461-  3:	ptg001035l_46	SEGI_10299	  2e-30
+461-  4:	ptg001035l_43	SEGI_34307	  6e-74
+461-  5:	ptg001035l_24	SEGI_24504	 2e-113
+461-  6:	ptg001035l_14	SEGI_41432	  2e-12
+461-  7:	ptg001035l_3	SEGI_13424	  4e-18
+461-  8:	ptg000892l_51	SEGI_09203	 2e-111
+461-  9:	ptg000892l_47	SEGI_28490	 1e-129
+461- 10:	ptg000892l_40	SEGI_27409	  2e-26
+## Alignment 462: score=168.0 e_value=0.00034 N=4 ive_Chr6&seq_chr6 plus
+462-  0:	ptg002486l_18	SEGI_09058	 3e-109
+462-  1:	ptg002486l_2	SEGI_40218	 2e-116
+462-  2:	ptg002486l_13	SEGI_00246	 2e-109
+462-  3:	ptg000087l_40	SEGI_24743	 4e-111
+## Alignment 463: score=163.0 e_value=0.00024 N=4 ive_Chr6&seq_chr6 plus
+463-  0:	ptg001381l_1	SEGI_18969	 2e-114
+463-  1:	ptg001410l_1	SEGI_00731	  5e-93
+463-  2:	ptg000001l_15	SEGI_34849	 1e-103
+463-  3:	ptg000001l_11	SEGI_10009	 2e-110
+## Alignment 464: score=162.0 e_value=0.00018 N=4 ive_Chr6&seq_chr6 plus
+464-  0:	ptg000001l_15	SEGI_19773	 4e-107
+464-  1:	ptg000001l_11	SEGI_18969	 1e-111
+464-  2:	ptg000673l_15	SEGI_00731	  5e-38
+464-  3:	ptg000673l_14	SEGI_10009	 2e-107
+## Alignment 465: score=177.0 e_value=0.00035 N=4 ive_Chr6&seq_chr6 minus
+465-  0:	ptg000177l_28	SEGI_13071	  3e-08
+465-  1:	ptg000177l_27	SEGI_39118	  8e-56
+465-  2:	ptg000177l_33	SEGI_05601	  1e-14
+465-  3:	ptg000177l_40	SEGI_18019	  3e-21
+## Alignment 466: score=163.0 e_value=0.00046 N=4 ive_Chr6&seq_chr6 minus
+466-  0:	ptg001381l_1	SEGI_34849	 9e-107
+466-  1:	ptg001410l_1	SEGI_00731	  5e-93
+466-  2:	ptg000001l_11	SEGI_18969	 1e-111
+466-  3:	ptg000673l_14	SEGI_19773	 9e-114
+## Alignment 467: score=208.0 e_value=5e-06 N=5 ive_Chr6&seq_chr7 plus
+467-  0:	ptg000087l_50	SEGI_05226	  4e-18
+467-  1:	ptg000087l_52	SEGI_36878	 6e-222
+467-  2:	ptg000087l_54	SEGI_24367	  4e-84
+467-  3:	ptg000087l_55	SEGI_29790	 5e-259
+467-  4:	ptg000087l_59	SEGI_34735	  1e-89
+## Alignment 468: score=171.0 e_value=7.5e-07 N=5 ive_Chr6&seq_chr7 plus
+468-  0:	ptg000180l_3	SEGI_01696	  4e-71
+468-  1:	ptg001877l_7	SEGI_32083	  8e-81
+468-  2:	ptg001877l_8	SEGI_19877	 2e-180
+468-  3:	ptg000891l_82	SEGI_18687	 2e-127
+468-  4:	ptg000891l_71	SEGI_05831	 3e-157
+## Alignment 469: score=184.0 e_value=0.00038 N=4 ive_Chr6&seq_chr7 minus
+469-  0:	ptg001580l_1	SEGI_05996	 2e-144
+469-  1:	ptg001580l_3	SEGI_38272	  5e-54
+469-  2:	ptg001580l_2	SEGI_31806	  2e-86
+469-  3:	ptg003139l_2	SEGI_23990	  3e-29
+## Alignment 470: score=186.0 e_value=1.8e-07 N=4 ive_Chr7&seq_chr1 plus
+470-  0:	ptg000721l_4	SEGI_26789	  5e-77
+470-  1:	ptg000721l_2	SEGI_39431	  8e-24
+470-  2:	ptg000721l_3	SEGI_06649	 3e-140
+470-  3:	ptg000721l_21	SEGI_14198	  3e-62
+## Alignment 471: score=178.0 e_value=7.2e-11 N=6 ive_Chr7&seq_chr1 plus
+471-  0:	ptg000486l_14	SEGI_40051	 1e-148
+471-  1:	ptg000486l_44	SEGI_14997	  6e-55
+471-  2:	ptg000486l_49	SEGI_39170	 3e-143
+471-  3:	ptg000486l_7	SEGI_04575	 7e-113
+471-  4:	ptg000486l_8	SEGI_38425	  2e-16
+471-  5:	ptg000721l_9	SEGI_06828	  6e-77
+## Alignment 472: score=206.0 e_value=1.8e-08 N=6 ive_Chr7&seq_chr1 minus
+472-  0:	ptg000486l_13	SEGI_01742	  8e-41
+472-  1:	ptg000486l_20	SEGI_19079	  4e-14
+472-  2:	ptg000721l_15	SEGI_22333	  2e-83
+472-  3:	ptg000721l_6	SEGI_26269	 3e-122
+472-  4:	ptg000721l_21	SEGI_14198	  3e-62
+472-  5:	ptg001513l_12	SEGI_41242	 5e-137
+## Alignment 473: score=151.0 e_value=1.1e-06 N=5 ive_Chr7&seq_chr2 minus
+473-  0:	ptg001934l_6	SEGI_27836	 2e-124
+473-  1:	ptg001934l_25	SEGI_33818	  2e-91
+473-  2:	ptg001934l_31	SEGI_29962	  7e-11
+473-  3:	ptg000031l_57	SEGI_31490	 3e-100
+473-  4:	ptg000031l_28	SEGI_21134	  6e-54
+## Alignment 474: score=253.0 e_value=8.3e-15 N=7 ive_Chr7&seq_chr3 plus
+474-  0:	ptg001348l_47	SEGI_08260	  6e-39
+474-  1:	ptg001348l_22	SEGI_19215	 4e-151
+474-  2:	ptg000642l_1	SEGI_28755	 3e-116
+474-  3:	ptg000642l_5	SEGI_30778	  6e-34
+474-  4:	ptg000171l_6	SEGI_09718	  5e-25
+474-  5:	ptg000171l_8	SEGI_35763	  3e-24
+474-  6:	ptg000171l_15	SEGI_12134	  2e-15
+## Alignment 475: score=205.0 e_value=3.7e-10 N=6 ive_Chr7&seq_chr3 plus
+475-  0:	ptg001985l_30	SEGI_12475	 2e-141
+475-  1:	ptg001985l_29	SEGI_39090	  3e-48
+475-  2:	ptg001985l_3	SEGI_37769	 5e-148
+475-  3:	ptg001985l_8	SEGI_03208	 9e-117
+475-  4:	ptg001934l_25	SEGI_26378	  4e-93
+475-  5:	ptg000031l_1	SEGI_09488	  7e-50
+## Alignment 476: score=177.0 e_value=8.7e-05 N=4 ive_Chr7&seq_chr3 plus
+476-  0:	ptg000133l_12	SEGI_36407	  1e-09
+476-  1:	ptg000133l_14	SEGI_18953	  4e-41
+476-  2:	ptg000133l_5	SEGI_10917	 4e-143
+476-  3:	ptg000133l_53	SEGI_13493	  2e-34
+## Alignment 477: score=264.0 e_value=1e-08 N=6 ive_Chr7&seq_chr3 minus
+477-  0:	ptg001348l_14	SEGI_11286	  5e-39
+477-  1:	ptg001348l_15	SEGI_38432	  7e-44
+477-  2:	ptg001356l_3	SEGI_19777	  1e-43
+477-  3:	ptg001356l_2	SEGI_40744	 3e-100
+477-  4:	ptg000590l_5	SEGI_31359	  1e-07
+477-  5:	ptg000590l_17	SEGI_06351	  6e-32
+## Alignment 478: score=178.0 e_value=9.7e-07 N=5 ive_Chr7&seq_chr3 minus
+478-  0:	ptg000590l_6	SEGI_11488	 1e-131
+478-  1:	ptg000590l_7	SEGI_21466	 9e-207
+478-  2:	ptg000171l_39	SEGI_25225	  6e-47
+478-  3:	ptg000171l_34	SEGI_18750	 8e-160
+478-  4:	ptg000171l_43	SEGI_06832	  2e-65
+## Alignment 479: score=157.0 e_value=3.3e-08 N=4 ive_Chr7&seq_chr3 minus
+479-  0:	ptg000133l_36	SEGI_22596	  2e-78
+479-  1:	ptg000133l_19	SEGI_25913	 2e-155
+479-  2:	ptg000133l_14	SEGI_18953	  4e-41
+479-  3:	ptg000133l_13	SEGI_12292	  1e-35
+## Alignment 480: score=168.0 e_value=1.4e-06 N=5 ive_Chr7&seq_chr4 plus
+480-  0:	ptg000560l_5	SEGI_05357	 4e-103
+480-  1:	ptg001854l_1	SEGI_18532	  4e-12
+480-  2:	ptg001443l_8	SEGI_03022	  5e-17
+480-  3:	ptg001473l_34	SEGI_15422	 3e-147
+480-  4:	ptg001281l_7	SEGI_16490	  5e-22
+## Alignment 481: score=165.0 e_value=0.00021 N=4 ive_Chr7&seq_chr5 minus
+481-  0:	ptg000292l_1	SEGI_41271	 2e-118
+481-  1:	ptg001437l_11	SEGI_14752	  1e-56
+481-  2:	ptg001437l_13	SEGI_16223	  3e-17
+481-  3:	ptg000594l_34	SEGI_27227	  8e-45
+## Alignment 482: score=198.0 e_value=4.1e-08 N=5 ive_Chr7&seq_chr7 plus
+482-  0:	ptg000125l_5	SEGI_28372	  5e-32
+482-  1:	ptg000125l_9	SEGI_15105	  2e-16
+482-  2:	ptg000125l_10	SEGI_08877	  1e-42
+482-  3:	ptg000365l_28	SEGI_06516	 6e-173
+482-  4:	ptg000365l_44	SEGI_33598	  9e-41
+## Alignment 483: score=173.0 e_value=5.3e-07 N=5 ive_Chr7&seq_chr7 plus
+483-  0:	ptg000127l_29	SEGI_29933	  3e-27
+483-  1:	ptg000127l_28	SEGI_04989	  5e-50
+483-  2:	ptg000127l_20	SEGI_39541	 8e-129
+483-  3:	ptg000127l_19	SEGI_38468	 6e-111
+483-  4:	ptg000127l_13	SEGI_26335	  7e-63
+## Alignment 484: score=180.0 e_value=3.8e-05 N=4 ive_Chr7&seq_chr8 plus
+484-  0:	ptg001063l_2	SEGI_38652	 2e-235
+484-  1:	ptg001063l_3	SEGI_09611	 7e-103
+484-  2:	ptg001063l_15	SEGI_20254	  3e-34
+484-  3:	ptg001575l_1	SEGI_11364	  2e-41
+## Alignment 485: score=179.0 e_value=1.9e-06 N=5 ive_Chr7&seq_chr8 plus
+485-  0:	ptg000951l_8	SEGI_14796	  1e-39
+485-  1:	ptg000629l_3	SEGI_03174	  3e-47
+485-  2:	ptg000629l_1	SEGI_22905	 7e-147
+485-  3:	ptg001063l_7	SEGI_33772	 8e-153
+485-  4:	ptg001063l_25	SEGI_25576	 9e-114
+## Alignment 486: score=165.0 e_value=3.8e-08 N=5 ive_Chr7&seq_chr8 plus
+486-  0:	ptg000901l_1	SEGI_39886	  5e-05
+486-  1:	ptg000901l_64	SEGI_01358	  2e-98
+486-  2:	ptg000901l_41	SEGI_20197	  3e-88
+486-  3:	ptg001190l_3	SEGI_19412	  4e-20
+486-  4:	ptg001149l_10	SEGI_31743	  4e-16
+## Alignment 487: score=228.0 e_value=8.5e-06 N=5 ive_Chr7&seq_chr8 minus
+487-  0:	ptg001063l_2	SEGI_38652	 2e-235
+487-  1:	ptg001063l_4	SEGI_04487	 6e-100
+487-  2:	ptg001063l_18	SEGI_03136	 2e-116
+487-  3:	ptg001063l_23	SEGI_29325	 7e-108
+487-  4:	ptg001575l_1	SEGI_31823	  1e-48
+## Alignment 488: score=177.0 e_value=1.7e-11 N=5 ive_Chr7&seq_chr8 minus
+488-  0:	ptg001816l_3	SEGI_02190	  2e-08
+488-  1:	ptg001816l_2	SEGI_17026	  9e-25
+488-  2:	ptg001816l_1	SEGI_20304	  3e-53
+488-  3:	ptg001614l_8	SEGI_08129	  4e-44
+488-  4:	ptg001614l_9	SEGI_39179	  9e-29
+## Alignment 489: score=173.0 e_value=6.3e-07 N=4 ive_Chr7&seq_chr8 minus
+489-  0:	ptg000441l_7	SEGI_20279	 2e-131
+489-  1:	ptg001472l_6	SEGI_02582	  2e-24
+489-  2:	ptg001472l_7	SEGI_28881	  1e-59
+489-  3:	ptg001472l_1	SEGI_13629	  5e-12
+## Alignment 490: score=169.0 e_value=1.2e-06 N=5 ive_Chr7&seq_chr8 minus
+490-  0:	ptg000114l_3	SEGI_33278	 5e-168
+490-  1:	ptg000114l_5	SEGI_16866	 1e-296
+490-  2:	ptg001844l_40	SEGI_39267	 7e-166
+490-  3:	ptg001844l_59	SEGI_39378	  9e-71
+490-  4:	ptg001844l_67	SEGI_28336	  2e-63
+## Alignment 491: score=162.0 e_value=0.00058 N=4 ive_Chr7&seq_chr8 minus
+491-  0:	ptg000003l_48	SEGI_40541	 2e-184
+491-  1:	ptg000003l_49	SEGI_16113	 1e-283
+491-  2:	ptg000003l_51	SEGI_32782	  2e-33
+491-  3:	ptg002025l_1	SEGI_18852	  3e-17
+## Alignment 492: score=151.0 e_value=2.3e-07 N=5 ive_Chr7&seq_chr8 minus
+492-  0:	ptg000901l_30	SEGI_19412	  8e-23
+492-  1:	ptg000901l_41	SEGI_20197	  3e-88
+492-  2:	ptg000901l_24	SEGI_26650	  4e-43
+492-  3:	ptg001868l_10	SEGI_24114	  4e-17
+492-  4:	ptg001868l_11	SEGI_22453	 8e-115
+## Alignment 493: score=209.0 e_value=5e-07 N=5 ive_Chr7&seq_chr9 plus
+493-  0:	ptg001981l_12	SEGI_35766	 2e-200
+493-  1:	ptg001981l_4	SEGI_33490	  6e-94
+493-  2:	ptg001981l_6	SEGI_02306	 2e-205
+493-  3:	ptg002452l_1	SEGI_39547	  2e-63
+493-  4:	ptg000074l_9	SEGI_34558	  5e-46
+## Alignment 494: score=172.0 e_value=0.00089 N=4 ive_Chr7&seq_chr9 plus
+494-  0:	ptg000623l_32	SEGI_05272	 2e-118
+494-  1:	ptg000623l_33	SEGI_23562	  8e-79
+494-  2:	ptg000623l_39	SEGI_12207	  2e-52
+494-  3:	ptg000623l_43	SEGI_21181	 1e-114
+## Alignment 495: score=165.0 e_value=0.00022 N=4 ive_Chr7&seq_chr9 plus
+495-  0:	ptg000064l_8	SEGI_33832	  3e-17
+495-  1:	ptg000064l_36	SEGI_02308	 1e-133
+495-  2:	ptg000064l_39	SEGI_12829	  1e-57
+495-  3:	ptg000064l_1	SEGI_09659	  1e-46
+## Alignment 496: score=170.0 e_value=9.4e-07 N=5 ive_Chr7&seq_chr9 minus
+496-  0:	ptg001021l_18	SEGI_28056	  1e-35
+496-  1:	ptg000743l_12	SEGI_13375	 2e-123
+496-  2:	ptg000743l_46	SEGI_28925	  2e-79
+496-  3:	ptg000743l_47	SEGI_00743	 3e-214
+496-  4:	ptg000743l_51	SEGI_09103	  1e-74
+## Alignment 497: score=238.0 e_value=1.5e-11 N=7 ive_Chr8&seq_chr1 plus
+497-  0:	ptg001879l_32	SEGI_28659	  6e-26
+497-  1:	ptg001879l_31	SEGI_37396	  5e-41
+497-  2:	ptg001879l_11	SEGI_24197	  2e-12
+497-  3:	ptg000720l_11	SEGI_35055	  1e-31
+497-  4:	ptg000574l_2	SEGI_16969	  7e-06
+497-  5:	ptg001185l_51	SEGI_12336	  7e-34
+497-  6:	ptg001185l_19	SEGI_10569	  3e-81
+## Alignment 498: score=186.0 e_value=1.8e-06 N=5 ive_Chr8&seq_chr1 plus
+498-  0:	ptg000687l_2	SEGI_30701	 2e-108
+498-  1:	ptg000687l_40	SEGI_33312	  8e-12
+498-  2:	ptg000687l_19	SEGI_41159	 9e-142
+498-  3:	ptg001685l_8	SEGI_14873	  8e-61
+498-  4:	ptg001134l_19	SEGI_40515	  1e-60
+## Alignment 499: score=173.0 e_value=0.0003 N=4 ive_Chr8&seq_chr1 plus
+499-  0:	ptg000687l_16	SEGI_00989	  8e-37
+499-  1:	ptg000687l_9	SEGI_14194	  8e-84
+499-  2:	ptg000687l_6	SEGI_37975	 2e-205
+499-  3:	ptg001685l_3	SEGI_30155	 4e-172
+## Alignment 500: score=163.0 e_value=0.00019 N=4 ive_Chr8&seq_chr1 plus
+500-  0:	ptg000730l_16	SEGI_37674	  3e-32
+500-  1:	ptg000730l_23	SEGI_08005	  9e-49
+500-  2:	ptg000730l_24	SEGI_29900	  6e-45
+500-  3:	ptg000730l_25	SEGI_33383	 3e-165
+## Alignment 501: score=158.0 e_value=4.3e-06 N=4 ive_Chr8&seq_chr1 plus
+501-  0:	ptg001185l_70	SEGI_20639	  6e-16
+501-  1:	ptg001185l_62	SEGI_18641	 2e-118
+501-  2:	ptg000678l_24	SEGI_16088	  2e-70
+501-  3:	ptg000678l_28	SEGI_01473	  1e-35
+## Alignment 502: score=185.0 e_value=0.00066 N=4 ive_Chr8&seq_chr1 minus
+502-  0:	ptg000730l_15	SEGI_07233	 2e-126
+502-  1:	ptg000730l_23	SEGI_21246	  2e-46
+502-  2:	ptg000730l_24	SEGI_04809	  9e-43
+502-  3:	ptg000730l_25	SEGI_33383	 3e-165
+## Alignment 503: score=161.0 e_value=2.7e-05 N=4 ive_Chr8&seq_chr1 minus
+503-  0:	ptg001185l_85	SEGI_03960	 3e-143
+503-  1:	ptg001185l_82	SEGI_03560	 1e-199
+503-  2:	ptg001185l_52	SEGI_25521	  1e-59
+503-  3:	ptg001185l_43	SEGI_24568	 4e-117
+## Alignment 504: score=156.0 e_value=0.00016 N=4 ive_Chr8&seq_chr1 minus
+504-  0:	ptg001134l_8	SEGI_34551	  2e-44
+504-  1:	ptg001134l_13	SEGI_14562	 2e-174
+504-  2:	ptg001134l_14	SEGI_28371	 4e-174
+504-  3:	ptg001072l_18	SEGI_19620	  5e-69
+## Alignment 505: score=156.0 e_value=0.00076 N=4 ive_Chr8&seq_chr1 minus
+505-  0:	ptg000427l_18	SEGI_33654	 1e-263
+505-  1:	ptg000427l_14	SEGI_16602	 4e-100
+505-  2:	ptg000427l_13	SEGI_20192	  2e-68
+505-  3:	ptg000427l_10	SEGI_29628	  1e-23
+## Alignment 506: score=247.0 e_value=7.7e-14 N=7 ive_Chr8&seq_chr11 plus
+506-  0:	ptg001379l_31	SEGI_21309	 2e-116
+506-  1:	ptg000090l_30	SEGI_24981	 5e-201
+506-  2:	ptg001180l_3	SEGI_14023	 7e-164
+506-  3:	ptg001052l_10	SEGI_10409	      0
+506-  4:	ptg001052l_8	SEGI_32156	 7e-221
+506-  5:	ptg001052l_7	SEGI_22055	  3e-19
+506-  6:	ptg001052l_6	SEGI_00498	 6e-259
+## Alignment 507: score=218.0 e_value=6e-14 N=7 ive_Chr8&seq_chr11 plus
+507-  0:	ptg000933l_35	SEGI_29472	  5e-76
+507-  1:	ptg000933l_14	SEGI_04600	  3e-85
+507-  2:	ptg000933l_13	SEGI_30459	  5e-66
+507-  3:	ptg000933l_6	SEGI_34018	  3e-22
+507-  4:	ptg000933l_129	SEGI_07742	 5e-181
+507-  5:	ptg000037l_73	SEGI_26879	  2e-81
+507-  6:	ptg000037l_40	SEGI_15441	 1e-145
+## Alignment 508: score=210.0 e_value=1.1e-09 N=6 ive_Chr8&seq_chr11 plus
+508-  0:	ptg002293l_11	SEGI_09076	 1e-257
+508-  1:	ptg001379l_42	SEGI_03103	  6e-12
+508-  2:	ptg001379l_33	SEGI_36444	  1e-23
+508-  3:	ptg001379l_36	SEGI_01955	  2e-96
+508-  4:	ptg001379l_39	SEGI_26733	 1e-210
+508-  5:	ptg001379l_7	SEGI_36108	 2e-115
+## Alignment 509: score=158.0 e_value=4.2e-07 N=4 ive_Chr8&seq_chr11 plus
+509-  0:	ptg000814l_12	SEGI_09445	  2e-90
+509-  1:	ptg000079l_5	SEGI_04003	  6e-21
+509-  2:	ptg000103l_84	SEGI_08574	  1e-13
+509-  3:	ptg000103l_79	SEGI_19452	 2e-226
+## Alignment 510: score=156.0 e_value=0.00012 N=4 ive_Chr8&seq_chr11 plus
+510-  0:	ptg000037l_42	SEGI_03240	  2e-33
+510-  1:	ptg000037l_65	SEGI_39988	 2e-258
+510-  2:	ptg000831l_2	SEGI_40484	 3e-131
+510-  3:	ptg000831l_7	SEGI_34556	 3e-111
+## Alignment 511: score=233.0 e_value=9.1e-18 N=7 ive_Chr8&seq_chr11 minus
+511-  0:	ptg000079l_8	SEGI_19452	 2e-226
+511-  1:	ptg000103l_84	SEGI_08574	  1e-13
+511-  2:	ptg000103l_83	SEGI_04003	  6e-21
+511-  3:	ptg000103l_62	SEGI_36771	 5e-137
+511-  4:	ptg000103l_44	SEGI_23217	  2e-79
+511-  5:	ptg000103l_106	SEGI_19441	  8e-47
+511-  6:	ptg001913l_5	SEGI_19782	  6e-25
+## Alignment 512: score=196.0 e_value=8.9e-08 N=5 ive_Chr8&seq_chr11 minus
+512-  0:	ptg000037l_12	SEGI_33830	  2e-29
+512-  1:	ptg000037l_20	SEGI_35239	  3e-85
+512-  2:	ptg000037l_24	SEGI_12319	 4e-113
+512-  3:	ptg000831l_6	SEGI_01784	 1e-205
+512-  4:	ptg000831l_12	SEGI_33409	  2e-37
+## Alignment 513: score=169.0 e_value=2.6e-07 N=5 ive_Chr8&seq_chr11 minus
+513-  0:	ptg000933l_18	SEGI_32393	 4e-117
+513-  1:	ptg000933l_17	SEGI_04826	  4e-58
+513-  2:	ptg000933l_6	SEGI_34018	  3e-22
+513-  3:	ptg000933l_2	SEGI_30459	  7e-65
+513-  4:	ptg000037l_41	SEGI_01702	  4e-12
+## Alignment 514: score=164.0 e_value=2.4e-09 N=5 ive_Chr8&seq_chr11 minus
+514-  0:	ptg002293l_44	SEGI_11635	  6e-74
+514-  1:	ptg001379l_10	SEGI_30451	 4e-140
+514-  2:	ptg001379l_11	SEGI_31093	  1e-68
+514-  3:	ptg001379l_15	SEGI_30102	  4e-68
+514-  4:	ptg001379l_16	SEGI_37822	  4e-53
+## Alignment 515: score=152.0 e_value=0.0002 N=4 ive_Chr8&seq_chr11 minus
+515-  0:	ptg000090l_34	SEGI_23548	      0
+515-  1:	ptg000090l_50	SEGI_38061	  2e-84
+515-  2:	ptg001180l_16	SEGI_22509	 3e-231
+515-  3:	ptg001180l_17	SEGI_07369	  9e-58
+## Alignment 516: score=189.0 e_value=0.00018 N=4 ive_Chr8&seq_chr2 plus
+516-  0:	ptg000933l_107	SEGI_24466	  2e-27
+516-  1:	ptg000933l_106	SEGI_04232	 2e-134
+516-  2:	ptg000933l_101	SEGI_33562	 2e-116
+516-  3:	ptg000933l_98	SEGI_22097	  6e-47
+## Alignment 517: score=161.0 e_value=0.00067 N=4 ive_Chr8&seq_chr2 plus
+517-  0:	ptg000103l_101	SEGI_40177	  5e-35
+517-  1:	ptg000103l_95	SEGI_38240	 1e-171
+517-  2:	ptg000103l_93	SEGI_04453	  1e-10
+517-  3:	ptg000103l_53	SEGI_01092	  6e-42
+## Alignment 518: score=182.0 e_value=3.7e-06 N=5 ive_Chr8&seq_chr2 minus
+518-  0:	ptg000640l_12	SEGI_00858	  7e-14
+518-  1:	ptg000640l_18	SEGI_07522	  3e-57
+518-  2:	ptg000933l_123	SEGI_30052	 2e-110
+518-  3:	ptg000933l_119	SEGI_19766	 5e-190
+518-  4:	ptg000933l_112	SEGI_05743	  6e-90
+## Alignment 519: score=169.0 e_value=2e-06 N=5 ive_Chr8&seq_chr2 minus
+519-  0:	ptg000933l_102	SEGI_08256	  9e-05
+519-  1:	ptg000933l_99	SEGI_12395	 5e-151
+519-  2:	ptg000933l_96	SEGI_03637	 2e-104
+519-  3:	ptg000933l_43	SEGI_13186	  6e-70
+519-  4:	ptg000933l_28	SEGI_40342	  2e-53
+## Alignment 520: score=313.0 e_value=1.2e-16 N=8 ive_Chr8&seq_chr3 plus
+520-  0:	ptg000803l_53	SEGI_03041	  1e-42
+520-  1:	ptg000803l_4	SEGI_05025	 6e-128
+520-  2:	ptg000803l_5	SEGI_25092	  2e-12
+520-  3:	ptg000803l_7	SEGI_35456	 4e-159
+520-  4:	ptg000803l_8	SEGI_37169	  3e-81
+520-  5:	ptg000803l_11	SEGI_07525	  5e-69
+520-  6:	ptg001960l_4	SEGI_21755	  1e-24
+520-  7:	ptg001213l_50	SEGI_05354	 1e-117
+## Alignment 521: score=214.0 e_value=2.9e-06 N=5 ive_Chr8&seq_chr3 plus
+521-  0:	ptg000563l_16	SEGI_16821	 2e-178
+521-  1:	ptg000013l_6	SEGI_28417	 9e-109
+521-  2:	ptg000013l_22	SEGI_36724	  4e-36
+521-  3:	ptg000013l_31	SEGI_11984	  1e-45
+521-  4:	ptg000013l_5	SEGI_35539	  3e-56
+## Alignment 522: score=191.0 e_value=8e-06 N=4 ive_Chr8&seq_chr3 plus
+522-  0:	ptg002344l_1	SEGI_32394	 5e-113
+522-  1:	ptg000351l_31	SEGI_16040	 3e-108
+522-  2:	ptg000351l_29	SEGI_16373	 2e-109
+522-  3:	ptg000351l_24	SEGI_18961	 3e-178
+## Alignment 523: score=195.0 e_value=3.7e-08 N=5 ive_Chr8&seq_chr4 plus
+523-  0:	ptg001072l_35	SEGI_34014	  8e-36
+523-  1:	ptg002229l_8	SEGI_34114	  2e-52
+523-  2:	ptg002229l_10	SEGI_34915	  1e-16
+523-  3:	ptg002229l_6	SEGI_28658	  1e-12
+523-  4:	ptg000427l_8	SEGI_00730	  6e-17
+## Alignment 524: score=182.0 e_value=0.00063 N=4 ive_Chr8&seq_chr4 plus
+524-  0:	ptg000013l_7	SEGI_20133	 6e-166
+524-  1:	ptg000013l_11	SEGI_09624	  8e-50
+524-  2:	ptg000013l_12	SEGI_06667	  9e-91
+524-  3:	ptg000013l_23	SEGI_00846	 1e-154
+## Alignment 525: score=166.0 e_value=0.00069 N=4 ive_Chr8&seq_chr4 plus
+525-  0:	ptg001072l_26	SEGI_24077	 1e-234
+525-  1:	ptg001072l_32	SEGI_37763	 5e-113
+525-  2:	ptg001072l_33	SEGI_09375	 1e-161
+525-  3:	ptg000427l_20	SEGI_31697	 6e-195
+## Alignment 526: score=175.0 e_value=2.5e-05 N=4 ive_Chr8&seq_chr4 minus
+526-  0:	ptg000013l_7	SEGI_00846	 1e-156
+526-  1:	ptg000013l_12	SEGI_02639	  9e-91
+526-  2:	ptg000013l_26	SEGI_18098	  1e-11
+526-  3:	ptg001157l_2	SEGI_20133	 2e-155
+## Alignment 527: score=216.0 e_value=3.9e-13 N=7 ive_Chr8&seq_chr6 plus
+527-  0:	ptg000369l_112	SEGI_29950	 3e-172
+527-  1:	ptg000369l_25	SEGI_09138	 3e-122
+527-  2:	ptg000369l_103	SEGI_17564	  3e-88
+527-  3:	ptg000369l_106	SEGI_27965	  5e-57
+527-  4:	ptg000369l_107	SEGI_28273	  3e-37
+527-  5:	ptg000369l_123	SEGI_30062	  6e-37
+527-  6:	ptg000369l_131	SEGI_08025	  2e-65
+## Alignment 528: score=195.0 e_value=2.3e-07 N=5 ive_Chr8&seq_chr6 plus
+528-  0:	ptg000781l_7	SEGI_22959	  1e-74
+528-  1:	ptg000781l_8	SEGI_20246	 8e-129
+528-  2:	ptg000781l_10	SEGI_40956	 3e-110
+528-  3:	ptg000369l_62	SEGI_07952	  1e-09
+528-  4:	ptg000369l_95	SEGI_09976	  8e-48
+## Alignment 529: score=183.0 e_value=0.00045 N=4 ive_Chr8&seq_chr6 plus
+529-  0:	ptg000259l_38	SEGI_04872	  1e-64
+529-  1:	ptg000259l_34	SEGI_02082	  2e-39
+529-  2:	ptg000259l_30	SEGI_02536	  7e-89
+529-  3:	ptg000259l_17	SEGI_04125	  7e-14
+## Alignment 530: score=169.0 e_value=9.8e-08 N=5 ive_Chr8&seq_chr6 plus
+530-  0:	ptg000531l_2	SEGI_21962	  6e-13
+530-  1:	ptg000079l_26	SEGI_28622	  6e-82
+530-  2:	ptg000079l_6	SEGI_38528	  4e-83
+530-  3:	ptg000079l_2	SEGI_04872	  1e-87
+530-  4:	ptg000103l_87	SEGI_02536	  1e-85
+## Alignment 531: score=157.0 e_value=1.3e-05 N=4 ive_Chr8&seq_chr6 plus
+531-  0:	ptg000836l_13	SEGI_27815	  5e-69
+531-  1:	ptg001512l_15	SEGI_30892	  3e-44
+531-  2:	ptg001512l_9	SEGI_21536	  3e-28
+531-  3:	ptg000099l_29	SEGI_07648	  1e-46
+## Alignment 532: score=157.0 e_value=1.4e-11 N=6 ive_Chr8&seq_chr6 plus
+532-  0:	ptg000099l_28	SEGI_29046	  5e-05
+532-  1:	ptg001293l_24	SEGI_03750	  2e-60
+532-  2:	ptg000781l_1	SEGI_35155	  8e-06
+532-  3:	ptg000369l_113	SEGI_28093	  2e-64
+532-  4:	ptg000369l_120	SEGI_33583	 7e-112
+532-  5:	ptg000369l_121	SEGI_32351	  2e-41
+## Alignment 533: score=173.0 e_value=1.5e-06 N=5 ive_Chr8&seq_chr6 minus
+533-  0:	ptg000369l_113	SEGI_24611	  9e-63
+533-  1:	ptg000369l_115	SEGI_09908	  1e-53
+533-  2:	ptg000369l_118	SEGI_34825	  4e-60
+533-  3:	ptg000369l_21	SEGI_32366	 2e-103
+533-  4:	ptg000369l_51	SEGI_07534	  1e-98
+## Alignment 534: score=157.0 e_value=2.5e-08 N=5 ive_Chr8&seq_chr6 minus
+534-  0:	ptg001293l_5	SEGI_07648	  1e-28
+534-  1:	ptg001293l_1	SEGI_21536	  1e-28
+534-  2:	ptg001293l_36	SEGI_30892	 3e-184
+534-  3:	ptg000781l_3	SEGI_03380	  7e-23
+534-  4:	ptg000781l_17	SEGI_35081	  1e-43
+## Alignment 535: score=167.0 e_value=0.00028 N=4 ive_Chr8&seq_chr9 plus
+535-  0:	ptg000138l_39	SEGI_08712	  8e-36
+535-  1:	ptg000138l_40	SEGI_28224	  3e-48
+535-  2:	ptg000138l_24	SEGI_31755	  6e-70
+535-  3:	ptg000531l_25	SEGI_30533	  1e-63
+## Alignment 536: score=195.0 e_value=0.00077 N=4 ive_Chr8&seq_chr9 minus
+536-  0:	ptg000131l_9	SEGI_29743	  4e-27
+536-  1:	ptg000131l_7	SEGI_02373	  3e-61
+536-  2:	ptg000131l_6	SEGI_02477	 1e-192
+536-  3:	ptg000131l_3	SEGI_09274	  5e-20
+## Alignment 537: score=278.0 e_value=3.6e-09 N=6 ive_Chr9&seq_HRSCAF_1 plus
+537-  0:	ptg000334l_16	SEGI_07461	  5e-18
+537-  1:	ptg000334l_27	SEGI_05361	  2e-60
+537-  2:	ptg000496l_1	SEGI_17386	 3e-189
+537-  3:	ptg000557l_13	SEGI_30363	  3e-51
+537-  4:	ptg000557l_10	SEGI_33168	  6e-99
+537-  5:	ptg000557l_6	SEGI_41133	 8e-137
+## Alignment 538: score=259.0 e_value=3e-13 N=7 ive_Chr9&seq_HRSCAF_1 minus
+538-  0:	ptg000210l_53	SEGI_26675	 4e-114
+538-  1:	ptg000210l_56	SEGI_09605	 1e-221
+538-  2:	ptg000210l_57	SEGI_17732	  8e-32
+538-  3:	ptg000210l_6	SEGI_07022	  1e-27
+538-  4:	ptg000027l_15	SEGI_16643	  4e-07
+538-  5:	ptg001640l_5	SEGI_09532	  8e-40
+538-  6:	ptg000580l_16	SEGI_37242	  3e-73
+## Alignment 539: score=185.0 e_value=1.5e-06 N=5 ive_Chr9&seq_chr1 minus
+539-  0:	ptg000588l_23	SEGI_05642	  2e-36
+539-  1:	ptg000341l_33	SEGI_23018	  6e-87
+539-  2:	ptg000341l_31	SEGI_30337	  2e-21
+539-  3:	ptg000512l_46	SEGI_25134	 2e-128
+539-  4:	ptg000512l_23	SEGI_40354	 4e-120
+## Alignment 540: score=268.0 e_value=3.8e-09 N=6 ive_Chr9&seq_chr10 plus
+540-  0:	ptg000271l_27	SEGI_09430	  1e-24
+540-  1:	ptg000271l_26	SEGI_24415	 4e-104
+540-  2:	ptg000271l_25	SEGI_38487	  3e-51
+540-  3:	ptg000271l_19	SEGI_14449	      0
+540-  4:	ptg000970l_10	SEGI_40834	 1e-153
+540-  5:	ptg000970l_1	SEGI_31067	  3e-48
+## Alignment 541: score=218.0 e_value=5.1e-08 N=5 ive_Chr9&seq_chr10 plus
+541-  0:	ptg000271l_11	SEGI_03807	  2e-21
+541-  1:	ptg000271l_6	SEGI_14889	  3e-21
+541-  2:	ptg000271l_31	SEGI_01663	  1e-98
+541-  3:	ptg000271l_3	SEGI_13742	  2e-63
+541-  4:	ptg002170l_13	SEGI_03582	  2e-40
+## Alignment 542: score=187.0 e_value=0.00066 N=4 ive_Chr9&seq_chr10 plus
+542-  0:	ptg002611l_33	SEGI_36917	  1e-41
+542-  1:	ptg000152l_31	SEGI_12918	 8e-121
+542-  2:	ptg000152l_30	SEGI_30800	 2e-125
+542-  3:	ptg000152l_29	SEGI_02953	 3e-124
+## Alignment 543: score=158.0 e_value=0.00011 N=4 ive_Chr9&seq_chr10 plus
+543-  0:	ptg001242l_15	SEGI_11834	  5e-42
+543-  1:	ptg001457l_5	SEGI_37883	 3e-139
+543-  2:	ptg001457l_13	SEGI_15788	  9e-09
+543-  3:	ptg001457l_14	SEGI_06169	  6e-38
+## Alignment 544: score=168.0 e_value=5.1e-05 N=4 ive_Chr9&seq_chr10 minus
+544-  0:	ptg000592l_2	SEGI_34816	  6e-33
+544-  1:	ptg000592l_3	SEGI_23700	  7e-65
+544-  2:	ptg001766l_20	SEGI_13495	  3e-46
+544-  3:	ptg001766l_18	SEGI_31171	  9e-94
+## Alignment 545: score=290.0 e_value=1.6e-12 N=7 ive_Chr9&seq_chr11 plus
+545-  0:	ptg000651l_54	SEGI_00058	  5e-72
+545-  1:	ptg000651l_55	SEGI_15546	  8e-65
+545-  2:	ptg000651l_57	SEGI_24242	  2e-55
+545-  3:	ptg000651l_59	SEGI_20887	  1e-15
+545-  4:	ptg000651l_61	SEGI_40490	 1e-127
+545-  5:	ptg000651l_65	SEGI_09193	 2e-121
+545-  6:	ptg000651l_75	SEGI_18938	 2e-121
+## Alignment 546: score=179.0 e_value=0.00076 N=4 ive_Chr9&seq_chr11 plus
+546-  0:	ptg001123l_5	SEGI_37761	  4e-15
+546-  1:	ptg001123l_4	SEGI_13802	 1e-122
+546-  2:	ptg001123l_41	SEGI_06764	  2e-29
+546-  3:	ptg001123l_24	SEGI_10648	 4e-193
+## Alignment 547: score=176.0 e_value=3.1e-08 N=6 ive_Chr9&seq_chr11 plus
+547-  0:	ptg001123l_11	SEGI_00150	  1e-71
+547-  1:	ptg001123l_9	SEGI_35663	  2e-74
+547-  2:	ptg001123l_2	SEGI_37553	 2e-104
+547-  3:	ptg000770l_9	SEGI_05517	  5e-24
+547-  4:	ptg001104l_26	SEGI_22547	  2e-73
+547-  5:	ptg001104l_7	SEGI_11154	  1e-50
+## Alignment 548: score=168.0 e_value=0.001 N=4 ive_Chr9&seq_chr11 minus
+548-  0:	ptg000299l_27	SEGI_21573	 5e-157
+548-  1:	ptg000299l_22	SEGI_27818	 1e-241
+548-  2:	ptg000299l_13	SEGI_04185	  7e-84
+548-  3:	ptg000299l_11	SEGI_38351	  2e-25
+## Alignment 549: score=150.0 e_value=4e-05 N=4 ive_Chr9&seq_chr11 minus
+549-  0:	ptg001497l_54	SEGI_22171	  1e-42
+549-  1:	ptg001497l_50	SEGI_14560	  3e-99
+549-  2:	ptg001497l_42	SEGI_40732	  9e-87
+549-  3:	ptg001497l_35	SEGI_04284	  7e-37
+## Alignment 550: score=219.0 e_value=2.3e-11 N=5 ive_Chr9&seq_chr2 plus
+550-  0:	ptg000415l_42	SEGI_32981	  4e-08
+550-  1:	ptg000415l_43	SEGI_17370	  1e-19
+550-  2:	ptg000415l_40	SEGI_34535	  3e-84
+550-  3:	ptg000415l_39	SEGI_13950	 2e-141
+550-  4:	ptg000415l_16	SEGI_22704	 4e-105
+## Alignment 551: score=182.0 e_value=2.6e-05 N=4 ive_Chr9&seq_chr2 minus
+551-  0:	ptg000651l_15	SEGI_03637	  7e-97
+551-  1:	ptg000651l_17	SEGI_20203	 1e-104
+551-  2:	ptg000651l_18	SEGI_13186	  7e-58
+551-  3:	ptg000651l_19	SEGI_08721	  6e-37
+## Alignment 552: score=188.0 e_value=3.2e-08 N=5 ive_Chr9&seq_chr3 minus
+552-  0:	ptg000267l_56	SEGI_23191	 0.0001
+552-  1:	ptg000267l_21	SEGI_14324	  9e-50
+552-  2:	ptg000267l_39	SEGI_13297	 3e-107
+552-  3:	ptg000267l_49	SEGI_12530	  1e-18
+552-  4:	ptg000267l_11	SEGI_00841	  9e-73
+## Alignment 553: score=196.0 e_value=3.5e-07 N=5 ive_Chr9&seq_chr5 plus
+553-  0:	ptg000915l_12	SEGI_29789	 7e-143
+553-  1:	ptg000915l_30	SEGI_32056	  1e-93
+553-  2:	ptg000454l_4	SEGI_30139	 2e-196
+553-  3:	ptg000454l_2	SEGI_22487	  2e-49
+553-  4:	ptg000454l_1	SEGI_26764	  2e-43
+## Alignment 554: score=182.0 e_value=5.9e-07 N=4 ive_Chr9&seq_chr5 plus
+554-  0:	ptg000937l_38	SEGI_16844	  8e-14
+554-  1:	ptg000321l_3	SEGI_24311	  4e-06
+554-  2:	ptg000321l_5	SEGI_21289	  2e-44
+554-  3:	ptg000321l_8	SEGI_30256	  8e-28
+## Alignment 555: score=437.0 e_value=1e-28 N=11 ive_Chr9&seq_chr5 minus
+555-  0:	ptg000982l_11	SEGI_38999	 1e-169
+555-  1:	ptg002611l_22	SEGI_17745	  1e-56
+555-  2:	ptg002611l_25	SEGI_15131	  4e-08
+555-  3:	ptg002611l_26	SEGI_25472	 3e-210
+555-  4:	ptg002611l_30	SEGI_14918	 3e-201
+555-  5:	ptg002611l_32	SEGI_32640	  2e-55
+555-  6:	ptg000152l_20	SEGI_07876	      0
+555-  7:	ptg000152l_19	SEGI_35511	  2e-19
+555-  8:	ptg000152l_18	SEGI_39083	  4e-77
+555-  9:	ptg000152l_16	SEGI_14165	  6e-33
+555- 10:	ptg000956l_23	SEGI_25431	  1e-54
+## Alignment 556: score=166.0 e_value=2.1e-06 N=5 ive_Chr9&seq_chr6 minus
+556-  0:	ptg000936l_7	SEGI_36621	  1e-77
+556-  1:	ptg001274l_3	SEGI_24472	 6e-100
+556-  2:	ptg000236l_11	SEGI_28097	  1e-44
+556-  3:	ptg000236l_12	SEGI_10923	 7e-217
+556-  4:	ptg000236l_13	SEGI_35073	  3e-52
+## Alignment 557: score=161.0 e_value=1.3e-05 N=4 ive_Chr9&seq_chr8 plus
+557-  0:	ptg002030l_7	SEGI_15867	  7e-11
+557-  1:	ptg000510l_57	SEGI_04487	 1e-107
+557-  2:	ptg000510l_60	SEGI_32450	 1e-138
+557-  3:	ptg000510l_62	SEGI_20254	  1e-27
+## Alignment 558: score=501.0 e_value=4.6e-30 N=13 ive_Chr9&seq_chr8 minus
+558-  0:	ptg000510l_57	SEGI_04487	 1e-107
+558-  1:	ptg000510l_63	SEGI_18369	  2e-22
+558-  2:	ptg000510l_65	SEGI_34946	  3e-69
+558-  3:	ptg000510l_70	SEGI_01865	  4e-81
+558-  4:	ptg000510l_2	SEGI_08673	  4e-64
+558-  5:	ptg000510l_5	SEGI_31787	  1e-45
+558-  6:	ptg000510l_6	SEGI_40396	  1e-07
+558-  7:	ptg000510l_10	SEGI_31534	  3e-08
+558-  8:	ptg000510l_20	SEGI_20279	 1e-119
+558-  9:	ptg000510l_25	SEGI_41599	  9e-50
+558- 10:	ptg000982l_16	SEGI_36789	  4e-09
+558- 11:	ptg000982l_38	SEGI_30680	 8e-158
+558- 12:	ptg002611l_8	SEGI_25399	  2e-16
+## Alignment 559: score=379.0 e_value=5.4e-26 N=11 ive_Chr9&seq_chr8 minus
+559-  0:	ptg001843l_1	SEGI_13884	 9e-273
+559-  1:	ptg000334l_13	SEGI_40530	  1e-17
+559-  2:	ptg000334l_9	SEGI_31198	 3e-121
+559-  3:	ptg000334l_8	SEGI_10200	  6e-41
+559-  4:	ptg000334l_5	SEGI_26650	  2e-36
+559-  5:	ptg000334l_3	SEGI_02620	 2e-237
+559-  6:	ptg000334l_2	SEGI_36277	  3e-30
+559-  7:	ptg000334l_24	SEGI_00615	  2e-42
+559-  8:	ptg000334l_20	SEGI_14375	  3e-05
+559-  9:	ptg000557l_32	SEGI_29366	  4e-45
+559- 10:	ptg001573l_2	SEGI_19290	  2e-81
+## Alignment 560: score=166.0 e_value=7.3e-06 N=4 ive_Chr9&seq_chr8 minus
+560-  0:	ptg000070l_2	SEGI_26008	  1e-20
+560-  1:	ptg000070l_3	SEGI_37676	 2e-281
+560-  2:	ptg000070l_4	SEGI_26704	  9e-20
+560-  3:	ptg000070l_30	SEGI_38786	  1e-26
+## Alignment 561: score=183.0 e_value=0.00041 N=4 ive_Chr9&seq_chr9 plus
+561-  0:	ptg000372l_11	SEGI_26315	  3e-89
+561-  1:	ptg000372l_20	SEGI_02106	  5e-68
+561-  2:	ptg000372l_22	SEGI_02245	  2e-23
+561-  3:	ptg000019l_16	SEGI_40872	  7e-46
+## Alignment 562: score=153.0 e_value=0.00089 N=4 ive_Chr9&seq_chr9 plus
+562-  0:	ptg001340l_6	SEGI_09491	  2e-82
+562-  1:	ptg001340l_7	SEGI_12369	  3e-27
+562-  2:	ptg002302l_5	SEGI_14579	 3e-135
+562-  3:	ptg002302l_2	SEGI_25574	  4e-67
+## Alignment 563: score=226.0 e_value=6.9e-11 N=6 ive_Chr9&seq_chr9 minus
+563-  0:	ptg000372l_17	SEGI_21181	  5e-70
+563-  1:	ptg000372l_3	SEGI_01995	  2e-12
+563-  2:	ptg000372l_5	SEGI_02245	  9e-58
+563-  3:	ptg000372l_11	SEGI_26315	  3e-89
+563-  4:	ptg000372l_22	SEGI_08297	  1e-22
+563-  5:	ptg000372l_26	SEGI_31081	  7e-41
+## Alignment 564: score=207.0 e_value=3e-14 N=6 ive_Chr9&seq_chr9 minus
+564-  0:	ptg000267l_60	SEGI_17205	  2e-53
+564-  1:	ptg000267l_40	SEGI_28413	  2e-76
+564-  2:	ptg002302l_4	SEGI_07069	  6e-92
+564-  3:	ptg002302l_2	SEGI_25574	  4e-67
+564-  4:	ptg000760l_23	SEGI_30485	  2e-43
+564-  5:	ptg000760l_24	SEGI_16251	 0.0001
+## Alignment 565: score=156.0 e_value=7.5e-05 N=4 ive_Chr9&seq_chr9 minus
+565-  0:	ptg002030l_7	SEGI_03507	  1e-09
+565-  1:	ptg000510l_3	SEGI_10204	  4e-08
+565-  2:	ptg000510l_6	SEGI_08793	  1e-05
+565-  3:	ptg000510l_8	SEGI_21417	  3e-57
