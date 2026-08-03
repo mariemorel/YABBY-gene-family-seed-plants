@@ -1,0 +1,72 @@
+
+code	|	name	|	preferred name	|	taxid
+1	|	Abies lasiocarpa	|	 	|	34340
+1	|	Agathis robusta	|	 	|	60854
+1	|	Amborella trichopoda	|	 	|	13333
+1	|	Anthoceros agrestis	|	 	|	41834
+1	|	Aquilegia oxysepala	|	 	|	432649
+1	|	Arabidopsis thaliana	|	 	|	3702
+1	|	Aristolochia fimbriata	|	 	|	158543
+1	|	Aristolochia manshuriensis	|	 	|	158555
+3	|	augustus arabido	|	 	|	 
+1	|	Austrocedrus chilensis	|	 	|	103964
+1	|	Beta vulgaris	|	 	|	161934
+1	|	Callitris macleayana	|	 	|	214231
+1	|	Calocedrus decurrens	|	 	|	13387
+3	|	Cathaya agryrophylla	|	 	|	 
+1	|	Cathaya argyrophylla	|	 	|	64686
+1	|	Cedrus libani	|	 	|	93692
+1	|	coffea arabica	|	Coffea arabica	|	13443
+1	|	Coffea canephora	|	 	|	49390
+1	|	Cryptomeria japonica	|	 	|	3369
+1	|	Cycas micholitzii	|	 	|	182486
+1	|	Cycas rumphii	|	 	|	58031
+1	|	Dioon edule	|	 	|	58033
+1	|	Diphasiastrum complanatum	|	 	|	34168
+1	|	Encephalartos barteri	|	 	|	133428
+1	|	Ephedra distachya	|	 	|	3389
+1	|	Ephedra sinica	|	 	|	33152
+1	|	Erigeron canadensis	|	 	|	72917
+1	|	Ginkgo biloba	|	 	|	3311
+1	|	Gnetum gnemon	|	 	|	3382
+1	|	Gnetum montanum	|	 	|	3381
+3	|	heliantus	|	 	|	 
+1	|	Huperzia selago	|	 	|	70001
+1	|	Illicium floridanum	|	 	|	13098
+1	|	Illicium verum	|	 	|	124778
+1	|	Lagarostrobos franklinii	|	 	|	56892
+1	|	Leiosporoceros dussii	|	 	|	263836
+1	|	Manoao colensoi	|	 	|	120598
+1	|	Metasequoia glyptostroboides	|	 	|	3371
+1	|	nymphaea colorata	|	Nymphaea colorata	|	210225
+1	|	Nymphaea colorata	|	 	|	210225
+1	|	nymphaea thermarum	|	Nymphaea thermarum	|	419125
+1	|	Nymphaea thermarum	|	 	|	419125
+3	|	Nymphea thermarum	|	 	|	 
+1	|	Phaseolus vulgaris	|	 	|	3885
+1	|	Phylloglossum drummondii	|	 	|	70003
+1	|	Picea abies	|	 	|	3329
+1	|	Picea smithiana	|	 	|	123602
+1	|	Pilgerodendron uviferum	|	 	|	103979
+1	|	Pinus jeffreyi	|	 	|	55061
+1	|	Pinus parviflora	|	 	|	71644
+1	|	Pinus radiata	|	 	|	3347
+1	|	Pinus taeda	|	 	|	3352
+1	|	Platycladus orientalis	|	 	|	58046
+1	|	Podocarpus reichei	|	Podocarpus matudae var. reichei	|	197626
+1	|	Podocarpus rubens	|	 	|	1030203
+1	|	Pseudolarix amabilis	|	 	|	3355
+1	|	Pseudotsuga menziesii	|	 	|	3357
+1	|	Sequoiadendron giganteum	|	 	|	99814
+1	|	Solanum tuberosum	|	 	|	4113
+1	|	Sphagnum magellanicum	|	 	|	128215
+1	|	Stangeria eriopus	|	 	|	34343
+1	|	Taxus globosa	|	 	|	156271
+1	|	Thuja plicata	|	 	|	3316
+1	|	Thujopsis dolabrata	|	 	|	13727
+1	|	Torreya taxifolia	|	 	|	156149
+1	|	Tsuga heterophylla	|	 	|	3359
+1	|	Vitis vinifera	|	 	|	29760
+1	|	Welwitschia mirabilis	|	 	|	3377
+1	|	Widdringtonia cedarbergensis	|	 	|	13760
+1	|	Zamia vazquezii	|	 	|	501451
