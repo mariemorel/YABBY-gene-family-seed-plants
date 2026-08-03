@@ -1,0 +1,2340 @@
+############### Parameters ###############
+# MATCH_SCORE: 50
+# GAP_PENALTY: -1
+# MATCH_SIZE: 3
+# OVERLAP_WINDOW: 5
+# E_VALUE: 0.001
+# MAX GAPS: 55
+############### Statistics ###############
+# Number of collinear genes: 2394, Percentage: 11.01
+# Number of all genes: 21743
+##########################################
+## Alignment 0: score=281.0 e_value=1.5e-15 N=8 Afi_1&Afi_1 plus
+  0-  0:	afi_Af01G250517	afi_Af01G302608	      0
+  0-  1:	afi_Af01G251501	afi_Af01G303102	  3e-34
+  0-  2:	afi_Af01G252111	afi_Af01G303201	 3e-163
+  0-  3:	afi_Af01G252407	afi_Af01G303303	 7e-135
+  0-  4:	afi_Af01G252703	afi_Af01G303608	  8e-82
+  0-  5:	afi_Af01G254401	afi_Af01G304707	 1e-134
+  0-  6:	afi_Af01G255100	afi_Af01G304900	  3e-34
+  0-  7:	afi_Af01G258801	afi_Af01G307800	 3e-216
+## Alignment 1: score=260.0 e_value=6e-12 N=7 Afi_1&Afi_1 plus
+  1-  0:	afi_Af01G259813	afi_Af01G301900	  5e-92
+  1-  1:	afi_Af01G260216	afi_Af01G302605	 7e-225
+  1-  2:	afi_Af01G260305	afi_Af01G302608	 4e-309
+  1-  3:	afi_Af01G260918	afi_Af01G303304	 5e-136
+  1-  4:	afi_Af01G261007	afi_Af01G304507	      0
+  1-  5:	afi_Af01G261308	afi_Af01G304707	 2e-230
+  1-  6:	afi_Af01G261504	afi_Af01G304904	 2e-152
+## Alignment 2: score=251.0 e_value=1.6e-19 N=8 Afi_1&Afi_1 plus
+  2-  0:	afi_Af01G255304	afi_Af01G299200	  1e-72
+  2-  1:	afi_Af01G256900	afi_Af01G301900	  6e-29
+  2-  2:	afi_Af01G257300	afi_Af01G302608	      0
+  2-  3:	afi_Af01G259813	afi_Af01G303200	  4e-93
+  2-  4:	afi_Af01G259814	afi_Af01G303201	 2e-228
+  2-  5:	afi_Af01G259815	afi_Af01G304602	  2e-61
+  2-  6:	afi_Af01G260604	afi_Af01G304715	 1e-118
+  2-  7:	afi_Af01G260804	afi_Af01G304904	 4e-135
+## Alignment 3: score=225.0 e_value=1.2e-11 N=7 Afi_1&Afi_1 plus
+  3-  0:	afi_Af01G260416	afi_Af01G298500	  2e-53
+  3-  1:	afi_Af01G260811	afi_Af01G302100	 7e-177
+  3-  2:	afi_Af01G261306	afi_Af01G302608	 3e-145
+  3-  3:	afi_Af01G263106	afi_Af01G303201	 9e-284
+  3-  4:	afi_Af01G263601	afi_Af01G303601	  6e-57
+  3-  5:	afi_Af01G263803	afi_Af01G304201	  1e-78
+  3-  6:	afi_Af01G264201	afi_Af01G304507	      0
+## Alignment 4: score=220.0 e_value=2.3e-08 N=5 Afi_1&Afi_1 plus
+  4-  0:	afi_Af01G073400	afi_Af01G082700	      0
+  4-  1:	afi_Af01G073500	afi_Af01G082800	  2e-14
+  4-  2:	afi_Af01G073600	afi_Af01G083200	  6e-36
+  4-  3:	afi_Af01G075600	afi_Af01G086000	  3e-31
+  4-  4:	afi_Af01G075700	afi_Af01G086100	  7e-08
+## Alignment 5: score=200.0 e_value=1e-10 N=5 Afi_1&Afi_1 plus
+  5-  0:	afi_Af01G236301	afi_Af01G254008	 4e-176
+  5-  1:	afi_Af01G236900	afi_Af01G255400	  2e-26
+  5-  2:	afi_Af01G238900	afi_Af01G256000	 4e-101
+  5-  3:	afi_Af01G239000	afi_Af01G256100	  8e-96
+  5-  4:	afi_Af01G239100	afi_Af01G256200	  5e-57
+## Alignment 6: score=196.0 e_value=2.2e-14 N=6 Afi_1&Afi_1 plus
+  6-  0:	afi_Af01G264511	afi_Af01G299200	 2e-115
+  6-  1:	afi_Af01G264809	afi_Af01G302604	 7e-205
+  6-  2:	afi_Af01G264824	afi_Af01G302608	  2e-80
+  6-  3:	afi_Af01G267501	afi_Af01G303200	 3e-208
+  6-  4:	afi_Af01G267502	afi_Af01G303201	 3e-254
+  6-  5:	afi_Af01G270700	afi_Af01G304707	 4e-313
+## Alignment 7: score=190.0 e_value=5.5e-20 N=9 Afi_1&Afi_1 plus
+  7-  0:	afi_Af01G250512	afi_Af01G261305	 6e-123
+  7-  1:	afi_Af01G250513	afi_Af01G261310	 3e-165
+  7-  2:	afi_Af01G250524	afi_Af01G263601	 7e-236
+  7-  3:	afi_Af01G252406	afi_Af01G264201	 3e-216
+  7-  4:	afi_Af01G254108	afi_Af01G264809	 9e-278
+  7-  5:	afi_Af01G257300	afi_Af01G268500	 8e-177
+  7-  6:	afi_Af01G259904	afi_Af01G270700	 2e-148
+  7-  7:	afi_Af01G260400	afi_Af01G272500	 8e-193
+  7-  8:	afi_Af01G261007	afi_Af01G276200	      0
+## Alignment 8: score=169.0 e_value=0.00035 N=4 Afi_1&Afi_1 plus
+  8-  0:	afi_Af01G353800	afi_Af01G385900	 1e-145
+  8-  1:	afi_Af01G354400	afi_Af01G386500	  5e-33
+  8-  2:	afi_Af01G356800	afi_Af01G386710	  5e-26
+  8-  3:	afi_Af01G356900	afi_Af01G387000	 4e-108
+## Alignment 9: score=154.0 e_value=1e-10 N=6 Afi_1&Afi_1 plus
+  9-  0:	afi_Af01G282100	afi_Af01G299200	 1e-175
+  9-  1:	afi_Af01G282300	afi_Af01G299301	 2e-152
+  9-  2:	afi_Af01G287210	afi_Af01G299400	  5e-21
+  9-  3:	afi_Af01G290801	afi_Af01G302801	  2e-28
+  9-  4:	afi_Af01G293600	afi_Af01G304201	 2e-168
+  9-  5:	afi_Af01G295400	afi_Af01G304600	  3e-69
+## Alignment 10: score=153.0 e_value=1.8e-08 N=5 Afi_1&Afi_1 plus
+ 10-  0:	afi_Af01G246001	afi_Af01G259904	 1e-171
+ 10-  1:	afi_Af01G249005	afi_Af01G260013	 8e-144
+ 10-  2:	afi_Af01G250513	afi_Af01G260306	  3e-97
+ 10-  3:	afi_Af01G250522	afi_Af01G261007	      0
+ 10-  4:	afi_Af01G250524	afi_Af01G261100	 6e-190
+## Alignment 11: score=234.0 e_value=1.2e-12 N=7 Afi_1&Afi_1 minus
+ 11-  0:	afi_Af01G260216	afi_Af01G304715	      0
+ 11-  1:	afi_Af01G260907	afi_Af01G304708	 5e-226
+ 11-  2:	afi_Af01G261808	afi_Af01G304503	  4e-26
+ 11-  3:	afi_Af01G263107	afi_Af01G304502	  3e-46
+ 11-  4:	afi_Af01G263813	afi_Af01G303500	  9e-13
+ 11-  5:	afi_Af01G264201	afi_Af01G303303	 3e-135
+ 11-  6:	afi_Af01G264511	afi_Af01G303200	 1e-127
+## Alignment 12: score=227.0 e_value=1.5e-18 N=9 Afi_1&Afi_1 minus
+ 12-  0:	afi_Af01G268800	afi_Af01G310200	  2e-15
+ 12-  1:	afi_Af01G270200	afi_Af01G307100	 2e-132
+ 12-  2:	afi_Af01G274000	afi_Af01G304000	 3e-113
+ 12-  3:	afi_Af01G275100	afi_Af01G303601	  9e-33
+ 12-  4:	afi_Af01G276500	afi_Af01G303400	  5e-65
+ 12-  5:	afi_Af01G276800	afi_Af01G302700	 6e-134
+ 12-  6:	afi_Af01G282300	afi_Af01G302508	  1e-90
+ 12-  7:	afi_Af01G287210	afi_Af01G299400	  5e-21
+ 12-  8:	afi_Af01G287900	afi_Af01G298700	  4e-80
+## Alignment 13: score=177.0 e_value=2.7e-08 N=5 Afi_1&Afi_1 minus
+ 13-  0:	afi_Af01G261007	afi_Af01G303304	      0
+ 13-  1:	afi_Af01G261805	afi_Af01G301900	  2e-48
+ 13-  2:	afi_Af01G262301	afi_Af01G299400	  7e-25
+ 13-  3:	afi_Af01G263106	afi_Af01G299301	 2e-241
+ 13-  4:	afi_Af01G263107	afi_Af01G299200	 1e-172
+## Alignment 14: score=164.0 e_value=0.00036 N=4 Afi_1&Afi_1 minus
+ 14-  0:	afi_Af01G355300	afi_Af01G388900	  5e-49
+ 14-  1:	afi_Af01G356900	afi_Af01G387000	 4e-108
+ 14-  2:	afi_Af01G357400	afi_Af01G386710	 5e-144
+ 14-  3:	afi_Af01G358800	afi_Af01G386500	  6e-11
+## Alignment 15: score=156.0 e_value=9.4e-10 N=5 Afi_1&Afi_1 minus
+ 15-  0:	afi_Af01G293600	afi_Af01G304201	 2e-168
+ 15-  1:	afi_Af01G294310	afi_Af01G304000	 3e-108
+ 15-  2:	afi_Af01G298100	afi_Af01G302614	  3e-50
+ 15-  3:	afi_Af01G298500	afi_Af01G302613	 1e-183
+ 15-  4:	afi_Af01G302603	afi_Af01G302612	 9e-141
+## Alignment 16: score=152.0 e_value=3.1e-11 N=6 Afi_1&Afi_1 minus
+ 16-  0:	afi_Af01G263701	afi_Af01G293600	 3e-106
+ 16-  1:	afi_Af01G263807	afi_Af01G293500	  3e-98
+ 16-  2:	afi_Af01G265400	afi_Af01G288400	  1e-47
+ 16-  3:	afi_Af01G270000	afi_Af01G286500	  3e-13
+ 16-  4:	afi_Af01G270700	afi_Af01G284800	 1e-165
+ 16-  5:	afi_Af01G271200	afi_Af01G281700	  3e-30
+## Alignment 17: score=241.0 e_value=8.9e-11 N=7 Afi_1&Afi_2 plus
+ 17-  0:	afi_Af01G260908	afi_Af02G163102	 2e-207
+ 17-  1:	afi_Af01G261303	afi_Af02G163706	 1e-131
+ 17-  2:	afi_Af01G263307	afi_Af02G163902	 2e-194
+ 17-  3:	afi_Af01G263601	afi_Af02G164803	 1e-172
+ 17-  4:	afi_Af01G263605	afi_Af02G164913	 1e-122
+ 17-  5:	afi_Af01G264201	afi_Af02G165807	 1e-265
+ 17-  6:	afi_Af01G264827	afi_Af02G166502	 6e-123
+## Alignment 18: score=231.0 e_value=1e-09 N=6 Afi_1&Afi_2 plus
+ 18-  0:	afi_Af01G260017	afi_Af02G163110	 1e-152
+ 18-  1:	afi_Af01G260216	afi_Af02G163902	      0
+ 18-  2:	afi_Af01G260603	afi_Af02G164415	  5e-28
+ 18-  3:	afi_Af01G260917	afi_Af02G164803	 1e-193
+ 18-  4:	afi_Af01G261007	afi_Af02G164804	      0
+ 18-  5:	afi_Af01G261100	afi_Af02G165806	 3e-252
+## Alignment 19: score=219.0 e_value=4e-12 N=7 Afi_1&Afi_2 plus
+ 19-  0:	afi_Af01G095800	afi_Af02G050400	  1e-93
+ 19-  1:	afi_Af01G099100	afi_Af02G051500	  8e-12
+ 19-  2:	afi_Af01G099900	afi_Af02G052100	 8e-212
+ 19-  3:	afi_Af01G100000	afi_Af02G052300	  4e-96
+ 19-  4:	afi_Af01G102600	afi_Af02G056100	 1e-290
+ 19-  5:	afi_Af01G103800	afi_Af02G056400	  2e-13
+ 19-  6:	afi_Af01G105200	afi_Af02G060700	  1e-59
+## Alignment 20: score=199.0 e_value=2.4e-08 N=5 Afi_1&Afi_2 plus
+ 20-  0:	afi_Af01G302606	afi_Af02G166503	  2e-77
+ 20-  1:	afi_Af01G302608	afi_Af02G167805	  2e-87
+ 20-  2:	afi_Af01G302702	afi_Af02G168803	 4e-218
+ 20-  3:	afi_Af01G302707	afi_Af02G168804	 4e-169
+ 20-  4:	afi_Af01G303600	afi_Af02G168809	  2e-77
+## Alignment 21: score=195.0 e_value=4.7e-09 N=6 Afi_1&Afi_2 plus
+ 21-  0:	afi_Af01G261005	afi_Af02G141904	  8e-73
+ 21-  1:	afi_Af01G261007	afi_Af02G142505	      0
+ 21-  2:	afi_Af01G263106	afi_Af02G143305	 2e-254
+ 21-  3:	afi_Af01G263800	afi_Af02G143600	  1e-80
+ 21-  4:	afi_Af01G264503	afi_Af02G143701	  1e-54
+ 21-  5:	afi_Af01G264803	afi_Af02G144404	 4e-124
+## Alignment 22: score=192.0 e_value=1.7e-14 N=8 Afi_1&Afi_2 plus
+ 22-  0:	afi_Af01G325000	afi_Af02G151700	  2e-48
+ 22-  1:	afi_Af01G326700	afi_Af02G153100	 1e-121
+ 22-  2:	afi_Af01G327100	afi_Af02G154800	  7e-32
+ 22-  3:	afi_Af01G328302	afi_Af02G157301	 2e-127
+ 22-  4:	afi_Af01G329800	afi_Af02G160400	  6e-35
+ 22-  5:	afi_Af01G330305	afi_Af02G163902	 1e-147
+ 22-  6:	afi_Af01G334200	afi_Af02G164200	  2e-11
+ 22-  7:	afi_Af01G334601	afi_Af02G165108	 5e-111
+## Alignment 23: score=169.0 e_value=8.1e-11 N=7 Afi_1&Afi_2 plus
+ 23-  0:	afi_Af01G250005	afi_Af02G141401	  1e-95
+ 23-  1:	afi_Af01G250513	afi_Af02G142001	      0
+ 23-  2:	afi_Af01G251505	afi_Af02G142506	  6e-49
+ 23-  3:	afi_Af01G252501	afi_Af02G143305	 7e-146
+ 23-  4:	afi_Af01G255400	afi_Af02G143600	  4e-28
+ 23-  5:	afi_Af01G259814	afi_Af02G143701	 5e-280
+ 23-  6:	afi_Af01G260216	afi_Af02G144404	      0
+## Alignment 24: score=165.0 e_value=2.4e-07 N=5 Afi_1&Afi_2 plus
+ 24-  0:	afi_Af01G260216	afi_Af02G246409	 4e-282
+ 24-  1:	afi_Af01G260410	afi_Af02G246606	 1e-251
+ 24-  2:	afi_Af01G260902	afi_Af02G246607	 7e-129
+ 24-  3:	afi_Af01G261507	afi_Af02G249901	  3e-26
+ 24-  4:	afi_Af01G262301	afi_Af02G250001	 2e-296
+## Alignment 25: score=159.0 e_value=1.7e-16 N=8 Afi_1&Afi_2 plus
+ 25-  0:	afi_Af01G300901	afi_Af02G155801	 8e-239
+ 25-  1:	afi_Af01G302705	afi_Af02G157804	 2e-119
+ 25-  2:	afi_Af01G303200	afi_Af02G162800	 4e-164
+ 25-  3:	afi_Af01G303601	afi_Af02G164803	  6e-56
+ 25-  4:	afi_Af01G304507	afi_Af02G164804	      0
+ 25-  5:	afi_Af01G304707	afi_Af02G166104	 4e-154
+ 25-  6:	afi_Af01G304904	afi_Af02G167905	 9e-285
+ 25-  7:	afi_Af01G310400	afi_Af02G170600	 1e-167
+## Alignment 26: score=157.0 e_value=3.9e-06 N=5 Afi_1&Afi_2 plus
+ 26-  0:	afi_Af01G259604	afi_Af02G163902	 7e-108
+ 26-  1:	afi_Af01G260212	afi_Af02G164914	  9e-07
+ 26-  2:	afi_Af01G260216	afi_Af02G165802	      0
+ 26-  3:	afi_Af01G260811	afi_Af02G167804	 2e-171
+ 26-  4:	afi_Af01G261100	afi_Af02G168809	 8e-220
+## Alignment 27: score=150.0 e_value=6.8e-12 N=6 Afi_1&Afi_2 plus
+ 27-  0:	afi_Af01G293500	afi_Af02G245800	 1e-191
+ 27-  1:	afi_Af01G293600	afi_Af02G245801	      0
+ 27-  2:	afi_Af01G298000	afi_Af02G245900	  1e-29
+ 27-  3:	afi_Af01G298100	afi_Af02G246607	 2e-154
+ 27-  4:	afi_Af01G301900	afi_Af02G249902	  4e-67
+ 27-  5:	afi_Af01G302500	afi_Af02G253901	  3e-37
+## Alignment 28: score=274.0 e_value=4.1e-19 N=8 Afi_1&Afi_2 minus
+ 28-  0:	afi_Af01G298100	afi_Af02G174700	 3e-166
+ 28-  1:	afi_Af01G300500	afi_Af02G170200	  9e-54
+ 28-  2:	afi_Af01G302502	afi_Af02G168804	 1e-175
+ 28-  3:	afi_Af01G302705	afi_Af02G167803	 2e-106
+ 28-  4:	afi_Af01G302706	afi_Af02G167802	 8e-117
+ 28-  5:	afi_Af01G303203	afi_Af02G166503	 1e-126
+ 28-  6:	afi_Af01G303304	afi_Af02G165807	 1e-260
+ 28-  7:	afi_Af01G303601	afi_Af02G164803	  6e-56
+## Alignment 29: score=244.0 e_value=1.2e-18 N=8 Afi_1&Afi_2 minus
+ 29-  0:	afi_Af01G260017	afi_Af02G248902	  5e-24
+ 29-  1:	afi_Af01G260902	afi_Af02G246607	 7e-129
+ 29-  2:	afi_Af01G260903	afi_Af02G246606	 3e-129
+ 29-  3:	afi_Af01G261905	afi_Af02G246602	  7e-17
+ 29-  4:	afi_Af01G263502	afi_Af02G246504	  2e-41
+ 29-  5:	afi_Af01G263701	afi_Af02G245801	 2e-104
+ 29-  6:	afi_Af01G263807	afi_Af02G245800	  3e-98
+ 29-  7:	afi_Af01G265100	afi_Af02G242300	 4e-104
+## Alignment 30: score=191.0 e_value=6.3e-06 N=5 Afi_1&Afi_2 minus
+ 30-  0:	afi_Af01G097300	afi_Af02G054500	  9e-79
+ 30-  1:	afi_Af01G098100	afi_Af02G052500	  1e-53
+ 30-  2:	afi_Af01G100900	afi_Af02G049600	  9e-47
+ 30-  3:	afi_Af01G101700	afi_Af02G048700	  2e-45
+ 30-  4:	afi_Af01G102000	afi_Af02G048200	  4e-22
+## Alignment 31: score=171.0 e_value=4.4e-09 N=5 Afi_1&Afi_2 minus
+ 31-  0:	afi_Af01G259811	afi_Af02G144501	  9e-35
+ 31-  1:	afi_Af01G259814	afi_Af02G143701	 5e-280
+ 31-  2:	afi_Af01G260216	afi_Af02G142507	 6e-301
+ 31-  3:	afi_Af01G261007	afi_Af02G141802	 2e-202
+ 31-  4:	afi_Af01G261100	afi_Af02G141801	 9e-120
+## Alignment 32: score=167.0 e_value=1.8e-08 N=5 Afi_1&Afi_2 minus
+ 32-  0:	afi_Af01G205703	afi_Af02G167803	  8e-92
+ 32-  1:	afi_Af01G205704	afi_Af02G167802	 1e-239
+ 32-  2:	afi_Af01G206704	afi_Af02G166503	 1e-115
+ 32-  3:	afi_Af01G208201	afi_Af02G164913	 2e-132
+ 32-  4:	afi_Af01G211700	afi_Af02G164000	  7e-84
+## Alignment 33: score=150.0 e_value=3.5e-06 N=5 Afi_1&Afi_2 minus
+ 33-  0:	afi_Af01G296200	afi_Af02G144000	  6e-13
+ 33-  1:	afi_Af01G299301	afi_Af02G143305	 1e-271
+ 33-  2:	afi_Af01G301200	afi_Af02G142404	  4e-58
+ 33-  3:	afi_Af01G302502	afi_Af02G141901	 1e-101
+ 33-  4:	afi_Af01G302600	afi_Af02G139400	  1e-07
+## Alignment 34: score=390.0 e_value=2.1e-23 N=11 Afi_1&Afi_3 plus
+ 34-  0:	afi_Af01G259609	afi_Af03G170800	  4e-98
+ 34-  1:	afi_Af01G259904	afi_Af03G172701	 6e-155
+ 34-  2:	afi_Af01G260216	afi_Af03G172714	 2e-103
+ 34-  3:	afi_Af01G260812	afi_Af03G173003	  5e-61
+ 34-  4:	afi_Af01G260912	afi_Af03G173208	 1e-250
+ 34-  5:	afi_Af01G261303	afi_Af03G173502	 7e-137
+ 34-  6:	afi_Af01G261804	afi_Af03G174007	  5e-98
+ 34-  7:	afi_Af01G263306	afi_Af03G174302	 1e-101
+ 34-  8:	afi_Af01G263701	afi_Af03G175303	  9e-96
+ 34-  9:	afi_Af01G263813	afi_Af03G175504	 1e-178
+ 34- 10:	afi_Af01G264201	afi_Af03G175505	      0
+## Alignment 35: score=344.0 e_value=6.4e-27 N=12 Afi_1&Afi_3 plus
+ 35-  0:	afi_Af01G249010	afi_Af03G172701	 3e-190
+ 35-  1:	afi_Af01G250512	afi_Af03G173003	  2e-60
+ 35-  2:	afi_Af01G251906	afi_Af03G173208	 4e-204
+ 35-  3:	afi_Af01G253310	afi_Af03G173306	 4e-109
+ 35-  4:	afi_Af01G255305	afi_Af03G173405	 2e-119
+ 35-  5:	afi_Af01G259604	afi_Af03G173502	 8e-107
+ 35-  6:	afi_Af01G259809	afi_Af03G173908	  1e-59
+ 35-  7:	afi_Af01G259812	afi_Af03G174006	  1e-26
+ 35-  8:	afi_Af01G260206	afi_Af03G174302	 3e-314
+ 35-  9:	afi_Af01G260216	afi_Af03G175005	 2e-282
+ 35- 10:	afi_Af01G260922	afi_Af03G175603	 8e-123
+ 35- 11:	afi_Af01G261303	afi_Af03G175805	 1e-137
+## Alignment 36: score=332.0 e_value=6e-27 N=11 Afi_1&Afi_3 plus
+ 36-  0:	afi_Af01G259809	afi_Af03G186307	  3e-53
+ 36-  1:	afi_Af01G260017	afi_Af03G187208	      0
+ 36-  2:	afi_Af01G260206	afi_Af03G187505	 2e-291
+ 36-  3:	afi_Af01G260216	afi_Af03G188506	 3e-104
+ 36-  4:	afi_Af01G260911	afi_Af03G189204	 3e-101
+ 36-  5:	afi_Af01G261303	afi_Af03G189507	  2e-57
+ 36-  6:	afi_Af01G261304	afi_Af03G189806	 9e-116
+ 36-  7:	afi_Af01G261808	afi_Af03G190304	  7e-33
+ 36-  8:	afi_Af01G263107	afi_Af03G190305	  4e-73
+ 36-  9:	afi_Af01G263601	afi_Af03G194301	  2e-52
+ 36- 10:	afi_Af01G265700	afi_Af03G196800	 5e-207
+## Alignment 37: score=315.0 e_value=1.5e-19 N=9 Afi_1&Afi_3 plus
+ 37-  0:	afi_Af01G298000	afi_Af03G170400	  3e-50
+ 37-  1:	afi_Af01G301200	afi_Af03G170800	 4e-116
+ 37-  2:	afi_Af01G302608	afi_Af03G172701	      0
+ 37-  3:	afi_Af01G303100	afi_Af03G173405	 3e-118
+ 37-  4:	afi_Af01G303200	afi_Af03G173600	 1e-232
+ 37-  5:	afi_Af01G303201	afi_Af03G174007	 1e-308
+ 37-  6:	afi_Af01G303600	afi_Af03G174607	  5e-57
+ 37-  7:	afi_Af01G304201	afi_Af03G175303	 4e-179
+ 37-  8:	afi_Af01G304507	afi_Af03G175505	      0
+## Alignment 38: score=294.0 e_value=8.8e-19 N=9 Afi_1&Afi_3 plus
+ 38-  0:	afi_Af01G246001	afi_Af03G173003	  3e-60
+ 38-  1:	afi_Af01G249001	afi_Af03G173208	 4e-143
+ 38-  2:	afi_Af01G249200	afi_Af03G173601	  2e-08
+ 38-  3:	afi_Af01G250700	afi_Af03G174610	  2e-56
+ 38-  4:	afi_Af01G251901	afi_Af03G174807	 3e-163
+ 38-  5:	afi_Af01G252405	afi_Af03G175504	      0
+ 38-  6:	afi_Af01G252703	afi_Af03G175609	  2e-71
+ 38-  7:	afi_Af01G253310	afi_Af03G175805	  3e-93
+ 38-  8:	afi_Af01G254000	afi_Af03G178900	  8e-14
+## Alignment 39: score=281.0 e_value=1.8e-31 N=11 Afi_1&Afi_3 plus
+ 39-  0:	afi_Af01G293500	afi_Af03G175302	 4e-166
+ 39-  1:	afi_Af01G293600	afi_Af03G176400	  6e-49
+ 39-  2:	afi_Af01G296700	afi_Af03G180000	 0.0004
+ 39-  3:	afi_Af01G301900	afi_Af03G182900	  2e-80
+ 39-  4:	afi_Af01G302608	afi_Af03G185800	 6e-226
+ 39-  5:	afi_Af01G302613	afi_Af03G186307	 9e-194
+ 39-  6:	afi_Af01G302905	afi_Af03G187905	  5e-78
+ 39-  7:	afi_Af01G303100	afi_Af03G188509	 3e-123
+ 39-  8:	afi_Af01G303201	afi_Af03G189501	 1e-244
+ 39-  9:	afi_Af01G304502	afi_Af03G189502	  5e-54
+ 39- 10:	afi_Af01G304503	afi_Af03G190304	  2e-73
+## Alignment 40: score=261.0 e_value=2.4e-17 N=9 Afi_1&Afi_3 plus
+ 40-  0:	afi_Af01G252110	afi_Af03G170800	  3e-88
+ 40-  1:	afi_Af01G252502	afi_Af03G173001	  4e-28
+ 40-  2:	afi_Af01G254006	afi_Af03G173208	      0
+ 40-  3:	afi_Af01G254704	afi_Af03G173405	  3e-21
+ 40-  4:	afi_Af01G257300	afi_Af03G174000	 1e-209
+ 40-  5:	afi_Af01G259811	afi_Af03G175301	  5e-36
+ 40-  6:	afi_Af01G260213	afi_Af03G175504	 9e-208
+ 40-  7:	afi_Af01G260604	afi_Af03G175805	 8e-119
+ 40-  8:	afi_Af01G261004	afi_Af03G176002	 8e-115
+## Alignment 41: score=246.0 e_value=1.9e-19 N=9 Afi_1&Afi_3 plus
+ 41-  0:	afi_Af01G255301	afi_Af03G170800	  5e-37
+ 41-  1:	afi_Af01G255304	afi_Af03G173001	  7e-79
+ 41-  2:	afi_Af01G259603	afi_Af03G173208	 2e-192
+ 41-  3:	afi_Af01G259812	afi_Af03G173405	  6e-25
+ 41-  4:	afi_Af01G260415	afi_Af03G173407	  3e-50
+ 41-  5:	afi_Af01G260604	afi_Af03G173502	 7e-120
+ 41-  6:	afi_Af01G260912	afi_Af03G174302	 1e-252
+ 41-  7:	afi_Af01G261100	afi_Af03G175504	      0
+ 41-  8:	afi_Af01G262201	afi_Af03G175605	 1e-133
+## Alignment 42: score=210.0 e_value=8.8e-10 N=6 Afi_1&Afi_3 plus
+ 42-  0:	afi_Af01G251906	afi_Af03G173502	 2e-208
+ 42-  1:	afi_Af01G252111	afi_Af03G173601	 2e-170
+ 42-  2:	afi_Af01G252501	afi_Af03G174007	 3e-135
+ 42-  3:	afi_Af01G254006	afi_Af03G174103	  1e-59
+ 42-  4:	afi_Af01G254700	afi_Af03G174800	  7e-08
+ 42-  5:	afi_Af01G258100	afi_Af03G175512	 3e-130
+## Alignment 43: score=208.0 e_value=2e-07 N=5 Afi_1&Afi_3 plus
+ 43-  0:	afi_Af01G393500	afi_Af03G132600	 2e-106
+ 43-  1:	afi_Af01G396700	afi_Af03G135200	 2e-201
+ 43-  2:	afi_Af01G397100	afi_Af03G135400	      0
+ 43-  3:	afi_Af01G397500	afi_Af03G135700	  3e-66
+ 43-  4:	afi_Af01G397700	afi_Af03G136000	  5e-88
+## Alignment 44: score=206.0 e_value=2.6e-07 N=5 Afi_1&Afi_3 plus
+ 44-  0:	afi_Af01G303201	afi_Af03G173202	 3e-154
+ 44-  1:	afi_Af01G303609	afi_Af03G173502	 4e-186
+ 44-  2:	afi_Af01G304501	afi_Af03G173601	 2e-122
+ 44-  3:	afi_Af01G304503	afi_Af03G174006	  2e-52
+ 44-  4:	afi_Af01G304715	afi_Af03G174302	      0
+## Alignment 45: score=203.0 e_value=2.7e-11 N=7 Afi_1&Afi_3 plus
+ 45-  0:	afi_Af01G259610	afi_Af03G138600	  7e-20
+ 45-  1:	afi_Af01G259815	afi_Af03G140100	  7e-97
+ 45-  2:	afi_Af01G260908	afi_Af03G144900	 4e-215
+ 45-  3:	afi_Af01G261507	afi_Af03G147100	  5e-76
+ 45-  4:	afi_Af01G261806	afi_Af03G148300	  1e-53
+ 45-  5:	afi_Af01G263601	afi_Af03G151205	  7e-72
+ 45-  6:	afi_Af01G263814	afi_Af03G151502	  1e-78
+## Alignment 46: score=200.0 e_value=1.6e-12 N=7 Afi_1&Afi_3 plus
+ 46-  0:	afi_Af01G260400	afi_Af03G186307	 5e-189
+ 46-  1:	afi_Af01G261304	afi_Af03G187202	 1e-114
+ 46-  2:	afi_Af01G261905	afi_Af03G187203	  6e-21
+ 46-  3:	afi_Af01G262502	afi_Af03G187601	 7e-138
+ 46-  4:	afi_Af01G263501	afi_Af03G188702	 4e-102
+ 46-  5:	afi_Af01G264201	afi_Af03G190211	 6e-181
+ 46-  6:	afi_Af01G264809	afi_Af03G192200	 4e-202
+## Alignment 47: score=180.0 e_value=9.5e-07 N=5 Afi_1&Afi_3 plus
+ 47-  0:	afi_Af01G299200	afi_Af03G173405	      0
+ 47-  1:	afi_Af01G299301	afi_Af03G173601	 2e-279
+ 47-  2:	afi_Af01G302502	afi_Af03G174901	 1e-137
+ 47-  3:	afi_Af01G302702	afi_Af03G175402	 3e-198
+ 47-  4:	afi_Af01G303204	afi_Af03G175805	 1e-188
+## Alignment 48: score=176.0 e_value=7e-10 N=6 Afi_1&Afi_3 plus
+ 48-  0:	afi_Af01G261808	afi_Af03G185801	  2e-31
+ 48-  1:	afi_Af01G262201	afi_Af03G186902	  8e-45
+ 48-  2:	afi_Af01G263106	afi_Af03G187212	 9e-135
+ 48-  3:	afi_Af01G263501	afi_Af03G187603	  2e-81
+ 48-  4:	afi_Af01G264827	afi_Af03G189806	 3e-124
+ 48-  5:	afi_Af01G268100	afi_Af03G192200	 1e-231
+## Alignment 49: score=165.0 e_value=4.6e-12 N=7 Afi_1&Afi_3 plus
+ 49-  0:	afi_Af01G252209	afi_Af03G181701	  8e-17
+ 49-  1:	afi_Af01G254108	afi_Af03G186307	 3e-298
+ 49-  2:	afi_Af01G256100	afi_Af03G187601	  4e-76
+ 49-  3:	afi_Af01G259815	afi_Af03G189501	 2e-135
+ 49-  4:	afi_Af01G260206	afi_Af03G190005	 3e-216
+ 49-  5:	afi_Af01G260407	afi_Af03G190203	  4e-66
+ 49-  6:	afi_Af01G261000	afi_Af03G192200	 5e-203
+## Alignment 50: score=158.0 e_value=5.7e-08 N=6 Afi_1&Afi_3 plus
+ 50-  0:	afi_Af01G059100	afi_Af03G062900	  1e-27
+ 50-  1:	afi_Af01G060400	afi_Af03G065700	 2e-142
+ 50-  2:	afi_Af01G062600	afi_Af03G069000	 0.0005
+ 50-  3:	afi_Af01G064700	afi_Af03G072900	  4e-34
+ 50-  4:	afi_Af01G064800	afi_Af03G074900	  1e-19
+ 50-  5:	afi_Af01G067100	afi_Af03G076900	 7e-135
+## Alignment 51: score=150.0 e_value=1.3e-13 N=8 Afi_1&Afi_3 plus
+ 51-  0:	afi_Af01G390200	afi_Af03G233800	  3e-08
+ 51-  1:	afi_Af01G393100	afi_Af03G237200	  6e-27
+ 51-  2:	afi_Af01G396500	afi_Af03G237800	  2e-70
+ 51-  3:	afi_Af01G398900	afi_Af03G239300	  4e-64
+ 51-  4:	afi_Af01G403800	afi_Af03G242000	 7e-116
+ 51-  5:	afi_Af01G407400	afi_Af03G243900	  3e-38
+ 51-  6:	afi_Af01G410000	afi_Af03G247500	  3e-24
+ 51-  7:	afi_Af01G410300	afi_Af03G250100	 5e-131
+## Alignment 52: score=282.0 e_value=1e-13 N=7 Afi_1&Afi_3 minus
+ 52-  0:	afi_Af01G271400	afi_Af03G264100	  1e-59
+ 52-  1:	afi_Af01G272300	afi_Af03G263000	  7e-64
+ 52-  2:	afi_Af01G273000	afi_Af03G262500	  2e-44
+ 52-  3:	afi_Af01G273100	afi_Af03G262200	  6e-44
+ 52-  4:	afi_Af01G273301	afi_Af03G262000	  6e-23
+ 52-  5:	afi_Af01G274100	afi_Af03G259900	  4e-50
+ 52-  6:	afi_Af01G274200	afi_Af03G257900	  2e-57
+## Alignment 53: score=278.0 e_value=2.5e-16 N=8 Afi_1&Afi_3 minus
+ 53-  0:	afi_Af01G302502	afi_Af03G175402	      0
+ 53-  1:	afi_Af01G302702	afi_Af03G174902	 5e-150
+ 53-  2:	afi_Af01G303100	afi_Af03G174006	  2e-92
+ 53-  3:	afi_Af01G303201	afi_Af03G173601	      0
+ 53-  4:	afi_Af01G303204	afi_Af03G173502	 2e-189
+ 53-  5:	afi_Af01G304703	afi_Af03G173306	 9e-125
+ 53-  6:	afi_Af01G304715	afi_Af03G173208	      0
+ 53-  7:	afi_Af01G308900	afi_Af03G172701	      0
+## Alignment 54: score=205.0 e_value=5.4e-20 N=9 Afi_1&Afi_3 minus
+ 54-  0:	afi_Af01G257900	afi_Af03G198400	  4e-19
+ 54-  1:	afi_Af01G259807	afi_Af03G194100	 9e-171
+ 54-  2:	afi_Af01G260200	afi_Af03G191500	  1e-67
+ 54-  3:	afi_Af01G261007	afi_Af03G190212	 5e-183
+ 54-  4:	afi_Af01G261100	afi_Af03G190210	  3e-45
+ 54-  5:	afi_Af01G262301	afi_Af03G189101	  8e-73
+ 54-  6:	afi_Af01G263306	afi_Af03G186509	 1e-102
+ 54-  7:	afi_Af01G263814	afi_Af03G186311	 1e-148
+ 54-  8:	afi_Af01G265300	afi_Af03G186307	 7e-180
+## Alignment 55: score=200.0 e_value=3.6e-06 N=5 Afi_1&Afi_3 minus
+ 55-  0:	afi_Af01G396300	afi_Af03G136800	 6e-103
+ 55-  1:	afi_Af01G397000	afi_Af03G135600	  3e-91
+ 55-  2:	afi_Af01G399100	afi_Af03G134300	  8e-67
+ 55-  3:	afi_Af01G400400	afi_Af03G134000	  8e-39
+ 55-  4:	afi_Af01G400800	afi_Af03G133600	 5e-207
+## Alignment 56: score=199.0 e_value=6e-07 N=5 Afi_1&Afi_3 minus
+ 56-  0:	afi_Af01G290600	afi_Af03G260300	 4e-115
+ 56-  1:	afi_Af01G290800	afi_Af03G259200	  9e-82
+ 56-  2:	afi_Af01G291200	afi_Af03G259000	  8e-21
+ 56-  3:	afi_Af01G291800	afi_Af03G258700	 2e-155
+ 56-  4:	afi_Af01G294310	afi_Af03G255800	  8e-97
+## Alignment 57: score=173.0 e_value=5.2e-10 N=5 Afi_1&Afi_3 minus
+ 57-  0:	afi_Af01G288900	afi_Af03G159100	  4e-75
+ 57-  1:	afi_Af01G289000	afi_Af03G156803	  4e-43
+ 57-  2:	afi_Af01G289100	afi_Af03G156802	  6e-35
+ 57-  3:	afi_Af01G289400	afi_Af03G155800	  1e-92
+ 57-  4:	afi_Af01G293500	afi_Af03G155310	  5e-38
+## Alignment 58: score=172.0 e_value=0.00041 N=4 Afi_1&Afi_3 minus
+ 58-  0:	afi_Af01G263808	afi_Af03G161100	  2e-06
+ 58-  1:	afi_Af01G263813	afi_Af03G160500	 5e-193
+ 58-  2:	afi_Af01G264809	afi_Af03G160300	 3e-256
+ 58-  3:	afi_Af01G264823	afi_Af03G159300	 2e-178
+## Alignment 59: score=169.0 e_value=1.1e-11 N=7 Afi_1&Afi_3 minus
+ 59-  0:	afi_Af01G254109	afi_Af03G195400	 8e-177
+ 59-  1:	afi_Af01G257700	afi_Af03G194000	  6e-90
+ 59-  2:	afi_Af01G259812	afi_Af03G190304	  5e-26
+ 59-  3:	afi_Af01G260008	afi_Af03G188509	  5e-51
+ 59-  4:	afi_Af01G260205	afi_Af03G188501	  3e-62
+ 59-  5:	afi_Af01G260603	afi_Af03G187203	  5e-25
+ 59-  6:	afi_Af01G261304	afi_Af03G186509	 2e-114
+## Alignment 60: score=159.0 e_value=4.3e-06 N=5 Afi_1&Afi_3 minus
+ 60-  0:	afi_Af01G260812	afi_Af03G146000	 1e-302
+ 60-  1:	afi_Af01G261000	afi_Af03G144900	 2e-211
+ 60-  2:	afi_Af01G261309	afi_Af03G144708	 3e-171
+ 60-  3:	afi_Af01G263307	afi_Af03G140001	 1e-193
+ 60-  4:	afi_Af01G263601	afi_Af03G137800	  1e-99
+## Alignment 61: score=158.0 e_value=6.8e-05 N=4 Afi_1&Afi_3 minus
+ 61-  0:	afi_Af01G322901	afi_Af03G175303	 1e-180
+ 61-  1:	afi_Af01G322902	afi_Af03G175302	  3e-96
+ 61-  2:	afi_Af01G322906	afi_Af03G174607	  5e-47
+ 61-  3:	afi_Af01G322907	afi_Af03G173701	  8e-30
+## Alignment 62: score=154.0 e_value=8.5e-07 N=5 Afi_1&Afi_3 minus
+ 62-  0:	afi_Af01G366700	afi_Af03G214400	  2e-09
+ 62-  1:	afi_Af01G371200	afi_Af03G211000	  1e-14
+ 62-  2:	afi_Af01G372500	afi_Af03G210300	  1e-24
+ 62-  3:	afi_Af01G372900	afi_Af03G209800	  9e-93
+ 62-  4:	afi_Af01G376600	afi_Af03G207100	  2e-76
+## Alignment 63: score=328.0 e_value=1.7e-18 N=9 Afi_1&Afi_4 plus
+ 63-  0:	afi_Af01G402900	afi_Af04G186700	 1e-207
+ 63-  1:	afi_Af01G403800	afi_Af04G188600	 1e-104
+ 63-  2:	afi_Af01G404600	afi_Af04G189200	  2e-14
+ 63-  3:	afi_Af01G405200	afi_Af04G189700	 2e-194
+ 63-  4:	afi_Af01G405300	afi_Af04G189900	  2e-60
+ 63-  5:	afi_Af01G405700	afi_Af04G190600	      0
+ 63-  6:	afi_Af01G407000	afi_Af04G192600	 2e-192
+ 63-  7:	afi_Af01G407400	afi_Af04G192700	  1e-70
+ 63-  8:	afi_Af01G408400	afi_Af04G197000	  6e-20
+## Alignment 64: score=265.0 e_value=7.4e-17 N=9 Afi_1&Afi_4 plus
+ 64-  0:	afi_Af01G196100	afi_Af04G066600	  2e-83
+ 64-  1:	afi_Af01G196900	afi_Af04G067400	 4e-194
+ 64-  2:	afi_Af01G197300	afi_Af04G069000	  9e-78
+ 64-  3:	afi_Af01G197800	afi_Af04G070200	  1e-27
+ 64-  4:	afi_Af01G198400	afi_Af04G070400	  4e-75
+ 64-  5:	afi_Af01G199400	afi_Af04G073000	  9e-27
+ 64-  6:	afi_Af01G202201	afi_Af04G073500	  1e-51
+ 64-  7:	afi_Af01G204700	afi_Af04G076600	  8e-47
+ 64-  8:	afi_Af01G208100	afi_Af04G078500	 7e-132
+## Alignment 65: score=244.0 e_value=1.4e-13 N=8 Afi_1&Afi_4 plus
+ 65-  0:	afi_Af01G291600	afi_Af04G131900	  2e-19
+ 65-  1:	afi_Af01G294310	afi_Af04G132410	 2e-145
+ 65-  2:	afi_Af01G295900	afi_Af04G134320	  7e-10
+ 65-  3:	afi_Af01G298500	afi_Af04G135200	 3e-145
+ 65-  4:	afi_Af01G299200	afi_Af04G137300	 6e-227
+ 65-  5:	afi_Af01G300900	afi_Af04G137700	  4e-61
+ 65-  6:	afi_Af01G301600	afi_Af04G140030	  6e-46
+ 65-  7:	afi_Af01G301900	afi_Af04G141400	  4e-99
+## Alignment 66: score=199.0 e_value=1.5e-12 N=5 Afi_1&Afi_4 plus
+ 66-  0:	afi_Af01G302503	afi_Af04G072501	  2e-56
+ 66-  1:	afi_Af01G302701	afi_Af04G072502	  9e-59
+ 66-  2:	afi_Af01G302702	afi_Af04G072503	 2e-177
+ 66-  3:	afi_Af01G302708	afi_Af04G072504	  8e-08
+ 66-  4:	afi_Af01G304507	afi_Af04G074203	  8e-60
+## Alignment 67: score=161.0 e_value=1e-07 N=5 Afi_1&Afi_4 plus
+ 67-  0:	afi_Af01G253800	afi_Af04G156400	  1e-07
+ 67-  1:	afi_Af01G254006	afi_Af04G157711	      0
+ 67-  2:	afi_Af01G254501	afi_Af04G157716	  3e-17
+ 67-  3:	afi_Af01G255306	afi_Af04G161800	  1e-37
+ 67-  4:	afi_Af01G258100	afi_Af04G162015	  1e-92
+## Alignment 68: score=157.0 e_value=3.5e-08 N=6 Afi_1&Afi_4 plus
+ 68-  0:	afi_Af01G025700	afi_Af04G192300	 2e-184
+ 68-  1:	afi_Af01G027500	afi_Af04G194800	  3e-31
+ 68-  2:	afi_Af01G029300	afi_Af04G198800	 1e-143
+ 68-  3:	afi_Af01G030300	afi_Af04G199100	  4e-97
+ 68-  4:	afi_Af01G032700	afi_Af04G202200	  2e-47
+ 68-  5:	afi_Af01G033500	afi_Af04G205200	  1e-37
+## Alignment 69: score=239.0 e_value=2.2e-26 N=12 Afi_1&Afi_4 minus
+ 69-  0:	afi_Af01G142700	afi_Af04G256300	  1e-11
+ 69-  1:	afi_Af01G146500	afi_Af04G255500	  1e-42
+ 69-  2:	afi_Af01G147000	afi_Af04G252600	 2e-188
+ 69-  3:	afi_Af01G147400	afi_Af04G250500	  2e-24
+ 69-  4:	afi_Af01G150100	afi_Af04G250000	 8e-191
+ 69-  5:	afi_Af01G151000	afi_Af04G249700	  1e-20
+ 69-  6:	afi_Af01G154700	afi_Af04G247000	  6e-96
+ 69-  7:	afi_Af01G155500	afi_Af04G244300	  1e-59
+ 69-  8:	afi_Af01G159800	afi_Af04G243900	 2e-142
+ 69-  9:	afi_Af01G161800	afi_Af04G239900	  4e-53
+ 69- 10:	afi_Af01G165800	afi_Af04G236400	  6e-61
+ 69- 11:	afi_Af01G169500	afi_Af04G231500	  2e-71
+## Alignment 70: score=177.0 e_value=3.8e-12 N=6 Afi_1&Afi_4 minus
+ 70-  0:	afi_Af01G299400	afi_Af04G067900	  1e-27
+ 70-  1:	afi_Af01G299500	afi_Af04G066200	 2e-281
+ 70-  2:	afi_Af01G303100	afi_Af04G062701	  9e-31
+ 70-  3:	afi_Af01G303200	afi_Af04G062204	  3e-27
+ 70-  4:	afi_Af01G304501	afi_Af04G062201	  7e-93
+ 70-  5:	afi_Af01G304800	afi_Af04G060100	  3e-05
+## Alignment 71: score=163.0 e_value=3.6e-12 N=7 Afi_1&Afi_4 minus
+ 71-  0:	afi_Af01G291800	afi_Af04G174200	  2e-58
+ 71-  1:	afi_Af01G294310	afi_Af04G169400	  1e-98
+ 71-  2:	afi_Af01G294401	afi_Af04G168500	 7e-126
+ 71-  3:	afi_Af01G297701	afi_Af04G166700	  2e-10
+ 71-  4:	afi_Af01G299200	afi_Af04G162901	 4e-121
+ 71-  5:	afi_Af01G302605	afi_Af04G162305	 1e-227
+ 71-  6:	afi_Af01G303200	afi_Af04G161800	 3e-137
+## Alignment 72: score=539.0 e_value=1.2e-53 N=17 Afi_1&Afi_5 plus
+ 72-  0:	afi_Af01G254011	afi_Af05G145400	 5e-116
+ 72-  1:	afi_Af01G255304	afi_Af05G148501	  2e-73
+ 72-  2:	afi_Af01G259803	afi_Af05G152707	 5e-123
+ 72-  3:	afi_Af01G260017	afi_Af05G152711	  2e-85
+ 72-  4:	afi_Af01G260216	afi_Af05G152713	      0
+ 72-  5:	afi_Af01G260407	afi_Af05G153620	  9e-67
+ 72-  6:	afi_Af01G260415	afi_Af05G153701	  4e-50
+ 72-  7:	afi_Af01G260917	afi_Af05G154205	  6e-13
+ 72-  8:	afi_Af01G260922	afi_Af05G154312	  1e-39
+ 72-  9:	afi_Af01G261004	afi_Af05G154511	 7e-176
+ 72- 10:	afi_Af01G261007	afi_Af05G154515	      0
+ 72- 11:	afi_Af01G261100	afi_Af05G154516	 6e-129
+ 72- 12:	afi_Af01G261304	afi_Af05G154705	 3e-116
+ 72- 13:	afi_Af01G261308	afi_Af05G155603	 9e-225
+ 72- 14:	afi_Af01G262201	afi_Af05G155716	 6e-176
+ 72- 15:	afi_Af01G264809	afi_Af05G157500	 2e-249
+ 72- 16:	afi_Af01G265400	afi_Af05G159600	  2e-37
+## Alignment 73: score=468.0 e_value=5.8e-55 N=17 Afi_1&Afi_5 plus
+ 73-  0:	afi_Af01G238900	afi_Af05G144600	  2e-73
+ 73-  1:	afi_Af01G239000	afi_Af05G145900	  3e-41
+ 73-  2:	afi_Af01G242600	afi_Af05G150900	 7e-120
+ 73-  3:	afi_Af01G242800	afi_Af05G152000	  2e-11
+ 73-  4:	afi_Af01G247500	afi_Af05G153601	  2e-29
+ 73-  5:	afi_Af01G250006	afi_Af05G154202	 2e-120
+ 73-  6:	afi_Af01G250524	afi_Af05G154205	  3e-09
+ 73-  7:	afi_Af01G252106	afi_Af05G154515	 4e-135
+ 73-  8:	afi_Af01G252405	afi_Af05G154516	 1e-108
+ 73-  9:	afi_Af01G254006	afi_Af05G154803	      0
+ 73- 10:	afi_Af01G256800	afi_Af05G155005	  2e-40
+ 73- 11:	afi_Af01G259801	afi_Af05G155603	 2e-159
+ 73- 12:	afi_Af01G259803	afi_Af05G155604	 5e-233
+ 73- 13:	afi_Af01G260206	afi_Af05G155704	  7e-98
+ 73- 14:	afi_Af01G260216	afi_Af05G155705	 3e-166
+ 73- 15:	afi_Af01G260912	afi_Af05G155713	 1e-262
+ 73- 16:	afi_Af01G261000	afi_Af05G157500	 5e-222
+## Alignment 74: score=386.0 e_value=2.2e-38 N=14 Afi_1&Afi_5 plus
+ 74-  0:	afi_Af01G250524	afi_Af05G146200	 1e-227
+ 74-  1:	afi_Af01G252110	afi_Af05G148501	  6e-77
+ 74-  2:	afi_Af01G252404	afi_Af05G152407	  5e-19
+ 74-  3:	afi_Af01G252405	afi_Af05G153406	  2e-98
+ 74-  4:	afi_Af01G253800	afi_Af05G153502	  3e-18
+ 74-  5:	afi_Af01G254011	afi_Af05G153806	  5e-52
+ 74-  6:	afi_Af01G254108	afi_Af05G153904	 7e-167
+ 74-  7:	afi_Af01G255305	afi_Af05G154310	  4e-33
+ 74-  8:	afi_Af01G259603	afi_Af05G154706	 4e-192
+ 74-  9:	afi_Af01G260017	afi_Af05G154736	 2e-163
+ 74- 10:	afi_Af01G260216	afi_Af05G154803	      0
+ 74- 11:	afi_Af01G260304	afi_Af05G155603	 3e-172
+ 74- 12:	afi_Af01G260811	afi_Af05G155604	 2e-231
+ 74- 13:	afi_Af01G261000	afi_Af05G158800	  2e-75
+## Alignment 75: score=380.0 e_value=6.5e-47 N=16 Afi_1&Afi_5 plus
+ 75-  0:	afi_Af01G254109	afi_Af05G144900	 3e-190
+ 75-  1:	afi_Af01G256100	afi_Af05G145900	  2e-32
+ 75-  2:	afi_Af01G259904	afi_Af05G150900	 2e-109
+ 75-  3:	afi_Af01G260922	afi_Af05G152702	 4e-154
+ 75-  4:	afi_Af01G261000	afi_Af05G153618	  3e-73
+ 75-  5:	afi_Af01G261004	afi_Af05G153802	 6e-145
+ 75-  6:	afi_Af01G261100	afi_Af05G153810	 1e-147
+ 75-  7:	afi_Af01G263106	afi_Af05G154306	  2e-61
+ 75-  8:	afi_Af01G263107	afi_Af05G154311	 3e-106
+ 75-  9:	afi_Af01G264201	afi_Af05G154515	      0
+ 75- 10:	afi_Af01G264827	afi_Af05G154705	 9e-127
+ 75- 11:	afi_Af01G266000	afi_Af05G155005	  4e-07
+ 75- 12:	afi_Af01G268100	afi_Af05G157500	 4e-286
+ 75- 13:	afi_Af01G269400	afi_Af05G158400	  2e-56
+ 75- 14:	afi_Af01G275100	afi_Af05G162801	  6e-35
+ 75- 15:	afi_Af01G278800	afi_Af05G164000	  3e-43
+## Alignment 76: score=257.0 e_value=7.5e-21 N=10 Afi_1&Afi_5 plus
+ 76-  0:	afi_Af01G289900	afi_Af05G148900	  6e-41
+ 76-  1:	afi_Af01G293500	afi_Af05G151500	  8e-93
+ 76-  2:	afi_Af01G298500	afi_Af05G152702	 1e-151
+ 76-  3:	afi_Af01G300900	afi_Af05G153600	  8e-56
+ 76-  4:	afi_Af01G302603	afi_Af05G153814	 5e-192
+ 76-  5:	afi_Af01G303201	afi_Af05G154306	  2e-62
+ 76-  6:	afi_Af01G304507	afi_Af05G154515	      0
+ 76-  7:	afi_Af01G304703	afi_Af05G154705	 2e-124
+ 76-  8:	afi_Af01G304715	afi_Af05G155205	 4e-144
+ 76-  9:	afi_Af01G307800	afi_Af05G155502	 1e-153
+## Alignment 77: score=254.0 e_value=1.5e-18 N=9 Afi_1&Afi_5 plus
+ 77-  0:	afi_Af01G242600	afi_Af05G153613	  5e-79
+ 77-  1:	afi_Af01G246001	afi_Af05G153620	      0
+ 77-  2:	afi_Af01G250005	afi_Af05G154204	  3e-92
+ 77-  3:	afi_Af01G250410	afi_Af05G154716	 1e-113
+ 77-  4:	afi_Af01G250505	afi_Af05G155502	  1e-67
+ 77-  5:	afi_Af01G250513	afi_Af05G155604	 6e-226
+ 77-  6:	afi_Af01G252209	afi_Af05G155713	 2e-201
+ 77-  7:	afi_Af01G252502	afi_Af05G156200	  3e-27
+ 77-  8:	afi_Af01G253701	afi_Af05G158400	  5e-22
+## Alignment 78: score=225.0 e_value=6.6e-06 N=5 Afi_1&Afi_5 plus
+ 78-  0:	afi_Af01G026000	afi_Af05G183200	  1e-26
+ 78-  1:	afi_Af01G026400	afi_Af05G184700	  2e-32
+ 78-  2:	afi_Af01G026600	afi_Af05G185300	  2e-50
+ 78-  3:	afi_Af01G026700	afi_Af05G185600	 2e-115
+ 78-  4:	afi_Af01G026900	afi_Af05G186100	  1e-30
+## Alignment 79: score=183.0 e_value=0.00033 N=4 Afi_1&Afi_5 plus
+ 79-  0:	afi_Af01G356800	afi_Af05G065800	  9e-26
+ 79-  1:	afi_Af01G357200	afi_Af05G065900	  3e-05
+ 79-  2:	afi_Af01G358200	afi_Af05G066800	  5e-41
+ 79-  3:	afi_Af01G358800	afi_Af05G066900	  1e-10
+## Alignment 80: score=159.0 e_value=0.00092 N=4 Afi_1&Afi_5 plus
+ 80-  0:	afi_Af01G109500	afi_Af05G192110	  2e-33
+ 80-  1:	afi_Af01G109800	afi_Af05G193500	  3e-53
+ 80-  2:	afi_Af01G110400	afi_Af05G194300	      0
+ 80-  3:	afi_Af01G111100	afi_Af05G196300	  4e-35
+## Alignment 81: score=274.0 e_value=9.3e-18 N=9 Afi_1&Afi_5 minus
+ 81-  0:	afi_Af01G249011	afi_Af05G155603	 2e-123
+ 81-  1:	afi_Af01G250407	afi_Af05G155502	  1e-65
+ 81-  2:	afi_Af01G250410	afi_Af05G154515	 2e-108
+ 81-  3:	afi_Af01G250504	afi_Af05G153806	 0.0001
+ 81-  4:	afi_Af01G250517	afi_Af05G153612	  1e-43
+ 81-  5:	afi_Af01G252108	afi_Af05G153405	  3e-93
+ 81-  6:	afi_Af01G254006	afi_Af05G152713	 1e-294
+ 81-  7:	afi_Af01G254108	afi_Af05G152705	  7e-78
+ 81-  8:	afi_Af01G254701	afi_Af05G152502	 6e-113
+## Alignment 82: score=199.0 e_value=4.7e-13 N=7 Afi_1&Afi_5 minus
+ 82-  0:	afi_Af01G298500	afi_Af05G153618	  1e-75
+ 82-  1:	afi_Af01G302100	afi_Af05G152708	  4e-66
+ 82-  2:	afi_Af01G302614	afi_Af05G152705	  2e-50
+ 82-  3:	afi_Af01G302801	afi_Af05G152100	  5e-34
+ 82-  4:	afi_Af01G304301	afi_Af05G151600	  2e-29
+ 82-  5:	afi_Af01G304503	afi_Af05G148501	  2e-58
+ 82-  6:	afi_Af01G306700	afi_Af05G148200	  1e-13
+## Alignment 83: score=190.0 e_value=3e-08 N=6 Afi_1&Afi_5 minus
+ 83-  0:	afi_Af01G260813	afi_Af05G155603	  9e-62
+ 83-  1:	afi_Af01G261007	afi_Af05G154716	      0
+ 83-  2:	afi_Af01G263102	afi_Af05G154705	  6e-93
+ 83-  3:	afi_Af01G263811	afi_Af05G154515	 4e-169
+ 83-  4:	afi_Af01G264002	afi_Af05G154306	  8e-14
+ 83-  5:	afi_Af01G264809	afi_Af05G153904	 2e-160
+## Alignment 84: score=178.0 e_value=5.9e-07 N=5 Afi_1&Afi_5 minus
+ 84-  0:	afi_Af01G260212	afi_Af05G154716	 2e-304
+ 84-  1:	afi_Af01G260216	afi_Af05G154316	      0
+ 84-  2:	afi_Af01G260917	afi_Af05G153810	 3e-141
+ 84-  3:	afi_Af01G260922	afi_Af05G153804	 2e-307
+ 84-  4:	afi_Af01G261100	afi_Af05G153406	  5e-98
+## Alignment 85: score=155.0 e_value=1e-08 N=6 Afi_1&Afi_5 minus
+ 85-  0:	afi_Af01G378400	afi_Af05G072100	  8e-51
+ 85-  1:	afi_Af01G381600	afi_Af05G071800	  3e-94
+ 85-  2:	afi_Af01G383800	afi_Af05G069500	  6e-79
+ 85-  3:	afi_Af01G386900	afi_Af05G067200	  1e-47
+ 85-  4:	afi_Af01G389300	afi_Af05G066400	  4e-15
+ 85-  5:	afi_Af01G390200	afi_Af05G063500	  4e-13
+## Alignment 86: score=407.0 e_value=3.9e-31 N=11 Afi_1&Afi_6 plus
+ 86-  0:	afi_Af01G254703	afi_Af06G109500	  1e-40
+ 86-  1:	afi_Af01G256900	afi_Af06G110400	  9e-30
+ 86-  2:	afi_Af01G259803	afi_Af06G111208	 2e-294
+ 86-  3:	afi_Af01G259813	afi_Af06G111214	  1e-89
+ 86-  4:	afi_Af01G259814	afi_Af06G111216	 3e-108
+ 86-  5:	afi_Af01G260200	afi_Af06G111402	  4e-42
+ 86-  6:	afi_Af01G260216	afi_Af06G112310	 3e-184
+ 86-  7:	afi_Af01G260412	afi_Af06G112506	  8e-55
+ 86-  8:	afi_Af01G260413	afi_Af06G112507	  2e-51
+ 86-  9:	afi_Af01G261007	afi_Af06G112806	 3e-169
+ 86- 10:	afi_Af01G261100	afi_Af06G112808	 3e-128
+## Alignment 87: score=374.0 e_value=7.1e-23 N=10 Afi_1&Afi_6 plus
+ 87-  0:	afi_Af01G298500	afi_Af06G111205	 7e-268
+ 87-  1:	afi_Af01G299200	afi_Af06G111214	 4e-297
+ 87-  2:	afi_Af01G300501	afi_Af06G111218	  7e-74
+ 87-  3:	afi_Af01G300600	afi_Af06G111300	 6e-174
+ 87-  4:	afi_Af01G302505	afi_Af06G111401	  7e-44
+ 87-  5:	afi_Af01G303201	afi_Af06G111405	 2e-132
+ 87-  6:	afi_Af01G303304	afi_Af06G111604	 3e-210
+ 87-  7:	afi_Af01G304201	afi_Af06G112300	 2e-161
+ 87-  8:	afi_Af01G304704	afi_Af06G112502	  7e-86
+ 87-  9:	afi_Af01G306200	afi_Af06G113800	  3e-66
+## Alignment 88: score=308.0 e_value=3.7e-37 N=15 Afi_1&Afi_6 plus
+ 88-  0:	afi_Af01G250508	afi_Af06G123003	  4e-47
+ 88-  1:	afi_Af01G252209	afi_Af06G123303	 1e-196
+ 88-  2:	afi_Af01G252405	afi_Af06G123802	  2e-77
+ 88-  3:	afi_Af01G254006	afi_Af06G128104	 5e-241
+ 88-  4:	afi_Af01G258100	afi_Af06G130110	 5e-115
+ 88-  5:	afi_Af01G260216	afi_Af06G133003	      0
+ 88-  6:	afi_Af01G260416	afi_Af06G135801	  2e-51
+ 88-  7:	afi_Af01G260917	afi_Af06G140201	  6e-39
+ 88-  8:	afi_Af01G261007	afi_Af06G140601	 5e-266
+ 88-  9:	afi_Af01G261905	afi_Af06G140802	  5e-16
+ 88- 10:	afi_Af01G263601	afi_Af06G140811	 1e-181
+ 88- 11:	afi_Af01G264828	afi_Af06G144004	  5e-60
+ 88- 12:	afi_Af01G265900	afi_Af06G144200	  1e-66
+ 88- 13:	afi_Af01G267500	afi_Af06G146000	  3e-63
+ 88- 14:	afi_Af01G270200	afi_Af06G147000	  2e-33
+## Alignment 89: score=254.0 e_value=2.3e-14 N=8 Afi_1&Afi_6 plus
+ 89-  0:	afi_Af01G260216	afi_Af06G111202	      0
+ 89-  1:	afi_Af01G260908	afi_Af06G111205	 3e-218
+ 89-  2:	afi_Af01G261808	afi_Af06G111215	  5e-26
+ 89-  3:	afi_Af01G263106	afi_Af06G111405	 2e-132
+ 89-  4:	afi_Af01G263601	afi_Af06G111606	 2e-166
+ 89-  5:	afi_Af01G263804	afi_Af06G112300	  2e-34
+ 89-  6:	afi_Af01G264201	afi_Af06G112806	 3e-171
+ 89-  7:	afi_Af01G264503	afi_Af06G114700	  1e-49
+## Alignment 90: score=222.0 e_value=3.2e-13 N=7 Afi_1&Afi_6 plus
+ 90-  0:	afi_Af01G303500	afi_Af06G140811	  2e-15
+ 90-  1:	afi_Af01G303800	afi_Af06G143000	  2e-69
+ 90-  2:	afi_Af01G304300	afi_Af06G146400	  5e-07
+ 90-  3:	afi_Af01G304400	afi_Af06G146800	  2e-56
+ 90-  4:	afi_Af01G307100	afi_Af06G147000	  5e-33
+ 90-  5:	afi_Af01G309200	afi_Af06G148000	 6e-215
+ 90-  6:	afi_Af01G309500	afi_Af06G148600	 3e-145
+## Alignment 91: score=186.0 e_value=1.7e-11 N=6 Afi_1&Afi_6 plus
+ 91-  0:	afi_Af01G299200	afi_Af06G110301	  6e-36
+ 91-  1:	afi_Af01G302502	afi_Af06G110801	  2e-75
+ 91-  2:	afi_Af01G302702	afi_Af06G110802	 2e-219
+ 91-  3:	afi_Af01G303100	afi_Af06G111215	  5e-14
+ 91-  4:	afi_Af01G303203	afi_Af06G112303	  4e-92
+ 91-  5:	afi_Af01G303304	afi_Af06G112806	 2e-170
+## Alignment 92: score=160.0 e_value=0.00046 N=4 Afi_1&Afi_6 plus
+ 92-  0:	afi_Af01G303304	afi_Af06G123705	 5e-157
+ 92-  1:	afi_Af01G303609	afi_Af06G123710	 5e-189
+ 92-  2:	afi_Af01G304508	afi_Af06G123802	 2e-103
+ 92-  3:	afi_Af01G304715	afi_Af06G125103	      0
+## Alignment 93: score=160.0 e_value=9.5e-05 N=4 Afi_1&Afi_6 plus
+ 93-  0:	afi_Af01G263813	afi_Af06G140201	  4e-44
+ 93-  1:	afi_Af01G264201	afi_Af06G140204	  2e-98
+ 93-  2:	afi_Af01G264510	afi_Af06G140802	  2e-61
+ 93-  3:	afi_Af01G266600	afi_Af06G141201	  2e-96
+## Alignment 94: score=246.0 e_value=8e-14 N=7 Afi_1&Afi_6 minus
+ 94-  0:	afi_Af01G302608	afi_Af06G112506	      0
+ 94-  1:	afi_Af01G302905	afi_Af06G112303	  3e-92
+ 94-  2:	afi_Af01G303901	afi_Af06G111503	  6e-76
+ 94-  3:	afi_Af01G303903	afi_Af06G111502	  1e-78
+ 94-  4:	afi_Af01G304301	afi_Af06G111402	  2e-24
+ 94-  5:	afi_Af01G304501	afi_Af06G110302	 9e-121
+ 94-  6:	afi_Af01G306700	afi_Af06G109200	  7e-23
+## Alignment 95: score=205.0 e_value=1.7e-13 N=7 Afi_1&Afi_6 minus
+ 95-  0:	afi_Af01G263601	afi_Af06G112808	 3e-139
+ 95-  1:	afi_Af01G263808	afi_Af06G111605	  3e-05
+ 95-  2:	afi_Af01G264201	afi_Af06G111603	 2e-263
+ 95-  3:	afi_Af01G266500	afi_Af06G111217	  4e-47
+ 95-  4:	afi_Af01G268100	afi_Af06G111205	 1e-280
+ 95-  5:	afi_Af01G271801	afi_Af06G110120	  5e-16
+ 95-  6:	afi_Af01G272500	afi_Af06G108400	 3e-129
+## Alignment 96: score=199.0 e_value=7.8e-12 N=6 Afi_1&Afi_6 minus
+ 96-  0:	afi_Af01G300901	afi_Af06G112315	 8e-208
+ 96-  1:	afi_Af01G302500	afi_Af06G111402	  4e-45
+ 96-  2:	afi_Af01G302603	afi_Af06G111205	      0
+ 96-  3:	afi_Af01G303200	afi_Af06G110400	 8e-165
+ 96-  4:	afi_Af01G303201	afi_Af06G110302	 3e-310
+ 96-  5:	afi_Af01G304501	afi_Af06G107602	  1e-34
+## Alignment 97: score=183.0 e_value=3.7e-06 N=5 Afi_1&Afi_6 minus
+ 97-  0:	afi_Af01G260216	afi_Af06G125103	      0
+ 97-  1:	afi_Af01G260604	afi_Af06G123710	 5e-119
+ 97-  2:	afi_Af01G260917	afi_Af06G123004	  4e-68
+ 97-  3:	afi_Af01G260922	afi_Af06G122902	 1e-104
+ 97-  4:	afi_Af01G261100	afi_Af06G120500	 2e-270
+## Alignment 98: score=175.0 e_value=2.2e-07 N=5 Afi_1&Afi_6 minus
+ 98-  0:	afi_Af01G282100	afi_Af06G107100	  3e-25
+ 98-  1:	afi_Af01G282900	afi_Af06G106800	  5e-43
+ 98-  2:	afi_Af01G284300	afi_Af06G105400	  2e-42
+ 98-  3:	afi_Af01G288300	afi_Af06G102500	  3e-21
+ 98-  4:	afi_Af01G289700	afi_Af06G102300	  2e-17
+## Alignment 99: score=164.0 e_value=0.00019 N=4 Afi_1&Afi_6 minus
+ 99-  0:	afi_Af01G303204	afi_Af06G123710	 2e-189
+ 99-  1:	afi_Af01G303304	afi_Af06G123705	 5e-157
+ 99-  2:	afi_Af01G304704	afi_Af06G123503	 1e-158
+ 99-  3:	afi_Af01G304904	afi_Af06G123010	 2e-121
+## Alignment 100: score=163.0 e_value=0.00066 N=4 Afi_1&Afi_6 minus
+100-  0:	afi_Af01G159800	afi_Af06G071000	 2e-254
+100-  1:	afi_Af01G160900	afi_Af06G070100	 2e-114
+100-  2:	afi_Af01G161600	afi_Af06G069700	  9e-65
+100-  3:	afi_Af01G161900	afi_Af06G067500	  8e-35
+## Alignment 101: score=153.0 e_value=1.3e-06 N=5 Afi_1&Afi_6 minus
+101-  0:	afi_Af01G249005	afi_Af06G112801	 4e-104
+101-  1:	afi_Af01G249011	afi_Af06G112507	 6e-133
+101-  2:	afi_Af01G250410	afi_Af06G111603	 2e-113
+101-  3:	afi_Af01G251902	afi_Af06G111303	  5e-38
+101-  4:	afi_Af01G252501	afi_Af06G110302	 2e-173
+## Alignment 102: score=228.0 e_value=4.7e-15 N=7 Afi_1&Afi_7 plus
+102-  0:	afi_Af01G303100	afi_Af07G091101	  4e-30
+102-  1:	afi_Af01G303102	afi_Af07G092500	  4e-28
+102-  2:	afi_Af01G303200	afi_Af07G092900	  2e-57
+102-  3:	afi_Af01G303303	afi_Af07G094100	 1e-138
+102-  4:	afi_Af01G304502	afi_Af07G095606	  2e-59
+102-  5:	afi_Af01G308900	afi_Af07G100401	      0
+102-  6:	afi_Af01G310900	afi_Af07G100700	 3e-109
+## Alignment 103: score=237.0 e_value=1.9e-08 N=5 Afi_1&Afi_7 minus
+103-  0:	afi_Af01G223500	afi_Af07G082300	  2e-56
+103-  1:	afi_Af01G223600	afi_Af07G082200	 6e-100
+103-  2:	afi_Af01G223800	afi_Af07G082101	  3e-52
+103-  3:	afi_Af01G224000	afi_Af07G082100	  3e-31
+103-  4:	afi_Af01G224500	afi_Af07G081300	  4e-39
+## Alignment 104: score=231.0 e_value=6.1e-14 N=7 Afi_1&Afi_7 minus
+104-  0:	afi_Af01G102900	afi_Af07G185800	  1e-37
+104-  1:	afi_Af01G105100	afi_Af07G184800	 6e-138
+104-  2:	afi_Af01G105200	afi_Af07G183410	  4e-98
+104-  3:	afi_Af01G105400	afi_Af07G183100	  2e-18
+104-  4:	afi_Af01G105900	afi_Af07G182400	  8e-82
+104-  5:	afi_Af01G106000	afi_Af07G179400	  5e-78
+104-  6:	afi_Af01G110400	afi_Af07G178400	  2e-61
+## Alignment 105: score=155.0 e_value=2.4e-06 N=5 Afi_1&Afi_7 minus
+105-  0:	afi_Af01G403100	afi_Af07G049100	  4e-24
+105-  1:	afi_Af01G404800	afi_Af07G045900	 3e-130
+105-  2:	afi_Af01G405000	afi_Af07G045300	  3e-71
+105-  3:	afi_Af01G408700	afi_Af07G041000	  2e-09
+105-  4:	afi_Af01G409300	afi_Af07G039400	  4e-59
+## Alignment 106: score=447.0 e_value=1e-28 N=11 Afi_1&Afi_Un plus
+106-  0:	afi_Af01G000300	afi_AfUnG026900	  3e-36
+106-  1:	afi_Af01G000500	afi_AfUnG027000	  3e-81
+106-  2:	afi_Af01G000900	afi_AfUnG027200	  8e-57
+106-  3:	afi_Af01G001500	afi_AfUnG029800	 2e-146
+106-  4:	afi_Af01G001600	afi_AfUnG030000	  8e-44
+106-  5:	afi_Af01G001700	afi_AfUnG032600	  4e-69
+106-  6:	afi_Af01G001800	afi_AfUnG033000	  2e-41
+106-  7:	afi_Af01G001900	afi_AfUnG033400	  1e-77
+106-  8:	afi_Af01G002000	afi_AfUnG033600	 4e-227
+106-  9:	afi_Af01G002100	afi_AfUnG036201	  4e-93
+106- 10:	afi_Af01G002300	afi_AfUnG037000	  4e-07
+## Alignment 107: score=376.0 e_value=3.8e-22 N=9 Afi_1&Afi_Un plus
+107-  0:	afi_Af01G000100	afi_AfUnG032800	 5e-105
+107-  1:	afi_Af01G000300	afi_AfUnG033000	  2e-41
+107-  2:	afi_Af01G000400	afi_AfUnG036000	  9e-56
+107-  3:	afi_Af01G000500	afi_AfUnG036100	  3e-81
+107-  4:	afi_Af01G000800	afi_AfUnG036201	  9e-38
+107-  5:	afi_Af01G001100	afi_AfUnG036500	  2e-23
+107-  6:	afi_Af01G001500	afi_AfUnG037500	  3e-94
+107-  7:	afi_Af01G001600	afi_AfUnG039700	  3e-66
+107-  8:	afi_Af01G002000	afi_AfUnG039900	 1e-168
+## Alignment 108: score=293.0 e_value=6.4e-16 N=8 Afi_1&Afi_Un plus
+108-  0:	afi_Af01G000100	afi_AfUnG027100	 3e-151
+108-  1:	afi_Af01G000200	afi_AfUnG030000	  3e-41
+108-  2:	afi_Af01G000400	afi_AfUnG031900	  5e-78
+108-  3:	afi_Af01G000900	afi_AfUnG032700	  2e-53
+108-  4:	afi_Af01G001000	afi_AfUnG033400	  2e-22
+108-  5:	afi_Af01G001100	afi_AfUnG033800	  8e-52
+108-  6:	afi_Af01G001900	afi_AfUnG036100	  1e-57
+108-  7:	afi_Af01G002200	afi_AfUnG037500	  5e-84
+## Alignment 109: score=284.0 e_value=1.4e-12 N=6 Afi_1&Afi_Un plus
+109-  0:	afi_Af01G223500	afi_AfUnG045000	  2e-31
+109-  1:	afi_Af01G223700	afi_AfUnG046300	 6e-115
+109-  2:	afi_Af01G223800	afi_AfUnG046400	 3e-141
+109-  3:	afi_Af01G223900	afi_AfUnG046500	  6e-28
+109-  4:	afi_Af01G224000	afi_AfUnG046900	 5e-124
+109-  5:	afi_Af01G224200	afi_AfUnG047000	  1e-18
+## Alignment 110: score=261.0 e_value=4.8e-15 N=7 Afi_1&Afi_Un plus
+110-  0:	afi_Af01G000100	afi_AfUnG010600	 1e-148
+110-  1:	afi_Af01G000200	afi_AfUnG010700	  2e-55
+110-  2:	afi_Af01G000600	afi_AfUnG011500	  3e-86
+110-  3:	afi_Af01G000800	afi_AfUnG011501	  3e-36
+110-  4:	afi_Af01G001700	afi_AfUnG012800	  6e-38
+110-  5:	afi_Af01G002200	afi_AfUnG017000	 9e-127
+110-  6:	afi_Af01G002300	afi_AfUnG017800	  2e-71
+## Alignment 111: score=253.0 e_value=2.8e-12 N=6 Afi_1&Afi_Un plus
+111-  0:	afi_Af01G000500	afi_AfUnG016800	  3e-81
+111-  1:	afi_Af01G001400	afi_AfUnG016900	  2e-25
+111-  2:	afi_Af01G001500	afi_AfUnG017000	 5e-132
+111-  3:	afi_Af01G001600	afi_AfUnG017100	  8e-75
+111-  4:	afi_Af01G002100	afi_AfUnG018000	  4e-35
+111-  5:	afi_Af01G002300	afi_AfUnG020300	  6e-69
+## Alignment 112: score=203.0 e_value=4.2e-09 N=5 Afi_1&Afi_Un plus
+112-  0:	afi_Af01G000100	afi_AfUnG033600	 2e-155
+112-  1:	afi_Af01G000200	afi_AfUnG036400	  3e-56
+112-  2:	afi_Af01G000300	afi_AfUnG036600	  7e-31
+112-  3:	afi_Af01G000400	afi_AfUnG037100	  1e-70
+112-  4:	afi_Af01G001600	afi_AfUnG037200	  6e-81
+## Alignment 113: score=194.0 e_value=3.3e-05 N=4 Afi_1&Afi_Un plus
+113-  0:	afi_Af01G000001	afi_AfUnG036800	  5e-12
+113-  1:	afi_Af01G000100	afi_AfUnG036900	 8e-179
+113-  2:	afi_Af01G000200	afi_AfUnG037200	  4e-69
+113-  3:	afi_Af01G000400	afi_AfUnG037700	  2e-99
+## Alignment 114: score=193.0 e_value=8.5e-11 N=6 Afi_1&Afi_Un plus
+114-  0:	afi_Af01G000700	afi_AfUnG018000	  7e-66
+114-  1:	afi_Af01G000800	afi_AfUnG020401	  7e-24
+114-  2:	afi_Af01G001100	afi_AfUnG021000	  6e-17
+114-  3:	afi_Af01G001400	afi_AfUnG023900	  4e-25
+114-  4:	afi_Af01G001800	afi_AfUnG026900	  3e-36
+114-  5:	afi_Af01G001900	afi_AfUnG027000	  1e-57
+## Alignment 115: score=160.0 e_value=2.3e-07 N=4 Afi_1&Afi_Un plus
+115-  0:	afi_Af01G277700	afi_AfUnG041200	  1e-20
+115-  1:	afi_Af01G278000	afi_AfUnG041400	  5e-40
+115-  2:	afi_Af01G278300	afi_AfUnG041700	  1e-32
+115-  3:	afi_Af01G279200	afi_AfUnG045100	  3e-07
+## Alignment 116: score=265.0 e_value=7.7e-17 N=8 Afi_1&Afi_Un minus
+116-  0:	afi_Af01G000100	afi_AfUnG039900	 1e-177
+116-  1:	afi_Af01G000200	afi_AfUnG037200	  4e-69
+116-  2:	afi_Af01G000300	afi_AfUnG036600	  7e-31
+116-  3:	afi_Af01G000400	afi_AfUnG033200	  2e-23
+116-  4:	afi_Af01G000500	afi_AfUnG032900	  3e-87
+116-  5:	afi_Af01G000700	afi_AfUnG032701	  2e-21
+116-  6:	afi_Af01G001000	afi_AfUnG030000	  2e-13
+116-  7:	afi_Af01G001900	afi_AfUnG027000	  1e-57
+## Alignment 117: score=205.0 e_value=9.4e-08 N=5 Afi_1&Afi_Un minus
+117-  0:	afi_Af01G000001	afi_AfUnG036800	  5e-12
+117-  1:	afi_Af01G000200	afi_AfUnG036400	  3e-56
+117-  2:	afi_Af01G000900	afi_AfUnG033500	  1e-67
+117-  3:	afi_Af01G001300	afi_AfUnG033100	  1e-13
+117-  4:	afi_Af01G002100	afi_AfUnG032701	  5e-93
+## Alignment 118: score=182.0 e_value=3.9e-06 N=4 Afi_1&Afi_Un minus
+118-  0:	afi_Af01G000900	afi_AfUnG011400	  9e-60
+118-  1:	afi_Af01G001600	afi_AfUnG011300	  2e-62
+118-  2:	afi_Af01G001700	afi_AfUnG011200	  4e-64
+118-  3:	afi_Af01G002100	afi_AfUnG010502	  2e-85
+## Alignment 119: score=272.0 e_value=5.1e-09 N=6 Afi_2&Afi_2 plus
+119-  0:	afi_Af02G112320	afi_Af02G248100	 2e-203
+119-  1:	afi_Af02G112600	afi_Af02G249100	 6e-180
+119-  2:	afi_Af02G112700	afi_Af02G249300	  5e-36
+119-  3:	afi_Af02G113000	afi_Af02G249800	 4e-165
+119-  4:	afi_Af02G113600	afi_Af02G249900	 2e-197
+119-  5:	afi_Af02G113800	afi_Af02G250000	 1e-194
+## Alignment 120: score=215.0 e_value=3.4e-12 N=7 Afi_2&Afi_2 plus
+120-  0:	afi_Af02G156004	afi_Af02G165806	 4e-228
+120-  1:	afi_Af02G156803	afi_Af02G166503	 7e-207
+120-  2:	afi_Af02G157303	afi_Af02G167102	 5e-180
+120-  3:	afi_Af02G160700	afi_Af02G167600	 3e-129
+120-  4:	afi_Af02G163706	afi_Af02G167905	      0
+120-  5:	afi_Af02G164201	afi_Af02G169501	      0
+120-  6:	afi_Af02G164914	afi_Af02G171700	  3e-06
+## Alignment 121: score=207.0 e_value=1.7e-08 N=5 Afi_2&Afi_2 plus
+121-  0:	afi_Af02G263600	afi_Af02G344400	 2e-250
+121-  1:	afi_Af02G267300	afi_Af02G347600	 5e-162
+121-  2:	afi_Af02G267500	afi_Af02G347800	      0
+121-  3:	afi_Af02G267600	afi_Af02G348100	  1e-72
+121-  4:	afi_Af02G267700	afi_Af02G348500	 1e-101
+## Alignment 122: score=178.0 e_value=5.3e-05 N=4 Afi_2&Afi_2 plus
+122-  0:	afi_Af02G315300	afi_Af02G321000	  2e-28
+122-  1:	afi_Af02G316900	afi_Af02G322100	  8e-46
+122-  2:	afi_Af02G317000	afi_Af02G322300	 3e-239
+122-  3:	afi_Af02G317100	afi_Af02G322800	  7e-22
+## Alignment 123: score=154.0 e_value=1e-06 N=5 Afi_2&Afi_2 plus
+123-  0:	afi_Af02G171600	afi_Af02G245900	  1e-88
+123-  1:	afi_Af02G172600	afi_Af02G246606	 5e-267
+123-  2:	afi_Af02G174700	afi_Af02G246607	 1e-151
+123-  3:	afi_Af02G178200	afi_Af02G247600	  3e-76
+123-  4:	afi_Af02G181300	afi_Af02G249600	  3e-22
+## Alignment 124: score=196.0 e_value=4.5e-07 N=5 Afi_2&Afi_2 minus
+124-  0:	afi_Af02G228800	afi_Af02G236500	 4e-143
+124-  1:	afi_Af02G232400	afi_Af02G236300	  8e-66
+124-  2:	afi_Af02G232600	afi_Af02G236200	  2e-32
+124-  3:	afi_Af02G233000	afi_Af02G235200	  7e-93
+124-  4:	afi_Af02G233100	afi_Af02G234800	      0
+## Alignment 125: score=162.0 e_value=2.1e-07 N=5 Afi_2&Afi_2 minus
+125-  0:	afi_Af02G141800	afi_Af02G165200	  2e-30
+125-  1:	afi_Af02G142102	afi_Af02G165109	 4e-100
+125-  2:	afi_Af02G142506	afi_Af02G163706	 4e-110
+125-  3:	afi_Af02G143200	afi_Af02G163000	 3e-264
+125-  4:	afi_Af02G144501	afi_Af02G160600	 0.0003
+## Alignment 126: score=159.0 e_value=1.8e-11 N=6 Afi_2&Afi_2 minus
+126-  0:	afi_Af02G149100	afi_Af02G264700	 8e-152
+126-  1:	afi_Af02G149400	afi_Af02G264600	 1e-155
+126-  2:	afi_Af02G149500	afi_Af02G264500	 2e-248
+126-  3:	afi_Af02G152500	afi_Af02G259600	  2e-59
+126-  4:	afi_Af02G156306	afi_Af02G255503	  2e-64
+126-  5:	afi_Af02G156803	afi_Af02G251705	  1e-93
+## Alignment 127: score=445.0 e_value=1.2e-46 N=17 Afi_2&Afi_3 plus
+127-  0:	afi_Af02G156305	afi_Af03G173502	 3e-149
+127-  1:	afi_Af02G156803	afi_Af03G174103	  3e-60
+127-  2:	afi_Af02G157804	afi_Af03G175401	  9e-67
+127-  3:	afi_Af02G158401	afi_Af03G175513	 1e-100
+127-  4:	afi_Af02G160300	afi_Af03G178400	 7e-132
+127-  5:	afi_Af02G161900	afi_Af03G181701	  2e-13
+127-  6:	afi_Af02G162800	afi_Af03G182900	  2e-79
+127-  7:	afi_Af02G163103	afi_Af03G186307	 5e-180
+127-  8:	afi_Af02G163110	afi_Af03G187208	 5e-134
+127-  9:	afi_Af02G163902	afi_Af03G187505	      0
+127- 10:	afi_Af02G164305	afi_Af03G187905	  4e-80
+127- 11:	afi_Af02G165802	afi_Af03G189204	      0
+127- 12:	afi_Af02G167905	afi_Af03G189812	      0
+127- 13:	afi_Af02G168809	afi_Af03G190209	  5e-99
+127- 14:	afi_Af02G170300	afi_Af03G190600	  9e-61
+127- 15:	afi_Af02G172600	afi_Af03G195400	 1e-303
+127- 16:	afi_Af02G177400	afi_Af03G200100	  3e-10
+## Alignment 128: score=276.0 e_value=9.5e-15 N=8 Afi_2&Afi_3 plus
+128-  0:	afi_Af02G162800	afi_Af03G172003	  1e-16
+128-  1:	afi_Af02G164305	afi_Af03G173208	      0
+128-  2:	afi_Af02G164905	afi_Af03G173502	 4e-123
+128-  3:	afi_Af02G166102	afi_Af03G173908	 5e-163
+128-  4:	afi_Af02G166503	afi_Af03G174704	  7e-48
+128-  5:	afi_Af02G168803	afi_Af03G175402	 4e-245
+128-  6:	afi_Af02G168809	afi_Af03G175504	 3e-186
+128-  7:	afi_Af02G169501	afi_Af03G175511	      0
+## Alignment 129: score=219.0 e_value=7.9e-09 N=6 Afi_2&Afi_3 plus
+129-  0:	afi_Af02G142002	afi_Af03G172701	 7e-183
+129-  1:	afi_Af02G142104	afi_Af03G173306	  5e-93
+129-  2:	afi_Af02G142900	afi_Af03G173405	 8e-109
+129-  3:	afi_Af02G143305	afi_Af03G173601	 1e-280
+129-  4:	afi_Af02G143701	afi_Af03G174007	 3e-235
+129-  5:	afi_Af02G144404	afi_Af03G175005	 2e-284
+## Alignment 130: score=208.0 e_value=3.5e-07 N=5 Afi_2&Afi_3 plus
+130-  0:	afi_Af02G143305	afi_Af03G172001	  1e-23
+130-  1:	afi_Af02G143404	afi_Af03G172003	  2e-11
+130-  2:	afi_Af02G143701	afi_Af03G173001	 1e-206
+130-  3:	afi_Af02G144404	afi_Af03G173208	      0
+130-  4:	afi_Af02G144504	afi_Af03G173600	 4e-122
+## Alignment 131: score=198.0 e_value=3.2e-22 N=10 Afi_2&Afi_3 plus
+131-  0:	afi_Af02G156308	afi_Af03G173405	 2e-173
+131-  1:	afi_Af02G157900	afi_Af03G173901	  8e-20
+131-  2:	afi_Af02G161900	afi_Af03G174302	      0
+131-  3:	afi_Af02G163601	afi_Af03G174807	  2e-84
+131-  4:	afi_Af02G164912	afi_Af03G175402	  1e-17
+131-  5:	afi_Af02G167102	afi_Af03G175503	 3e-187
+131-  6:	afi_Af02G167905	afi_Af03G175805	      0
+131-  7:	afi_Af02G170300	afi_Af03G181200	  3e-38
+131-  8:	afi_Af02G172600	afi_Af03G186307	 3e-301
+131-  9:	afi_Af02G173000	afi_Af03G187505	  7e-50
+## Alignment 132: score=193.0 e_value=4.6e-09 N=6 Afi_2&Afi_3 plus
+132-  0:	afi_Af02G240400	afi_Af03G174800	  1e-88
+132-  1:	afi_Af02G243702	afi_Af03G175402	 1e-102
+132-  2:	afi_Af02G243801	afi_Af03G175603	  8e-36
+132-  3:	afi_Af02G244500	afi_Af03G177000	      0
+132-  4:	afi_Af02G246606	afi_Af03G178700	 3e-212
+132-  5:	afi_Af02G247500	afi_Af03G179900	  1e-20
+## Alignment 133: score=178.0 e_value=6.2e-15 N=7 Afi_2&Afi_3 plus
+133-  0:	afi_Af02G131100	afi_Af03G180900	  3e-38
+133-  1:	afi_Af02G134600	afi_Af03G183000	  2e-23
+133-  2:	afi_Af02G137200	afi_Af03G186300	  3e-20
+133-  3:	afi_Af02G141904	afi_Af03G188702	 2e-114
+133-  4:	afi_Af02G142403	afi_Af03G189502	  8e-92
+133-  5:	afi_Af02G143304	afi_Af03G190304	  1e-33
+133-  6:	afi_Af02G143305	afi_Af03G190400	  3e-39
+## Alignment 134: score=167.0 e_value=4e-06 N=4 Afi_2&Afi_3 plus
+134-  0:	afi_Af02G245800	afi_Af03G175302	 1e-159
+134-  1:	afi_Af02G245801	afi_Af03G175303	      0
+134-  2:	afi_Af02G246504	afi_Af03G176001	  5e-85
+134-  3:	afi_Af02G246606	afi_Af03G177000	      0
+## Alignment 135: score=279.0 e_value=1.3e-15 N=8 Afi_2&Afi_3 minus
+135-  0:	afi_Af02G141801	afi_Af03G175504	 4e-131
+135-  1:	afi_Af02G141902	afi_Af03G175402	  8e-95
+135-  2:	afi_Af02G142505	afi_Af03G174302	 5e-314
+135-  3:	afi_Af02G143306	afi_Af03G174108	  5e-62
+135-  4:	afi_Af02G143403	afi_Af03G174007	 1e-110
+135-  5:	afi_Af02G143702	afi_Af03G173405	  4e-97
+135-  6:	afi_Af02G144404	afi_Af03G172714	 1e-106
+135-  7:	afi_Af02G144502	afi_Af03G169901	  3e-17
+## Alignment 136: score=236.0 e_value=1.8e-18 N=9 Afi_2&Afi_3 minus
+136-  0:	afi_Af02G156004	afi_Af03G190210	  9e-40
+136-  1:	afi_Af02G156803	afi_Af03G190004	 7e-287
+136-  2:	afi_Af02G158401	afi_Af03G189700	  9e-69
+136-  3:	afi_Af02G162800	afi_Af03G187210	  6e-65
+136-  4:	afi_Af02G164407	afi_Af03G186509	 3e-166
+136-  5:	afi_Af02G166102	afi_Af03G185400	 4e-115
+136-  6:	afi_Af02G167102	afi_Af03G185100	 8e-210
+136-  7:	afi_Af02G170100	afi_Af03G183500	  6e-22
+136-  8:	afi_Af02G170300	afi_Af03G181800	  2e-36
+## Alignment 137: score=175.0 e_value=1.3e-09 N=5 Afi_2&Afi_3 minus
+137-  0:	afi_Af02G148000	afi_Af03G273010	  4e-79
+137-  1:	afi_Af02G148100	afi_Af03G273000	  2e-75
+137-  2:	afi_Af02G148400	afi_Af03G272900	  5e-91
+137-  3:	afi_Af02G153400	afi_Af03G272600	  6e-32
+137-  4:	afi_Af02G154500	afi_Af03G270300	 6e-112
+## Alignment 138: score=168.0 e_value=2.7e-05 N=4 Afi_2&Afi_3 minus
+138-  0:	afi_Af02G142507	afi_Af03G187505	 2e-303
+138-  1:	afi_Af02G143305	afi_Af03G187212	 2e-138
+138-  2:	afi_Af02G143701	afi_Af03G187211	  5e-77
+138-  3:	afi_Af02G143802	afi_Af03G186901	  5e-83
+## Alignment 139: score=165.0 e_value=1.4e-07 N=5 Afi_2&Afi_3 minus
+139-  0:	afi_Af02G060200	afi_Af03G073300	  5e-46
+139-  1:	afi_Af02G060400	afi_Af03G072800	  6e-54
+139-  2:	afi_Af02G062100	afi_Af03G068900	  2e-54
+139-  3:	afi_Af02G062400	afi_Af03G065000	  2e-89
+139-  4:	afi_Af02G062500	afi_Af03G064700	  9e-74
+## Alignment 140: score=164.0 e_value=2.2e-07 N=5 Afi_2&Afi_3 minus
+140-  0:	afi_Af02G166102	afi_Af03G177000	 9e-301
+140-  1:	afi_Af02G167802	afi_Af03G175402	      0
+140-  2:	afi_Af02G168803	afi_Af03G174902	 6e-149
+140-  3:	afi_Af02G168809	afi_Af03G174607	  2e-56
+140-  4:	afi_Af02G171700	afi_Af03G174302	      0
+## Alignment 141: score=161.0 e_value=1.9e-08 N=6 Afi_2&Afi_3 minus
+141-  0:	afi_Af02G163706	afi_Af03G175805	      0
+141-  1:	afi_Af02G164201	afi_Af03G175511	      0
+141-  2:	afi_Af02G164804	afi_Af03G174605	 1e-119
+141-  3:	afi_Af02G166502	afi_Af03G173502	 2e-194
+141-  4:	afi_Af02G167905	afi_Af03G173208	      0
+141-  5:	afi_Af02G170300	afi_Af03G170200	  7e-62
+## Alignment 142: score=160.0 e_value=6.9e-05 N=4 Afi_2&Afi_3 minus
+142-  0:	afi_Af02G156004	afi_Af03G175504	 1e-252
+142-  1:	afi_Af02G157303	afi_Af03G175503	 9e-182
+142-  2:	afi_Af02G157804	afi_Af03G174903	  3e-98
+142-  3:	afi_Af02G158401	afi_Af03G174807	 2e-136
+## Alignment 143: score=154.0 e_value=7.2e-06 N=4 Afi_2&Afi_3 minus
+143-  0:	afi_Af02G034500	afi_Af03G033600	  1e-77
+143-  1:	afi_Af02G034600	afi_Af03G033500	  2e-60
+143-  2:	afi_Af02G035400	afi_Af03G033400	  1e-79
+143-  3:	afi_Af02G039400	afi_Af03G032900	 1e-130
+## Alignment 144: score=159.0 e_value=1.5e-07 N=5 Afi_2&Afi_4 plus
+144-  0:	afi_Af02G345000	afi_Af04G034400	  2e-97
+144-  1:	afi_Af02G345400	afi_Af04G035500	  2e-45
+144-  2:	afi_Af02G350500	afi_Af04G039000	  3e-29
+144-  3:	afi_Af02G350800	afi_Af04G039300	 1e-100
+144-  4:	afi_Af02G351500	afi_Af04G042000	  1e-25
+## Alignment 145: score=157.0 e_value=3.1e-05 N=4 Afi_2&Afi_4 plus
+145-  0:	afi_Af02G196300	afi_Af04G137700	  3e-41
+145-  1:	afi_Af02G199200	afi_Af04G139000	  1e-77
+145-  2:	afi_Af02G199500	afi_Af04G139900	  3e-36
+145-  3:	afi_Af02G199600	afi_Af04G140040	  2e-17
+## Alignment 146: score=195.0 e_value=1.3e-08 N=6 Afi_2&Afi_4 minus
+146-  0:	afi_Af02G164804	afi_Af04G074203	  3e-53
+146-  1:	afi_Af02G165109	afi_Af04G073500	  8e-85
+146-  2:	afi_Af02G167803	afi_Af04G073101	 2e-124
+146-  3:	afi_Af02G168803	afi_Af04G072503	 3e-166
+146-  4:	afi_Af02G169501	afi_Af04G072006	      0
+146-  5:	afi_Af02G172900	afi_Af04G069800	  3e-08
+## Alignment 147: score=167.0 e_value=9.7e-05 N=4 Afi_2&Afi_4 minus
+147-  0:	afi_Af02G158900	afi_Af04G208400	  1e-86
+147-  1:	afi_Af02G159500	afi_Af04G207400	 1e-133
+147-  2:	afi_Af02G160200	afi_Af04G207100	 4e-141
+147-  3:	afi_Af02G161400	afi_Af04G206800	  1e-07
+## Alignment 148: score=262.0 e_value=3.8e-13 N=7 Afi_2&Afi_5 plus
+148-  0:	afi_Af02G163110	afi_Af05G152722	 4e-139
+148-  1:	afi_Af02G164203	afi_Af05G153808	  2e-96
+148-  2:	afi_Af02G164403	afi_Af05G153902	 1e-260
+148-  3:	afi_Af02G164803	afi_Af05G154205	  1e-16
+148-  4:	afi_Af02G165807	afi_Af05G154515	 6e-256
+148-  5:	afi_Af02G166502	afi_Af05G154705	 6e-197
+148-  6:	afi_Af02G166503	afi_Af05G154706	 2e-223
+## Alignment 149: score=190.0 e_value=6.6e-10 N=6 Afi_2&Afi_5 plus
+149-  0:	afi_Af02G160300	afi_Af05G154308	  1e-59
+149-  1:	afi_Af02G161900	afi_Af05G154705	      0
+149-  2:	afi_Af02G163111	afi_Af05G155102	  3e-34
+149-  3:	afi_Af02G164305	afi_Af05G155206	  7e-34
+149-  4:	afi_Af02G164416	afi_Af05G155713	 1e-171
+149-  5:	afi_Af02G165200	afi_Af05G160000	  1e-24
+## Alignment 150: score=182.0 e_value=1.1e-10 N=6 Afi_2&Afi_5 plus
+150-  0:	afi_Af02G154100	afi_Af05G121000	  3e-58
+150-  1:	afi_Af02G156001	afi_Af05G124301	  1e-46
+150-  2:	afi_Af02G156306	afi_Af05G124403	  2e-64
+150-  3:	afi_Af02G158000	afi_Af05G129900	  1e-07
+150-  4:	afi_Af02G158200	afi_Af05G130100	  6e-25
+150-  5:	afi_Af02G160300	afi_Af05G131300	 1e-146
+## Alignment 151: score=154.0 e_value=2.8e-10 N=6 Afi_2&Afi_5 plus
+151-  0:	afi_Af02G167102	afi_Af05G105901	 3e-193
+151-  1:	afi_Af02G168000	afi_Af05G107600	  9e-16
+151-  2:	afi_Af02G169900	afi_Af05G111000	  8e-76
+151-  3:	afi_Af02G171600	afi_Af05G115900	 2e-117
+151-  4:	afi_Af02G171700	afi_Af05G116000	 8e-163
+151-  5:	afi_Af02G173000	afi_Af05G120400	  6e-65
+## Alignment 152: score=152.0 e_value=0.00054 N=4 Afi_2&Afi_5 plus
+152-  0:	afi_Af02G141000	afi_Af05G186200	  5e-44
+152-  1:	afi_Af02G141800	afi_Af05G186600	  2e-12
+152-  2:	afi_Af02G141906	afi_Af05G188100	  4e-63
+152-  3:	afi_Af02G142900	afi_Af05G190200	  2e-08
+## Alignment 153: score=151.0 e_value=0.00051 N=4 Afi_2&Afi_5 plus
+153-  0:	afi_Af02G096100	afi_Af05G108900	  2e-46
+153-  1:	afi_Af02G097300	afi_Af05G112500	  6e-70
+153-  2:	afi_Af02G098600	afi_Af05G113500	  3e-25
+153-  3:	afi_Af02G098800	afi_Af05G113800	  1e-61
+## Alignment 154: score=228.0 e_value=6.8e-14 N=8 Afi_2&Afi_5 minus
+154-  0:	afi_Af02G161101	afi_Af05G155506	  7e-42
+154-  1:	afi_Af02G163600	afi_Af05G154700	  2e-29
+154-  2:	afi_Af02G163706	afi_Af05G153908	 1e-139
+154-  3:	afi_Af02G164403	afi_Af05G153804	 2e-268
+154-  4:	afi_Af02G165109	afi_Af05G153301	  6e-43
+154-  5:	afi_Af02G168101	afi_Af05G152800	  3e-31
+154-  6:	afi_Af02G168802	afi_Af05G152500	  4e-98
+154-  7:	afi_Af02G169501	afi_Af05G150901	 1e-279
+## Alignment 155: score=210.0 e_value=2.8e-08 N=6 Afi_2&Afi_5 minus
+155-  0:	afi_Af02G097600	afi_Af05G115800	  2e-72
+155-  1:	afi_Af02G097900	afi_Af05G114400	  7e-98
+155-  2:	afi_Af02G098200	afi_Af05G114300	  1e-96
+155-  3:	afi_Af02G098600	afi_Af05G113500	  3e-25
+155-  4:	afi_Af02G099000	afi_Af05G110400	 5e-125
+155-  5:	afi_Af02G099100	afi_Af05G106800	 6e-101
+## Alignment 156: score=196.0 e_value=3.3e-09 N=6 Afi_2&Afi_5 minus
+156-  0:	afi_Af02G152800	afi_Af05G153905	  2e-59
+156-  1:	afi_Af02G156004	afi_Af05G153405	  1e-86
+156-  2:	afi_Af02G156803	afi_Af05G152717	 1e-238
+156-  3:	afi_Af02G157804	afi_Af05G152500	 1e-144
+156-  4:	afi_Af02G157900	afi_Af05G151010	  9e-18
+156-  5:	afi_Af02G158900	afi_Af05G148700	  1e-86
+## Alignment 157: score=173.0 e_value=1.2e-06 N=5 Afi_2&Afi_5 minus
+157-  0:	afi_Af02G185900	afi_Af05G155100	 1e-103
+157-  1:	afi_Af02G187000	afi_Af05G154700	  8e-51
+157-  2:	afi_Af02G187500	afi_Af05G154002	 1e-104
+157-  3:	afi_Af02G187600	afi_Af05G153618	  2e-75
+157-  4:	afi_Af02G188100	afi_Af05G153400	  3e-09
+## Alignment 158: score=166.0 e_value=1.8e-07 N=5 Afi_2&Afi_5 minus
+158-  0:	afi_Af02G285800	afi_Af05G174300	  2e-44
+158-  1:	afi_Af02G286300	afi_Af05G172900	  6e-35
+158-  2:	afi_Af02G286800	afi_Af05G171300	  5e-91
+158-  3:	afi_Af02G289200	afi_Af05G166100	  7e-37
+158-  4:	afi_Af02G289600	afi_Af05G165900	  2e-19
+## Alignment 159: score=256.0 e_value=9.8e-10 N=6 Afi_2&Afi_6 plus
+159-  0:	afi_Af02G213800	afi_Af06G001300	  3e-99
+159-  1:	afi_Af02G214500	afi_Af06G001700	 4e-216
+159-  2:	afi_Af02G214600	afi_Af06G001800	  2e-77
+159-  3:	afi_Af02G214700	afi_Af06G002000	 5e-125
+159-  4:	afi_Af02G216200	afi_Af06G004200	  1e-96
+159-  5:	afi_Af02G218000	afi_Af06G005800	  1e-35
+## Alignment 160: score=233.0 e_value=2.7e-06 N=5 Afi_2&Afi_6 plus
+160-  0:	afi_Af02G269400	afi_Af06G042200	 2e-176
+160-  1:	afi_Af02G269600	afi_Af06G042400	  1e-78
+160-  2:	afi_Af02G270000	afi_Af06G042700	  3e-79
+160-  3:	afi_Af02G270200	afi_Af06G043400	  4e-31
+160-  4:	afi_Af02G270300	afi_Af06G043900	  5e-86
+## Alignment 161: score=222.0 e_value=3.4e-11 N=6 Afi_2&Afi_6 plus
+161-  0:	afi_Af02G234300	afi_Af06G118520	  1e-07
+161-  1:	afi_Af02G234900	afi_Af06G118700	 1e-102
+161-  2:	afi_Af02G238200	afi_Af06G118900	  3e-64
+161-  3:	afi_Af02G241500	afi_Af06G119000	  1e-18
+161-  4:	afi_Af02G241700	afi_Af06G119100	  9e-11
+161-  5:	afi_Af02G242400	afi_Af06G119500	 9e-121
+## Alignment 162: score=198.0 e_value=5.7e-08 N=5 Afi_2&Afi_6 plus
+162-  0:	afi_Af02G216300	afi_Af06G159400	  1e-32
+162-  1:	afi_Af02G220300	afi_Af06G160200	      0
+162-  2:	afi_Af02G221400	afi_Af06G161100	  2e-11
+162-  3:	afi_Af02G221800	afi_Af06G161600	  3e-21
+162-  4:	afi_Af02G221900	afi_Af06G161700	 1e-123
+## Alignment 163: score=176.0 e_value=1e-15 N=8 Afi_2&Afi_6 plus
+163-  0:	afi_Af02G164803	afi_Af06G120200	  5e-97
+163-  1:	afi_Af02G167600	afi_Af06G120300	 3e-198
+163-  2:	afi_Af02G167802	afi_Af06G122001	 3e-168
+163-  3:	afi_Af02G167905	afi_Af06G123503	      0
+163-  4:	afi_Af02G168806	afi_Af06G124303	  5e-51
+163-  5:	afi_Af02G171700	afi_Af06G125103	      0
+163-  6:	afi_Af02G175900	afi_Af06G127800	  1e-29
+163-  7:	afi_Af02G181100	afi_Af06G130700	  8e-15
+## Alignment 164: score=166.0 e_value=0.00079 N=4 Afi_2&Afi_6 plus
+164-  0:	afi_Af02G140800	afi_Af06G041900	  1e-17
+164-  1:	afi_Af02G141401	afi_Af06G042402	  2e-51
+164-  2:	afi_Af02G141601	afi_Af06G042701	 9e-134
+164-  3:	afi_Af02G142403	afi_Af06G044400	  5e-24
+## Alignment 165: score=154.0 e_value=9.4e-12 N=7 Afi_2&Afi_6 plus
+165-  0:	afi_Af02G151100	afi_Af06G128400	 1e-152
+165-  1:	afi_Af02G155800	afi_Af06G130800	  6e-27
+165-  2:	afi_Af02G156100	afi_Af06G133200	  3e-08
+165-  3:	afi_Af02G156803	afi_Af06G133202	 3e-242
+165-  4:	afi_Af02G159500	afi_Af06G134900	 1e-125
+165-  5:	afi_Af02G163105	afi_Af06G138804	  1e-88
+165-  6:	afi_Af02G164803	afi_Af06G140811	 2e-164
+## Alignment 166: score=285.0 e_value=3.1e-13 N=7 Afi_2&Afi_6 minus
+166-  0:	afi_Af02G206200	afi_Af06G036700	 2e-121
+166-  1:	afi_Af02G207000	afi_Af06G035900	  2e-09
+166-  2:	afi_Af02G207700	afi_Af06G034600	  1e-29
+166-  3:	afi_Af02G211000	afi_Af06G031900	 4e-198
+166-  4:	afi_Af02G211300	afi_Af06G031800	 8e-221
+166-  5:	afi_Af02G211500	afi_Af06G031400	 2e-125
+166-  6:	afi_Af02G211700	afi_Af06G031300	 2e-154
+## Alignment 167: score=214.0 e_value=4.1e-12 N=7 Afi_2&Afi_6 minus
+167-  0:	afi_Af02G186200	afi_Af06G105800	  2e-20
+167-  1:	afi_Af02G190300	afi_Af06G105100	  3e-83
+167-  2:	afi_Af02G191000	afi_Af06G102300	  2e-35
+167-  3:	afi_Af02G191600	afi_Af06G100500	  4e-08
+167-  4:	afi_Af02G194200	afi_Af06G097700	  3e-68
+167-  5:	afi_Af02G195900	afi_Af06G097200	 5e-114
+167-  6:	afi_Af02G196800	afi_Af06G096800	  2e-08
+## Alignment 168: score=168.0 e_value=1.9e-06 N=5 Afi_2&Afi_6 minus
+168-  0:	afi_Af02G166102	afi_Af06G111905	 4e-208
+168-  1:	afi_Af02G167102	afi_Af06G111502	 6e-227
+168-  2:	afi_Af02G168803	afi_Af06G110802	 5e-232
+168-  3:	afi_Af02G169100	afi_Af06G109300	 5e-284
+168-  4:	afi_Af02G170300	afi_Af06G107802	  5e-77
+## Alignment 169: score=168.0 e_value=1.2e-11 N=7 Afi_2&Afi_6 minus
+169-  0:	afi_Af02G155800	afi_Af06G130800	  6e-27
+169-  1:	afi_Af02G157303	afi_Af06G128801	  2e-54
+169-  2:	afi_Af02G157804	afi_Af06G128303	  1e-79
+169-  3:	afi_Af02G161900	afi_Af06G128105	 1e-186
+169-  4:	afi_Af02G163902	afi_Af06G125103	      0
+169-  5:	afi_Af02G164403	afi_Af06G122904	 7e-160
+169-  6:	afi_Af02G164803	afi_Af06G120200	  5e-97
+## Alignment 170: score=167.0 e_value=1.2e-06 N=5 Afi_2&Afi_6 minus
+170-  0:	afi_Af02G155801	afi_Af06G112315	 1e-136
+170-  1:	afi_Af02G156003	afi_Af06G111603	 1e-260
+170-  2:	afi_Af02G156308	afi_Af06G111401	  8e-57
+170-  3:	afi_Af02G157804	afi_Af06G110803	  2e-96
+170-  4:	afi_Af02G161000	afi_Af06G110502	  1e-15
+## Alignment 171: score=156.0 e_value=2.6e-06 N=5 Afi_2&Afi_6 minus
+171-  0:	afi_Af02G142201	afi_Af06G112315	 2e-312
+171-  1:	afi_Af02G142901	afi_Af06G111405	 4e-131
+171-  2:	afi_Af02G143305	afi_Af06G111216	 2e-106
+171-  3:	afi_Af02G143701	afi_Af06G110302	 5e-283
+171-  4:	afi_Af02G146200	afi_Af06G108800	 2e-145
+## Alignment 172: score=165.0 e_value=9.9e-06 N=5 Afi_2&Afi_7 plus
+172-  0:	afi_Af02G144020	afi_Af07G119400	  2e-57
+172-  1:	afi_Af02G146700	afi_Af07G121100	  2e-30
+172-  2:	afi_Af02G148100	afi_Af07G122000	  3e-13
+172-  3:	afi_Af02G150600	afi_Af07G124200	  2e-74
+172-  4:	afi_Af02G151800	afi_Af07G125900	  6e-09
+## Alignment 173: score=267.0 e_value=7.2e-16 N=7 Afi_3&Afi_3 plus
+173-  0:	afi_Af03G173601	afi_Af03G184500	 8e-114
+173-  1:	afi_Af03G174006	afi_Af03G185801	  3e-86
+173-  2:	afi_Af03G175503	afi_Af03G186901	  5e-86
+173-  3:	afi_Af03G175605	afi_Af03G186902	  1e-48
+173-  4:	afi_Af03G175805	afi_Af03G187203	 7e-133
+173-  5:	afi_Af03G176001	afi_Af03G187602	  2e-80
+173-  6:	afi_Af03G176002	afi_Af03G187604	  3e-95
+## Alignment 174: score=232.0 e_value=4.9e-12 N=7 Afi_3&Afi_3 plus
+174-  0:	afi_Af03G170901	afi_Af03G185201	      0
+174-  1:	afi_Af03G172714	afi_Af03G186509	 5e-105
+174-  2:	afi_Af03G173600	afi_Af03G187211	  2e-72
+174-  3:	afi_Af03G173800	afi_Af03G187402	  1e-28
+174-  4:	afi_Af03G175402	afi_Af03G187604	 3e-252
+174-  5:	afi_Af03G175609	afi_Af03G188501	  2e-65
+174-  6:	afi_Af03G176001	afi_Af03G188702	 5e-138
+## Alignment 175: score=158.0 e_value=2.1e-07 N=5 Afi_3&Afi_3 plus
+175-  0:	afi_Af03G172002	afi_Af03G189502	 1e-115
+175-  1:	afi_Af03G172701	afi_Af03G190203	 5e-313
+175-  2:	afi_Af03G173001	afi_Af03G190304	 8e-148
+175-  3:	afi_Af03G174007	afi_Af03G190306	 2e-154
+175-  4:	afi_Af03G175310	afi_Af03G193000	  1e-56
+## Alignment 176: score=150.0 e_value=3.6e-06 N=4 Afi_3&Afi_3 plus
+176-  0:	afi_Af03G082100	afi_Af03G123000	  1e-05
+176-  1:	afi_Af03G083300	afi_Af03G125110	  6e-30
+176-  2:	afi_Af03G086100	afi_Af03G125120	  5e-65
+176-  3:	afi_Af03G086200	afi_Af03G125140	 8e-253
+## Alignment 177: score=258.0 e_value=1.5e-14 N=8 Afi_3&Afi_3 minus
+177-  0:	afi_Af03G170900	afi_Af03G190600	  2e-28
+177-  1:	afi_Af03G172003	afi_Af03G190304	  3e-11
+177-  2:	afi_Af03G172803	afi_Af03G189806	 4e-147
+177-  3:	afi_Af03G173203	afi_Af03G189502	 5e-157
+177-  4:	afi_Af03G173405	afi_Af03G188509	 3e-190
+177-  5:	afi_Af03G173502	afi_Af03G188404	  2e-89
+177-  6:	afi_Af03G175200	afi_Af03G188100	  6e-20
+177-  7:	afi_Af03G177000	afi_Af03G186505	 1e-184
+## Alignment 178: score=197.0 e_value=3.1e-11 N=7 Afi_3&Afi_3 minus
+178-  0:	afi_Af03G136500	afi_Af03G159100	 1e-117
+178-  1:	afi_Af03G137400	afi_Af03G155800	  4e-11
+178-  2:	afi_Af03G140001	afi_Af03G151211	  5e-65
+178-  3:	afi_Af03G142900	afi_Af03G150100	      0
+178-  4:	afi_Af03G144800	afi_Af03G149100	  6e-54
+178-  5:	afi_Af03G145000	afi_Af03G148400	  3e-60
+178-  6:	afi_Af03G146100	afi_Af03G147400	  3e-39
+## Alignment 179: score=182.0 e_value=1.8e-05 N=4 Afi_3&Afi_3 minus
+179-  0:	afi_Af03G181500	afi_Af03G220100	 4e-162
+179-  1:	afi_Af03G181600	afi_Af03G219900	  5e-22
+179-  2:	afi_Af03G181700	afi_Af03G219800	 5e-202
+179-  3:	afi_Af03G182100	afi_Af03G218100	 2e-256
+## Alignment 180: score=179.0 e_value=6.5e-18 N=9 Afi_3&Afi_3 minus
+180-  0:	afi_Af03G012300	afi_Af03G275200	  1e-10
+180-  1:	afi_Af03G015500	afi_Af03G275000	  5e-10
+180-  2:	afi_Af03G018600	afi_Af03G270300	  4e-46
+180-  3:	afi_Af03G019500	afi_Af03G266700	 9e-176
+180-  4:	afi_Af03G020500	afi_Af03G265700	 5e-101
+180-  5:	afi_Af03G023600	afi_Af03G261400	  5e-80
+180-  6:	afi_Af03G026800	afi_Af03G259200	  2e-50
+180-  7:	afi_Af03G031900	afi_Af03G257600	  2e-07
+180-  8:	afi_Af03G033000	afi_Af03G257300	  2e-95
+## Alignment 181: score=155.0 e_value=3.2e-06 N=5 Afi_3&Afi_3 minus
+181-  0:	afi_Af03G132800	afi_Af03G145300	  4e-84
+181-  1:	afi_Af03G135900	afi_Af03G144600	      0
+181-  2:	afi_Af03G136800	afi_Af03G141000	  2e-06
+181-  3:	afi_Af03G137500	afi_Af03G140800	  2e-08
+181-  4:	afi_Af03G138200	afi_Af03G138300	 1e-152
+## Alignment 182: score=234.0 e_value=1.5e-14 N=6 Afi_3&Afi_4 plus
+182-  0:	afi_Af03G173502	afi_Af04G078504	      0
+182-  1:	afi_Af03G174109	afi_Af04G081108	 2e-125
+182-  2:	afi_Af03G174901	afi_Af04G081109	 2e-148
+182-  3:	afi_Af03G174902	afi_Af04G081110	 3e-131
+182-  4:	afi_Af03G174903	afi_Af04G081111	  3e-50
+182-  5:	afi_Af03G175402	afi_Af04G081403	 3e-214
+## Alignment 183: score=216.0 e_value=1.1e-16 N=7 Afi_3&Afi_4 plus
+183-  0:	afi_Af03G186310	afi_Af04G185903	 2e-100
+183-  1:	afi_Af03G186311	afi_Af04G185904	 3e-101
+183-  2:	afi_Af03G187602	afi_Af04G189004	  7e-29
+183-  3:	afi_Af03G189300	afi_Af04G189100	  3e-17
+183-  4:	afi_Af03G190209	afi_Af04G192103	  2e-80
+183-  5:	afi_Af03G190211	afi_Af04G192104	 9e-177
+183-  6:	afi_Af03G191000	afi_Af04G194800	  9e-48
+## Alignment 184: score=158.0 e_value=1.1e-06 N=5 Afi_3&Afi_4 plus
+184-  0:	afi_Af03G186509	afi_Af04G158800	  5e-76
+184-  1:	afi_Af03G186900	afi_Af04G160800	 2e-105
+184-  2:	afi_Af03G189204	afi_Af04G162305	      0
+184-  3:	afi_Af03G189700	afi_Af04G162314	  7e-52
+184-  4:	afi_Af03G190201	afi_Af04G162701	      0
+## Alignment 185: score=158.0 e_value=6.8e-05 N=4 Afi_3&Afi_4 plus
+185-  0:	afi_Af03G173208	afi_Af04G162104	      0
+185-  1:	afi_Af03G173502	afi_Af04G162305	      0
+185-  2:	afi_Af03G174610	afi_Af04G162314	  6e-62
+185-  3:	afi_Af03G174806	afi_Af04G162315	  2e-88
+## Alignment 186: score=157.0 e_value=3.6e-07 N=5 Afi_3&Afi_4 plus
+186-  0:	afi_Af03G172900	afi_Af04G154800	  1e-08
+186-  1:	afi_Af03G173208	afi_Af04G157707	 2e-170
+186-  2:	afi_Af03G174100	afi_Af04G159700	  3e-56
+186-  3:	afi_Af03G174804	afi_Af04G162305	 8e-119
+186-  4:	afi_Af03G174807	afi_Af04G162313	 1e-152
+## Alignment 187: score=157.0 e_value=2.6e-09 N=6 Afi_3&Afi_4 plus
+187-  0:	afi_Af03G014900	afi_Af04G249900	 3e-138
+187-  1:	afi_Af03G017500	afi_Af04G253400	  6e-65
+187-  2:	afi_Af03G018400	afi_Af04G253600	  6e-57
+187-  3:	afi_Af03G022100	afi_Af04G254700	  6e-07
+187-  4:	afi_Af03G024400	afi_Af04G256900	 4e-153
+187-  5:	afi_Af03G028000	afi_Af04G257100	 5e-125
+## Alignment 188: score=243.0 e_value=6.6e-15 N=7 Afi_3&Afi_4 minus
+188-  0:	afi_Af03G173405	afi_Af04G162901	 1e-109
+188-  1:	afi_Af03G174610	afi_Af04G162314	  6e-62
+188-  2:	afi_Af03G174807	afi_Af04G162313	 1e-152
+188-  3:	afi_Af03G174904	afi_Af04G162305	 1e-214
+188-  4:	afi_Af03G175005	afi_Af04G162013	 5e-102
+188-  5:	afi_Af03G175504	afi_Af04G162000	  4e-25
+188-  6:	afi_Af03G175801	afi_Af04G157716	 4e-112
+## Alignment 189: score=214.0 e_value=1.9e-12 N=6 Afi_3&Afi_4 minus
+189-  0:	afi_Af03G037800	afi_Af04G189100	  1e-35
+189-  1:	afi_Af03G038100	afi_Af04G188800	  3e-37
+189-  2:	afi_Af03G038200	afi_Af04G188700	  2e-21
+189-  3:	afi_Af03G038300	afi_Af04G188500	  2e-76
+189-  4:	afi_Af03G038800	afi_Af04G185200	  1e-50
+189-  5:	afi_Af03G042400	afi_Af04G181700	 0.0001
+## Alignment 190: score=203.0 e_value=4.2e-09 N=5 Afi_3&Afi_4 minus
+190-  0:	afi_Af03G196800	afi_Af04G158500	 1e-246
+190-  1:	afi_Af03G197700	afi_Af04G157900	  6e-40
+190-  2:	afi_Af03G200700	afi_Af04G154800	  1e-49
+190-  3:	afi_Af03G200900	afi_Af04G154700	 8e-102
+190-  4:	afi_Af03G201000	afi_Af04G154300	  5e-57
+## Alignment 191: score=194.0 e_value=1.4e-08 N=6 Afi_3&Afi_4 minus
+191-  0:	afi_Af03G006400	afi_Af04G095900	 2e-184
+191-  1:	afi_Af03G007900	afi_Af04G094600	  1e-05
+191-  2:	afi_Af03G010300	afi_Af04G092000	  2e-81
+191-  3:	afi_Af03G013800	afi_Af04G091700	 2e-190
+191-  4:	afi_Af03G014300	afi_Af04G090700	  2e-90
+191-  5:	afi_Af03G014900	afi_Af04G089600	 1e-117
+## Alignment 192: score=188.0 e_value=6.3e-07 N=5 Afi_3&Afi_4 minus
+192-  0:	afi_Af03G173208	afi_Af04G162004	 4e-103
+192-  1:	afi_Af03G173600	afi_Af04G161800	 4e-166
+192-  2:	afi_Af03G174100	afi_Af04G159700	  3e-56
+192-  3:	afi_Af03G174302	afi_Af04G157715	 4e-262
+192-  4:	afi_Af03G174705	afi_Af04G157711	  4e-93
+## Alignment 193: score=180.0 e_value=1.8e-05 N=4 Afi_3&Afi_4 minus
+193-  0:	afi_Af03G187603	afi_Af04G116900	  1e-88
+193-  1:	afi_Af03G188509	afi_Af04G116200	 4e-165
+193-  2:	afi_Af03G189100	afi_Af04G115300	  3e-38
+193-  3:	afi_Af03G189101	afi_Af04G115201	 2e-201
+## Alignment 194: score=175.0 e_value=2e-07 N=4 Afi_3&Afi_4 minus
+194-  0:	afi_Af03G097200	afi_Af04G142300	  2e-24
+194-  1:	afi_Af03G097700	afi_Af04G140020	  1e-24
+194-  2:	afi_Af03G097710	afi_Af04G140010	  7e-62
+194-  3:	afi_Af03G097901	afi_Af04G140000	  1e-20
+## Alignment 195: score=163.0 e_value=2.1e-08 N=4 Afi_3&Afi_4 minus
+195-  0:	afi_Af03G174107	afi_Af04G081111	  6e-50
+195-  1:	afi_Af03G174108	afi_Af04G081110	 1e-125
+195-  2:	afi_Af03G174109	afi_Af04G081108	 2e-125
+195-  3:	afi_Af03G174705	afi_Af04G078504	  5e-93
+## Alignment 196: score=152.0 e_value=1.1e-05 N=4 Afi_3&Afi_4 minus
+196-  0:	afi_Af03G174109	afi_Af04G073301	 4e-123
+196-  1:	afi_Af03G175401	afi_Af04G073101	  1e-62
+196-  2:	afi_Af03G175402	afi_Af04G072503	 1e-156
+196-  3:	afi_Af03G175502	afi_Af04G072006	  4e-52
+## Alignment 197: score=302.0 e_value=1.1e-21 N=10 Afi_3&Afi_5 plus
+197-  0:	afi_Af03G170600	afi_Af05G151010	  5e-26
+197-  1:	afi_Af03G173208	afi_Af05G152803	 6e-233
+197-  2:	afi_Af03G173406	afi_Af05G153303	  2e-47
+197-  3:	afi_Af03G173407	afi_Af05G153804	  6e-91
+197-  4:	afi_Af03G174000	afi_Af05G154308	  2e-59
+197-  5:	afi_Af03G174302	afi_Af05G154316	      0
+197-  6:	afi_Af03G174904	afi_Af05G154705	 4e-214
+197-  7:	afi_Af03G175511	afi_Af05G154729	 7e-199
+197-  8:	afi_Af03G177900	afi_Af05G155506	  2e-37
+197-  9:	afi_Af03G179500	afi_Af05G157100	  3e-63
+## Alignment 198: score=237.0 e_value=1.3e-11 N=7 Afi_3&Afi_5 plus
+198-  0:	afi_Af03G170901	afi_Af05G153303	 1e-299
+198-  1:	afi_Af03G172701	afi_Af05G153626	  9e-88
+198-  2:	afi_Af03G173208	afi_Af05G153908	 1e-138
+198-  3:	afi_Af03G173600	afi_Af05G154311	  1e-82
+198-  4:	afi_Af03G174302	afi_Af05G154705	      0
+198-  5:	afi_Af03G174704	afi_Af05G154706	  6e-46
+198-  6:	afi_Af03G175605	afi_Af05G155716	  9e-88
+## Alignment 199: score=205.0 e_value=3.1e-15 N=8 Afi_3&Afi_5 plus
+199-  0:	afi_Af03G172701	afi_Af05G144800	 1e-157
+199-  1:	afi_Af03G173600	afi_Af05G148501	 8e-226
+199-  2:	afi_Af03G173703	afi_Af05G151010	  7e-49
+199-  3:	afi_Af03G174903	afi_Af05G153301	  7e-39
+199-  4:	afi_Af03G175301	afi_Af05G153804	 3e-127
+199-  5:	afi_Af03G175512	afi_Af05G154002	 8e-129
+199-  6:	afi_Af03G176002	afi_Af05G154511	 1e-101
+199-  7:	afi_Af03G178000	afi_Af05G155505	  5e-17
+## Alignment 200: score=194.0 e_value=1.3e-10 N=6 Afi_3&Afi_5 plus
+200-  0:	afi_Af03G170000	afi_Af05G098810	  1e-42
+200-  1:	afi_Af03G170800	afi_Af05G100700	 1e-134
+200-  2:	afi_Af03G173208	afi_Af05G104110	      0
+200-  3:	afi_Af03G173502	afi_Af05G104305	 3e-151
+200-  4:	afi_Af03G174900	afi_Af05G106101	  5e-45
+200-  5:	afi_Af03G174903	afi_Af05G106103	  1e-51
+## Alignment 201: score=178.0 e_value=2.1e-08 N=6 Afi_3&Afi_5 plus
+201-  0:	afi_Af03G152500	afi_Af05G151010	  6e-12
+201-  1:	afi_Af03G156100	afi_Af05G151200	  1e-96
+201-  2:	afi_Af03G156808	afi_Af05G152601	  7e-54
+201-  3:	afi_Af03G159300	afi_Af05G153626	  2e-83
+201-  4:	afi_Af03G160500	afi_Af05G153810	 8e-147
+201-  5:	afi_Af03G162101	afi_Af05G154002	  5e-99
+## Alignment 202: score=161.0 e_value=8.8e-08 N=6 Afi_3&Afi_5 plus
+202-  0:	afi_Af03G185201	afi_Af05G153303	      0
+202-  1:	afi_Af03G186310	afi_Af05G153806	  3e-68
+202-  2:	afi_Af03G187103	afi_Af05G154202	 6e-163
+202-  3:	afi_Af03G188404	afi_Af05G154705	  2e-89
+202-  4:	afi_Af03G190207	afi_Af05G155603	 4e-142
+202-  5:	afi_Af03G192200	afi_Af05G157500	 4e-254
+## Alignment 203: score=157.0 e_value=7.1e-05 N=4 Afi_3&Afi_5 plus
+203-  0:	afi_Af03G153500	afi_Af05G154308	  1e-42
+203-  1:	afi_Af03G155310	afi_Af05G154509	  8e-07
+203-  2:	afi_Af03G156807	afi_Af05G155004	  7e-15
+203-  3:	afi_Af03G157200	afi_Af05G155005	  1e-38
+## Alignment 204: score=283.0 e_value=8.8e-18 N=8 Afi_3&Afi_5 minus
+204-  0:	afi_Af03G173208	afi_Af05G155713	      0
+204-  1:	afi_Af03G174302	afi_Af05G155705	 7e-167
+204-  2:	afi_Af03G174705	afi_Af05G154705	  6e-95
+204-  3:	afi_Af03G175502	afi_Af05G154601	  1e-52
+204-  4:	afi_Af03G175504	afi_Af05G154516	 1e-112
+204-  5:	afi_Af03G175505	afi_Af05G154515	      0
+204-  6:	afi_Af03G175603	afi_Af05G153902	 1e-135
+204-  7:	afi_Af03G176001	afi_Af05G153803	  1e-99
+## Alignment 205: score=242.0 e_value=3.9e-25 N=10 Afi_3&Afi_5 minus
+205-  0:	afi_Af03G186902	afi_Af05G155716	  5e-46
+205-  1:	afi_Af03G187505	afi_Af05G155713	      0
+205-  2:	afi_Af03G187602	afi_Af05G154732	  2e-31
+205-  3:	afi_Af03G190005	afi_Af05G154705	 2e-244
+205-  4:	afi_Af03G190210	afi_Af05G154516	  2e-50
+205-  5:	afi_Af03G190211	afi_Af05G154515	 8e-179
+205-  6:	afi_Af03G194301	afi_Af05G153811	  3e-43
+205-  7:	afi_Af03G195400	afi_Af05G152806	 2e-102
+205-  8:	afi_Af03G200100	afi_Af05G151000	  2e-18
+205-  9:	afi_Af03G203000	afi_Af05G148800	 3e-248
+## Alignment 206: score=180.0 e_value=2.4e-05 N=4 Afi_3&Afi_5 minus
+206-  0:	afi_Af03G159500	afi_Af05G063900	 5e-168
+206-  1:	afi_Af03G161300	afi_Af05G063200	  6e-22
+206-  2:	afi_Af03G161400	afi_Af05G063100	 4e-161
+206-  3:	afi_Af03G161800	afi_Af05G062500	 6e-137
+## Alignment 207: score=167.0 e_value=5.8e-12 N=6 Afi_3&Afi_5 minus
+207-  0:	afi_Af03G094403	afi_Af05G124403	  1e-47
+207-  1:	afi_Af03G094603	afi_Af05G124301	 1e-163
+207-  2:	afi_Af03G096714	afi_Af05G124203	  1e-98
+207-  3:	afi_Af03G097700	afi_Af05G123300	  1e-26
+207-  4:	afi_Af03G097710	afi_Af05G118300	  7e-89
+207-  5:	afi_Af03G101200	afi_Af05G118200	  1e-13
+## Alignment 208: score=161.0 e_value=1.1e-07 N=4 Afi_3&Afi_5 minus
+208-  0:	afi_Af03G174107	afi_Af05G106103	  2e-51
+208-  1:	afi_Af03G174108	afi_Af05G106102	 2e-137
+208-  2:	afi_Af03G174109	afi_Af05G106101	 6e-126
+208-  3:	afi_Af03G175509	afi_Af05G105901	 2e-211
+## Alignment 209: score=296.0 e_value=1.4e-23 N=9 Afi_3&Afi_6 plus
+209-  0:	afi_Af03G166900	afi_Af06G107500	  1e-70
+209-  1:	afi_Af03G170800	afi_Af06G109500	 5e-125
+209-  2:	afi_Af03G172001	afi_Af06G110302	  3e-25
+209-  3:	afi_Af03G173002	afi_Af06G111213	  3e-37
+209-  4:	afi_Af03G173405	afi_Af06G111214	 3e-255
+209-  5:	afi_Af03G173601	afi_Af06G111216	 1e-105
+209-  6:	afi_Af03G175302	afi_Af06G112200	  5e-62
+209-  7:	afi_Af03G175303	afi_Af06G112300	 7e-166
+209-  8:	afi_Af03G175512	afi_Af06G112808	 6e-130
+## Alignment 210: score=274.0 e_value=1.3e-23 N=10 Afi_3&Afi_6 plus
+210-  0:	afi_Af03G169400	afi_Af06G098000	  3e-05
+210-  1:	afi_Af03G170900	afi_Af06G100800	  6e-42
+210-  2:	afi_Af03G172701	afi_Af06G105900	 3e-162
+210-  3:	afi_Af03G173200	afi_Af06G107200	  2e-42
+210-  4:	afi_Af03G173201	afi_Af06G107606	  5e-95
+210-  5:	afi_Af03G174007	afi_Af06G110302	 4e-247
+210-  6:	afi_Af03G175402	afi_Af06G110802	 5e-215
+210-  7:	afi_Af03G176001	afi_Af06G111103	 9e-175
+210-  8:	afi_Af03G177000	afi_Af06G111205	      0
+210-  9:	afi_Af03G179400	afi_Af06G111605	  5e-37
+## Alignment 211: score=214.0 e_value=5.2e-12 N=7 Afi_3&Afi_6 plus
+211-  0:	afi_Af03G173208	afi_Af06G134704	 2e-184
+211-  1:	afi_Af03G173502	afi_Af06G137103	 1e-156
+211-  2:	afi_Af03G174900	afi_Af06G138502	  5e-69
+211-  3:	afi_Af03G175300	afi_Af06G138701	  3e-22
+211-  4:	afi_Af03G175609	afi_Af06G140802	 2e-199
+211-  5:	afi_Af03G177000	afi_Af06G140804	      0
+211-  6:	afi_Af03G179400	afi_Af06G140811	  5e-35
+## Alignment 212: score=189.0 e_value=2.3e-11 N=6 Afi_3&Afi_6 plus
+212-  0:	afi_Af03G145201	afi_Af06G108100	  5e-13
+212-  1:	afi_Af03G147100	afi_Af06G109500	 1e-109
+212-  2:	afi_Af03G148300	afi_Af06G111402	  2e-40
+212-  3:	afi_Af03G151203	afi_Af06G111604	 7e-205
+212-  4:	afi_Af03G151204	afi_Af06G111609	  1e-17
+212-  5:	afi_Af03G152301	afi_Af06G112315	 3e-121
+## Alignment 213: score=163.0 e_value=5.1e-07 N=5 Afi_3&Afi_6 plus
+213-  0:	afi_Af03G187208	afi_Af06G123001	      0
+213-  1:	afi_Af03G188404	afi_Af06G123710	  3e-89
+213-  2:	afi_Af03G189506	afi_Af06G125103	 8e-157
+213-  3:	afi_Af03G189507	afi_Af06G128104	  1e-56
+213-  4:	afi_Af03G189806	afi_Af06G128116	 6e-124
+## Alignment 214: score=161.0 e_value=6.9e-07 N=5 Afi_3&Afi_6 plus
+214-  0:	afi_Af03G173208	afi_Af06G123710	      0
+214-  1:	afi_Af03G173306	afi_Af06G125103	      0
+214-  2:	afi_Af03G174103	afi_Af06G128104	  4e-64
+214-  3:	afi_Af03G174302	afi_Af06G128116	 3e-122
+214-  4:	afi_Af03G175401	afi_Af06G128303	  2e-61
+## Alignment 215: score=159.0 e_value=1.7e-07 N=5 Afi_3&Afi_6 plus
+215-  0:	afi_Af03G173502	afi_Af06G137802	 8e-105
+215-  1:	afi_Af03G174107	afi_Af06G138502	 1e-109
+215-  2:	afi_Af03G174607	afi_Af06G140201	  1e-40
+215-  3:	afi_Af03G174608	afi_Af06G140811	  1e-78
+215-  4:	afi_Af03G175805	afi_Af06G144004	 4e-302
+## Alignment 216: score=157.0 e_value=1.7e-10 N=6 Afi_3&Afi_6 plus
+216-  0:	afi_Af03G181200	afi_Af06G107802	  7e-23
+216-  1:	afi_Af03G182900	afi_Af06G110400	  1e-79
+216-  2:	afi_Af03G185801	afi_Af06G111215	  3e-18
+216-  3:	afi_Af03G186901	afi_Af06G111502	  2e-74
+216-  4:	afi_Af03G189204	afi_Af06G112320	  1e-39
+216-  5:	afi_Af03G189702	afi_Af06G112402	 6e-167
+## Alignment 217: score=263.0 e_value=5.7e-12 N=7 Afi_3&Afi_6 minus
+217-  0:	afi_Af03G185100	afi_Af06G111502	 2e-217
+217-  1:	afi_Af03G185201	afi_Af06G111218	 5e-153
+217-  2:	afi_Af03G185801	afi_Af06G111215	  3e-18
+217-  3:	afi_Af03G186505	afi_Af06G111205	 1e-196
+217-  4:	afi_Af03G187505	afi_Af06G111202	      0
+217-  5:	afi_Af03G187602	afi_Af06G111103	  2e-87
+217-  6:	afi_Af03G189502	afi_Af06G110302	 2e-168
+## Alignment 218: score=170.0 e_value=2.1e-10 N=6 Afi_3&Afi_6 minus
+218-  0:	afi_Af03G185805	afi_Af06G112315	 6e-288
+218-  1:	afi_Af03G186307	afi_Af06G111905	 9e-208
+218-  2:	afi_Af03G186901	afi_Af06G111502	  2e-74
+218-  3:	afi_Af03G189501	afi_Af06G111405	 2e-132
+218-  4:	afi_Af03G190304	afi_Af06G111215	  3e-16
+218-  5:	afi_Af03G190306	afi_Af06G110302	 5e-142
+## Alignment 219: score=163.0 e_value=2.1e-11 N=7 Afi_3&Afi_6 minus
+219-  0:	afi_Af03G165500	afi_Af06G140811	  5e-42
+219-  1:	afi_Af03G167700	afi_Af06G140600	 4e-101
+219-  2:	afi_Af03G170901	afi_Af06G138701	 5e-148
+219-  3:	afi_Af03G173502	afi_Af06G134704	 3e-185
+219-  4:	afi_Af03G174302	afi_Af06G132802	      0
+219-  5:	afi_Af03G175402	afi_Af06G128302	 3e-191
+219-  6:	afi_Af03G175603	afi_Af06G128112	 9e-130
+## Alignment 220: score=159.0 e_value=1.9e-06 N=5 Afi_3&Afi_6 minus
+220-  0:	afi_Af03G173208	afi_Af06G128603	      0
+220-  1:	afi_Af03G173407	afi_Af06G128112	  4e-92
+220-  2:	afi_Af03G174302	afi_Af06G125103	      0
+220-  3:	afi_Af03G175504	afi_Af06G123003	  4e-88
+220-  4:	afi_Af03G175603	afi_Af06G122904	 9e-132
+## Alignment 221: score=150.0 e_value=0.00011 N=4 Afi_3&Afi_6 minus
+221-  0:	afi_Af03G173408	afi_Af06G122902	 1e-112
+221-  1:	afi_Af03G174100	afi_Af06G122800	 7e-279
+221-  2:	afi_Af03G174608	afi_Af06G120200	  3e-96
+221-  3:	afi_Af03G174800	afi_Af06G119400	  4e-99
+## Alignment 222: score=150.0 e_value=2.8e-05 N=4 Afi_3&Afi_6 minus
+222-  0:	afi_Af03G144705	afi_Af06G112507	 6e-137
+222-  1:	afi_Af03G144709	afi_Af06G112506	  1e-22
+222-  2:	afi_Af03G144900	afi_Af06G111905	 5e-227
+222-  3:	afi_Af03G146100	afi_Af06G111205	  9e-42
+## Alignment 223: score=172.0 e_value=1.5e-06 N=4 Afi_3&Afi_7 plus
+223-  0:	afi_Af03G060600	afi_Af07G107700	 1e-144
+223-  1:	afi_Af03G062100	afi_Af07G109800	  2e-74
+223-  2:	afi_Af03G062400	afi_Af07G110000	 1e-157
+223-  3:	afi_Af03G063200	afi_Af07G110100	  1e-79
+## Alignment 224: score=156.0 e_value=1.1e-08 N=5 Afi_4&Afi_4 plus
+224-  0:	afi_Af04G090501	afi_Af04G158610	  2e-40
+224-  1:	afi_Af04G093700	afi_Af04G159600	  2e-18
+224-  2:	afi_Af04G095200	afi_Af04G160500	  5e-21
+224-  3:	afi_Af04G098401	afi_Af04G162310	 7e-249
+224-  4:	afi_Af04G098402	afi_Af04G162311	  6e-40
+## Alignment 225: score=151.0 e_value=0.00011 N=4 Afi_4&Afi_4 minus
+225-  0:	afi_Af04G135500	afi_Af04G153300	  5e-56
+225-  1:	afi_Af04G137000	afi_Af04G152600	  5e-14
+225-  2:	afi_Af04G137801	afi_Af04G149701	 5e-135
+225-  3:	afi_Af04G138300	afi_Af04G149400	  6e-23
+## Alignment 226: score=222.0 e_value=3.9e-07 N=5 Afi_4&Afi_5 plus
+226-  0:	afi_Af04G264100	afi_Af05G003100	 1e-129
+226-  1:	afi_Af04G264200	afi_Af05G003500	  2e-85
+226-  2:	afi_Af04G264400	afi_Af05G003600	  7e-24
+226-  3:	afi_Af04G265100	afi_Af05G004600	 3e-122
+226-  4:	afi_Af04G266600	afi_Af05G005500	  2e-19
+## Alignment 227: score=186.0 e_value=8.2e-12 N=7 Afi_4&Afi_5 plus
+227-  0:	afi_Af04G187301	afi_Af05G152601	 1e-115
+227-  1:	afi_Af04G189001	afi_Af05G153301	  5e-69
+227-  2:	afi_Af04G189003	afi_Af05G153804	 1e-160
+227-  3:	afi_Af04G192104	afi_Af05G154515	      0
+227-  4:	afi_Af04G194706	afi_Af05G154705	 1e-157
+227-  5:	afi_Af04G198705	afi_Af05G155713	 6e-222
+227-  6:	afi_Af04G199301	afi_Af05G156200	  8e-20
+## Alignment 228: score=180.0 e_value=8.6e-06 N=4 Afi_4&Afi_5 plus
+228-  0:	afi_Af04G092103	afi_Af05G154317	 3e-156
+228-  1:	afi_Af04G093403	afi_Af05G154702	 3e-221
+228-  2:	afi_Af04G093504	afi_Af05G154705	 2e-100
+228-  3:	afi_Af04G093505	afi_Af05G154722	 2e-113
+## Alignment 229: score=178.0 e_value=6.7e-07 N=5 Afi_4&Afi_5 plus
+229-  0:	afi_Af04G164000	afi_Af05G047500	  1e-95
+229-  1:	afi_Af04G165900	afi_Af05G048000	  1e-24
+229-  2:	afi_Af04G166300	afi_Af05G048700	 3e-143
+229-  3:	afi_Af04G167300	afi_Af05G049000	 3e-234
+229-  4:	afi_Af04G167500	afi_Af05G052900	 0.0007
+## Alignment 230: score=152.0 e_value=3.5e-08 N=6 Afi_4&Afi_5 plus
+230-  0:	afi_Af04G012100	afi_Af05G035400	  8e-68
+230-  1:	afi_Af04G012500	afi_Af05G036920	  4e-61
+230-  2:	afi_Af04G014000	afi_Af05G040100	  2e-54
+230-  3:	afi_Af04G017700	afi_Af05G043400	 3e-313
+230-  4:	afi_Af04G021300	afi_Af05G045300	  5e-44
+230-  5:	afi_Af04G022200	afi_Af05G048100	  2e-31
+## Alignment 231: score=329.0 e_value=9.3e-23 N=10 Afi_4&Afi_5 minus
+231-  0:	afi_Af04G162023	afi_Af05G154705	  2e-98
+231-  1:	afi_Af04G162200	afi_Af05G154701	  1e-05
+231-  2:	afi_Af04G162305	afi_Af05G154316	      0
+231-  3:	afi_Af04G162315	afi_Af05G153905	  2e-88
+231-  4:	afi_Af04G162602	afi_Af05G153705	  5e-25
+231-  5:	afi_Af04G162701	afi_Af05G152723	 3e-201
+231-  6:	afi_Af04G167900	afi_Af05G148700	  4e-86
+231-  7:	afi_Af04G170300	afi_Af05G148000	      0
+231-  8:	afi_Af04G170800	afi_Af05G147100	  1e-10
+231-  9:	afi_Af04G171700	afi_Af05G146800	  3e-61
+## Alignment 232: score=327.0 e_value=1.5e-14 N=8 Afi_4&Afi_5 minus
+232-  0:	afi_Af04G033400	afi_Af05G032100	 8e-154
+232-  1:	afi_Af04G035600	afi_Af05G030000	 4e-162
+232-  2:	afi_Af04G036900	afi_Af05G028200	      0
+232-  3:	afi_Af04G037200	afi_Af05G027500	  1e-51
+232-  4:	afi_Af04G037400	afi_Af05G027400	  4e-30
+232-  5:	afi_Af04G038900	afi_Af05G026300	  6e-06
+232-  6:	afi_Af04G039000	afi_Af05G025700	  2e-37
+232-  7:	afi_Af04G039900	afi_Af05G025500	 2e-252
+## Alignment 233: score=169.0 e_value=2.2e-10 N=5 Afi_4&Afi_5 minus
+233-  0:	afi_Af04G158800	afi_Af05G154705	  3e-76
+233-  1:	afi_Af04G162014	afi_Af05G153811	  5e-09
+233-  2:	afi_Af04G162015	afi_Af05G153810	 4e-102
+233-  3:	afi_Af04G162701	afi_Af05G153808	 7e-155
+233-  4:	afi_Af04G164801	afi_Af05G153705	  5e-25
+## Alignment 234: score=156.0 e_value=9.5e-09 N=6 Afi_4&Afi_6 plus
+234-  0:	afi_Af04G135200	afi_Af06G095300	  4e-99
+234-  1:	afi_Af04G137300	afi_Af06G098700	 3e-185
+234-  2:	afi_Af04G137700	afi_Af06G102600	  6e-43
+234-  3:	afi_Af04G139400	afi_Af06G105700	  1e-17
+234-  4:	afi_Af04G141500	afi_Af06G106700	  2e-31
+234-  5:	afi_Af04G143200	afi_Af06G107500	  2e-39
+## Alignment 235: score=187.0 e_value=3.7e-06 N=5 Afi_4&Afi_7 plus
+235-  0:	afi_Af04G001600	afi_Af07G067900	  1e-63
+235-  1:	afi_Af04G005000	afi_Af07G069700	  8e-09
+235-  2:	afi_Af04G006100	afi_Af07G070600	  1e-26
+235-  3:	afi_Af04G006600	afi_Af07G070900	 7e-104
+235-  4:	afi_Af04G008100	afi_Af07G071800	 5e-111
+## Alignment 236: score=165.0 e_value=3.2e-07 N=5 Afi_4&Afi_7 plus
+236-  0:	afi_Af04G061400	afi_Af07G095400	 2e-113
+236-  1:	afi_Af04G062202	afi_Af07G095606	  2e-57
+236-  2:	afi_Af04G062500	afi_Af07G095700	  4e-74
+236-  3:	afi_Af04G067300	afi_Af07G096400	      0
+236-  4:	afi_Af04G067800	afi_Af07G098200	  6e-31
+## Alignment 237: score=215.0 e_value=1.6e-06 N=5 Afi_4&Afi_7 minus
+237-  0:	afi_Af04G008800	afi_Af07G022300	  3e-36
+237-  1:	afi_Af04G009100	afi_Af07G022200	  3e-94
+237-  2:	afi_Af04G010000	afi_Af07G021000	 2e-229
+237-  3:	afi_Af04G010400	afi_Af07G020300	      0
+237-  4:	afi_Af04G012100	afi_Af07G019400	 5e-222
+## Alignment 238: score=151.0 e_value=0.00076 N=4 Afi_4&Afi_7 minus
+238-  0:	afi_Af04G023100	afi_Af07G043700	  4e-29
+238-  1:	afi_Af04G025400	afi_Af07G043500	  5e-77
+238-  2:	afi_Af04G026600	afi_Af07G042900	 1e-194
+238-  3:	afi_Af04G028000	afi_Af07G042200	  9e-22
+## Alignment 239: score=150.0 e_value=8.4e-05 N=4 Afi_4&Afi_7 minus
+239-  0:	afi_Af04G218700	afi_Af07G176800	  2e-18
+239-  1:	afi_Af04G221700	afi_Af07G173000	  2e-89
+239-  2:	afi_Af04G222200	afi_Af07G172200	 2e-116
+239-  3:	afi_Af04G222300	afi_Af07G171800	  6e-22
+## Alignment 240: score=207.0 e_value=1.3e-10 N=7 Afi_5&Afi_5 plus
+240-  0:	afi_Af05G118300	afi_Af05G151010	  4e-74
+240-  1:	afi_Af05G122400	afi_Af05G151600	  1e-90
+240-  2:	afi_Af05G124203	afi_Af05G152407	 8e-100
+240-  3:	afi_Af05G124403	afi_Af05G152717	 7e-248
+240-  4:	afi_Af05G126600	afi_Af05G153700	  5e-16
+240-  5:	afi_Af05G127700	afi_Af05G153813	 2e-185
+240-  6:	afi_Af05G129500	afi_Af05G154500	  5e-07
+## Alignment 241: score=196.0 e_value=6.9e-09 N=5 Afi_5&Afi_5 plus
+241-  0:	afi_Af05G129100	afi_Af05G140400	  3e-42
+241-  1:	afi_Af05G132000	afi_Af05G140900	  9e-19
+241-  2:	afi_Af05G132500	afi_Af05G142800	  9e-34
+241-  3:	afi_Af05G133000	afi_Af05G143300	  8e-23
+241-  4:	afi_Af05G133500	afi_Af05G144000	  3e-07
+## Alignment 242: score=172.0 e_value=1.2e-07 N=5 Afi_5&Afi_5 plus
+242-  0:	afi_Af05G147300	afi_Af05G153705	  2e-14
+242-  1:	afi_Af05G150901	afi_Af05G154601	 3e-252
+242-  2:	afi_Af05G151000	afi_Af05G154701	  7e-37
+242-  3:	afi_Af05G152601	afi_Af05G155101	 4e-177
+242-  4:	afi_Af05G152804	afi_Af05G155713	 1e-142
+## Alignment 243: score=247.0 e_value=1.3e-09 N=6 Afi_5&Afi_5 minus
+243-  0:	afi_Af05G007600	afi_Af05G022100	  7e-50
+243-  1:	afi_Af05G008300	afi_Af05G021200	  5e-92
+243-  2:	afi_Af05G008900	afi_Af05G018800	  9e-54
+243-  3:	afi_Af05G010400	afi_Af05G017900	  2e-06
+243-  4:	afi_Af05G010700	afi_Af05G017700	  4e-50
+243-  5:	afi_Af05G010800	afi_Af05G017400	  5e-15
+## Alignment 244: score=232.0 e_value=6.3e-08 N=5 Afi_5&Afi_5 minus
+244-  0:	afi_Af05G140200	afi_Af05G143800	  7e-80
+244-  1:	afi_Af05G140900	afi_Af05G143400	  1e-87
+244-  2:	afi_Af05G141100	afi_Af05G143200	  9e-38
+244-  3:	afi_Af05G141200	afi_Af05G143000	  2e-70
+244-  4:	afi_Af05G141400	afi_Af05G141900	  1e-40
+## Alignment 245: score=223.0 e_value=1.5e-17 N=8 Afi_5&Afi_5 minus
+245-  0:	afi_Af05G123300	afi_Af05G151000	  8e-28
+245-  1:	afi_Af05G124900	afi_Af05G147300	  8e-29
+245-  2:	afi_Af05G130300	afi_Af05G146700	  6e-72
+245-  3:	afi_Af05G132800	afi_Af05G143700	  2e-28
+245-  4:	afi_Af05G132900	afi_Af05G143400	  2e-95
+245-  5:	afi_Af05G134300	afi_Af05G142200	  1e-09
+245-  6:	afi_Af05G134500	afi_Af05G141100	  4e-51
+245-  7:	afi_Af05G137600	afi_Af05G139200	  3e-13
+## Alignment 246: score=195.0 e_value=2.5e-08 N=5 Afi_5&Afi_5 minus
+246-  0:	afi_Af05G150901	afi_Af05G154729	 6e-201
+246-  1:	afi_Af05G151000	afi_Af05G154701	  7e-37
+246-  2:	afi_Af05G152702	afi_Af05G153804	 2e-168
+246-  3:	afi_Af05G152707	afi_Af05G153620	 2e-125
+246-  4:	afi_Af05G152708	afi_Af05G153613	  4e-66
+## Alignment 247: score=180.0 e_value=2.1e-08 N=5 Afi_5&Afi_5 minus
+247-  0:	afi_Af05G144800	afi_Af05G154308	  3e-66
+247-  1:	afi_Af05G146200	afi_Af05G154205	  1e-14
+247-  2:	afi_Af05G146210	afi_Af05G154202	 8e-164
+247-  3:	afi_Af05G147300	afi_Af05G153705	  2e-14
+247-  4:	afi_Af05G150800	afi_Af05G153300	 3e-148
+## Alignment 248: score=285.0 e_value=6.7e-16 N=8 Afi_5&Afi_6 plus
+248-  0:	afi_Af05G153405	afi_Af06G108500	  5e-15
+248-  1:	afi_Af05G153407	afi_Af06G109701	  3e-34
+248-  2:	afi_Af05G153409	afi_Af06G110502	  6e-30
+248-  3:	afi_Af05G153802	afi_Af06G111102	  2e-79
+248-  4:	afi_Af05G153813	afi_Af06G111205	 8e-276
+248-  5:	afi_Af05G154310	afi_Af06G111214	  5e-33
+248-  6:	afi_Af05G154515	afi_Af06G111603	 1e-270
+248-  7:	afi_Af05G155603	afi_Af06G112507	 7e-165
+## Alignment 249: score=242.0 e_value=9.4e-12 N=7 Afi_5&Afi_6 plus
+249-  0:	afi_Af05G153400	afi_Af06G120400	  6e-11
+249-  1:	afi_Af05G153405	afi_Af06G120500	  6e-92
+249-  2:	afi_Af05G153804	afi_Af06G122902	 2e-129
+249-  3:	afi_Af05G153811	afi_Af06G123005	  1e-06
+249-  4:	afi_Af05G154705	afi_Af06G123303	      0
+249-  5:	afi_Af05G155205	afi_Af06G123710	 4e-144
+249-  6:	afi_Af05G155713	afi_Af06G125103	      0
+## Alignment 250: score=226.0 e_value=1.3e-15 N=8 Afi_5&Afi_6 plus
+250-  0:	afi_Af05G152500	afi_Af06G122001	 2e-113
+250-  1:	afi_Af05G152711	afi_Af06G123001	  3e-90
+250-  2:	afi_Af05G152722	afi_Af06G123002	 5e-114
+250-  3:	afi_Af05G153405	afi_Af06G123803	  2e-32
+250-  4:	afi_Af05G153902	afi_Af06G128112	      0
+250-  5:	afi_Af05G154316	afi_Af06G128116	 5e-123
+250-  6:	afi_Af05G154800	afi_Af06G129000	  4e-75
+250-  7:	afi_Af05G155713	afi_Af06G132802	      0
+## Alignment 251: score=173.0 e_value=5.3e-05 N=4 Afi_5&Afi_6 plus
+251-  0:	afi_Af05G083900	afi_Af06G174200	  3e-05
+251-  1:	afi_Af05G085800	afi_Af06G175500	  5e-19
+251-  2:	afi_Af05G086100	afi_Af06G175700	 1e-125
+251-  3:	afi_Af05G086800	afi_Af06G175800	 3e-284
+## Alignment 252: score=198.0 e_value=7.6e-08 N=5 Afi_5&Afi_6 minus
+252-  0:	afi_Af05G124201	afi_Af06G063503	  3e-46
+252-  1:	afi_Af05G125000	afi_Af06G060500	  2e-46
+252-  2:	afi_Af05G125200	afi_Af06G060300	 8e-157
+252-  3:	afi_Af05G125300	afi_Af06G059900	  6e-13
+252-  4:	afi_Af05G126600	afi_Af06G058400	  3e-48
+## Alignment 253: score=187.0 e_value=1e-21 N=10 Afi_5&Afi_6 minus
+253-  0:	afi_Af05G148700	afi_Af06G127200	  1e-86
+253-  1:	afi_Af05G149500	afi_Af06G125200	  9e-13
+253-  2:	afi_Af05G152713	afi_Af06G125103	 3e-284
+253-  3:	afi_Af05G153811	afi_Af06G123703	  7e-11
+253-  4:	afi_Af05G154312	afi_Af06G122902	  1e-34
+253-  5:	afi_Af05G154516	afi_Af06G117900	  2e-45
+253-  6:	afi_Af05G154716	afi_Af06G112805	 5e-125
+253-  7:	afi_Af05G154736	afi_Af06G112801	 2e-142
+253-  8:	afi_Af05G155713	afi_Af06G112310	 9e-170
+253-  9:	afi_Af05G157500	afi_Af06G111205	 6e-261
+## Alignment 254: score=174.0 e_value=1.4e-11 N=7 Afi_5&Afi_6 minus
+254-  0:	afi_Af05G146500	afi_Af06G145000	  2e-10
+254-  1:	afi_Af05G148900	afi_Af06G143900	  2e-20
+254-  2:	afi_Af05G152706	afi_Af06G140804	 2e-172
+254-  3:	afi_Af05G153303	afi_Af06G138701	 2e-169
+254-  4:	afi_Af05G153902	afi_Af06G135801	 2e-151
+254-  5:	afi_Af05G153907	afi_Af06G134400	  1e-14
+254-  6:	afi_Af05G154705	afi_Af06G133203	 7e-261
+## Alignment 255: score=463.0 e_value=1.4e-40 N=12 Afi_5&Afi_Un plus
+255-  0:	afi_Af05G140400	afi_AfUnG015200	  5e-53
+255-  1:	afi_Af05G140800	afi_AfUnG015300	  2e-15
+255-  2:	afi_Af05G140900	afi_AfUnG015600	  1e-15
+255-  3:	afi_Af05G141200	afi_AfUnG015800	  6e-42
+255-  4:	afi_Af05G141400	afi_AfUnG016100	  7e-36
+255-  5:	afi_Af05G141500	afi_AfUnG019400	  8e-25
+255-  6:	afi_Af05G141900	afi_AfUnG019500	  1e-25
+255-  7:	afi_Af05G142200	afi_AfUnG021400	  2e-05
+255-  8:	afi_Af05G142300	afi_AfUnG021500	  2e-23
+255-  9:	afi_Af05G142600	afi_AfUnG022500	  2e-26
+255- 10:	afi_Af05G143000	afi_AfUnG025500	  9e-07
+255- 11:	afi_Af05G143400	afi_AfUnG026500	  2e-42
+## Alignment 256: score=420.0 e_value=1.9e-23 N=9 Afi_5&Afi_Un plus
+256-  0:	afi_Af05G132700	afi_AfUnG005800	  2e-26
+256-  1:	afi_Af05G133100	afi_AfUnG006000	  1e-37
+256-  2:	afi_Af05G133200	afi_AfUnG006800	  2e-29
+256-  3:	afi_Af05G133300	afi_AfUnG007100	  3e-40
+256-  4:	afi_Af05G133700	afi_AfUnG007700	  1e-50
+256-  5:	afi_Af05G133800	afi_AfUnG007900	  2e-36
+256-  6:	afi_Af05G134000	afi_AfUnG008300	  9e-34
+256-  7:	afi_Af05G134100	afi_AfUnG008600	  1e-42
+256-  8:	afi_Af05G134200	afi_AfUnG009300	  8e-33
+## Alignment 257: score=362.0 e_value=4.6e-18 N=8 Afi_5&Afi_Un plus
+257-  0:	afi_Af05G141100	afi_AfUnG006000	  7e-27
+257-  1:	afi_Af05G141200	afi_AfUnG006600	  7e-35
+257-  2:	afi_Af05G141400	afi_AfUnG008000	  6e-36
+257-  3:	afi_Af05G141600	afi_AfUnG008500	  2e-31
+257-  4:	afi_Af05G141800	afi_AfUnG008800	  1e-26
+257-  5:	afi_Af05G142500	afi_AfUnG009000	  4e-69
+257-  6:	afi_Af05G143200	afi_AfUnG009200	  2e-97
+257-  7:	afi_Af05G143500	afi_AfUnG009400	  2e-44
+## Alignment 258: score=334.0 e_value=1.8e-28 N=10 Afi_5&Afi_Un plus
+258-  0:	afi_Af05G132000	afi_AfUnG014400	  5e-10
+258-  1:	afi_Af05G132900	afi_AfUnG015400	  6e-88
+258-  2:	afi_Af05G133700	afi_AfUnG016100	  4e-73
+258-  3:	afi_Af05G133900	afi_AfUnG018800	  6e-49
+258-  4:	afi_Af05G134600	afi_AfUnG019300	  1e-09
+258-  5:	afi_Af05G140300	afi_AfUnG021900	  3e-25
+258-  6:	afi_Af05G140500	afi_AfUnG022500	  6e-52
+258-  7:	afi_Af05G141300	afi_AfUnG025900	  4e-24
+258-  8:	afi_Af05G141600	afi_AfUnG026200	  7e-49
+258-  9:	afi_Af05G142200	afi_AfUnG026700	  1e-09
+## Alignment 259: score=296.0 e_value=4e-28 N=9 Afi_5&Afi_Un plus
+259-  0:	afi_Af05G128700	afi_AfUnG015500	  4e-35
+259-  1:	afi_Af05G129100	afi_AfUnG018500	  8e-33
+259-  2:	afi_Af05G132500	afi_AfUnG019100	  1e-15
+259-  3:	afi_Af05G132700	afi_AfUnG021900	  2e-15
+259-  4:	afi_Af05G132900	afi_AfUnG022000	  3e-77
+259-  5:	afi_Af05G133100	afi_AfUnG022400	  2e-41
+259-  6:	afi_Af05G133300	afi_AfUnG022600	  1e-35
+259-  7:	afi_Af05G133400	afi_AfUnG023200	  8e-68
+259-  8:	afi_Af05G134700	afi_AfUnG026200	  6e-87
+## Alignment 260: score=260.0 e_value=6.7e-20 N=7 Afi_5&Afi_Un plus
+260-  0:	afi_Af05G142000	afi_AfUnG013900	  2e-31
+260-  1:	afi_Af05G142400	afi_AfUnG014100	  1e-21
+260-  2:	afi_Af05G142700	afi_AfUnG014400	  6e-34
+260-  3:	afi_Af05G142800	afi_AfUnG014600	  5e-25
+260-  4:	afi_Af05G143000	afi_AfUnG018600	  6e-69
+260-  5:	afi_Af05G143200	afi_AfUnG019200	  4e-32
+260-  6:	afi_Af05G143300	afi_AfUnG021600	  4e-15
+## Alignment 261: score=257.0 e_value=5.3e-13 N=7 Afi_5&Afi_Un plus
+261-  0:	afi_Af05G133600	afi_AfUnG005400	  1e-18
+261-  1:	afi_Af05G134500	afi_AfUnG006300	  7e-38
+261-  2:	afi_Af05G140200	afi_AfUnG006900	  1e-86
+261-  3:	afi_Af05G140900	afi_AfUnG008500	  1e-26
+261-  4:	afi_Af05G141500	afi_AfUnG008600	  1e-24
+261-  5:	afi_Af05G142100	afi_AfUnG009200	  7e-37
+261-  6:	afi_Af05G142700	afi_AfUnG009500	  3e-24
+## Alignment 262: score=215.0 e_value=4.4e-09 N=5 Afi_5&Afi_Un plus
+262-  0:	afi_Af05G141200	afi_AfUnG047900	  4e-34
+262-  1:	afi_Af05G142000	afi_AfUnG049100	  1e-46
+262-  2:	afi_Af05G142800	afi_AfUnG049600	  5e-06
+262-  3:	afi_Af05G142900	afi_AfUnG051100	  4e-14
+262-  4:	afi_Af05G143200	afi_AfUnG051500	 3e-102
+## Alignment 263: score=208.0 e_value=2.9e-19 N=7 Afi_5&Afi_Un plus
+263-  0:	afi_Af05G132600	afi_AfUnG015500	  4e-72
+263-  1:	afi_Af05G133200	afi_AfUnG019500	  2e-25
+263-  2:	afi_Af05G133300	afi_AfUnG021400	  6e-45
+263-  3:	afi_Af05G133500	afi_AfUnG021600	  5e-20
+263-  4:	afi_Af05G134600	afi_AfUnG021900	  3e-12
+263-  5:	afi_Af05G140300	afi_AfUnG025900	  1e-12
+263-  6:	afi_Af05G140600	afi_AfUnG026200	 8e-121
+## Alignment 264: score=191.0 e_value=1.2e-08 N=5 Afi_5&Afi_Un plus
+264-  0:	afi_Af05G128500	afi_AfUnG048200	  2e-46
+264-  1:	afi_Af05G132700	afi_AfUnG049100	  6e-23
+264-  2:	afi_Af05G132900	afi_AfUnG049200	 4e-158
+264-  3:	afi_Af05G133400	afi_AfUnG050500	  1e-29
+264-  4:	afi_Af05G134200	afi_AfUnG051000	  1e-18
+## Alignment 265: score=190.0 e_value=2.1e-13 N=5 Afi_5&Afi_Un plus
+265-  0:	afi_Af05G141400	afi_AfUnG014000	  5e-20
+265-  1:	afi_Af05G141500	afi_AfUnG014100	  1e-28
+265-  2:	afi_Af05G141600	afi_AfUnG015000	  5e-31
+265-  3:	afi_Af05G143800	afi_AfUnG015800	  7e-37
+265-  4:	afi_Af05G143900	afi_AfUnG018400	  7e-40
+## Alignment 266: score=175.0 e_value=4.2e-05 N=4 Afi_5&Afi_Un plus
+266-  0:	afi_Af05G141400	afi_AfUnG047500	  3e-44
+266-  1:	afi_Af05G143000	afi_AfUnG047900	  1e-26
+266-  2:	afi_Af05G143900	afi_AfUnG048200	 3e-134
+266-  3:	afi_Af05G144000	afi_AfUnG048500	  1e-08
+## Alignment 267: score=173.0 e_value=1.2e-05 N=4 Afi_5&Afi_Un plus
+267-  0:	afi_Af05G142000	afi_AfUnG005800	  5e-28
+267-  1:	afi_Af05G142400	afi_AfUnG006300	  2e-22
+267-  2:	afi_Af05G142500	afi_AfUnG007000	  3e-79
+267-  3:	afi_Af05G143000	afi_AfUnG008800	  6e-60
+## Alignment 268: score=170.0 e_value=1.5e-05 N=4 Afi_5&Afi_Un plus
+268-  0:	afi_Af05G132900	afi_AfUnG048200	 3e-161
+268-  1:	afi_Af05G133300	afi_AfUnG048900	  5e-42
+268-  2:	afi_Af05G133400	afi_AfUnG049400	  2e-48
+268-  3:	afi_Af05G134000	afi_AfUnG051500	  8e-34
+## Alignment 269: score=163.0 e_value=7.7e-11 N=5 Afi_5&Afi_Un plus
+269-  0:	afi_Af05G129000	afi_AfUnG019700	  2e-68
+269-  1:	afi_Af05G132500	afi_AfUnG022400	  6e-13
+269-  2:	afi_Af05G132900	afi_AfUnG023000	  3e-51
+269-  3:	afi_Af05G133001	afi_AfUnG026200	  6e-67
+269-  4:	afi_Af05G133400	afi_AfUnG026600	  2e-62
+## Alignment 270: score=150.0 e_value=4.2e-07 N=4 Afi_5&Afi_Un plus
+270-  0:	afi_Af05G128500	afi_AfUnG049200	  2e-50
+270-  1:	afi_Af05G132600	afi_AfUnG050400	  1e-21
+270-  2:	afi_Af05G132900	afi_AfUnG051400	  5e-85
+270-  3:	afi_Af05G133200	afi_AfUnG051500	  1e-30
+## Alignment 271: score=232.0 e_value=9e-08 N=5 Afi_5&Afi_Un minus
+271-  0:	afi_Af05G132900	afi_AfUnG009400	  8e-68
+271-  1:	afi_Af05G133100	afi_AfUnG009200	  8e-93
+271-  2:	afi_Af05G133900	afi_AfUnG008900	  5e-46
+271-  3:	afi_Af05G134200	afi_AfUnG008500	  4e-23
+271-  4:	afi_Af05G134600	afi_AfUnG007800	  1e-15
+## Alignment 272: score=230.0 e_value=7.5e-10 N=5 Afi_5&Afi_Un minus
+272-  0:	afi_Af05G141700	afi_AfUnG007900	  1e-40
+272-  1:	afi_Af05G141900	afi_AfUnG007600	  9e-28
+272-  2:	afi_Af05G142000	afi_AfUnG007500	  4e-58
+272-  3:	afi_Af05G142800	afi_AfUnG006000	  4e-28
+272-  4:	afi_Af05G143300	afi_AfUnG005800	  2e-17
+## Alignment 273: score=211.0 e_value=2.7e-11 N=5 Afi_5&Afi_Un minus
+273-  0:	afi_Af05G133200	afi_AfUnG051500	  1e-30
+273-  1:	afi_Af05G133300	afi_AfUnG051200	  4e-23
+273-  2:	afi_Af05G133400	afi_AfUnG048600	  3e-55
+273-  3:	afi_Af05G134100	afi_AfUnG047700	  1e-11
+273-  4:	afi_Af05G134200	afi_AfUnG047200	  6e-10
+## Alignment 274: score=154.0 e_value=1.1e-08 N=4 Afi_5&Afi_Un minus
+274-  0:	afi_Af05G142000	afi_AfUnG022800	  5e-13
+274-  1:	afi_Af05G142100	afi_AfUnG022400	  2e-27
+274-  2:	afi_Af05G142200	afi_AfUnG022300	 0.0004
+274-  3:	afi_Af05G143400	afi_AfUnG019000	  5e-71
+## Alignment 275: score=183.0 e_value=9.9e-08 N=5 Afi_6&Afi_6 plus
+275-  0:	afi_Af06G111205	afi_Af06G140803	 4e-219
+275-  1:	afi_Af06G111208	afi_Af06G140804	      0
+275-  2:	afi_Af06G111610	afi_Af06G140811	  3e-92
+275-  3:	afi_Af06G112303	afi_Af06G144004	  8e-96
+275-  4:	afi_Af06G112402	afi_Af06G144007	 7e-197
+## Alignment 276: score=193.0 e_value=6.8e-07 N=5 Afi_6&Afi_6 minus
+276-  0:	afi_Af06G015700	afi_Af06G062100	  1e-40
+276-  1:	afi_Af06G015900	afi_Af06G060400	  1e-25
+276-  2:	afi_Af06G017800	afi_Af06G059800	  2e-74
+276-  3:	afi_Af06G018800	afi_Af06G059100	 2e-121
+276-  4:	afi_Af06G019900	afi_Af06G059000	  7e-65
+## Alignment 277: score=192.0 e_value=2.1e-10 N=6 Afi_6&Afi_6 minus
+277-  0:	afi_Af06G097500	afi_Af06G111605	  3e-47
+277-  1:	afi_Af06G098700	afi_Af06G111214	 2e-229
+277-  2:	afi_Af06G101800	afi_Af06G111205	      0
+277-  3:	afi_Af06G103200	afi_Af06G110300	  8e-34
+277-  4:	afi_Af06G103400	afi_Af06G109900	  1e-97
+277-  5:	afi_Af06G106801	afi_Af06G107801	  3e-36
+## Alignment 278: score=188.0 e_value=2.6e-10 N=5 Afi_6&Afi_6 minus
+278-  0:	afi_Af06G110801	afi_Af06G150006	  3e-71
+278-  1:	afi_Af06G111102	afi_Af06G150005	  1e-68
+278-  2:	afi_Af06G111103	afi_Af06G150004	 3e-181
+278-  3:	afi_Af06G112315	afi_Af06G149304	 4e-243
+278-  4:	afi_Af06G112601	afi_Af06G149201	 4e-168
+## Alignment 279: score=291.0 e_value=3.8e-08 N=6 Afi_6&Afi_7 plus
+279-  0:	afi_Af06G122000	afi_Af07G156300	 7e-302
+279-  1:	afi_Af06G122200	afi_Af07G156600	  2e-47
+279-  2:	afi_Af06G122400	afi_Af07G156700	  5e-27
+279-  3:	afi_Af06G122600	afi_Af07G156800	 6e-131
+279-  4:	afi_Af06G122800	afi_Af07G157300	 3e-297
+279-  5:	afi_Af06G122900	afi_Af07G157400	  1e-76
+## Alignment 280: score=224.0 e_value=1.6e-13 N=7 Afi_6&Afi_7 plus
+280-  0:	afi_Af06G027500	afi_Af07G180600	  4e-16
+280-  1:	afi_Af06G030800	afi_Af07G181400	  9e-94
+280-  2:	afi_Af06G030900	afi_Af07G181700	  2e-37
+280-  3:	afi_Af06G031100	afi_Af07G181800	  2e-95
+280-  4:	afi_Af06G035700	afi_Af07G184800	 2e-124
+280-  5:	afi_Af06G036200	afi_Af07G187900	  7e-64
+280-  6:	afi_Af06G036300	afi_Af07G189100	 1e-107
+## Alignment 281: score=183.0 e_value=1.1e-06 N=4 Afi_6&Afi_7 plus
+281-  0:	afi_Af06G064100	afi_Af07G037100	  4e-72
+281-  1:	afi_Af06G065800	afi_Af07G037500	  1e-31
+281-  2:	afi_Af06G065900	afi_Af07G037700	  4e-31
+281-  3:	afi_Af06G066000	afi_Af07G037800	  3e-35
+## Alignment 282: score=161.0 e_value=3e-12 N=5 Afi_6&Afi_7 plus
+282-  0:	afi_Af06G118510	afi_Af07G150300	 1e-121
+282-  1:	afi_Af06G122200	afi_Af07G1537100	  2e-57
+282-  2:	afi_Af06G122300	afi_Af07G1537110	  1e-72
+282-  3:	afi_Af06G122400	afi_Af07G1537130	  5e-11
+282-  4:	afi_Af06G122600	afi_Af07G157700	  3e-92
+## Alignment 283: score=163.0 e_value=3.4e-08 N=6 Afi_6&Afi_7 minus
+283-  0:	afi_Af06G126300	afi_Af07G057800	  1e-49
+283-  1:	afi_Af06G128300	afi_Af07G057000	 3e-123
+283-  2:	afi_Af06G130600	afi_Af07G055700	  1e-84
+283-  3:	afi_Af06G134100	afi_Af07G051100	  9e-14
+283-  4:	afi_Af06G135500	afi_Af07G049300	  4e-15
+283-  5:	afi_Af06G136400	afi_Af07G047900	  3e-78
+## Alignment 284: score=217.0 e_value=1.2e-10 N=5 Afi_7&Afi_7 plus
+284-  0:	afi_Af07G097800	afi_Af07G109300	  5e-39
+284-  1:	afi_Af07G097900	afi_Af07G109400	 2e-247
+284-  2:	afi_Af07G098000	afi_Af07G109500	  1e-90
+284-  3:	afi_Af07G100401	afi_Af07G110200	 8e-239
+284-  4:	afi_Af07G101100	afi_Af07G110800	 2e-313
+## Alignment 285: score=204.0 e_value=1.9e-11 N=6 Afi_7&Afi_7 minus
+285-  0:	afi_Af07G035600	afi_Af07G174600	  2e-11
+285-  1:	afi_Af07G036200	afi_Af07G172700	  2e-26
+285-  2:	afi_Af07G038200	afi_Af07G169900	  2e-66
+285-  3:	afi_Af07G038800	afi_Af07G165300	  1e-09
+285-  4:	afi_Af07G038810	afi_Af07G165200	  2e-34
+285-  5:	afi_Af07G039000	afi_Af07G164800	 3e-270
+## Alignment 286: score=162.0 e_value=1.1e-05 N=4 Afi_7&Afi_7 minus
+286-  0:	afi_Af07G114100	afi_Af07G119500	 5e-236
+286-  1:	afi_Af07G114400	afi_Af07G115700	 1e-221
+286-  2:	afi_Af07G114500	afi_Af07G115600	 4e-172
+286-  3:	afi_Af07G114600	afi_Af07G115400	 4e-232
+## Alignment 287: score=196.0 e_value=3.7e-08 N=5 Afi_7&Afi_Un plus
+287-  0:	afi_Af07G081600	afi_AfUnG046500	  8e-28
+287-  1:	afi_Af07G081800	afi_AfUnG046900	  2e-69
+287-  2:	afi_Af07G082000	afi_AfUnG051700	  7e-63
+287-  3:	afi_Af07G082100	afi_AfUnG051900	  1e-34
+287-  4:	afi_Af07G082101	afi_AfUnG051901	  8e-60
+## Alignment 288: score=187.0 e_value=5.8e-05 N=4 Afi_7&Afi_Un minus
+288-  0:	afi_Af07G081600	afi_AfUnG046500	  8e-28
+288-  1:	afi_Af07G081900	afi_AfUnG046300	  2e-87
+288-  2:	afi_Af07G082101	afi_AfUnG045500	  2e-30
+288-  3:	afi_Af07G082300	afi_AfUnG045000	  5e-42
+## Alignment 289: score=705.0 e_value=4.8e-82 N=20 Afi_Un&Afi_Un plus
+289-  0:	afi_AfUnG010502	afi_AfUnG032701	 1e-101
+289-  1:	afi_AfUnG010600	afi_AfUnG032800	 5e-118
+289-  2:	afi_AfUnG010800	afi_AfUnG033700	  3e-19
+289-  3:	afi_AfUnG010901	afi_AfUnG035601	 6e-201
+289-  4:	afi_AfUnG010903	afi_AfUnG035700	 9e-194
+289-  5:	afi_AfUnG011300	afi_AfUnG036100	  6e-64
+289-  6:	afi_AfUnG011400	afi_AfUnG036200	  2e-99
+289-  7:	afi_AfUnG011501	afi_AfUnG036201	  2e-20
+289-  8:	afi_AfUnG012500	afi_AfUnG039400	  7e-66
+289-  9:	afi_AfUnG012600	afi_AfUnG039501	  1e-56
+289- 10:	afi_AfUnG013100	afi_AfUnG043400	 2e-247
+289- 11:	afi_AfUnG015300	afi_AfUnG047100	  2e-11
+289- 12:	afi_AfUnG016100	afi_AfUnG047300	  2e-43
+289- 13:	afi_AfUnG018500	afi_AfUnG047400	  9e-32
+289- 14:	afi_AfUnG022400	afi_AfUnG048400	  1e-49
+289- 15:	afi_AfUnG022500	afi_AfUnG048500	  3e-25
+289- 16:	afi_AfUnG022900	afi_AfUnG048800	  8e-32
+289- 17:	afi_AfUnG026200	afi_AfUnG049300	  2e-65
+289- 18:	afi_AfUnG026300	afi_AfUnG049700	  1e-28
+289- 19:	afi_AfUnG026700	afi_AfUnG051100	  1e-08
+## Alignment 290: score=623.0 e_value=1.2e-58 N=16 Afi_Un&Afi_Un plus
+290-  0:	afi_AfUnG000500	afi_AfUnG036100	  9e-82
+290-  1:	afi_AfUnG002800	afi_AfUnG038200	 4e-195
+290-  2:	afi_AfUnG002900	afi_AfUnG038300	  4e-54
+290-  3:	afi_AfUnG002901	afi_AfUnG038301	 2e-134
+290-  4:	afi_AfUnG003000	afi_AfUnG038400	  2e-40
+290-  5:	afi_AfUnG004300	afi_AfUnG043100	  1e-21
+290-  6:	afi_AfUnG005300	afi_AfUnG048400	  2e-49
+290-  7:	afi_AfUnG005600	afi_AfUnG048600	  6e-59
+290-  8:	afi_AfUnG005700	afi_AfUnG048700	  2e-14
+290-  9:	afi_AfUnG005800	afi_AfUnG048800	  1e-26
+290- 10:	afi_AfUnG005900	afi_AfUnG048900	  9e-59
+290- 11:	afi_AfUnG006900	afi_AfUnG049300	  7e-88
+290- 12:	afi_AfUnG009300	afi_AfUnG050000	  1e-08
+290- 13:	afi_AfUnG009400	afi_AfUnG050200	  1e-25
+290- 14:	afi_AfUnG009600	afi_AfUnG050500	  3e-33
+290- 15:	afi_AfUnG009800	afi_AfUnG051600	  3e-27
+## Alignment 291: score=501.0 e_value=3.7e-54 N=15 Afi_Un&Afi_Un plus
+291-  0:	afi_AfUnG010401	afi_AfUnG035600	 7e-188
+291-  1:	afi_AfUnG010403	afi_AfUnG035701	 4e-140
+291-  2:	afi_AfUnG010700	afi_AfUnG036100	  3e-60
+291-  3:	afi_AfUnG011101	afi_AfUnG039502	  4e-81
+291-  4:	afi_AfUnG011400	afi_AfUnG039800	  4e-93
+291-  5:	afi_AfUnG011701	afi_AfUnG043500	 4e-154
+291-  6:	afi_AfUnG012900	afi_AfUnG043600	 1e-194
+291-  7:	afi_AfUnG015000	afi_AfUnG047200	  7e-12
+291-  8:	afi_AfUnG015300	afi_AfUnG048000	  1e-08
+291-  9:	afi_AfUnG015400	afi_AfUnG049200	 9e-124
+291- 10:	afi_AfUnG015500	afi_AfUnG050400	  1e-21
+291- 11:	afi_AfUnG019000	afi_AfUnG050500	  2e-31
+291- 12:	afi_AfUnG019100	afi_AfUnG050800	  9e-19
+291- 13:	afi_AfUnG021400	afi_AfUnG051000	  4e-20
+291- 14:	afi_AfUnG022800	afi_AfUnG051500	  2e-24
+## Alignment 292: score=408.0 e_value=3e-29 N=11 Afi_Un&Afi_Un plus
+292-  0:	afi_AfUnG001300	afi_AfUnG038400	  3e-63
+292-  1:	afi_AfUnG002300	afi_AfUnG039900	  7e-37
+292-  2:	afi_AfUnG002402	afi_AfUnG042604	  2e-66
+292-  3:	afi_AfUnG003000	afi_AfUnG042700	  2e-40
+292-  4:	afi_AfUnG004200	afi_AfUnG043200	 1e-126
+292-  5:	afi_AfUnG006800	afi_AfUnG047300	  7e-39
+292-  6:	afi_AfUnG007500	afi_AfUnG047700	  5e-21
+292-  7:	afi_AfUnG008600	afi_AfUnG048700	  2e-13
+292-  8:	afi_AfUnG009200	afi_AfUnG048800	  1e-36
+292-  9:	afi_AfUnG009400	afi_AfUnG049000	  1e-42
+292- 10:	afi_AfUnG009500	afi_AfUnG050900	  2e-35
+## Alignment 293: score=323.0 e_value=3.2e-14 N=7 Afi_Un&Afi_Un plus
+293-  0:	afi_AfUnG005400	afi_AfUnG050500	  2e-24
+293-  1:	afi_AfUnG005500	afi_AfUnG050600	  3e-11
+293-  2:	afi_AfUnG005600	afi_AfUnG050700	  5e-05
+293-  3:	afi_AfUnG005900	afi_AfUnG050900	  3e-26
+293-  4:	afi_AfUnG006900	afi_AfUnG051100	  1e-12
+293-  5:	afi_AfUnG008300	afi_AfUnG051500	  1e-26
+293-  6:	afi_AfUnG008700	afi_AfUnG051600	  8e-34
+## Alignment 294: score=258.0 e_value=3.8e-26 N=10 Afi_Un&Afi_Un plus
+294-  0:	afi_AfUnG010800	afi_AfUnG033000	  8e-34
+294-  1:	afi_AfUnG011100	afi_AfUnG035600	 5e-183
+294-  2:	afi_AfUnG012500	afi_AfUnG037900	  7e-66
+294-  3:	afi_AfUnG013600	afi_AfUnG039500	  1e-15
+294-  4:	afi_AfUnG016301	afi_AfUnG043400	 2e-195
+294-  5:	afi_AfUnG020501	afi_AfUnG046000	  8e-12
+294-  6:	afi_AfUnG022600	afi_AfUnG048300	  3e-42
+294-  7:	afi_AfUnG023100	afi_AfUnG048500	  5e-30
+294-  8:	afi_AfUnG023200	afi_AfUnG049400	  1e-39
+294-  9:	afi_AfUnG026500	afi_AfUnG049500	  5e-41
+## Alignment 295: score=239.0 e_value=1.3e-16 N=7 Afi_Un&Afi_Un plus
+295-  0:	afi_AfUnG001800	afi_AfUnG038200	 1e-153
+295-  1:	afi_AfUnG002400	afi_AfUnG038600	  3e-52
+295-  2:	afi_AfUnG004500	afi_AfUnG042700	  3e-63
+295-  3:	afi_AfUnG008500	afi_AfUnG047200	  2e-10
+295-  4:	afi_AfUnG009200	afi_AfUnG047300	  1e-36
+295-  5:	afi_AfUnG009500	afi_AfUnG048300	  2e-43
+295-  6:	afi_AfUnG009600	afi_AfUnG048600	  3e-56
+## Alignment 296: score=225.0 e_value=3.6e-29 N=11 Afi_Un&Afi_Un plus
+296-  0:	afi_AfUnG000500	afi_AfUnG027000	  9e-82
+296-  1:	afi_AfUnG003100	afi_AfUnG029500	  6e-30
+296-  2:	afi_AfUnG004600	afi_AfUnG032500	  8e-30
+296-  3:	afi_AfUnG010001	afi_AfUnG036700	  6e-56
+296-  4:	afi_AfUnG010800	afi_AfUnG040000	  2e-63
+296-  5:	afi_AfUnG010903	afi_AfUnG043601	      0
+296-  6:	afi_AfUnG011100	afi_AfUnG043700	 2e-102
+296-  7:	afi_AfUnG015100	afi_AfUnG048200	  4e-61
+296-  8:	afi_AfUnG019700	afi_AfUnG049200	 1e-110
+296-  9:	afi_AfUnG021600	afi_AfUnG049700	  3e-25
+296- 10:	afi_AfUnG022000	afi_AfUnG050200	  6e-22
+## Alignment 297: score=178.0 e_value=0.0005 N=4 Afi_Un&Afi_Un plus
+297-  0:	afi_AfUnG030400	afi_AfUnG035100	  3e-34
+297-  1:	afi_AfUnG031900	afi_AfUnG036000	  4e-53
+297-  2:	afi_AfUnG032500	afi_AfUnG036401	  1e-56
+297-  3:	afi_AfUnG032701	afi_AfUnG036700	  6e-22
+## Alignment 298: score=177.0 e_value=8.5e-06 N=4 Afi_Un&Afi_Un plus
+298-  0:	afi_AfUnG005500	afi_AfUnG049100	  6e-30
+298-  1:	afi_AfUnG005600	afi_AfUnG049200	  5e-48
+298-  2:	afi_AfUnG005800	afi_AfUnG050400	  8e-16
+298-  3:	afi_AfUnG006700	afi_AfUnG051600	  1e-19
+## Alignment 299: score=651.0 e_value=6.7e-71 N=20 Afi_Un&Afi_Un minus
+299-  0:	afi_AfUnG001300	afi_AfUnG042700	  3e-63
+299-  1:	afi_AfUnG001400	afi_AfUnG038301	  2e-75
+299-  2:	afi_AfUnG001600	afi_AfUnG038300	  4e-54
+299-  3:	afi_AfUnG002300	afi_AfUnG033600	  5e-38
+299-  4:	afi_AfUnG003100	afi_AfUnG032500	  6e-30
+299-  5:	afi_AfUnG004600	afi_AfUnG029500	  8e-30
+299-  6:	afi_AfUnG005400	afi_AfUnG026200	  1e-18
+299-  7:	afi_AfUnG006200	afi_AfUnG026000	  1e-40
+299-  8:	afi_AfUnG010904	afi_AfUnG024404	 2e-216
+299-  9:	afi_AfUnG011701	afi_AfUnG024302	 4e-302
+299- 10:	afi_AfUnG011702	afi_AfUnG024301	      0
+299- 11:	afi_AfUnG011800	afi_AfUnG024300	 3e-144
+299- 12:	afi_AfUnG012000	afi_AfUnG024100	 3e-236
+299- 13:	afi_AfUnG013502	afi_AfUnG024003	 2e-270
+299- 14:	afi_AfUnG013600	afi_AfUnG024000	  8e-16
+299- 15:	afi_AfUnG013900	afi_AfUnG022900	  1e-28
+299- 16:	afi_AfUnG014900	afi_AfUnG019300	  1e-39
+299- 17:	afi_AfUnG015000	afi_AfUnG019000	 1e-103
+299- 18:	afi_AfUnG016100	afi_AfUnG018500	  9e-48
+299- 19:	afi_AfUnG016800	afi_AfUnG018200	  6e-86
+## Alignment 300: score=455.0 e_value=7.7e-52 N=15 Afi_Un&Afi_Un minus
+300-  0:	afi_AfUnG014200	afi_AfUnG051600	  2e-14
+300-  1:	afi_AfUnG014300	afi_AfUnG051500	  9e-89
+300-  2:	afi_AfUnG014400	afi_AfUnG051000	  5e-19
+300-  3:	afi_AfUnG018800	afi_AfUnG050900	  1e-24
+300-  4:	afi_AfUnG022800	afi_AfUnG049600	  9e-22
+300-  5:	afi_AfUnG025000	afi_AfUnG046900	 2e-126
+300-  6:	afi_AfUnG030300	afi_AfUnG044800	  8e-34
+300-  7:	afi_AfUnG030700	afi_AfUnG044000	  4e-53
+300-  8:	afi_AfUnG030900	afi_AfUnG042500	  8e-13
+300-  9:	afi_AfUnG031600	afi_AfUnG041300	  2e-29
+300- 10:	afi_AfUnG031800	afi_AfUnG040000	  4e-40
+300- 11:	afi_AfUnG031900	afi_AfUnG037700	  1e-37
+300- 12:	afi_AfUnG032900	afi_AfUnG036100	  3e-92
+300- 13:	afi_AfUnG033800	afi_AfUnG036000	  6e-19
+300- 14:	afi_AfUnG034100	afi_AfUnG035500	  1e-30
+## Alignment 301: score=374.0 e_value=3.5e-31 N=10 Afi_Un&Afi_Un minus
+301-  0:	afi_AfUnG005500	afi_AfUnG023100	  7e-35
+301-  1:	afi_AfUnG010100	afi_AfUnG020400	 7e-128
+301-  2:	afi_AfUnG010900	afi_AfUnG017600	 2e-121
+301-  3:	afi_AfUnG010901	afi_AfUnG017501	 2e-147
+301-  4:	afi_AfUnG011503	afi_AfUnG017500	  3e-33
+301-  5:	afi_AfUnG011602	afi_AfUnG017402	  2e-34
+301-  6:	afi_AfUnG011700	afi_AfUnG017401	 3e-164
+301-  7:	afi_AfUnG011701	afi_AfUnG017400	  1e-57
+301-  8:	afi_AfUnG014100	afi_AfUnG016100	  2e-45
+301-  9:	afi_AfUnG014400	afi_AfUnG015600	  4e-11
+## Alignment 302: score=320.0 e_value=3.4e-20 N=8 Afi_Un&Afi_Un minus
+302-  0:	afi_AfUnG013700	afi_AfUnG026700	 0.0001
+302-  1:	afi_AfUnG014900	afi_AfUnG026300	  2e-40
+302-  2:	afi_AfUnG015800	afi_AfUnG025500	  2e-06
+302-  3:	afi_AfUnG016301	afi_AfUnG024301	      0
+302-  4:	afi_AfUnG019800	afi_AfUnG024300	  6e-55
+302-  5:	afi_AfUnG020100	afi_AfUnG024100	 2e-235
+302-  6:	afi_AfUnG020102	afi_AfUnG024002	  1e-38
+302-  7:	afi_AfUnG020103	afi_AfUnG024000	  1e-59
+## Alignment 303: score=268.0 e_value=2e-24 N=8 Afi_Un&Afi_Un minus
+303-  0:	afi_AfUnG017100	afi_AfUnG039700	  2e-53
+303-  1:	afi_AfUnG020103	afi_AfUnG037800	  2e-46
+303-  2:	afi_AfUnG020500	afi_AfUnG036300	  1e-79
+303-  3:	afi_AfUnG023701	afi_AfUnG036201	  7e-85
+303-  4:	afi_AfUnG023900	afi_AfUnG036200	  8e-83
+303-  5:	afi_AfUnG023901	afi_AfUnG036100	 1e-101
+303-  6:	afi_AfUnG024301	afi_AfUnG032301	      0
+303-  7:	afi_AfUnG024302	afi_AfUnG032300	  4e-64
+## Alignment 304: score=247.0 e_value=9.8e-17 N=7 Afi_Un&Afi_Un minus
+304-  0:	afi_AfUnG005700	afi_AfUnG051500	  8e-18
+304-  1:	afi_AfUnG008600	afi_AfUnG051300	  3e-20
+304-  2:	afi_AfUnG009200	afi_AfUnG050400	  3e-30
+304-  3:	afi_AfUnG009500	afi_AfUnG048900	  7e-80
+304-  4:	afi_AfUnG010402	afi_AfUnG043600	 2e-212
+304-  5:	afi_AfUnG010403	afi_AfUnG043500	 1e-131
+304-  6:	afi_AfUnG010500	afi_AfUnG043400	 2e-161
+## Alignment 305: score=226.0 e_value=1.1e-12 N=6 Afi_Un&Afi_Un minus
+305-  0:	afi_AfUnG000500	afi_AfUnG023901	  7e-79
+305-  1:	afi_AfUnG001200	afi_AfUnG021100	 1e-121
+305-  2:	afi_AfUnG002200	afi_AfUnG020900	  4e-54
+305-  3:	afi_AfUnG002400	afi_AfUnG020700	  3e-52
+305-  4:	afi_AfUnG002401	afi_AfUnG020602	 3e-285
+305-  5:	afi_AfUnG005500	afi_AfUnG019300	  2e-27
+## Alignment 306: score=186.0 e_value=5.9e-11 N=5 Afi_Un&Afi_Un minus
+306-  0:	afi_AfUnG006900	afi_AfUnG047900	  8e-33
+306-  1:	afi_AfUnG008100	afi_AfUnG047400	  2e-30
+306-  2:	afi_AfUnG010900	afi_AfUnG043700	 2e-102
+306-  3:	afi_AfUnG011600	afi_AfUnG043601	 7e-102
+306-  4:	afi_AfUnG011700	afi_AfUnG043600	 2e-276
+## Alignment 307: score=160.0 e_value=6.8e-06 N=4 Afi_Un&Afi_Un minus
+307-  0:	afi_AfUnG043900	afi_AfUnG052000	  3e-26
+307-  1:	afi_AfUnG046300	afi_AfUnG051700	 5e-186
+307-  2:	afi_AfUnG047300	afi_AfUnG051500	  5e-34
+307-  3:	afi_AfUnG048200	afi_AfUnG051400	  9e-79
